@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p><strong>How to Fill up a Gas Lighter</strong></p>
+<p><strong>How to Fill up a <a href="https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gas Lighter</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -24,7 +24,7 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>If you're refilling a used lighter, the first thing you need to do is purge the lighter of any remaining air of fuel, which can irritate your skin or eyes. For this, refill your lighter in a well-ventilated area. For this, you can open up the doors or windows to increase ventilation or turn on the fan to improve air circulation.&nbsp;</li><li>Any of the remaining gas that sprays out on your working surface, so make sure to lay down a newspaper or a piece of cloth over the surface you're working on. Make sure the surface is clean, stable, and dry so that none of the dirt or moisture goes into the lighter. With this, you also need to make sure that you're not immediately filling a hot lighter that was used seconds ago. If you're refilling butane, it is a highly combustible gas, so you must wait for the lighter to cool down before you start refilling it. Wait for at least 30 minutes before refilling the lighter.&nbsp;</li><li>Before refilling, turn the flame adjuster knob clockwise so that it's at a minimum height setting. You might need to use a small screwdriver to turn the knob on the other side. Your butane lighter might have a special key to turn the knob or might have a wheel. So, instead of forcing the screwdrivers, check it thoroughly. Push the refilling valve in to let all the air out of the lighter.</li></ul>
+<ul><li>If you're refilling a used lighter, the first thing you need to do is purge the lighter of any remaining air of fuel, which can irritate your skin or eyes. For this, refill your lighter in a well-ventilated area. For this, you can open up the doors or windows to increase ventilation or turn on the fan to improve air circulation.&nbsp;</li><li>Any of the remaining gas that sprays out on your working surface, so make sure to lay down a newspaper or a piece of cloth over the surface you're working on. Make sure the surface is clean, stable, and dry so that none of the dirt or moisture goes into the lighter. With this, you also need to make sure that you're not immediately filling a hot lighter that was used seconds ago. If you're refilling <a href="https://www.amazon.com/s?k=butane+fuel+refill&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">butane</a>, it is a highly combustible gas, so you must wait for the lighter to cool down before you start refilling it. Wait for at least 30 minutes before refilling the lighter.&nbsp;</li><li>Before refilling, turn the flame adjuster knob clockwise so that it's at a minimum height setting. You might need to use a small screwdriver to turn the knob on the other side. Your butane lighter might have a special key to turn the knob or might have a wheel. So, instead of forcing the screwdrivers, check it thoroughly. Push the refilling valve in to let all the air out of the lighter.</li></ul>
 <!-- /wp:list -->
 
 <!-- wp:paragraph -->

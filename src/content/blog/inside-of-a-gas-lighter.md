@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p><strong>Inside of a Gas Lighter</strong></p>
+<p><strong>Inside of a <a href="https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gas Lighter</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

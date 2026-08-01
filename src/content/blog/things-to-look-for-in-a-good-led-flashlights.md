@@ -8,11 +8,11 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p><strong>Things To Look For In A Good LED Torch</strong></p>
+<p><strong>Things To Look For In A Good <a href="https://www.amazon.com/s?k=led+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">LED Torch</a></strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>With the advent of smartphones, we have long lost our adventure partners that were always there with us as soon as the sun went down. They weren't a problem to carry around and almost everyone had one no matter how good or bad it was. Now even in homes, flashlights seem to have become less ubiquitous in homes and their significance is lost somewhere. But still some people understand that a good flashlight has plenty of advantages over the usual smartphone flashlight.&nbsp;</p>
+<p>With the advent of smartphones, we have long lost our adventure partners that were always there with us as soon as the sun went down. They weren't a problem to carry around and almost everyone had one no matter how good or bad it was. Now even in homes, <a href="https://www.amazon.com/s?k=led+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">flashlight</a>s seem to have become less ubiquitous in homes and their significance is lost somewhere. But still some people understand that a good flashlight has plenty of advantages over the usual smartphone flashlight.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

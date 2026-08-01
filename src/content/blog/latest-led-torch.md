@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p>Gear light LED Tactical Bright latest Torch-the Best Choice to light Up Your Darker Times!</p>
+<p><a href="https://www.amazon.com/s?k=gearlight+led+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gear light</a> LED Tactical Bright latest Torch-the Best Choice to light Up Your Darker Times!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":43,"sizeSlug":"large","linkDestination":"none"} -->

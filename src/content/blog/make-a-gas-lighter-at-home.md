@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p><strong>Steps to Make a Gas Lighter at Home</strong></p>
+<p><strong>Steps to Make a <a href="https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gas Lighter</a> at Home</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

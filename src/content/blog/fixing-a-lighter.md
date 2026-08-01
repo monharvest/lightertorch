@@ -32,7 +32,7 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Buy a butane can and look for the nozzle if it fits the fill valve or not. Insert the nozzle and turn the lighter a bit on the opposite side to get the butane inside. Once you feel the coldness of the metal, stop as you have done it correctly. It is pretty simple to buy a new one, but some people are attached to their lighters, so refueling the same makes them feel happy.</p>
+<p>Buy a <a href="https://www.amazon.com/s?k=butane+fuel+refill&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">butane</a> can and look for the nozzle if it fits the fill valve or not. Insert the nozzle and turn the lighter a bit on the opposite side to get the butane inside. Once you feel the coldness of the metal, stop as you have done it correctly. It is pretty simple to buy a new one, but some people are attached to their lighters, so refueling the same makes them feel happy.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -60,5 +60,5 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>We have mentioned all the possible answers for how to fix a lighter. Ow, you can easily keep your favorite lighter for years. Keep in mind that Zippos are a bit different. You can't fix them by using any replacement. Even for the lighter fluid, you will require an actual zippo fluid. Well, it's always a good idea to use a related flint, liquid, or wick. Fix it and have fun with it.</p>
+<p>We have mentioned all the possible answers for how to fix a lighter. Ow, you can easily keep your favorite lighter for years. Keep in mind that <a href="https://www.amazon.com/s?k=zippo+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Zippo</a>s are a bit different. You can't fix them by using any replacement. Even for the lighter fluid, you will require an actual zippo fluid. Well, it's always a good idea to use a related flint, liquid, or wick. Fix it and have fun with it.</p>
 <!-- /wp:paragraph -->

@@ -19,17 +19,15 @@ Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qua
   - Fixed USB-C guide: title typo, removed 7 expiring manuscdn.com images, added heroImage
   - Categories reduced to 5 canonical: Buying Guides, Torch Lighter Reviews, Safety Tips, How-to Guides, Brands (nav updated)
 
-## Phase 2 — Upgrade the money pages (NEXT)
+## Phase 2 — Upgrade the money pages (mostly DONE 2026-08-01)
 
-Priority: the account needs 3 real Amazon sales — the listicles are the best converters.
-
-1. **Rewrite "Top 10 Best Selling Flashlights on Amazon"** — verify products still exist, add comparison table, pros/cons, prominent "Check price on Amazon" links
-2. **Rewrite "Top Zippo Best Sellers"** — same treatment
-3. **Retitle/refresh "Top 10 Camping Torches of 2024"** → 2026, update picks
-4. **Add affiliate links to posts that have none** (~25 posts earn nothing; every "best X"/review post should link 3–5 products)
-5. **Add `rel="sponsored nofollow"` to all affiliate links** (Google requirement — scriptable)
-6. **Hand-write titles + meta descriptions for top 10 pages** (current ones are auto-generated from opening text — correct but not optimized)
-7. **Language pass on 2021 posts** — noticeably non-native English ("youre", "it's ability"); rewrite worst offenders
+1. ~~Fix "Top 10 Best Selling Flashlights"~~ — all 9 CTAs pointed at a generic best-sellers page; now each links its specific product; title bumped to 2026
+2. ~~"Top Zippo Best Sellers"~~ — links were already per-product; added sponsored rel
+3. ~~Retitle/refresh camping torches~~ → 2026 (slug still says 2024 — changing it would need a redirect; optional later)
+4. ~~Add affiliate links to link-less posts~~ — 31 links added on natural product mentions across 18 posts; USB-C guide's 8 manufacturer product links converted to Amazon searches. Site-wide: 120 tagged links. (gas-stove post left unlinked — no natural anchor)
+5. ~~`rel="sponsored nofollow noopener"`~~ — on ALL Amazon links: legacy HTML anchors fixed in source; markdown links handled by rehype plugin in `astro.config.mjs` (automatic for future posts)
+6. **REMAINING: hand-write titles + meta descriptions for top pages** — use GSC query data now that it's verified
+7. **REMAINING: language pass on 2021 posts** — non-native English ("youre", "it's ability"); rewrite worst offenders, prioritize by GSC impressions
 
 ## Phase 3 — New content (2–4 posts/month)
 

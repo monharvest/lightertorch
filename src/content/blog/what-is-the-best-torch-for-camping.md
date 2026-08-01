@@ -12,7 +12,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>A flashlight is one of the most significant tools when it comes to camping you should have the best one with you which is Anker Rechargeable Bolder LC90 LED Flashlight that makes camping easier, less panicky, and a whole lot illuminated.</p>
+<p>A flashlight is one of the most significant tools when it comes to camping you should have the best one with you which is <a href="https://www.amazon.com/s?k=anker+rechargeable+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Anker</a> Rechargeable Bolder LC90 LED Flashlight that makes camping easier, less panicky, and a whole lot illuminated.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":135,"sizeSlug":"large","linkDestination":"none"} -->

@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p><strong>Why does a Gas Lighter Cause Shock</strong></p>
+<p><strong>Why does a <a href="https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gas Lighter</a> Cause Shock</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

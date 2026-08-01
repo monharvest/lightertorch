@@ -20,7 +20,7 @@ tags: []
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
-<p>Their quick heating response makes these stoves safe and valuable. Earlier, there were only matchsticks to ignite the burner. Now, we have gas lighters to do it more easily. If it's your first operation of a gas stove, know that you will love to use this next time.&nbsp;</p>
+<p>Their quick heating response makes these stoves safe and valuable. Earlier, there were only matchsticks to ignite the burner. Now, we have gas <a href="https://www.amazon.com/s?k=long+reach+stove+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">lighter</a>s to do it more easily. If it's your first operation of a gas stove, know that you will love to use this next time.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading -->

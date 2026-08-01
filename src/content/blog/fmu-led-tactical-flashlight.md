@@ -8,7 +8,7 @@ tags: []
 ---
 
 <!-- wp:paragraph -->
-<p>FMU LED Tactical Flashlight-Highly Suitable Bright Latest Torch for Any Situation!</p>
+<p>FMU LED <a href="https://www.amazon.com/s?k=led+tactical+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Tactical Flashlight</a>-Highly Suitable Bright Latest Torch for Any Situation!</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":285,"sizeSlug":"full","linkDestination":"none"} -->

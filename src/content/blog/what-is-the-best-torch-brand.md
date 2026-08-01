@@ -12,7 +12,7 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>The best torch brand which seems to be winning hearts of almost all the flashlight hoarders is Klarus. With its incredible range of flashy yet iconic series for myriad fields, these torchlights with their impressive features seem to win the competition every now and then. With a wide range of high impact editions of flashlights in every field ranging from regular indoor use to some powerful tactical options this brand caters to almost every flashlight user in a different way.</p>
+<p>The best torch brand which seems to be winning hearts of almost all the flashlight hoarders is <a href="https://www.amazon.com/s?k=klarus+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Klarus</a>. With its incredible range of flashy yet iconic series for myriad fields, these torchlights with their impressive features seem to win the competition every now and then. With a wide range of high impact editions of flashlights in every field ranging from regular indoor use to some powerful tactical options this brand caters to almost every flashlight user in a different way.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
