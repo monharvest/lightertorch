@@ -2,7 +2,7 @@
 title: 'Top 10 Best Camping Torches of 2026: Expert Reviews & Buying Guide'
 description: 'Finding the best camping torches can make all the difference between a smooth outdoor adventure and fumbling in the dark. Whether you''re setting up camp...'
 pubDate: '2025-06-27'
-heroImage: '/uploads/2025/06/Person-using-a-camping-torch-to-illuminate-a-tent-at-night-demonstrating-the-best-camping.jpeg'
+heroImage: '/uploads/2026/08/camping-lantern-tent-night.webp'
 categories: ['Buying Guides']
 tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 ---

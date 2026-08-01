@@ -2,7 +2,7 @@
 title: 'Zippo vs BIC vs Arc Lighter: Real Cost Per Year & Which Is Best'
 description: 'We compare Zippo, BIC, and arc lighters on yearly cost, windproofing, reliability, and travel rules — with real numbers, so you can pick the right lighter once.'
 pubDate: '2026-08-01'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-2.jpg-1.webp'
+heroImage: '/uploads/2026/08/zippo-bic-arc-lighter-comparison.webp'
 categories: ['Buying Guides', 'Torch Lighter Reviews']
 tags: ['Zippo', 'BIC', 'arc lighter', 'lighter comparison', 'cost comparison']
 ---

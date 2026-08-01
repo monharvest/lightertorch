@@ -2,7 +2,7 @@
 title: 'Best Arc Lighters for Camping & Home: Flameless, Windproof, USB Rechargeable'
 description: 'Arc (plasma) lighters ignite with electricity instead of fuel — truly windproof, USB rechargeable, and safe for camping. How they work, what to look for, and the best types to buy.'
 pubDate: '2026-08-01'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-6.jpg-1.webp'
+heroImage: '/uploads/2026/08/arc-lighter-lighting-campfire-tinder.webp'
 categories: ['Buying Guides']
 tags: ['arc lighter', 'plasma lighter', 'flameless lighter', 'camping gear', 'rechargeable lighter']
 ---

@@ -2,7 +2,7 @@
 title: 'Olight vs Fenix vs Streamlight: Which Flashlight Brand Should You Buy?'
 description: 'Olight, Fenix, and Streamlight compared head-to-head: build quality, charging, warranty, and best models — so you know exactly which flashlight brand fits your needs and budget.'
 pubDate: '2026-08-01'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-2-3.jpg-1.webp'
+heroImage: '/uploads/2026/08/three-tactical-flashlights-comparison.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Olight', 'Fenix', 'Streamlight', 'flashlight brands', 'comparison']
 ---
