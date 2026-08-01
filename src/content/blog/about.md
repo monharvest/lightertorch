@@ -1,6 +1,6 @@
 ---
 title: 'About'
-description: '<!-- wp:paragraph --> <p><strong>Welcome to LighterTorch.com</strong> – Your Trusted Source for Expe...'
+description: 'Welcome to LighterTorch.com – Your Trusted Source for Expert Reviews on Torch Lighters At LighterTorch.com, we specialize in providing in-depth reviews and...'
 pubDate: '2025-02-07'
 categories: []
 tags: []

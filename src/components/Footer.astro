@@ -3,7 +3,15 @@ const today = new Date();
 ---
 
 <footer>
-	&copy; {today.getFullYear()} LighterTorch.com. All rights reserved.
+	<p class="disclosure">
+		As an Amazon Associate, LighterTorch.com earns from qualifying purchases.
+	</p>
+	<p>
+		&copy; {today.getFullYear()} LighterTorch.com. All rights reserved.
+		&middot; <a href="/about/">About</a>
+		&middot; <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
+		&middot; <a href="/privacy-policy/">Privacy Policy</a>
+	</p>
 </footer>
 <style>
 	footer {
@@ -11,5 +19,14 @@ const today = new Date();
 		background: linear-gradient(var(--gray-gradient)) no-repeat;
 		color: rgb(var(--gray));
 		text-align: center;
+	}
+	footer p {
+		margin: 0.5em 0;
+	}
+	.disclosure {
+		font-size: 0.85em;
+	}
+	footer a {
+		color: rgb(var(--gray));
 	}
 </style>

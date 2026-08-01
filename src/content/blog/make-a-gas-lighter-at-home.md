@@ -1,6 +1,6 @@
 ---
 title: 'Make a gas lighter at home'
-description: '<!-- wp:paragraph --> <p><strong>Steps to Make a Gas Lighter at Home</strong></p> <!-- /wp:paragraph...'
+description: 'Steps to Make a Gas Lighter at Home Making a gas lighter at home is a science experiment that gives you some kick. It can make your kitchen tasks way easier...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-3.jpg-1.webp'
 categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']

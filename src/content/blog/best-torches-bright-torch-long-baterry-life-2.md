@@ -14,8 +14,8 @@ When picking a torch, it's important to look at how bright it is and how long th
 We tested many torches to find the best ones. Our goal was to find torches that are very bright and have long-lasting batteries. We looked at how well they worked in different situations and how easy they were to use. This helped us pick the best torches for different needs.
 <h2>Best Torches for Brightness and Battery Life</h2>
 We've tested many flashlights to find the brightest and longest-lasting options. Our list includes torches with powerful beams and extended battery life to keep you illuminated when you need it most. These top picks offer reliable performance for various situations.
-<h3><a href="https://www.amazon.com/Zoocura-Refillable-Portable-Adjustable-Soldering/dp/B0CKXBKG5N">Zoocura Butane Torch Duo</a></h3>
-<a href="https://www.amazon.com/Zoocura-Refillable-Portable-Adjustable-Soldering/dp/B0CKXBKG5N"><img src="https://m.media-amazon.com/images/I/718lBORqXDL.jpg" alt="" /></a>
+<h3><a href="https://www.amazon.com/Zoocura-Refillable-Portable-Adjustable-Soldering/dp/B0CKXBKG5N?tag=lightertorch-20">Zoocura Butane Torch Duo</a></h3>
+<a href="https://www.amazon.com/Zoocura-Refillable-Portable-Adjustable-Soldering/dp/B0CKXBKG5N?tag=lightertorch-20"><img src="https://m.media-amazon.com/images/I/718lBORqXDL.jpg" alt="" /></a>
 
 We think this two-pack of butane torches offers great value for anyone needing a versatile flame tool.
 
@@ -36,8 +36,8 @@ We tested these Zoocura butane torches and were impressed by their powerful perf
 The torches feel solid in hand thanks to the non-slip ABS coating. We like how easy it is to adjust the flame size using the sliding knob below the nozzle. This lets us dial in just the right flame for each job. The compact size is perfect for taking on camping trips or keeping in a kitchen drawer.
 
 Refilling is simple through the port on the bottom, though we noticed a bit of leakage during this process. The fuel capacity isn't huge, but it's enough for most quick jobs. Keep in mind these arrive empty due to shipping rules, so you'll need to buy butane separately. Overall, we think this duo offers great bang for your buck compared to pricier single torches.
-<h3><a href="https://www.amazon.com/TIKI-Brand-1120116-Homespun-Outdoor/dp/B08R12R47P">TIKI Bamboo Torches 12-Pack</a></h3>
-<a href="https://www.amazon.com/TIKI-Brand-1120116-Homespun-Outdoor/dp/B08R12R47P"><img src="https://m.media-amazon.com/images/I/81XHPdlCu9S.jpg" alt="" /></a>
+<h3><a href="https://www.amazon.com/TIKI-Brand-1120116-Homespun-Outdoor/dp/B08R12R47P?tag=lightertorch-20">TIKI Bamboo Torches 12-Pack</a></h3>
+<a href="https://www.amazon.com/TIKI-Brand-1120116-Homespun-Outdoor/dp/B08R12R47P?tag=lightertorch-20"><img src="https://m.media-amazon.com/images/I/81XHPdlCu9S.jpg" alt="" /></a>
 
 We recommend these TIKI torches for their durability and ease of use, making them a solid choice for outdoor lighting and mosquito control.
 
@@ -58,8 +58,8 @@ These TIKI bamboo torches add a classic touch to any outdoor space. We found the
 Each torch burns for about 5 hours on a single fill, which was plenty for our evening gatherings. The natural bamboo look fits in well with different garden styles. We spaced them around our deck and patio to create a nice ambiance and help keep mosquitoes away.
 
 One thing to note is that you'll need to buy fuel separately. For best results, we suggest using TIKI's BiteFighter fuel. Some torches had loose caps, but it wasn't a big issue. You might want to get separate stakes for extra stability, especially in windy areas. Overall, these torches are easy to use and add a warm glow to outdoor spaces.
-<h3><a href="https://www.amazon.com/Otdair-Upgraded-Waterproof-Flickering-Decoration/dp/B08KVM48MJ">Otdair Solar Flame Torches</a></h3>
-<a href="https://www.amazon.com/Otdair-Upgraded-Waterproof-Flickering-Decoration/dp/B08KVM48MJ"><img src="https://m.media-amazon.com/images/I/81rTDlnvBHL.jpg" alt="" /></a>
+<h3><a href="https://www.amazon.com/Otdair-Upgraded-Waterproof-Flickering-Decoration/dp/B08KVM48MJ?tag=lightertorch-20">Otdair Solar Flame Torches</a></h3>
+<a href="https://www.amazon.com/Otdair-Upgraded-Waterproof-Flickering-Decoration/dp/B08KVM48MJ?tag=lightertorch-20"><img src="https://m.media-amazon.com/images/I/81rTDlnvBHL.jpg" alt="" /></a>
 
 We recommend these solar-powered flame torches for their realistic flickering effect and easy installation, making them a great choice for outdoor lighting.
 
@@ -80,8 +80,8 @@ These Otdair solar flame torches add a warm, inviting glow to any outdoor space.
 We found the solar charging feature to be very handy. After a full day in the sun, these torches light up automatically at dusk and stay on for up to 12 hours. This means we never had to worry about turning them on or off, or replacing batteries. The built-in light sensor takes care of everything.
 
 Setting up these torches was a breeze. We simply stuck them in the ground where we wanted extra light. They work great along pathways, around pools, or as accent lighting in gardens. The waterproof design held up well in rain and snow, though we did notice the plastic construction felt a bit lightweight. While most of our torches are still going strong after months of use, a couple stopped working sooner than expected. Still, for the price and convenience, we think these solar flame torches are a solid choice for most outdoor lighting needs.
-<h3><a href="https://www.amazon.com/FAN-Torches-Mounted-Citronella-Refillable-Landscape/dp/B0BS3XRD8R">Stylish Wall Torches</a></h3>
-<a href="https://www.amazon.com/FAN-Torches-Mounted-Citronella-Refillable-Landscape/dp/B0BS3XRD8R"><img src="https://m.media-amazon.com/images/I/71APpDoaZgL.jpg" alt="" /></a>
+<h3><a href="https://www.amazon.com/FAN-Torches-Mounted-Citronella-Refillable-Landscape/dp/B0BS3XRD8R?tag=lightertorch-20">Stylish Wall Torches</a></h3>
+<a href="https://www.amazon.com/FAN-Torches-Mounted-Citronella-Refillable-Landscape/dp/B0BS3XRD8R?tag=lightertorch-20"><img src="https://m.media-amazon.com/images/I/71APpDoaZgL.jpg" alt="" /></a>
 
 We think these wall-mounted torches are a great choice for adding ambiance to outdoor spaces.
 
@@ -102,8 +102,8 @@ We recently tried out these wall-mounted citronella torches and were impressed w
 The torches hold a good amount of fuel. We filled them up and got about 8-10 hours of burn time. The wide opening made refilling easy without spills. We like that we can take the torch off the wall mount to use as a tabletop light too.
 
 These torches do a nice job of keeping bugs away while we're outside. The light they give off is warm and cozy for evening gatherings. While mostly sturdy, we did notice one torch's metal arm bent a bit when screwing it in. The wicks seem to work fine but might need replacing sooner than expected. Overall, we think these torches are a good value for adding atmosphere to outdoor spaces.
-<h3><a href="https://www.amazon.com/Flickering-Flame-Lights-Gardens-Patios/dp/B09VFMXVMX">IkeeRuic Solar Flame Torches</a></h3>
-<a href="https://www.amazon.com/Flickering-Flame-Lights-Gardens-Patios/dp/B09VFMXVMX"><img src="https://m.media-amazon.com/images/I/71FFZJMbo3L.jpg" alt="" /></a>
+<h3><a href="https://www.amazon.com/Flickering-Flame-Lights-Gardens-Patios/dp/B09VFMXVMX?tag=lightertorch-20">IkeeRuic Solar Flame Torches</a></h3>
+<a href="https://www.amazon.com/Flickering-Flame-Lights-Gardens-Patios/dp/B09VFMXVMX?tag=lightertorch-20"><img src="https://m.media-amazon.com/images/I/71FFZJMbo3L.jpg" alt="" /></a>
 
 We think these solar flame torches are a great buy for anyone looking to add some warm, flickering light to their outdoor space.
 

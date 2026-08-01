@@ -1,6 +1,6 @@
 ---
 title: 'Privacy Policy'
-description: '<!-- wp:paragraph --> <p></p> <!-- /wp:paragraph -->  <!-- wp:separator --> <hr class="wp-block-sepa...'
+description: 'Privacy Policy At LighterTorch.com, we value your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines the types...'
 pubDate: '2021-05-10'
 categories: []
 tags: []

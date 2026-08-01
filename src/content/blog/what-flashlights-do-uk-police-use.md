@@ -1,6 +1,6 @@
 ---
 title: 'What Flashlights Do UK Police Use'
-description: '<!-- wp:paragraph --> <p><strong>What Flashlights Do UK Police Use?</strong></p> <!-- /wp:paragraph ...'
+description: 'What Flashlights Do UK Police Use? UK police use some powerful tactical flashlights as per their job requirements which are mostly LED Lenser P7. This one is...'
 pubDate: '2021-05-31'
 heroImage: '/uploads/2021/05/Screenshot-2021-05-29-at-13.03.25.png'
 ---

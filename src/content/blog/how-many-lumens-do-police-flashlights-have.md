@@ -1,6 +1,6 @@
 ---
 title: 'How Many Lumens Do Police Flashlights Have?'
-description: '<!-- wp:paragraph --> <p><strong>How Many Lumens Do Police Flashlights Have?</strong></p> <!-- /wp:p...'
+description: 'How Many Lumens Do Police Flashlights Have? Police flashlights are some of the finest out there in the market with an average of 800 to 1200 lumens or can...'
 pubDate: '2021-05-29'
 heroImage: '/uploads/2025/02/Screenshot-2021-05-29-at-13.03.25.png-1.webp'
 categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']

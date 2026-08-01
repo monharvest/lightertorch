@@ -1,6 +1,6 @@
 ---
 title: 'Fixing a lighter'
-description: '<!-- wp:paragraph --> <p><strong>How to Fix a Lighter?</strong></p> <!-- /wp:paragraph -->  <!-- wp:...'
+description: 'How to Fix a Lighter? Owning a lighter means, you will have to repair it frequently. But why worry when you have a helpful instructable. But at first, you...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-4.jpg-1.webp'
 categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']

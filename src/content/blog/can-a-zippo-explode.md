@@ -1,6 +1,6 @@
 ---
 title: 'Can a Zippo Explode?'
-description: '<!-- wp:paragraph --> <p><strong>Can a Zippo Explode?</strong></p> <!-- /wp:paragraph -->  <!-- wp:p...'
+description: 'Can a Zippo Explode? How well do you know about a zippo? Is there something bothering you? Are you worried about the zippo explosion? Well, today, we are...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2021/05/Webp.net-compress-image.jpg'
 ---
