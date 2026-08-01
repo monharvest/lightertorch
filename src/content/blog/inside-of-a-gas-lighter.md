@@ -3,7 +3,7 @@ title: 'Inside of a Gas Lighter'
 description: 'Inside of a Gas Lighter Gas lighter is a commonly used device in every household, but have you ever wondered what''s inside a gas lighter? How does it work?...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-2.jpg-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['How-to Guides']
 tags: []
 ---
 

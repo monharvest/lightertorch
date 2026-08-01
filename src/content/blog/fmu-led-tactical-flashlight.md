@@ -3,7 +3,7 @@ title: 'FMU LED Tactical Flashlight'
 description: 'FMU LED Tactical Flashlight-Highly Suitable Bright Latest Torch for Any Situation! FMU LED Tactical Flashlight It''s time to switch to the modern version of...'
 pubDate: '2021-05-11'
 heroImage: '/uploads/2021/05/led_flashlights_1620908416-1024x551.jpg-1.webp'
-categories: ['Uncategorized', 'Outdoor Equipment', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Torch Lighter Reviews']
 tags: []
 ---
 

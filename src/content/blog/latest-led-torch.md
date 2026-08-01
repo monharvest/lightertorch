@@ -3,7 +3,7 @@ title: 'Latest led torch'
 description: 'Gear light LED Tactical Bright latest Torch-the Best Choice to light Up Your Darker Times! Imagine yourself walking to the forest or camping for long without...'
 pubDate: '2021-05-11'
 heroImage: '/uploads/2025/02/screenshot_2021_05_1_RKOQD.jpg-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Torch Lighter Reviews']
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: 'Top Zippo Best Sellers on Amazon: Lighters, Collectibles &amp; More'
 description: 'Few brands have achieved the iconic status and enduring legacy of Zippo. Since 1932, these American-made lighters have been synonymous with reliability...'
 pubDate: '2025-05-17'
 heroImage: '/uploads/2025/05/Collection-of-Zippo-Best-Sellers-displayed-on-wooden-surface.jpeg'
-categories: ['Uncategorized', 'Zippo Lighter Care', 'Outdoor Equipment']
+categories: ['Buying Guides', 'Brands']
 tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
 ---
 

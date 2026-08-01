@@ -3,7 +3,7 @@ title: 'Best torches: Bright, long-lasting options for 2025'
 description: 'Torches are essential tools for lighting up dark spaces. They come in handy during power outages, ou...'
 pubDate: '2025-01-20'
 heroImage: '/uploads/2025/02/Screenshot-2021-05-29-at-13.09.45.png-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Buying Guides', 'Torch Lighter Reviews']
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: 'Lighter cause a shock'
 description: 'Why does a Gas Lighter Cause Shock Gas lighters have become an essential part of our lives, especially to ignite a gas stove or light a cigarette. It is a...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-2-1.jpg-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Safety Tips']
 tags: []
 ---
 

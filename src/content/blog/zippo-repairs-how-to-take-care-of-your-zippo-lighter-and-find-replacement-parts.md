@@ -3,7 +3,7 @@ title: 'Zippo Repairs: How to Take Care of Your Zippo Lighter and Find Replaceme
 description: 'Learn how to take care of your Zippo lighter and where to find replacement parts — cleaning, flint and wick replacement, and maintenance tips.'
 pubDate: '2024-03-05'
 heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it.jpg'
-categories: ['Zippo Lighter Care', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts']
 ---
 

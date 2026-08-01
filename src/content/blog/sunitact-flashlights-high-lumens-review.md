@@ -3,7 +3,7 @@ title: 'Sunitact Flashlights High Lumens Review'
 description: '​ Flashlights High Lumens, Rechargeable Flashlight Led 990000 Lumen XHP70.2, Super Bright Flash Light, High Powered Handheld Flashlights for Emergency...'
 pubDate: '2025-03-31'
 heroImage: '/uploads/2025/03/image.jpeg'
-categories: ['Torch Lighter Reviews', 'Battery-Operated Torches', 'Brands', 'Accessories', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Torch Lighter Reviews']
 tags: []
 ---
 

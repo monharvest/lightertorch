@@ -3,7 +3,7 @@ title: 'Durable Flashlights: Your Guide to Reliable Lighting for Any Adventure'
 description: 'When it comes to flashlights, durability is a non-negotiable feature. Whether you''re hiking through rugged terrain, working in harsh conditions, or preparing...'
 pubDate: '2025-01-25'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-5-1.jpg-1.webp'
-categories: ['Outdoor Equipment', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Buying Guides']
 tags: ['durable flashlights']
 ---
 

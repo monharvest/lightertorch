@@ -3,7 +3,7 @@ title: 'How Many Lumens Should Flashlight Have for Optimal Performance?'
 description: 'Determining the Right Lumen Count for a Flashlight The effectiveness of a flashlight is primarily measured by its lumens, which indicate the total amount of...'
 pubDate: '2025-01-20'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-2-2.jpg-1.webp'
-categories: ['Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Brands', 'Outdoor Gear &amp; Survival Tools']
+categories: ['Buying Guides']
 tags: []
 ---
 

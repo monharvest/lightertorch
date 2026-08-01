@@ -3,7 +3,7 @@ title: 'Manually lighting a gas stove'
 description: 'Lighting a Gas Stove Manually Gas stoves are one of the best traditional things in our lives. Many of us are madly in love with them because of the...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/screenshot_2021_05_2_AEvX9.jpg-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['How-to Guides', 'Safety Tips']
 tags: []
 ---
 

@@ -3,7 +3,7 @@ title: 'A gas lighter last how long?'
 description: 'How long does a gas lighter last? When choosing the best lighter for your household, one considers many aspects to ensure its quality. Durability, price, and...'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Screenshot-2021-05-21-at-19.30.01-1536x849.png-1.webp'
-categories: ['Uncategorized', 'Torch Lighter Reviews', 'Battery-Operated Torches', 'Camping Torches', 'Everyday Use Torches', 'Buying Guides', 'Top Lists', 'Product Comparisons', 'How-to Guides', 'Troubleshooting &amp; FAQs', 'Brands', 'News &amp; Updates', 'Accessories', 'Safety Tips', 'Deals &amp; Discounts', 'Environmentally Friendly Options', 'Product Alerts', 'Outdoor Gear &amp; Survival Tools']
+categories: ['How-to Guides']
 tags: []
 ---
 
