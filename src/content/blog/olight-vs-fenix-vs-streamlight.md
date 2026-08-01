@@ -22,6 +22,7 @@ If you've narrowed your search to these three names, you've already done the har
 | Batteries | CR123A / proprietary packs / 18650 | 18650 / 21700, standard cells | Mostly proprietary customized cells |
 | Warranty | Limited lifetime | Limited lifetime (5 yr on battery/electronics) | Limited lifetime (varies by region) |
 | Best for | Duty, work, budget tactical | Camping, hiking, one-light-for-everything | EDC, pocket lights, gadget lovers |
+| Flagship pick | [Check price on Amazon →](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=olight+baton+3+pro&tag=lightertorch-20) |
 
 ## Streamlight — The Duty Workhorse
 
