@@ -55,7 +55,7 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [ ] IP ratings explained (IPX7 etc.)
 
 ### Comparison posts (near-purchase intent)
-- [ ] Olight vs Fenix vs Streamlight
+- [x] Olight vs Fenix vs Streamlight → `/olight-vs-fenix-vs-streamlight/` (published 2026-08-01; use as the template for future comparison posts)
 - [ ] Zippo vs BIC vs arc lighter: cost per year
 - [ ] $20 vs $100 flashlight: what you actually get
 
