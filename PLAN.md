@@ -39,7 +39,7 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [ ] Best flashlights for power outages / hurricane season
 - [ ] Best keychain flashlights
 - [ ] Best flashlights for kids (gift intent)
-- [ ] Best arc/plasma lighters for camping ← trending, zero site coverage
+- [x] Best arc/plasma lighters for camping → `/best-arc-lighters-for-camping/` (2026-08-01)
 - [ ] Best candle lighters for the home
 - [ ] Zippo gift guide by budget
 
@@ -47,14 +47,14 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [ ] Lumens vs candela vs beam distance explained
 - [ ] Are rechargeable batteries worth it? (18650 vs AA)
 - [ ] Why does my rechargeable flashlight die so fast?
-- [ ] Can you bring a lighter/flashlight on a plane? (TSA — high volume, evergreen)
+- [x] Can you bring a lighter/flashlight on a plane? → `/can-you-bring-a-lighter-on-a-plane/` (2026-08-01)
 - [ ] Butane vs lighter fluid: which Zippo insert?
 - [ ] How to store lighters and fuel safely
 - [ ] IP ratings explained (IPX7 etc.)
 
 ### Comparison posts (near-purchase intent)
 - [x] Olight vs Fenix vs Streamlight → `/olight-vs-fenix-vs-streamlight/` (published 2026-08-01; use as the template for future comparison posts)
-- [ ] Zippo vs BIC vs arc lighter: cost per year
+- [x] Zippo vs BIC vs arc lighter → `/zippo-vs-bic-vs-arc-lighter/` (2026-08-01)
 - [ ] $20 vs $100 flashlight: what you actually get
 
 ## Ongoing
