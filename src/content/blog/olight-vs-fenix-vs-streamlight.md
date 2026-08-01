@@ -17,7 +17,7 @@ If you've narrowed your search to these three names, you've already done the har
 |---|---|---|---|
 | Founded | 1973 (USA) | 2001 | 2007 |
 | Reputation | Law-enforcement standard | Outdoor performance | EDC innovation |
-| Typical price range | $ – lowest | $$ | $$ – $$$ |
+| Typical price range | [Most models $20–$80](https://www.amazon.com/s?k=streamlight+flashlight&tag=lightertorch-20) | [Most models $40–$120](https://www.amazon.com/s?k=fenix+flashlight&tag=lightertorch-20) | [Most models $35–$150](https://www.amazon.com/s?k=olight+flashlight&tag=lightertorch-20) |
 | Charging | USB / rechargeable docks | USB-C on most models | Proprietary magnetic (MCC) |
 | Batteries | CR123A / proprietary packs / 18650 | 18650 / 21700, standard cells | Mostly proprietary customized cells |
 | Warranty | Limited lifetime | Limited lifetime (5 yr on battery/electronics) | Limited lifetime (varies by region) |
