@@ -2,7 +2,7 @@
 title: 'Best Flashlights for Power Outages & Hurricane Season (2026)'
 description: 'Build a blackout lighting kit that actually works when the grid fails: long-runtime flashlights, lanterns, headlamps, and the battery strategy that keeps them alive for days.'
 pubDate: '2026-08-02'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-7.jpg-1.webp'
+heroImage: '/uploads/2026/08/power-outage-blackout-lantern-kit.webp'
 categories: ['Buying Guides', 'Safety Tips']
 tags: ['power outage', 'hurricane season', 'emergency flashlight', 'blackout kit', 'emergency preparedness']
 ---

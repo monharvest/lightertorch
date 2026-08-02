@@ -2,7 +2,7 @@
 title: 'Zippo Gift Guide: The Best Zippo Lighters for Every Budget (2026)'
 description: 'The best Zippo lighters to give, from $15 classics to engraved keepsakes — organized by budget, with the add-ons (butane insert, fluid, flints) that complete the gift.'
 pubDate: '2026-08-02'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-2-1.jpg-1.webp'
+heroImage: '/uploads/2026/08/zippo-gift-wrapped-present.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
 ---
