@@ -26,7 +26,7 @@ Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qua
 3. ~~Retitle/refresh camping torches~~ → 2026 (slug still says 2024 — changing it would need a redirect; optional later)
 4. ~~Add affiliate links to link-less posts~~ — 31 links added on natural product mentions across 18 posts; USB-C guide's 8 manufacturer product links converted to Amazon searches. Site-wide: 120 tagged links. (gas-stove post left unlinked — no natural anchor)
 5. ~~`rel="sponsored nofollow noopener"`~~ — on ALL Amazon links: legacy HTML anchors fixed in source; markdown links handled by rehype plugin in `astro.config.mjs` (automatic for future posts)
-6. **REMAINING: hand-write titles + meta descriptions for top pages** — use GSC query data now that it's verified
+6. ~~Hand-tune titles + meta for top pages~~ — done 2026-08-02 for the 6 highest-visibility pages, driven by GSC top query "amazon best flashlight"; revisit monthly as GSC data grows
 7. **REMAINING: language pass on 2021 posts** — non-native English ("youre", "it's ability"); rewrite worst offenders, prioritize by GSC impressions
 
 ## Phase 3 — New content (2–4 posts/month)
