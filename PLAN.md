@@ -36,12 +36,12 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 ### Buying guides (highest earning potential)
 - [ ] Best EDC flashlights under $50 (2026)
 - [ ] Best headlamps for camping & running
-- [ ] Best flashlights for power outages / hurricane season
+- [x] Best flashlights for power outages → `/best-flashlights-for-power-outages/` (2026-08-02)
 - [ ] Best keychain flashlights
 - [ ] Best flashlights for kids (gift intent)
 - [x] Best arc/plasma lighters for camping → `/best-arc-lighters-for-camping/` (2026-08-01)
 - [ ] Best candle lighters for the home
-- [ ] Zippo gift guide by budget
+- [x] Zippo gift guide by budget → `/zippo-gift-guide/` (2026-08-02)
 
 ### Question posts (easy rankings, feed internal links)
 - [ ] Lumens vs candela vs beam distance explained
@@ -55,7 +55,7 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 ### Comparison posts (near-purchase intent)
 - [x] Olight vs Fenix vs Streamlight → `/olight-vs-fenix-vs-streamlight/` (published 2026-08-01; use as the template for future comparison posts)
 - [x] Zippo vs BIC vs arc lighter → `/zippo-vs-bic-vs-arc-lighter/` (2026-08-01)
-- [ ] $20 vs $100 flashlight: what you actually get
+- [x] $20 vs $100 flashlight → `/20-vs-100-dollar-flashlight/` (2026-08-02)
 
 ## Ongoing
 
