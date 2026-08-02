@@ -1,6 +1,6 @@
 ---
-title: 'How Many Lumens Should Flashlight Have for Optimal Performance?'
-description: 'Determining the Right Lumen Count for a Flashlight The effectiveness of a flashlight is primarily measured by its lumens, which indicate the total amount of...'
+title: 'How Many Lumens Should a Flashlight Have? (Real Numbers by Use)'
+description: 'How many lumens do you actually need? 50–100 for the house, 300–800 for camping, 1,000+ for search — real numbers by use case, plus why runtime matters more than max lumens.'
 pubDate: '2025-01-20'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-2-2.jpg-1.webp'
 categories: ['Buying Guides']
