@@ -2,7 +2,7 @@
 title: 'Best Long Range Flashlights: Longest Beam, Strongest & Most Powerful Picks'
 description: 'The best long range flashlights compared: Olight Javelot Turbo (1,300m beam), Astrolux MF05 (3,162m), Fenix PD36R, and more — with lumens, beam distance, and which to buy for hunting, search, and security.'
 pubDate: '2026-08-01'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-2-2.jpg-1.webp'
+heroImage: '/uploads/2026/08/long-range-flashlight-beam-mountain.webp'
 categories: ['Buying Guides', 'Torch Lighter Reviews']
 tags: ['long range flashlight', 'brightest torch', 'beam distance', 'rechargeable torch']
 ---

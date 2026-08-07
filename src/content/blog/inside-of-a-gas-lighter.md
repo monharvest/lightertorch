@@ -70,3 +70,7 @@ tags: []
 <!-- wp:paragraph -->
 <p>We see a blue spark because most of our household lighters have a small gap in between the metallic points occupied by the surrounding air. As the air is made up of nitrogen which creates the path for electric discharge, the lighters show a blue spark. It is also due to this very reason that the flames we see on our burners are also blue.&nbsp;</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Related reading:</strong> that spark is running at <a href="/voltage-in-a-gas-lighter/">10,000 volts or more</a>, which is also the reason a lighter can sometimes <a href="/lighter-cause-a-shock/">give you a small shock</a> — and why that shock is harmless.&nbsp;</p>
+<!-- /wp:paragraph -->

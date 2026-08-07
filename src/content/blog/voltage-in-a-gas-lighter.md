@@ -1,6 +1,6 @@
 ---
-title: 'Voltage in a Gas Lighter'
-description: 'Voltage in a Gas Lighter Every kitchen is incomplete without a gas lighter if you have gas stoves. Gas stoves are the traditional and favorite types of...'
+title: 'How Many Volts Is a Gas Lighter Spark? (10,000+)'
+description: 'A piezo gas lighter fires roughly 10,000-20,000 volts across a 3-4mm gap. Here is how the crystal and hammer make it, and why it still cannot hurt you.'
 pubDate: '2021-05-21'
 heroImage: '/uploads/2025/02/Screenshot-2021-05-21-at-19.30.01-1536x849.png-1.webp'
 categories: ['How-to Guides']
@@ -36,7 +36,11 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Some of you might still be thinking about the production of spark. Well, we will explain it to you. The mechanical pressure you are applying on the hammer results in voltage generation by the piezoelectric crystal. The two electrodes then carry it to the ignition head, where you see the spark. The spark then ignites the stove. The process requires about a minute to complete, using a voltage of 7kV to spark. The entire procedure is pretty simple to understand. However, it might be surprising for some to believe that the tiny thing for stove ignition uses a voltage generation this way. The mechanism can be different for some gas lighters, but the average voltage usage is 7kV or all of them.&nbsp;</p>
+<p>Some of you might still be thinking about the production of spark. Well, we will explain it to you. The mechanical pressure you are applying on the hammer results in voltage generation by the piezoelectric crystal. The two electrodes then carry it to the ignition head, where you see the spark. The spark then ignites the stove.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>So how many volts is it?</strong> Roughly <strong>10,000 to 20,000 volts</strong>. You can work that out from the spark rather than from a spec sheet: dry air at room temperature breaks down at about 3,000 volts per millimetre, and the two electrodes at the tip of a gas lighter sit around 3–4 mm apart. Anything less than about 10 kV simply would not jump the gap. The pulse itself lasts only microseconds and carries on the order of a millijoule of energy — enough to ignite propane (which needs about 0.25 mJ) but far too little to be dangerous to you. That combination of very high voltage and almost no energy is exactly why a gas lighter can <a href="/lighter-cause-a-shock/">give you a shock without hurting you</a>.&nbsp;</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->

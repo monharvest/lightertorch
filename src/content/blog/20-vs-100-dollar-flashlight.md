@@ -71,3 +71,5 @@ The only wrong purchase is the $20 light wearing a $100 light's claims. Check fo
 **Do cheap lights really overstate lumens?** Routinely, sometimes by 100×. Independent testing communities (BudgetLightForum, r/flashlight) document it constantly. ANSI-rated brands are the fix.
 
 **What's the single best upgrade from a cheap light?** USB-C rechargeability with a regulated driver — the jump from "dimming AAA junk" to "constant, rechargeable output" is bigger than any lumen increase. See the [USB-C guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).
+
+**So where's the sweet spot?** Right around the $30–$50 mark, where onboard USB-C, high-CRI emitters and real water ratings all become standard. Our four picks are in [best EDC flashlights under $50](/best-edc-flashlights-under-50/).

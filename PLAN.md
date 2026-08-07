@@ -27,14 +27,17 @@ Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qua
 4. ~~Add affiliate links to link-less posts~~ — 31 links added on natural product mentions across 18 posts; USB-C guide's 8 manufacturer product links converted to Amazon searches. Site-wide: 120 tagged links. (gas-stove post left unlinked — no natural anchor)
 5. ~~`rel="sponsored nofollow noopener"`~~ — on ALL Amazon links: legacy HTML anchors fixed in source; markdown links handled by rehype plugin in `astro.config.mjs` (automatic for future posts)
 6. ~~Hand-tune titles + meta for top pages~~ — done 2026-08-02 for the 6 highest-visibility pages, driven by GSC top query "amazon best flashlight"; revisit monthly as GSC data grows
-7. **REMAINING: language pass on 2021 posts** — non-native English ("youre", "it's ability"); rewrite worst offenders, prioritize by GSC impressions
+7. **IN PROGRESS: language pass on 2021 posts** — non-native English ("youre", "it's ability"); rewrite worst offenders, prioritize by GSC impressions
+   - [x] `/lighter-cause-a-shock/` (2026-08-07) — GSC pos. 16.9, 55 impr, 0 clicks. Full rewrite: new title/meta, clean markdown, **corrected the physics** (post claimed 800 V; a 3–4 mm spark gap needs 10–20 kV at air's ~3 kV/mm breakdown), added the mains-powered-stove-igniter safety distinction, 5 internal links, FAQ. Slug kept — no redirect needed.
+   - [x] `/voltage-in-a-gas-lighter/` (2026-08-07) — same wrong-voltage fix (said 7 kV), new title/meta targeting "how many volts is a gas lighter"
+   - [ ] Next candidates by thinness: `/zippo-repairs.../`, `/fixing-a-lighter/`, `/manually-lighting-a-gas-stove/`, `/what-is-the-best-torch-for-camping/`
 
 ## Phase 3 — New content (2–4 posts/month)
 
 Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon links, 2–3 internal links, comparison table.
 
 ### Buying guides (highest earning potential)
-- [ ] Best EDC flashlights under $50 (2026)
+- [x] Best EDC flashlights under $50 (2026) → `/best-edc-flashlights-under-50/` (2026-08-07) — *needs a dedicated hero image; currently reuses the Olight-vs-Fenix comparison shot*
 - [ ] Best headlamps for camping & running
 - [x] Best flashlights for power outages → `/best-flashlights-for-power-outages/` (2026-08-02)
 - [ ] Best keychain flashlights
