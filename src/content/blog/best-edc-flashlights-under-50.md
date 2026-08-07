@@ -2,7 +2,7 @@
 title: 'Best EDC Flashlights Under $50 (2026): 4 Pocket Lights Worth Carrying'
 description: 'The sub-$50 band is where EDC flashlights get genuinely good. Four picks compared on real specs — output, runtime, size, charging — plus what to skip.'
 pubDate: '2026-08-07'
-heroImage: '/uploads/2026/08/three-tactical-flashlights-comparison.webp'
+heroImage: '/uploads/2026/08/edc-flashlights-pocket-carry-flatlay.webp'
 categories: ['Buying Guides']
 tags: ['EDC flashlight', 'everyday carry', 'budget flashlight', 'pocket flashlight', '14500', '18650']
 ---

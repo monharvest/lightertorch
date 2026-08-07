@@ -37,7 +37,7 @@ Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qua
 Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon links, 2–3 internal links, comparison table.
 
 ### Buying guides (highest earning potential)
-- [x] Best EDC flashlights under $50 (2026) → `/best-edc-flashlights-under-50/` (2026-08-07) — *needs a dedicated hero image; currently reuses the Olight-vs-Fenix comparison shot*
+- [x] Best EDC flashlights under $50 (2026) → `/best-edc-flashlights-under-50/` (2026-08-07)
 - [ ] Best headlamps for camping & running
 - [x] Best flashlights for power outages → `/best-flashlights-for-power-outages/` (2026-08-02)
 - [ ] Best keychain flashlights

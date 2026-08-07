@@ -3,7 +3,7 @@ title: 'Why Does a Gas Lighter Shock You? (And Is It Dangerous?)'
 description: 'A gas lighter spark is over 10,000 volts but carries almost no energy — which is why it stings without hurting. Here is what causes the zap and when to worry.'
 pubDate: '2021-05-21'
 updatedDate: '2026-08-07'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-2-1.jpg-1.webp'
+heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'
 categories: ['Safety Tips']
 tags: ['gas lighter', 'piezo igniter', 'electric shock', 'kitchen safety', 'gas stove']
 ---
