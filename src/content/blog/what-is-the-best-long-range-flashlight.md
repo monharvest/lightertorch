@@ -25,7 +25,7 @@ Long-range flashlights — "throwers" in enthusiast slang — are built for hunt
 
 Here's the counterintuitive part of long-range lights: **lumens matter less than beam intensity**. Lumens measure total light output; beam distance depends on how tightly the reflector focuses that light, measured in candela (cd). The Javelot Turbo "only" produces 1,300 lumens but focuses them into a 422,500 cd hotspot — which is why it out-throws lights with triple its lumen count.
 
-So when comparing throwers, look at **beam distance (meters)** and **candela** first, lumens second. Our guide to [how many lumens a flashlight should have](/how-many-lumens-should-flashlight-have-2/) covers the trade-offs in detail.
+So when comparing throwers, look at **beam distance (meters)** and **candela** first, lumens second. The math is simple enough to do in your head — beam distance in meters is 2 × √candela — and we break it down fully in [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/). Our guide to [how many lumens a flashlight should have](/how-many-lumens-should-flashlight-have-2/) covers the output trade-offs in detail.
 
 ## Olight Javelot Turbo — Best Long Range Flashlight Overall
 

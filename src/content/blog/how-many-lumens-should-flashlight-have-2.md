@@ -33,7 +33,7 @@ tags: []
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Beam Distance</strong>: More lumens typically mean that the light can reach farther. A brighter flashlight provides a more focused beam, which can be beneficial for specific tasks.</li>
+<li><strong>Beam Distance</strong>: More lumens typically mean that the light can reach farther — but only up to a point, because reach is set by beam intensity (candela) rather than total output. See <a href="/lumens-vs-candela-vs-beam-distance/">lumens vs candela vs beam distance</a> for the formula linking the two.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

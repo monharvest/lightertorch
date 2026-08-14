@@ -23,7 +23,7 @@ A lantern lights a whole kitchen or bedroom at once and sits on the table while 
 
 ### Layer 2: A headlamp per person
 
-The most underrated outage tool. Cooking on a camp stove, taping windows, checking the sump pump, walking the dog — everything during an outage needs two hands. A basic 200–400 lumen headlamp with a red mode (preserves night vision, doesn't wake the household) costs little and changes everything. One per family member; they're no fun to share. [Check headlamps on Amazon →](https://www.amazon.com/s?k=led+headlamp+rechargeable&tag=lightertorch-20)
+The most underrated outage tool. Cooking on a camp stove, taping windows, checking the sump pump, walking the dog — everything during an outage needs two hands. A basic 200–400 lumen headlamp with a red mode (preserves night vision, doesn't wake the household) costs little and changes everything. One per family member; they're no fun to share. Models with a AAA fallback are the smart pick here, for the same reason they win on long trips — see our [best headlamps guide](/best-headlamps-for-camping-and-running/). [Check headlamps on Amazon →](https://www.amazon.com/s?k=led+headlamp+rechargeable&tag=lightertorch-20)
 
 ### Layer 3: One serious handheld
 
