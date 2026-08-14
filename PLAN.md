@@ -63,14 +63,18 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [x] Zippo vs BIC vs arc lighter → `/zippo-vs-bic-vs-arc-lighter/` (2026-08-01)
 - [x] $20 vs $100 flashlight → `/20-vs-100-dollar-flashlight/` (2026-08-02)
 
-### Open item — hero images for the 2026-08-14 batch
+### Hero images for the 2026-08-14 batch — DONE
 
-The three new posts shipped **without `heroImage`** (the layout hides the image
-block when the field is absent, so listings degrade gracefully rather than
-breaking). Prompts are written and waiting in
-`lightertorch-images/PROMPTS-2026-08-14.md` — generate, convert to `.webp` into
-`public/uploads/2026/08/`, then add the `heroImage` line to each of the three
-files. The prompt file lists the exact filenames and frontmatter values.
+All three heroes generated, selected, converted to `.webp` and wired into
+frontmatter on 2026-08-14. Build passes with the images resolving.
+
+**Note for future batches:** the xAI API route is **blocked — the account has no
+credits** (the key in `~/.hermes/.env` is valid, the balance is not). These were
+made through grok.com in the browser instead. `PROMPTS-2026-08-14.md` documents
+the working retrieval method, including the two automation gotchas that waste the
+most time (the download button doesn't complete, and the DOM `<img>` src goes
+stale — take the post ID from the tab URL and fetch the public
+`imagine-public.x.ai` mirror instead).
 
 ## Ongoing
 

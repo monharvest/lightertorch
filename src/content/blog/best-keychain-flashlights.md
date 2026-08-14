@@ -2,6 +2,7 @@
 title: 'Best Keychain Flashlights (2026): 5 Tiny Lights That Actually Last'
 description: 'A keychain flashlight only counts if it still works after a year on your keys. Five picks compared on weight, runtime, durability and accidental activation.'
 pubDate: '2026-08-14'
+heroImage: '/uploads/2026/08/keychain-flashlight-keys-palm.webp'
 categories: ['Buying Guides']
 tags: ['keychain flashlight', 'EDC', 'Olight', 'Nitecore', 'RovyVon', 'Streamlight']
 ---

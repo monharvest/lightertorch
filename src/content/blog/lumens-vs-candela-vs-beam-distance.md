@@ -2,6 +2,7 @@
 title: 'Lumens vs Candela vs Beam Distance: What Flashlight Specs Mean'
 description: 'Lumens measure total light, candela measures the beam, lux measures what lands. The simple math linking all three — and why 2,000 lumens can throw less than 500.'
 pubDate: '2026-08-14'
+heroImage: '/uploads/2026/08/flashlight-beam-comparison-flood-vs-throw.webp'
 categories: ['Buying Guides']
 tags: ['lumens', 'candela', 'lux', 'beam distance', 'ANSI FL1', 'throw', 'flood']
 ---

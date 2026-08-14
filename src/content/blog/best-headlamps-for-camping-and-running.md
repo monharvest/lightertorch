@@ -2,6 +2,7 @@
 title: 'Best Headlamps for Camping & Running (2026): 5 Tested Picks'
 description: 'Camping and running want opposite things from a headlamp. Five picks compared on weight, beam, runtime and bounce — plus which specs actually matter for each.'
 pubDate: '2026-08-14'
+heroImage: '/uploads/2026/08/headlamp-trail-runner-night.webp'
 categories: ['Buying Guides']
 tags: ['headlamp', 'camping', 'trail running', 'Petzl', 'Black Diamond', 'Nitecore']
 ---
