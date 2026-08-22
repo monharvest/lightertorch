@@ -135,8 +135,10 @@ quick wins, 82 existing-content opportunities on 22 URLs.
 
 **Next content, in order:**
 
-1. Rewrite `/sunitact-flashlights-high-lumens-review/` — ranks at 33 but the
-   body is leftover WP junk and names a ThruNite as the verdict.
+1. Rewrite `/sunitact-flashlights-high-lumens-review/` — **DONE 2026-08-22.**
+   Ranks at 33. Replaced WP junk / ThruNite verdict with an honest ST1476
+   review: current Amazon claims, Cree XHP70.2 ceiling, and what to buy instead.
+   Slug unchanged.
 2. Full rewrite of the durable-flashlight body (still generic WP HTML). Metadata
    and links are already in place.
 3. Do **not** add another flashlight buying guide. Wait for GSC on the Aug 14–17
