@@ -81,6 +81,6 @@ Be clear about the compromises before buying: it charges over **micro-USB**, not
 
 **Do I need Anduril?** No. It's powerful and free, but a two-mode light with a good low mode covers 95% of use. Buy the interface you'll enjoy, not the one with the longest feature list.
 
-**Is it worth spending more than $50?** Only for specific things: serious throw, certified impact and submersion ratings, or a warranty you'll actually use. Capability-per-dollar peaks right about here — the full argument is in [$20 vs $100 flashlight](/20-vs-100-dollar-flashlight/).
+**Is it worth spending more than $50?** Only for specific things: serious throw, certified impact and submersion ratings, or a warranty you'll actually use. Capability-per-dollar peaks right about here — the full argument is in [$20 vs $100 flashlight](/20-vs-100-dollar-flashlight/). If the job is weather and drops rather than pocket carry, see [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
 
 **What if I won't carry something this size?** Then buy smaller rather than buying nothing — a light on your keys beats a better light in a drawer. See [best keychain flashlights](/best-keychain-flashlights/) for the sub-25 gram tier, and [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/) for how to read the specs on anything you're comparing.

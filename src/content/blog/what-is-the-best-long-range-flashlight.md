@@ -2,6 +2,7 @@
 title: 'Best Long Range Flashlights: Longest Beam, Strongest & Most Powerful Picks'
 description: 'The best long range flashlights compared: Olight Javelot Turbo (1,300m beam), Astrolux MF05 (3,162m), Fenix PD36R, and more — with lumens, beam distance, and which to buy for hunting, search, and security.'
 pubDate: '2026-08-01'
+updatedDate: '2026-08-22'
 heroImage: '/uploads/2026/08/long-range-flashlight-beam-mountain.webp'
 categories: ['Buying Guides', 'Torch Lighter Reviews']
 tags: ['long range flashlight', 'brightest torch', 'beam distance', 'rechargeable torch']
@@ -61,6 +62,8 @@ Not everyone wants a monster. The Olight S1R Baton II packs **1,000 lumens into 
 - **One strong torch for everything:** [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20)
 - **Tactical/duty use:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20)
 - **Pocket-sized power:** Olight S1R Baton II
+
+If you want the most powerful *rechargeable* torch rather than the longest beam, start with the Fenix PD36R: USB-C charging, 1,600 lumens, and an IP68 body. See the [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for charging and battery trade-offs, and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/) if impact and weather resistance matter more than throw.
 
 For everyday and camping options, see our [top 10 best-selling flashlights](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) and [best camping torches](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
 

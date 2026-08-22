@@ -116,6 +116,38 @@ move that. This is the highest-leverage unaddressed item on the whole roadmap.
 re-pull GSC and check whether the two clusters above moved. That measurement
 matters more than the next post.
 
+## 2026-08-22 — Ubersuggest check + smallest source fixes
+
+Verified US desktop data: 78 keywords, DA 6, 31 referring domains, 4 official
+quick wins, 82 existing-content opportunities on 22 URLs.
+
+**Do not recreate** `/what-is-the-most-powerful-rechargeable-torch/` — it already
+301s to `/what-is-the-best-long-range-flashlight/`. Ubersuggest is stale there.
+
+**Source-ready, not deployed** (push `master` only after Batu approves):
+
+- Homepage now has an H1, a short intro, and links into durable / long-range /
+  Zippo repair / BIC lifespan. Legal pages no longer appear in the post grid.
+- Nav category links use trailing slashes (were causing 308s).
+- Durable-flashlight title/description retargeted; related links added.
+- Long-range page now answers “powerful rechargeable torch” and links back to
+  the durable page. EDC FAQ also links the durable page.
+
+**Next content, in order:**
+
+1. Rewrite `/sunitact-flashlights-high-lumens-review/` — ranks at 33 but the
+   body is leftover WP junk and names a ThruNite as the verdict.
+2. Full rewrite of the durable-flashlight body (still generic WP HTML). Metadata
+   and links are already in place.
+3. Do **not** add another flashlight buying guide. Wait for GSC on the Aug 14–17
+   BIC and Zippo rewrites (~mid-September).
+4. If writing anything new: `best candle lighter` in September (320/mo, seasonal).
+5. Link-building is still the highest-leverage item this plan does not execute.
+
+Ubersuggest “4xx / broken link” is Cloudflare email protection on the privacy
+page (`mailto:support@lightertorch.com`). Leave it unless a rendered-browser
+check shows the mail link is actually dead.
+
 ## Ongoing
 
 - Check **Google Search Console** monthly (GA4 = G-ZWE72TWTHB) — impressions data decides what to write/update next

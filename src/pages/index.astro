@@ -6,9 +6,9 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+const posts = (await getCollection('blog'))
+	.filter((post) => (post.data.categories?.length ?? 0) > 0)
+	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
 
 <!doctype html>
@@ -68,7 +68,29 @@ const posts = (await getCollection('blog')).sort(
 			ul a:hover img {
 				box-shadow: var(--box-shadow);
 			}
-			@media (max-width: 720px) {
+			.intro {
+			max-width: 42rem;
+			margin: 0 0 2rem;
+		}
+		.intro h1 {
+			margin: 0 0 0.6rem;
+			line-height: 1.2;
+		}
+		.intro p,
+		.intro ul {
+			color: rgb(var(--gray-dark));
+		}
+		.intro ul {
+			display: block;
+			margin: 0.75rem 0 0;
+			padding-left: 1.2rem;
+			list-style: disc;
+		}
+		.intro li {
+			width: auto;
+			margin: 0.35rem 0;
+		}
+		@media (max-width: 720px) {
 				ul {
 					gap: 0.5em;
 				}
@@ -88,6 +110,19 @@ const posts = (await getCollection('blog')).sort(
 	<body>
 		<Header />
 		<main>
+			<section class="intro">
+				<h1>Flashlight and lighter guides that stay useful</h1>
+				<p>
+					Reviews and how-tos for buying a flashlight that lasts, fixing a Zippo, and
+					answering the lighter questions people actually search.
+				</p>
+				<ul>
+					<li><a href="/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/">Most durable flashlights</a></li>
+					<li><a href="/what-is-the-best-long-range-flashlight/">Powerful rechargeable and long-range torches</a></li>
+					<li><a href="/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/">Zippo repair and lifetime service</a></li>
+					<li><a href="/a-gas-lighter-last-how-long/">How long a BIC lighter lasts</a></li>
+				</ul>
+			</section>
 			<section>
 				<ul>
 					{
