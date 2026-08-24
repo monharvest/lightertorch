@@ -62,7 +62,7 @@ Camping, wind, cold, and running cost. The arc ignites identically in a gale at 
 - **Best for camping:** Arc lighter, with a BIC as the waterproof-bag backup
 - **Best gift:** Zippo, and it's not close
 
-The honest recommendation for most households is two lighters, not one: an [arc lighter](https://www.amazon.com/s?k=flexible+neck+arc+lighter+candle&tag=lightertorch-20) for daily candle-and-stove duty, and either a Zippo for the pocket or a couple of BICs in the emergency drawer.
+The honest recommendation for most households is two lighters, not one: an [arc lighter](https://www.amazon.com/s?k=flexible+neck+arc+lighter+candle&tag=lightertorch-20) for daily candle-and-stove duty (see the [candle lighter guide](/best-candle-lighters/) for how the household options compare), and either a Zippo for the pocket or a couple of BICs in the emergency drawer.
 
 ## FAQ
 

@@ -86,7 +86,7 @@ The exception is genuinely old ovens with a **standing pilot light** — a small
 
 **What if the burner won't light after several tries?** Turn the gas off and stop. Check the burner cap is seated and the ports are clear, then wait a minute between attempts. Persistent failure is a burner or supply problem, not technique.
 
-**Is it safe to light a gas stove with a regular lighter?** It works, but a short disposable puts your fingers at the burner when the ring catches. A long-reach lighter or fireplace match is the safer tool and costs almost nothing.
+**Is it safe to light a gas stove with a regular lighter?** It works, but a short disposable puts your fingers at the burner when the ring catches. A long-reach lighter or fireplace match is the safer tool and costs almost nothing. The [candle lighter guide](/best-candle-lighters/) covers the long-reach options.
 
 **Why does my stove smell of gas after lighting it manually?** A brief whiff from the failed seconds before ignition is normal. A smell that lingers, or one you notice with all knobs off, is not — ventilate, leave, and call your gas utility.
 

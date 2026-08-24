@@ -31,7 +31,7 @@ Two crossed arcs make an X-shaped ignition zone that lights tinder, paper, and s
 
 ### 2. Flexible-neck arc lighters — best for candles, stoves & grills
 
-A long, bendable neck puts the arc deep into candle jars, gas stove burners, pilot lights, and fire pits while your hand stays clear. If your gas stove igniter has failed, this is the modern answer to the classic long-nose utility lighter (and beats [lighting the stove manually with matches](/manually-lighting-a-gas-stove/)). [Browse candle arc lighters](https://www.amazon.com/s?k=flexible+neck+arc+lighter+candle&tag=lightertorch-20).
+A long, bendable neck puts the arc deep into candle jars, gas stove burners, pilot lights, and fire pits while your hand stays clear. If your gas stove igniter has failed, this is the modern answer to the classic long-nose utility lighter (and beats [lighting the stove manually with matches](/manually-lighting-a-gas-stove/)). [Browse candle arc lighters](https://www.amazon.com/s?k=flexible+neck+arc+lighter+candle&tag=lightertorch-20). If candles are your main use rather than camping, our [candle lighter buying guide](/best-candle-lighters/) compares arc against butane and long-reach models for the home.
 
 ### 3. Outdoor/survival arc lighters — best for emergency kits
 
