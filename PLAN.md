@@ -47,7 +47,7 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [x] Best keychain flashlights → `/best-keychain-flashlights/` (2026-08-14)
 - [~] ~~Best flashlights for kids (gift intent)~~ — **KILLED 2026-08-17.** Ubersuggest: search volume **0**. The gift-intent logic was fine, the keyword doesn't exist. Validate volume before writing anything else on this list.
 - [x] Best arc/plasma lighters for camping → `/best-arc-lighters-for-camping/` (2026-08-01)
-- [ ] Best candle lighters for the home — **best remaining buying guide.** "best candle lighter" = 320/mo, transactional, CPC $1.70, and strongly seasonal (210 summer → 480 Nov → **720 Dec**). SD 39 is a stretch at DA 6, so treat as a Q4 bet. Write in September to index before the season. Must differentiate from `/best-arc-lighters-for-camping/` (home/kitchen/candle vs outdoor) to avoid the cannibalization problem just fixed on the camping post.
+- [x] Best candle lighters for the home → `/best-candle-lighters/` (2026-08-24) — "best candle lighter" 320/mo, transactional, seasonal (210 summer → 480 Nov → 720 Dec); published ahead of the peak. Compares electric arc vs refillable butane vs disposable long-reach, differentiated from the arc guide (which covers arc tech for camping). Backlinks added from the arc guide, the Zippo/BIC/arc comparison, and the gas stove post. **Hero image outstanding** — prompt in `lightertorch-images/PROMPTS-2026-08-24.md`; currently the only real article on the site without one.
 - [x] Zippo gift guide by budget → `/zippo-gift-guide/` (2026-08-02)
 
 ### Question posts (easy rankings, feed internal links)
