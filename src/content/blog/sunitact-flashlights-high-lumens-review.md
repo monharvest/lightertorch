@@ -40,7 +40,7 @@ For scale, ANSI-rated lights we cover elsewhere:
 | Light | Claimed / rated output | What the number means |
 |---|---|---|
 | Sunitact ST1476 | 20,000 lm (was 990,000) | Marketing copy, not ANSI FL1 |
-| [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) | 1,600 lm | Measured, with a published step-down |
+| [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | 1,600 lm | Measured, with a published step-down |
 | [Olight Javelot Turbo](/what-is-the-best-long-range-flashlight/) | 1,300 lm / 1,300 m | A real thrower; still nowhere near 20,000 lm |
 
 The 5,000 ft beam is the same problem. That is about **1,500 m**. Our [long-range guide](/what-is-the-best-long-range-flashlight/) treats 1,300 m as a dedicated thrower with a deep reflector. A zoomable $22 host does not do that.
@@ -63,7 +63,7 @@ That is a glove-box or junk-drawer light. It is not a camping, duty, or “one f
 
 **Same budget, honest specs.** A [Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) or a light from [best EDC flashlights under $50](/best-edc-flashlights-under-50/) — Sofirn, Wurkkos, or the Olight i5R. You lose the fake lumen number and gain a regulated driver and a brand that will still exist next year.
 
-**One light you will actually depend on.** The [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20): USB-C, IP68, published runtime. See [USB-C rechargeable flashlights](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
+**One light you will actually depend on.** The [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20): USB-C, IP68, published runtime. See [USB-C rechargeable flashlights](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
 
 **Distance.** Ignore Sunitact’s 5,000 ft line and use the [long-range flashlight guide](/what-is-the-best-long-range-flashlight/).
 

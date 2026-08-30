@@ -68,4 +68,4 @@ The table above is TSA (US domestic and departures). Most countries follow simil
 
 ---
 
-*Traveling to go camping? Pack a legal setup: a [rechargeable flashlight](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) with the battery installed, an [arc lighter](https://www.amazon.com/s?k=rechargeable+arc+lighter&tag=lightertorch-20) with its safety cap, and buy your lighter fluid at the destination.*
+*Traveling to go camping? Pack a legal setup: a [rechargeable flashlight](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) with the battery installed, an [arc lighter](https://www.amazon.com/s?k=rechargeable+arc+lighter&tag=lightertorch-20) with its safety cap, and buy your lighter fluid at the destination.*

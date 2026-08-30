@@ -7,7 +7,7 @@ categories: ['Buying Guides', 'Safety Tips']
 tags: ['power outage', 'hurricane season', 'emergency flashlight', 'blackout kit', 'emergency preparedness']
 ---
 
-**Quick answer:** For a blackout you want **runtime, not lumens** — a light that does 100–300 lumens for days beats a 3,000-lumen monster that dies in an hour. The ideal kit is three layers: a **lantern** for the room ([browse LED lanterns](https://www.amazon.com/s?k=led+camping+lantern+battery+operated&tag=lightertorch-20)), a **headlamp** per person for moving around hands-free ([browse headlamps](https://www.amazon.com/s?k=led+headlamp+rechargeable&tag=lightertorch-20)), and one strong **handheld** like the [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) for checking the breaker box, the yard, and the storm damage.
+**Quick answer:** For a blackout you want **runtime, not lumens** — a light that does 100–300 lumens for days beats a 3,000-lumen monster that dies in an hour. The ideal kit is three layers: a **lantern** for the room ([browse LED lanterns](https://www.amazon.com/s?k=led+camping+lantern+battery+operated&tag=lightertorch-20)), a **headlamp** per person for moving around hands-free ([browse headlamps](https://www.amazon.com/s?k=led+headlamp+rechargeable&tag=lightertorch-20)), and one strong **handheld** like the [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) for checking the breaker box, the yard, and the storm damage.
 
 Hurricane season peaks in late August and September, and the time to build this kit is before the forecast has a cone on it — emergency lights sell out in the 48 hours before landfall, every year, everywhere.
 
@@ -27,7 +27,7 @@ The most underrated outage tool. Cooking on a camp stove, taping windows, checki
 
 ### Layer 3: One serious handheld
 
-For everything outside the house: downed branches, the breaker panel, signaling, walking a dark street. This is where our usual advice applies — see [things to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/) — but for storms, weight **waterproofing (IPX7+)** and a **low mode with 100+ hour runtime** over maximum lumens. Our pick is the same light we recommend everywhere: the [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) — 1,600 lumens when you need power, 115 hours at 30 lumens when you need endurance, IP68 submersible, USB-C. A [budget tactical light](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) covers the same role for less.
+For everything outside the house: downed branches, the breaker panel, signaling, walking a dark street. This is where our usual advice applies — see [things to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/) — but for storms, weight **waterproofing (IPX7+)** and a **low mode with 100+ hour runtime** over maximum lumens. Our pick is the same light we recommend everywhere: the [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,600 lumens when you need power, 115 hours at 30 lumens when you need endurance, IP68 submersible, USB-C. A [budget tactical light](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) covers the same role for less.
 
 ## The Battery Strategy (This Is the Part People Get Wrong)
 

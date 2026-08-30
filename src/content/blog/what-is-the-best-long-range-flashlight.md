@@ -18,7 +18,7 @@ Long-range flashlights — "throwers" in enthusiast slang — are built for hunt
 |---|---|---|---|
 | Olight Javelot Turbo | 1,300 | 1,300 m | Best overall thrower |
 | Astrolux MF05 | 7,500 | 3,162 m | Longest beam, period |
-| [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) | 1,600 | 283 m | Strongest all-rounder |
+| [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | 1,600 | 283 m | Strongest all-rounder |
 | [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20) | 4,000 | 220 m | Tactical use |
 | Olight S1R Baton II | 1,000 | 145 m | Most powerful compact |
 
@@ -42,7 +42,7 @@ The trade-offs: turbo mode is limited to short bursts (about 70 seconds) before 
 
 ## Fenix PD36R — Strongest All-Round Torch
 
-The [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) is what we'd call the strongest *practical* torch: 1,600 lumens, a 283-meter beam, and the durability to survive being your only light.
+The [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) is what we'd call the strongest *practical* torch: 1,600 lumens, a 283-meter beam, and the durability to survive being your only light.
 
 - **Runtime:** up to 115 hours at 30 lumens — weeks of casual use per charge.
 - **USB-C fast charging** — no proprietary cables.
@@ -59,7 +59,7 @@ Not everyone wants a monster. The Olight S1R Baton II packs **1,000 lumens into 
 
 - **Hunting, search & rescue, spotting at extreme range:** Astrolux MF05
 - **Serious thrower that's still portable:** Olight Javelot Turbo
-- **One strong torch for everything:** [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20)
+- **One strong torch for everything:** [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
 - **Tactical/duty use:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20)
 - **Pocket-sized power:** Olight S1R Baton II
 

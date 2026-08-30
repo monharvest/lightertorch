@@ -231,7 +231,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <div class="cta-block">
 <h3 class="cta-block-title">Ready for Any Adventure</h3>
 <p class="cta-block-text">The Fenix PD36R Pro offers unmatched performance for serious outdoor enthusiasts who need reliable illumination in any condition.</p>
-<a href="https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="1" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="1" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
 </section><section id="budget-pick">
 <h2>Best Budget Camping Torch: Acebeam TAC 2AA</h2>

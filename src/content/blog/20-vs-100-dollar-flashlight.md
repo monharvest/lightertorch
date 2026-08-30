@@ -52,7 +52,7 @@ The key is buying a *reputable* budget light rather than a lying one: a [Streaml
 - **Daily carry** — anything used daily amortizes to pennies; buy once
 - **Camping, hiking, hunting** — regulated output and real waterproofing are the difference between gear and toys ([our camping picks](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/))
 - **Work** — if a dead light stops the job, the warranty and build quality are the product
-- **Emergencies** — the [Fenix PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20) does 115 hours on low; that's a week of blackout on one charge
+- **Emergencies** — the [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) does 115 hours on low; that's a week of blackout on one charge
 
 ## The Verdict
 
@@ -60,7 +60,7 @@ Think in three tiers, not two:
 
 - **$15–25:** honest budget brands only — drawer, car, kids, loaners
 - **$35–70:** the value sweet spot — 90% of premium performance ([best sellers live here](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/))
-- **$90–130:** buy-once lights for people who use them like tools — [check the PD36R](https://www.amazon.com/Fenix-PD36R-Rechargeable-Flashlight-Battery/dp/B081NQXZJF/?tag=lightertorch-20)
+- **$90–130:** buy-once lights for people who use them like tools — [check the PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
 
 The only wrong purchase is the $20 light wearing a $100 light's claims. Check for ANSI ratings, a named LED, and a real warranty — [our buying checklist](/things-to-look-for-in-a-good-led-flashlights/) covers the rest.
 
