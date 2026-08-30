@@ -14,6 +14,8 @@ Affiliate content site about flashlights/torches and lighters. Astro 5 static si
 - Redirects live in `public/_redirects` (Cloudflare Pages format). **Always add both slash variants** (`/old` and `/old/`) — Pages matches exactly.
 - When deleting/merging a post, always 301 its URL.
 - Images: use existing files under `public/uploads/`. Never hotlink external/signed CDN URLs (a previous post used expiring manuscdn.com links — they were removed).
+- AI-generated images live in `~/Documents/Obsidian/Projects/websites/active/LighterTorch/lightertorch-images/` (not in this site repo).
+- Do not deploy unless Batu asks.
 - Style decision: US English primary ("flashlight" in titles; "torch" as secondary keyword). Niche is flashlights + lighters only — no off-topic posts.
 - Site identity (title/description) is in `src/consts.ts`.
 
