@@ -57,7 +57,11 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [x] Can you bring a lighter/flashlight on a plane? → `/can-you-bring-a-lighter-on-a-plane/` (2026-08-01)
 - [ ] Butane vs lighter fluid: which Zippo insert?
 - [ ] How to store lighters and fuel safely
-- [ ] IP ratings explained (IPX7 etc.)
+- [ ] IP ratings explained (IPX7 etc.) — **check for cannibalization first.** The
+  2026-08-30 durable-flashlight rewrite now carries a full IPX4/IPX7/IPX8/IP68
+  table plus the ANSI FL1 drop test and the MIL-STD-810 debunk. A standalone page
+  would compete with it; if written, it should go deeper on IEC 60529 itself and
+  link back rather than repeat.
 
 ### Comparison posts (near-purchase intent)
 - [x] Olight vs Fenix vs Streamlight → `/olight-vs-fenix-vs-streamlight/` (published 2026-08-01; use as the template for future comparison posts)
@@ -139,12 +143,34 @@ quick wins, 82 existing-content opportunities on 22 URLs.
    Ranks at 33. Replaced WP junk / ThruNite verdict with an honest ST1476
    review: current Amazon claims, Cree XHP70.2 ceiling, and what to buy instead.
    Slug unchanged.
-2. Full rewrite of the durable-flashlight body (still generic WP HTML). Metadata
-   and links are already in place.
-3. Do **not** add another flashlight buying guide. Wait for GSC on the Aug 14–17
+2. Full rewrite of the durable-flashlight body — **DONE 2026-08-30.** Slug,
+   title and meta unchanged (retargeted 08-22, left alone). Replaced ~750
+   words of generic WP HTML with ~2,150 words of markdown built around the two
+   ratings that are actually tested (ANSI/PLATO FL 1 six-drop impact test, IEC
+   60529 IP codes), why MIL-STD-810 is not a certification, the parts that
+   actually fail (O-rings, switch boots, zoom heads, charge ports, alkaline
+   leakage), and the warranty exclusion lists. Deliberately **not** a new buying
+   guide — the product table is five lights whose numbers were verified against
+   the manufacturer, kept as evidence for the argument rather than as picks.
+   Killed three fabrications the old table carried: a **Gerber
+   Applegate-Fairbairn (a knife, not a flashlight)** with invented lumen/beam
+   figures, garbled price cells (`90–90–100`), and a discontinued Olight Warrior
+   X Pro.
+3. **Dead affiliate ASIN fixed sitewide, 2026-08-30.** The Fenix PD36R link
+   (`B081NQXZJF`) 404s — Fenix discontinued the original in favor of the
+   PD36R V2.0. It appeared **17 times across 10 posts** and was our most-used
+   product link. All 17 now point at `amazon.com/s?k=fenix+pd36r` (model-
+   agnostic, keeps working). **Still outstanding:** those pages still quote the
+   *original's* specs (1,600 lm / 283 m). The V2.0 is 1,700 lm / 396 m / IP68 /
+   1.5 m drop, ASIN `B0H73HZH2Y`. Worth a spec sweep across
+   long-range, police, $20-vs-$100, Olight-vs-Fenix-vs-Streamlight and Sunitact.
+   Lesson: **probe ASINs before trusting an old link** — `curl -o /dev/null -w
+   '%{http_code}' https://www.amazon.com/dp/<ASIN>` returns 404 on dead ones and
+   200 on live ones.
+4. Do **not** add another flashlight buying guide. Wait for GSC on the Aug 14–17
    BIC and Zippo rewrites (~mid-September).
-4. If writing anything new: `best candle lighter` in September (320/mo, seasonal).
-5. Link-building is still the highest-leverage item this plan does not execute.
+5. If writing anything new: `best candle lighter` in September (320/mo, seasonal).
+6. Link-building is still the highest-leverage item this plan does not execute.
 
 Ubersuggest “4xx / broken link” is Cloudflare email protection on the privacy
 page (`mailto:support@lightertorch.com`). Leave it unless a rendered-browser
