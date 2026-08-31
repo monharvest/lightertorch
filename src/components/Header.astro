@@ -3,10 +3,28 @@ import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
-<header>
+<header id="site-header">
 	<nav>
 		<h2><a href="/"><img src="/logo.png" alt="Lighter & Torch" width="224" height="80" /></a></h2>
-		<div class="internal-links">
+		<button
+			id="nav-toggle"
+			class="nav-toggle"
+			type="button"
+			aria-label="Menu"
+			aria-expanded="false"
+			aria-controls="internal-links"
+		>
+			<svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+				<line x1="3" y1="6" x2="21" y2="6"></line>
+				<line x1="3" y1="12" x2="21" y2="12"></line>
+				<line x1="3" y1="18" x2="21" y2="18"></line>
+			</svg>
+			<svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+				<line x1="5" y1="5" x2="19" y2="19"></line>
+				<line x1="19" y1="5" x2="5" y2="19"></line>
+			</svg>
+		</button>
+		<div class="internal-links" id="internal-links">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/category/buying-guides/">Buying Guides</HeaderLink>
 			<HeaderLink href="/category/torch-lighter-reviews/">Reviews</HeaderLink>
@@ -16,6 +34,42 @@ import HeaderLink from './HeaderLink.astro';
 		</div>
 	</nav>
 </header>
+<script is:inline>
+	// Runs during parse, right after the header, so the collapsed state is in
+	// place before first paint. Without JS the header keeps its plain wrapping
+	// layout and every link stays reachable.
+	(function () {
+		var header = document.getElementById('site-header');
+		var toggle = document.getElementById('nav-toggle');
+		if (!header || !toggle) return;
+
+		header.classList.add('js');
+
+		function setOpen(open) {
+			header.classList.toggle('open', open);
+			toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+		}
+
+		toggle.addEventListener('click', function () {
+			setOpen(!header.classList.contains('open'));
+		});
+
+		document.addEventListener('keydown', function (event) {
+			if (event.key === 'Escape' && header.classList.contains('open')) {
+				setOpen(false);
+				toggle.focus();
+			}
+		});
+
+		// Reset state when the viewport grows past the mobile breakpoint, so the
+		// button never reports "expanded" while the desktop nav is showing.
+		window.addEventListener('resize', function () {
+			if (window.innerWidth > 720 && header.classList.contains('open')) {
+				setOpen(false);
+			}
+		});
+	})();
+</script>
 <style>
 	header {
 		margin: 0;
@@ -36,6 +90,7 @@ import HeaderLink from './HeaderLink.astro';
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
+		flex-wrap: wrap;
 	}
 	nav a {
 		padding: 1em 0.5em;
@@ -47,13 +102,59 @@ import HeaderLink from './HeaderLink.astro';
 		text-decoration: none;
 		border-bottom-color: var(--accent);
 	}
-	.social-links,
-	.social-links a {
-		display: flex;
+	.nav-toggle {
+		display: none;
 	}
+	.icon-close {
+		display: none;
+	}
+
 	@media (max-width: 720px) {
-		.social-links {
+		header.js .nav-toggle {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			width: 44px;
+			height: 44px;
+			padding: 0;
+			border: 0;
+			border-radius: 6px;
+			background: none;
+			color: rgb(var(--black));
+			cursor: pointer;
+		}
+		header.js .nav-toggle:focus-visible {
+			outline: 2px solid var(--accent);
+			outline-offset: 2px;
+		}
+		header.js.open .icon-open {
 			display: none;
+		}
+		header.js.open .icon-close {
+			display: block;
+		}
+		header.js .internal-links {
+			flex-basis: 100%;
+			display: none;
+		}
+		header.js.open .internal-links {
+			display: flex;
+			flex-direction: column;
+			padding-bottom: 0.5em;
+		}
+		header.js.open .internal-links a {
+			display: block;
+			padding: 0.75em 0.25em;
+			border-bottom: 1px solid rgb(var(--gray-light));
+		}
+		header.js.open .internal-links a.active {
+			border-bottom-color: var(--accent);
+		}
+		header.js.open .internal-links a:last-child {
+			border-bottom-color: transparent;
+		}
+		header.js.open .internal-links a.active:last-child {
+			border-bottom-color: var(--accent);
 		}
 	}
 </style>
