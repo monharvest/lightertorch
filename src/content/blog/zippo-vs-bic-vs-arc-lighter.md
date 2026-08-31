@@ -26,7 +26,7 @@ Rough figures for someone using a lighter several times a day — candles, stove
 
 Three things the table hides:
 
-1. **The Zippo's cost is mostly evaporation.** Zippo fluid escapes through the wick within one to two weeks even if you never strike it — a full refill schedule regardless of use. It's the classic complaint we cover in [how long a gas lighter lasts](/a-gas-lighter-last-how-long/). (The [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) largely fixes this, at the cost of the classic flame.)
+1. **The Zippo's cost is mostly evaporation.** Zippo fluid escapes through the wick within one to two weeks even if you never strike it — a full refill schedule regardless of use. It's the classic complaint we cover in [how long a gas lighter lasts](/a-gas-lighter-last-how-long/). (The [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) largely fixes this, at the cost of the classic flame — and of the lifetime guarantee; see [which Zippo insert to buy](/butane-vs-lighter-fluid-zippo-insert/).)
 2. **BICs are cheap per unit, not per decade.** A dozen disposables a year quietly matches a mid-range Zippo's fluid bill — and unlike the Zippo, you own nothing at the end.
 3. **The arc lighter's "consumable" is the device itself.** Its lithium cell fades after a few hundred charge cycles, so you'll replace the whole unit every few years. Even so, it's the cheapest option over any horizon.
 
@@ -68,7 +68,7 @@ The honest recommendation for most households is two lighters, not one: an [arc 
 
 **Do BIC lighters expire?** No official expiry — sealed butane keeps for years. The flint wheel can corrode in damp storage, so keep spares dry.
 
-**Is Zippo fluid interchangeable with butane?** No. Classic Zippo inserts burn naphtha-based [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20); butane only belongs in the dedicated butane insert. Mixing them up is a safety problem — see our [Zippo safety guide](/can-a-zippo-explode/).
+**Is Zippo fluid interchangeable with butane?** No. Classic Zippo inserts burn naphtha-based [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20); butane only belongs in the dedicated butane insert. Mixing them up is a safety problem — see our [Zippo safety guide](/can-a-zippo-explode/) and our [guide to choosing an insert](/butane-vs-lighter-fluid-zippo-insert/).
 
 **Why does my arc lighter click but not light things?** The arc needs direct contact with something thin and dry — tinder, a wick, paper edge. It has far less reach than a flame; that's the design trade-off.
 

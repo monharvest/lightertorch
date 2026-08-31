@@ -39,7 +39,7 @@ Two things people get wrong here:
 - **Don't overfill.** Excess naphtha runs out onto your palm and then you're holding a burning hand. If fluid pools or the insert feels wet on the outside, blot it and wait.
 - **Wait about two minutes** before striking, and wipe your hands. This isn't fussiness — see [can a Zippo explode?](/can-a-zippo-explode/) for what actually goes wrong with fuel-soaked lighters.
 
-Never put butane in a standard Zippo insert. Butane needs Zippo's own pressurised butane insert, which is a different product entirely. If you want a butane flame in a Zippo case, buy the insert — don't improvise.
+Never put butane in a standard Zippo insert. Butane needs Zippo's own pressurised butane insert, which is a different product entirely. If you want a butane flame in a Zippo case, buy the insert — don't improvise. Which one, and what it costs you in warranty terms, is covered in [butane vs lighter fluid: which Zippo insert](/butane-vs-lighter-fluid-zippo-insert/).
 
 ### 2. Flint replacement
 
@@ -80,7 +80,7 @@ Start at zippo.com's repair clinic page for the current form and shipping addres
 
 **Consumables — flints, wicks, fluid, cotton, felt pads.** These are stocked everywhere. [Amazon](https://www.amazon.com/s?k=zippo+flints+wicks+fluid&tag=lightertorch-20), tobacconists, hardware stores, and zippo.com all carry them, and there's no real reason to pay a premium. Genuine Zippo flints are cheap enough that third-party alternatives aren't worth the risk of a soft flint chewing up your wheel.
 
-**Inserts.** A complete replacement insert is the shortcut when a lighter has been abused and you'd rather not fiddle. Standard inserts, butane single-torch, and butane double-torch inserts all drop into the same case.
+**Inserts.** A complete replacement insert is the shortcut when a lighter has been abused and you'd rather not fiddle. Standard inserts, butane single-torch, and butane double-torch inserts all drop into the same case — though the butane ones [won't fit a Slim, Armor or 1935 Replica](/butane-vs-lighter-fluid-zippo-insert/), and carry a two-year warranty rather than the lifetime guarantee.
 
 **Case parts — hinges, cams, springs.** Zippo does not sell these to consumers. This is deliberate: it's what the free repair service exists for. Anyone selling you a "genuine Zippo hinge pin" is selling salvage. Send the lighter in instead.
 
