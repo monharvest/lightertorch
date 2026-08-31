@@ -19,7 +19,7 @@ Long-range flashlights — "throwers" in enthusiast slang — are built for hunt
 | Olight Javelot Turbo | 1,300 | 1,300 m | Best overall thrower |
 | Astrolux MF05 | 7,500 | 3,162 m | Longest beam, period |
 | [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | 1,600 | 283 m | Strongest all-rounder |
-| [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20) | 4,000 | 220 m | Tactical use |
+| [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) | 4,000 | 220 m | Tactical use |
 | Olight S1R Baton II | 1,000 | 145 m | Most powerful compact |
 
 ## Beam Distance vs Lumens: What Actually Matters
@@ -60,7 +60,7 @@ Not everyone wants a monster. The Olight S1R Baton II packs **1,000 lumens into 
 - **Hunting, search & rescue, spotting at extreme range:** Astrolux MF05
 - **Serious thrower that's still portable:** Olight Javelot Turbo
 - **One strong torch for everything:** [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
-- **Tactical/duty use:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20)
+- **Tactical/duty use:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20)
 - **Pocket-sized power:** Olight S1R Baton II
 
 If you want the most powerful *rechargeable* torch rather than the longest beam, start with the Fenix PD36R: USB-C charging, 1,600 lumens, and an IP68 body. See the [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for charging and battery trade-offs, and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/) if impact and weather resistance matter more than throw.

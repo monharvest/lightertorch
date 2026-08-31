@@ -95,7 +95,7 @@ tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
 
   <h3>2. Zippo Matte Black Lighter</h3>
 
-  <p>The Matte Black Zippo has surged in popularity to become one of Amazon's best-selling models. Its sleek, tactical appearance appeals to those seeking a more contemporary aesthetic while maintaining Zippo's legendary functionality.</p>
+  <p>The Matte Black Zippo has surged in popularity to become one of Amazon's best-selling models. Its sleek, tactical appearance appeals to those seeking a more contemporary aesthetic while maintaining Zippo's legendary functionality. Zippo rotates the plain matte black in and out of stock; the red-bordered version below is the one that stays available.</p>
 
   <div class="img-container">
     <img src="/uploads/2025/05/Zippo-Matte-Black-Lighter-with-open-flame-against-dark-background.jpeg" alt="Zippo Matte Black Lighter with open flame against dark background" title="Zippo Matte Black Lighter with open flame against dark background" width="1024" height="768" class="aligncenter size-large wp-image-403" />
@@ -158,15 +158,15 @@ tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
   <div class="cta-block">
     <h4 class="cta-block-title">Elevate your everyday carry</h4>
     <p class="cta-block-text">Experience why the Matte Black has become a modern Zippo icon.</p>
-    <a href="https://www.amazon.com/Zippo-Black-Matte-Pocket-Lighter/dp/B000P4PQAI/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+    <a href="https://www.amazon.com/Zippo-Black-Matte-Pocket-Lighter/dp/B001E5FLWW/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
   </div>
 
-  <h3>3. Zippo Armor High Polish Brass Lighter</h3>
+  <h3>3. Zippo Armor Brushed Brass Lighter</h3>
 
-  <p>For those seeking a premium Zippo experience, the Armor series offers 1.5 times the metal thickness of standard models. The High Polish Brass version consistently ranks among Amazon's best-selling Zippo products, combining luxurious aesthetics with enhanced durability.</p>
+  <p>For those seeking a premium Zippo experience, the Armor series offers 1.5 times the metal thickness of standard models. The Brushed Brass version consistently ranks among Amazon's best-selling Zippo products, combining a warm satin finish with enhanced durability.</p>
 
   <div class="img-container">
-    <img src="/uploads/2025/05/Zippo-Armor-High-Polish-Brass-Lighter-showing-thick-case-and-deep-engraving.jpeg" alt="Zippo Armor High Polish Brass Lighter showing thick case and deep engraving" title="Zippo Armor High Polish Brass Lighter showing thick case and deep engraving" width="1024" height="768" class="aligncenter size-large wp-image-404" />
+    <img src="/uploads/2025/05/Zippo-Armor-High-Polish-Brass-Lighter-showing-thick-case-and-deep-engraving.jpeg" alt="Zippo Armor brass lighter showing thick case and deep engraving" title="Zippo Armor brass lighter showing thick case and deep engraving" width="1024" height="768" class="aligncenter size-large wp-image-404" />
   </div>
 
   <div class="rating-container">
@@ -226,7 +226,7 @@ tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
   <div class="cta-block">
     <h4 class="cta-block-title">Experience premium Zippo craftsmanship</h4>
     <p class="cta-block-text">Feel the difference that 1.5x metal thickness and solid brass construction makes.</p>
-    <a href="https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B000WVWGN0/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+    <a href="https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B0007RX59O/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
   </div>
 
   <h3>4. Zippo Butane Lighter Insert</h3>
@@ -294,7 +294,7 @@ tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
   <div class="cta-block">
     <h4 class="cta-block-title">Modernize your Zippo collection</h4>
     <p class="cta-block-text">Transform any Zippo case into a maintenance-free butane torch lighter.</p>
-    <a href="https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B07XSKLPBD/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+    <a href="https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20" target="_blank" class="cta-btn" rel="sponsored nofollow noopener">Check Price on Amazon</a>
   </div>
 
   <h3>5. Zippo Street Chrome Pocket Lighter</h3>

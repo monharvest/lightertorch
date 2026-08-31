@@ -1,6 +1,6 @@
 ---
-title: 'The 10 Best Camping Torches & Flashlights of 2026 (Tested Picks)'
-description: 'The 10 best camping torches of 2026 compared — brightness, battery life, waterproofing, and weight — with the right pick for backpacking, car camping, and emergencies.'
+title: 'The Best Camping Torches & Flashlights of 2026 (Tested Picks)'
+description: 'The best camping torches of 2026 compared — brightness, battery life, waterproofing, and weight — with the right pick for backpacking, car camping, and emergencies.'
 pubDate: '2025-06-27'
 heroImage: '/uploads/2026/08/camping-lantern-tent-night.webp'
 categories: ['Buying Guides']
@@ -81,15 +81,6 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Weight">5.96 oz</td>
 </tr>
 <tr>
-<td data-label="Model">ThruNite Archer 2A C</td>
-<td data-label="Lumens">500</td>
-<td data-label="Battery Type">AA or Rechargeable</td>
-<td data-label="Runtime (High/Low)">2h/51h</td>
-<td data-label="Waterproof Rating">IPX7</td>
-<td data-label="Special Features">Dual Fuel, Firefly Mode</td>
-<td data-label="Weight">1.7 oz</td>
-</tr>
-<tr>
 <td data-label="Model">Nitecore EDC27</td>
 <td data-label="Lumens">3,000</td>
 <td data-label="Battery Type">Built-in Li-ion</td>
@@ -103,7 +94,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Lumens">1,600</td>
 <td data-label="Battery Type">AA or Rechargeable</td>
 <td data-label="Runtime (High/Low)">1.5h/36h</td>
-<td data-label="Waterproof Rating">IPX7</td>
+<td data-label="Waterproof Rating">IP68</td>
 <td data-label="Special Features">USB-C Charging, Tactical Design</td>
 <td data-label="Weight">3.37 oz</td>
 </tr>
@@ -115,24 +106,6 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Waterproof Rating">IPX8</td>
 <td data-label="Special Features">Magnetic Charging, Pocket Clip</td>
 <td data-label="Weight">3.8 oz</td>
-</tr>
-<tr>
-<td data-label="Model">Coast G32</td>
-<td data-label="Lumens">465</td>
-<td data-label="Battery Type">2 AA</td>
-<td data-label="Runtime (High/Low)">2.5h/17h</td>
-<td data-label="Waterproof Rating">IPX4</td>
-<td data-label="Special Features">Zoom Focus, Affordable</td>
-<td data-label="Weight">6.9 oz</td>
-</tr>
-<tr>
-<td data-label="Model">Blackfire Magnetic</td>
-<td data-label="Lumens">500</td>
-<td data-label="Battery Type">Rechargeable Li-ion</td>
-<td data-label="Runtime (High/Low)">3h/30h</td>
-<td data-label="Waterproof Rating">IPX7</td>
-<td data-label="Special Features">Magnetic Base, Side Lantern</td>
-<td data-label="Weight">6.9 oz</td>
 </tr>
 <tr>
 <td data-label="Model">Petzl Headlamp</td>
@@ -295,12 +268,12 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 </div>
 </div>
 
-<p>The Acebeam TAC 2AA features five brightness modes plus a strobe function for emergencies. Its IPX7 waterproof rating means it can handle rain and temporary submersion, while the aircraft aluminum body provides good durability for outdoor adventures.</p>
+<p>The Acebeam TAC 2AA features five brightness modes plus a strobe function for emergencies. Its IP68 waterproof rating means it can handle rain and sustained submersion, while the aircraft aluminum body provides good durability for outdoor adventures.</p>
 
 <div class="cta-block">
 <h3 class="cta-block-title">Affordable Performance</h3>
 <p class="cta-block-text">Get exceptional brightness and versatility without breaking the bank with the Acebeam TAC 2AA.</p>
-<a href="https://www.amazon.com/ACEBEAM-Flashlight-Rechargeable-Waterproof-Brightness/dp/B0BVLJ1KJZ/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="2" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/ACEBEAM-Flashlight-Rechargeable-Waterproof-Brightness/dp/B0DCMHQBKQ/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="2" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
 </section><section id="edc-pick">
 <h2>Best EDC Camping Torch: Nitecore EDC27</h2>
@@ -369,76 +342,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <div class="cta-block">
 <h3 class="cta-block-title">Power in Your Pocket</h3>
 <p class="cta-block-text">Experience exceptional brightness and smart features in a pocket-sized package with the Nitecore EDC27.</p>
-<a href="https://www.amazon.com/NITECORE-Flashlight-Rechargeable-Intelligent-Waterproof/dp/B0B6F7VWMR/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="3" rel="sponsored nofollow noopener">Check Price on Amazon</a>
-</div>
-</section><section id="magnetic-pick">
-<h2>Best Magnetic Camping Torch: Blackfire Rechargeable Magnetic Flashlight</h2>
-
-<div class="img-container">
-<img src="/uploads/2025/06/Blackfire-magnetic-camping-torch-attached-to-a-metal-surface-with-its-side-lantern-illuminated.jpeg" alt="Blackfire magnetic camping torch attached to a metal surface with its side lantern illuminated, showing versatility of best camping torches" title="Blackfire magnetic camping torch attached to a metal surface with its side lantern illuminated, showing versatility of best camping torches" width="1024" height="768" class="aligncenter size-large wp-image-433" />
-</div>
-
-<div class="rating-container">
-<div class="rating-overall">
-<div class="rating-score">7.3</div>
-<div class="rating-stars" data-rating="7.3"></div>
-<div class="rating-label">Good</div>
-</div>
-<div class="rating-details">
-<div class="rating-item">
-<div class="rating-name">Brightness</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 70{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">7.0</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Battery Life</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 76{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">7.6</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Durability</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 74{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">7.4</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Versatility</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 86{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">8.6</div>
-</div>
-</div>
-</div>
-
-<p>The Blackfire Rechargeable Magnetic Flashlight earns its place among the best camping torches thanks to its exceptional versatility. This innovative light combines a traditional flashlight with a side-mounted lantern and a powerful magnetic base, making it perfect for hands-free use around camp.</p>
-
-<p>What makes this torch particularly useful for campers is its dual-light functionality. The main beam provides 500 lumens of directional light, while the side lantern creates ambient illumination perfect for inside tents or as a work light. The strong magnetic base lets you attach it to vehicle hoods, tent poles, or any metal surface for hands-free operation.</p>
-
-<div class="pros-cons">
-<div class="pros">
-<h4 class="pros-title">Pros</h4>
-<ul>
-<li>Versatile combination of flashlight and lantern</li>
-<li>Strong magnetic base for hands-free use</li>
-<li>Affordable price point</li>
-<li>Glow-in-dark bezel for easy finding</li>
-<li>Weatherproof construction</li>
-</ul>
-</div>
-<div class="cons">
-<h4 class="cons-title">Cons</h4>
-<ul>
-<li>Lower brightness than premium options</li>
-<li>Heavier than compact models</li>
-<li>Limited beam distance</li>
-</ul>
-</div>
-</div>
-
-<p>The Blackfire features four brightness modes plus the lantern function, with runtimes up to 30 hours on lower settings. Its rechargeable lithium-ion battery provides reliable power, while the IPX7 waterproof rating ensures it can handle rain and temporary submersion during outdoor adventures.</p>
-
-<div class="cta-block">
-<h3 class="cta-block-title">Hands-Free Versatility</h3>
-<p class="cta-block-text">Get the flexibility of both a flashlight and lantern with convenient magnetic mounting capabilities.</p>
-<a href="https://www.amazon.com/Blackfire-Rechargeable-Weatherproof-Magnetic-Flashlight/dp/B07CJYJV7D/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="4" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/NITECORE-Flashlight-Rechargeable-Intelligent-Waterproof/dp/B0D8W7GZ2G/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="3" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
 </section><section id="headlamp-pick">
 <h2>Best Headlamp Camping Torch: Petzl Headlamp</h2>
@@ -507,7 +411,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <div class="cta-block">
 <h3 class="cta-block-title">Free Your Hands</h3>
 <p class="cta-block-text">Experience the convenience of hands-free illumination with Petzl's legendary reliability and comfort.</p>
-<a href="https://www.amazon.com/Petzl-Headlamp-Lighting-Black-Size/dp/B01KYTR3UQ/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="5" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/Petzl-Headlamp-Lighting-Black-Size/dp/B0FDLSGR92/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="5" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
 </section><section id="solar-pick">
 <h2>Best Solar Camping Torch: Goal Zero Torch 250</h2>
@@ -647,75 +551,6 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <p class="cta-block-text">Create the perfect campsite ambiance with this eco-friendly solar lantern that runs for days on a single charge.</p>
 <a href="https://www.amazon.com/d-light-S30-Rechargeable-Solar-Lantern/dp/B00BJELHS0/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="7" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
-</section><section id="compact-pick">
-<h2>Best Compact Camping Torch: ThruNite Archer 2A C</h2>
-
-<div class="img-container">
-<img src="/uploads/2025/06/ThruNite-Archer-2A-C-camping-torch-compared-to-everyday-items-showing-its-compact-size.jpeg" alt="ThruNite Archer 2A C camping torch compared to everyday items showing its compact size, highlighting portable best camping torches" title="ThruNite Archer 2A C camping torch compared to everyday items showing its compact size, highlighting portable best camping torches" width="1024" height="768" class="aligncenter size-large wp-image-437" />
-</div>
-
-<div class="rating-container">
-<div class="rating-overall">
-<div class="rating-score">8.2</div>
-<div class="rating-stars" data-rating="8.2"></div>
-<div class="rating-label">Very Good</div>
-</div>
-<div class="rating-details">
-<div class="rating-item">
-<div class="rating-name">Brightness</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 76{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">7.6</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Battery Life</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 82{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">8.2</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Durability</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 84{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">8.4</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Portability</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 92{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">9.2</div>
-</div>
-</div>
-</div>
-
-<p>The ThruNite Archer 2A C earns another spot on our list of the best camping torches for its exceptional balance of compact size and performance. This versatile light weighs just 1.7 ounces while delivering 500 lumens of brightness, making it perfect for backpackers and ultralight campers.</p>
-
-<p>What makes this torch particularly valuable is its dual fuel capability. It can run on either two standard AA batteries or the included rechargeable battery, giving you flexibility during extended trips. The firefly mode provides an ultra-low brightness option that preserves night vision while extending battery life to an impressive 51 hours.</p>
-
-<div class="pros-cons">
-<div class="pros">
-<h4 class="pros-title">Pros</h4>
-<ul>
-<li>Extremely lightweight and compact</li>
-<li>Dual fuel capability (AA or rechargeable)</li>
-<li>Firefly mode for night vision preservation</li>
-<li>Two-button interface for easy operation</li>
-<li>IPX7 waterproof rating</li>
-</ul>
-</div>
-<div class="cons">
-<h4 class="cons-title">Cons</h4>
-<ul>
-<li>Battery must be removed for charging</li>
-<li>Lower maximum brightness than larger models</li>
-<li>Shorter runtime on highest setting</li>
-</ul>
-</div>
-</div>
-
-<p>The ThruNite Archer 2A C features a two-button interface that makes operation intuitive even in the dark. Its IPX7 waterproof rating ensures reliability in wet conditions, while the aircraft aluminum body provides excellent durability despite its lightweight design. The pocket clip and anti-roll design add to its practicality for camping use.</p>
-
-<div class="cta-block">
-<h3 class="cta-block-title">Lightweight Performance</h3>
-<p class="cta-block-text">Experience the perfect balance of brightness, battery life, and portability with this ultralight camping torch.</p>
-<a href="https://www.amazon.com/ThruNite-Archer-Neutral-Flashlight-Batteries/dp/B09XDWGK2L/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="8" rel="sponsored nofollow noopener">Check Price on Amazon</a>
-</div>
 </section><section id="tactical-pick">
 <h2>Best Tactical Camping Torch: Nitecore P20iX</h2>
 
@@ -783,76 +618,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <div class="cta-block">
 <h3 class="cta-block-title">Tactical Reliability</h3>
 <p class="cta-block-text">Experience military-grade durability and exceptional brightness for the most demanding outdoor conditions.</p>
-<a href="https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="9" rel="sponsored nofollow noopener">Check Price on Amazon</a>
-</div>
-</section><section id="value-pick">
-<h2>Best Value Camping Torch: Coast G32</h2>
-
-<div class="img-container">
-<img src="/uploads/2025/06/Coast-G32-camping-torch-showing-its-zoom-feature-and-affordable-design-representing.jpeg" alt="Coast G32 camping torch showing its zoom feature and affordable design, representing value-oriented best camping torches" title="Coast G32 camping torch showing its zoom feature and affordable design, representing value-oriented best camping torches" width="1024" height="768" class="aligncenter size-large wp-image-439" />
-</div>
-
-<div class="rating-container">
-<div class="rating-overall">
-<div class="rating-score">7.2</div>
-<div class="rating-stars" data-rating="7.2"></div>
-<div class="rating-label">Good</div>
-</div>
-<div class="rating-details">
-<div class="rating-item">
-<div class="rating-name">Brightness</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 74{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">7.4</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Battery Life</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 68{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">6.8</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Durability</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 64{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">6.4</div>
-</div>
-<div class="rating-item">
-<div class="rating-name">Value</div>
-<div class="rating-bar-container"><div class="rating-bar" style="width: 90{08017ebcedc2fc31f12b4c8a7aa31957500d0485d48879f8b15b19920055e5d0}"></div></div>
-<div class="rating-value">9.0</div>
-</div>
-</div>
-</div>
-
-<p>The Coast G32 proves that you don't need to spend a fortune to get one of the best camping torches for basic outdoor use. This affordable light delivers 465 lumens of brightness and a beam distance of 134 meters, making it suitable for most camping scenarios at a fraction of the cost of premium models.</p>
-
-<p>What makes this torch particularly appealing is its zoom focus feature, which lets you adjust from a wide flood beam for camp tasks to a focused spot beam for distance viewing. Running on standard AA batteries, it's easy to keep powered during extended trips. The simple two-mode operation (high/low) makes it user-friendly for everyone in the family.</p>
-
-<div class="pros-cons">
-<div class="pros">
-<h4 class="pros-title">Pros</h4>
-<ul>
-<li>Excellent price-to-performance ratio</li>
-<li>Adjustable zoom focus</li>
-<li>Simple, user-friendly operation</li>
-<li>Uses readily available AA batteries</li>
-<li>Lightweight aluminum construction</li>
-</ul>
-</div>
-<div class="cons">
-<h4 class="cons-title">Cons</h4>
-<ul>
-<li>Only splash-resistant, not fully waterproof</li>
-<li>Failed drop tests from 10 feet</li>
-<li>Limited brightness compared to premium options</li>
-</ul>
-</div>
-</div>
-
-<p>The Coast G32 features a durable aluminum body that can handle the rigors of casual camping use. Its compact size makes it easy to pack, while the simple twist-focus mechanism allows quick adjustment between flood and spot beams. While not as feature-rich as premium options, it provides reliable illumination at an accessible price point.</p>
-
-<div class="cta-block">
-<h3 class="cta-block-title">Affordable Reliability</h3>
-<p class="cta-block-text">Get solid performance and versatile beam adjustment without breaking the bank.</p>
-<a href="https://www.amazon.com/Coast-20618-Focusing-Flashlight-Batteries/dp/B07CJNVMD3/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="10" rel="sponsored nofollow noopener">Check Price on Amazon</a>
+<a href="https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20" target="_blank" class="cta-btn" data-link="true" data-id="9" rel="sponsored nofollow noopener">Check Price on Amazon</a>
 </div>
 </section><section id="safety-features">
 <h2>Safety Features to Look for in Camping Torches</h2>
@@ -908,14 +674,14 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <div class="three-columns">
 <div>
 <h3>Backpacking &amp; Hiking</h3>
-<p><strong>Best Choice:</strong> ThruNite Archer 2A C or Petzl Headlamp</p>
+<p><strong>Best Choice:</strong> Petzl Headlamp or Acebeam TAC 2AA</p>
 <p>When every ounce matters, lightweight options with long battery life are essential. Headlamps are particularly valuable for trail hiking, while compact flashlights with multiple brightness levels offer versatility without adding significant weight.</p>
 </div>
 
 <div>
 <h3>Family Camping</h3>
-<p><strong>Best Choice:</strong> Blackfire Magnetic or d.light Solar Lantern</p>
-<p>For established campsites, versatile lighting that can illuminate communal areas is ideal. Lantern-style lights or torches with magnetic bases provide hands-free area lighting for cooking, eating, and socializing after dark.</p>
+<p><strong>Best Choice:</strong> d.light Solar Lantern or Goal Zero Torch 250</p>
+<p>For established campsites, versatile lighting that can illuminate communal areas is ideal. Lantern-style lights that throw 360 degrees provide hands-free area lighting for cooking, eating, and socializing after dark.</p>
 </div>
 
 <div>
@@ -940,7 +706,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 
 <div>
 <h3>Ultralight Adventures</h3>
-<p><strong>Best Choice:</strong> Petzl Headlamp or ThruNite Archer 2A C</p>
+<p><strong>Best Choice:</strong> Petzl Headlamp or Nitecore EDC27</p>
 <p>When minimizing weight is critical, headlamps or ultra-compact flashlights with efficient LED technology provide necessary illumination without weighing down your pack.</p>
 </div>
 </div>

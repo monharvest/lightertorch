@@ -36,7 +36,7 @@ A Zippo won't spontaneously explode, but it *is* a fire-making tool full of flam
 
 **4. Damage.** A cracked or badly dented case, a frayed wick, or a worn flint can make any lighter misbehave. Inspect yours occasionally and replace worn parts — flints, wicks, and cotton are cheap and user-replaceable.
 
-**5. The wrong fuel.** Use genuine [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) (or a proper naphtha lighter fluid). Never fill a classic Zippo insert with gasoline, alcohol, or butane — the burn characteristics are completely different. (Zippo does sell a separate [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B07XSKLPBD/?tag=lightertorch-20) designed for it, which is the safe way to get a butane flame in a Zippo case.)
+**5. The wrong fuel.** Use genuine [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) (or a proper naphtha lighter fluid). Never fill a classic Zippo insert with gasoline, alcohol, or butane — the burn characteristics are completely different. (Zippo does sell a separate [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) designed for it, which is the safe way to get a butane flame in a Zippo case.)
 
 ## How to Refill a Zippo Safely
 

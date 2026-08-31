@@ -7,7 +7,7 @@ categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
 ---
 
-**Quick answer:** A Zippo is one of the few sub-$50 gifts that can genuinely last the rest of someone's life — every one carries the same lifetime "it works or we fix it free" guarantee, whether it costs $15 or $150. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (~$15–20, the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte](https://www.amazon.com/Zippo-Black-Matte-Pocket-Lighter/dp/B000P4PQAI/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
+**Quick answer:** A Zippo is one of the few sub-$50 gifts that can genuinely last the rest of someone's life — every one carries the same lifetime "it works or we fix it free" guarantee, whether it costs $15 or $150. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (~$15–20, the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
 
 Why do Zippos make such reliable gifts? They're personal without being risky (no sizes, no tastes to guess), they patina into keepsakes, and the recipient doesn't even need to smoke — candles, campfires, grills, and the sheer ritual of the click cover it. Here's the full menu by budget.
 
@@ -16,12 +16,12 @@ Why do Zippos make such reliable gifts? They're personal without being risky (no
 The entry price buys the *same* mechanism as every other Zippo — cheaper Zippos differ only in finish.
 
 - **[Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20)** — the one from the movies. Slightly textured chrome that hides fingerprints and wears in beautifully. If you know nothing about the recipient, this is the answer.
-- **[Black Matte](https://www.amazon.com/Zippo-Black-Matte-Pocket-Lighter/dp/B000P4PQAI/?tag=lightertorch-20)** — the modern minimalist option; looks sharp with everything and suits anyone who'd rather not flash chrome.
+- **[Black Matte](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20)** — the modern minimalist option; looks sharp with everything and suits anyone who'd rather not flash chrome. (Zippo's plain matte black comes and goes; the red-bordered version is the one that stays in stock.)
 
 ## $20–40: The Upgrades
 
 - **[Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20)** — the connoisseur's finish; the brushing hides scratches better than polish and ages the best of any Zippo surface.
-- **[High Polish Armor](https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B000WVWGN0/?tag=lightertorch-20)** — the Armor case uses ~1.5× thicker walls; noticeably heavier and more solid in hand. The "I bought the nice one" tier.
+- **[Armor Brushed Brass](https://www.amazon.com/dp/B0007RX59O/?tag=lightertorch-20)** — the Armor case uses ~1.5× thicker walls; noticeably heavier and more solid in hand. The "I bought the nice one" tier.
 - **Themed and design models** — Zippo prints thousands of designs (flames, skulls, Americana, anime collabs). If the recipient has *any* known interest, there's a Zippo for it: [browse Zippo designs](https://www.amazon.com/s?k=zippo+lighter+design&tag=lightertorch-20).
 
 ## $40+: The Keepsakes
@@ -37,13 +37,13 @@ A bare Zippo arrives *unfueled* (they ship dry by law). The thoughtful version o
 |---|---|
 | [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) | The lighter is a paperweight without it |
 | [Flints + wicks](https://www.amazon.com/s?k=zippo+flints+wicks&tag=lightertorch-20) | A few dollars; years of maintenance covered |
-| [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B07XSKLPBD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)) |
+| [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)) |
 
 Pair any lighter with fluid + flints and you've built a complete "Zippo starter kit" for under $30 total.
 
 ## Quick Answers for Gift-Givers
 
-**Does a Zippo need to be refilled a lot?** The classic fluid insert, yes — roughly weekly if carried. That's part ritual, part flaw; the [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B07XSKLPBD/?tag=lightertorch-20) eliminates it. Our [cost comparison](/zippo-vs-bic-vs-arc-lighter/) covers the trade-offs honestly.
+**Does a Zippo need to be refilled a lot?** The classic fluid insert, yes — roughly weekly if carried. That's part ritual, part flaw; the [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) eliminates it. Our [cost comparison](/zippo-vs-bic-vs-arc-lighter/) covers the trade-offs honestly.
 
 **Is it safe to gift someone a lighter?** Zippos are among the safest lighters made — no pressurized fuel, a lid that smothers the flame, and a metal body. Full details in [can a Zippo explode?](/can-a-zippo-explode/)
 

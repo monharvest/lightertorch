@@ -53,7 +53,7 @@ You don't need a badge to buy any of the lights above. If you want police-grade 
 
 - **Best overall:** [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,600 lumens, USB-C rechargeable, IP68 waterproof, with a tactical mode switch. Read our full take in [the strongest torches on the market](/what-is-the-best-long-range-flashlight/).
 - **Best budget tactical:** [Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) — the actual light many officers carry as a backup, usually under $50.
-- **Best rechargeable duty-style:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20) — 4,000 lumens with a tail switch designed for tactical use.
+- **Best rechargeable duty-style:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) — 4,000 lumens with a tail switch designed for tactical use.
 
 For more options, see our [top 10 best-selling flashlights on Amazon](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/).
 

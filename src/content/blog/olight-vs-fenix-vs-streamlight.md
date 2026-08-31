@@ -94,7 +94,7 @@ Olight is the youngest of the three and behaves like it: fast release cycles, bo
 
 **Are these brands better than cheap Amazon flashlights?** Meaningfully, yes. No-name lights routinely overstate lumens several-fold, use unprotected cells, and fail early. If budget is tight, a Streamlight PolyTac is the cheapest way into genuine quality. Our [things to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/) guide covers the red flags.
 
-**What about SureFire, Nitecore, or Klarus?** SureFire is the premium military option at roughly double the price; Nitecore competes closely with Fenix (its [P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B08LKBP7FB/?tag=lightertorch-20) is a favorite of ours); Klarus is a solid value brand — we've covered it in [what is the best torch brand](/what-is-the-best-torch-brand/).
+**What about SureFire, Nitecore, or Klarus?** SureFire is the premium military option at roughly double the price; Nitecore competes closely with Fenix (its [P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) is a favorite of ours); Klarus is a solid value brand — we've covered it in [what is the best torch brand](/what-is-the-best-torch-brand/).
 
 **Do they all have lifetime warranties?** All three offer limited lifetime warranties on the flashlight body and workmanship, with shorter coverage (typically 2–5 years) on batteries and electronics. Streamlight's US-based service is the most established; register your light either way.
 
