@@ -81,15 +81,6 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Weight">5.96 oz</td>
 </tr>
 <tr>
-<td data-label="Model">Nitecore EDC27</td>
-<td data-label="Lumens">3,000</td>
-<td data-label="Battery Type">Built-in Li-ion</td>
-<td data-label="Runtime (High/Low)">3h/37h</td>
-<td data-label="Waterproof Rating">IPX8</td>
-<td data-label="Special Features">OLED Display, Pocket Clip</td>
-<td data-label="Weight">4.37 oz</td>
-</tr>
-<tr>
 <td data-label="Model">Acebeam TAC 2AA</td>
 <td data-label="Lumens">1,600</td>
 <td data-label="Battery Type">AA or Rechargeable</td>
@@ -99,13 +90,13 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Weight">3.37 oz</td>
 </tr>
 <tr>
-<td data-label="Model">Olight Baton 3 Pro</td>
-<td data-label="Lumens">1,500</td>
+<td data-label="Model">Nitecore EDC27</td>
+<td data-label="Lumens">3,000</td>
 <td data-label="Battery Type">Built-in Li-ion</td>
-<td data-label="Runtime (High/Low)">3.5h/20d</td>
+<td data-label="Runtime (High/Low)">3h/37h</td>
 <td data-label="Waterproof Rating">IPX8</td>
-<td data-label="Special Features">Magnetic Charging, Pocket Clip</td>
-<td data-label="Weight">3.8 oz</td>
+<td data-label="Special Features">OLED Display, Pocket Clip</td>
+<td data-label="Weight">4.37 oz</td>
 </tr>
 <tr>
 <td data-label="Model">Petzl Headlamp</td>
@@ -133,6 +124,15 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <td data-label="Waterproof Rating">IPX4</td>
 <td data-label="Special Features">Solar Powered, USB Charging</td>
 <td data-label="Weight">7.2 oz</td>
+</tr>
+<tr>
+<td data-label="Model">Nitecore P20iX</td>
+<td data-label="Lumens">4,000</td>
+<td data-label="Battery Type">21700 Rechargeable</td>
+<td data-label="Runtime (High/Low)">0.5h/350h</td>
+<td data-label="Waterproof Rating">IP68</td>
+<td data-label="Special Features">Tactical Tail Switch, USB-C Charging</td>
+<td data-label="Weight">6.7 oz (with battery)</td>
 </tr>
 </tbody>
 </table>
@@ -613,7 +613,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 </div>
 </div>
 
-<p>The Nitecore P20iX features six brightness levels plus strobe mode, giving you precise control over illumination and battery conservation. Its IPX8 waterproof rating ensures reliability even in full submersion, while the aircraft aluminum body with military-grade anodizing resists scratches and corrosion. USB-C charging provides convenient power replenishment.</p>
+<p>The Nitecore P20iX features six brightness levels plus strobe mode, giving you precise control over illumination and battery conservation. Its IP68 rating ensures reliability even in full submersion (2 m), while the aircraft aluminum body with military-grade anodizing resists scratches and corrosion. USB-C charging provides convenient power replenishment.</p>
 
 <div class="cta-block">
 <h3 class="cta-block-title">Tactical Reliability</h3>

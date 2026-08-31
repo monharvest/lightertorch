@@ -21,7 +21,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </section><section id="comparison-table">
 <h2>Best Sellers Flashlights: Quick Comparison</h2>
 
-<p>Before diving into detailed reviews, here's a side-by-side comparison of the top 10 best-selling flashlights on Amazon to help you quickly identify which models might meet your needs.</p>
+<p>Before diving into detailed reviews, here's a side-by-side comparison of the seven flashlights reviewed below to help you quickly identify which models might meet your needs.</p>
 
 <div class="table-container">
 <table class="responsive-table responsive-table-striped">
@@ -61,36 +61,20 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 <td data-label="Special Features">OLED display, pocket clip</td>
 </tr>
 <tr>
-<td data-label="Model">Fenix PD25R</td>
+<td data-label="Model">Nitecore EDC33</td>
 <td data-label="Price">$69.95</td>
-<td data-label="Max Lumens">800</td>
-<td data-label="Battery Type">16340 or CR123A</td>
-<td data-label="Beam Distance">210m</td>
-<td data-label="Special Features">Compact EDC, USB rechargeable</td>
+<td data-label="Max Lumens">4,000</td>
+<td data-label="Battery Type">Built-in 18650 (sealed)</td>
+<td data-label="Beam Distance">450m</td>
+<td data-label="Special Features">USB-C charging, deep-carry clip, lockout</td>
 </tr>
 <tr>
-<td data-label="Model">Thrunite T1S</td>
-<td data-label="Price">$59.95</td>
-<td data-label="Max Lumens">1,212</td>
-<td data-label="Battery Type">18350 Rechargeable</td>
-<td data-label="Beam Distance">102m</td>
-<td data-label="Special Features">USB-C charging, TIR optic</td>
-</tr>
-<tr>
-<td data-label="Model">Fenix TK20R V2.0</td>
+<td data-label="Model">Fenix PD36 TAC</td>
 <td data-label="Price">$99.95</td>
 <td data-label="Max Lumens">3,000</td>
 <td data-label="Battery Type">21700 Rechargeable</td>
-<td data-label="Beam Distance">309m</td>
-<td data-label="Special Features">Tactical design, USB-C charging</td>
-</tr>
-<tr>
-<td data-label="Model">Nitecore P20iX</td>
-<td data-label="Price">$119.95</td>
-<td data-label="Max Lumens">4,000</td>
-<td data-label="Battery Type">21700 Rechargeable</td>
-<td data-label="Beam Distance">241m</td>
-<td data-label="Special Features">Tactical tail switch, 350hr runtime</td>
+<td data-label="Beam Distance">274m</td>
+<td data-label="Special Features">Tactical/outdoor dual modes, IP68 waterproof</td>
 </tr>
 <tr>
 <td data-label="Model">Olight Javelot Mini</td>
@@ -101,12 +85,12 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 <td data-label="Special Features">Long throw, 2-stage switch</td>
 </tr>
 <tr>
-<td data-label="Model">Fenix E35R</td>
-<td data-label="Price">$79.95</td>
-<td data-label="Max Lumens">3,100</td>
+<td data-label="Model">Nitecore P20iX</td>
+<td data-label="Price">$119.95</td>
+<td data-label="Max Lumens">4,000</td>
 <td data-label="Battery Type">21700 Rechargeable</td>
-<td data-label="Beam Distance">260m</td>
-<td data-label="Special Features">Compact size, high output</td>
+<td data-label="Beam Distance">220m</td>
+<td data-label="Special Features">Tactical tail switch, 350hr runtime</td>
 </tr>
 </tbody>
 </table>
