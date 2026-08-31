@@ -3,7 +3,7 @@ title: 'Most Durable Flashlights: What Lasts Outdoors (2026)'
 description: 'What makes the most durable flashlights actually last: materials, IP ratings, impact tests, and which outdoor models are worth buying.'
 pubDate: '2025-01-25'
 updatedDate: '2026-08-30'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-5-1.jpg-1.webp'
+heroImage: '/uploads/2026/08/durable-flashlight-scuffed-wet-concrete.webp'
 categories: ['Buying Guides']
 tags: ['durable flashlights']
 ---
