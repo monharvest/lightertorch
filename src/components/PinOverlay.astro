@@ -1,0 +1,126 @@
+---
+interface Props {
+	title: string;
+	url: URL;
+}
+
+const { title, url } = Astro.props;
+---
+
+<script is:inline define:vars={{ pageUrl: url.href, pageTitle: title }}>
+	(function () {
+		// Smaller than this is a badge, icon or button image - not worth pinning.
+		var MIN_WIDTH = 200;
+		var scopes = document.querySelectorAll('.prose, .hero-image');
+		if (!scopes.length) return;
+
+		var overlay = document.createElement('div');
+		overlay.className = 'pin-save';
+		overlay.innerHTML =
+			'<a target="_blank" rel="nofollow noopener">' +
+			'<svg viewBox="0 0 24 24" aria-hidden="true" width="16" height="16" fill="currentColor">' +
+			'<path d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.208 0 1.031.397 2.137.893 2.738a.36.36 0 0 1 .083.345c-.091.379-.293 1.194-.333 1.361-.052.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146A12 12 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"></path>' +
+			'</svg><span>Save</span></a>';
+		var link = overlay.querySelector('a');
+		document.body.appendChild(overlay);
+
+		var current = null;
+
+		function eligible(el) {
+			if (!el || el.tagName !== 'IMG') return false;
+			if (el.hasAttribute('data-pin-nopin')) return false;
+			for (var i = 0; i < scopes.length; i++) {
+				if (scopes[i].contains(el)) {
+					return el.getBoundingClientRect().width >= MIN_WIDTH;
+				}
+			}
+			return false;
+		}
+
+		function show(img) {
+			// Use the raw attribute: img.src is already resolved against the
+			// current origin, so a preview deployment would pin its own URL.
+			var src = img.getAttribute('src');
+			if (!src) return;
+			var media = /^https?:\/\//i.test(src) ? src : new URL(src, pageUrl).href;
+			var desc = (img.getAttribute('alt') || pageTitle).trim();
+			link.href =
+				'https://pinterest.com/pin/create/button/?url=' +
+				encodeURIComponent(pageUrl) +
+				'&media=' +
+				encodeURIComponent(media) +
+				'&description=' +
+				encodeURIComponent(desc);
+			link.setAttribute('aria-label', 'Save this image to Pinterest');
+
+			// Position in document coordinates so scrolling needs no recalculation.
+			var r = img.getBoundingClientRect();
+			overlay.style.top = r.top + window.scrollY + 12 + 'px';
+			overlay.style.left = r.left + window.scrollX + 12 + 'px';
+			overlay.classList.add('visible');
+			current = img;
+		}
+
+		function hide() {
+			overlay.classList.remove('visible');
+			current = null;
+		}
+
+		document.addEventListener('mouseover', function (e) {
+			var t = e.target;
+			if (overlay.contains(t)) return;
+			if (eligible(t)) {
+				if (t !== current) show(t);
+			} else if (current) {
+				hide();
+			}
+		});
+
+		window.addEventListener('resize', hide);
+	})();
+</script>
+
+<style is:global>
+	.pin-save {
+		position: absolute;
+		z-index: 20;
+		opacity: 0;
+		visibility: hidden;
+		transition: opacity 0.15s ease;
+	}
+	.pin-save.visible {
+		opacity: 1;
+		visibility: visible;
+	}
+	.pin-save a {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.35em;
+		padding: 0.45em 0.85em;
+		border-radius: 6px;
+		background: #e60023;
+		color: #fff;
+		font-family: inherit;
+		font-size: 15px;
+		font-weight: 700;
+		line-height: 1;
+		text-decoration: none;
+		box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+	}
+	.pin-save a:hover {
+		background: #ad081b;
+		color: #fff;
+		text-decoration: none;
+	}
+	/* Hover has no meaning on touch screens, and the share row covers those. */
+	@media (hover: none) {
+		.pin-save {
+			display: none;
+		}
+	}
+	@media (prefers-reduced-motion: reduce) {
+		.pin-save {
+			transition: none;
+		}
+	}
+</style>

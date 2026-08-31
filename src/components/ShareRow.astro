@@ -1,0 +1,188 @@
+---
+interface Props {
+	title: string;
+	url: URL;
+	image?: string;
+}
+
+const { title, url, image } = Astro.props;
+
+const shareUrl = url.href;
+const imageUrl = image ? new URL(image, Astro.site).href : undefined;
+
+const e = encodeURIComponent;
+
+const pinterest = `https://pinterest.com/pin/create/button/?url=${e(shareUrl)}${
+	imageUrl ? `&media=${e(imageUrl)}` : ''
+}&description=${e(title)}`;
+const facebook = `https://www.facebook.com/sharer/sharer.php?u=${e(shareUrl)}`;
+const reddit = `https://www.reddit.com/submit?url=${e(shareUrl)}&title=${e(title)}`;
+---
+
+<aside class="share-row" aria-label="Share this article">
+	<span class="share-label">Share this:</span>
+	<div class="share-buttons">
+		<a class="share-btn pinterest" href={pinterest} target="_blank" rel="nofollow noopener">
+			<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="currentColor">
+				<path
+					d="M12 0C5.373 0 0 5.372 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.208 0 1.031.397 2.137.893 2.738a.36.36 0 0 1 .083.345c-.091.379-.293 1.194-.333 1.361-.052.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146A12 12 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"
+				></path>
+			</svg>
+			<span>Pin</span>
+		</a>
+		<a class="share-btn facebook" href={facebook} target="_blank" rel="nofollow noopener">
+			<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="currentColor">
+				<path
+					d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"
+				></path>
+			</svg>
+			<span>Share</span>
+		</a>
+		<a class="share-btn reddit" href={reddit} target="_blank" rel="nofollow noopener">
+			<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="currentColor">
+				<path
+					d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm5.01 4.744c.688 0 1.25.561 1.25 1.249a1.25 1.25 0 0 1-2.498.056l-2.597-.547-.8 3.747c1.824.07 3.48.632 4.674 1.488.308-.309.73-.491 1.207-.491.968 0 1.754.786 1.754 1.754 0 .716-.435 1.333-1.01 1.614a3.111 3.111 0 0 1 .042.52c0 2.694-3.13 4.87-6.994 4.87-3.865 0-6.994-2.176-6.994-4.87 0-.183.015-.366.043-.534A1.748 1.748 0 0 1 4.028 12.3c0-.968.786-1.754 1.754-1.754.463 0 .898.196 1.207.49 1.207-.883 2.878-1.43 4.744-1.487l.885-4.182a.342.342 0 0 1 .14-.197.35.35 0 0 1 .238-.042l2.906.617a1.214 1.214 0 0 1 1.108-.701zM9.25 12C8.561 12 8 12.562 8 13.25c0 .687.561 1.248 1.25 1.248.687 0 1.248-.561 1.248-1.249 0-.688-.561-1.249-1.249-1.249zm5.5 0c-.687 0-1.248.561-1.248 1.25 0 .687.561 1.248 1.249 1.248.688 0 1.249-.561 1.249-1.249 0-.687-.562-1.249-1.25-1.249zm-5.466 3.99a.327.327 0 0 0-.231.094.33.33 0 0 0 0 .463c.842.842 2.484.913 2.961.913.477 0 2.105-.056 2.961-.913a.361.361 0 0 0 .029-.463.33.33 0 0 0-.464 0c-.547.533-1.684.73-2.512.73-.828 0-1.979-.196-2.512-.73a.326.326 0 0 0-.232-.095z"
+				></path>
+			</svg>
+			<span>Reddit</span>
+		</a>
+		<button class="share-btn copy" type="button" data-share-url={shareUrl}>
+			<svg viewBox="0 0 24 24" aria-hidden="true" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+				<path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+				<path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
+			</svg>
+			<span class="copy-text">Copy link</span>
+		</button>
+	</div>
+</aside>
+
+<script is:inline>
+	(function () {
+		var btn = document.querySelector('.share-btn.copy');
+		if (!btn) return;
+		var label = btn.querySelector('.copy-text');
+		var timer;
+
+		function flash(text) {
+			label.textContent = text;
+			btn.classList.add('copied');
+			clearTimeout(timer);
+			timer = setTimeout(function () {
+				label.textContent = 'Copy link';
+				btn.classList.remove('copied');
+			}, 2000);
+		}
+
+		// Fallback for browsers that block the async clipboard API.
+		function legacyCopy(url) {
+			var ta = document.createElement('textarea');
+			ta.value = url;
+			ta.setAttribute('readonly', '');
+			ta.style.position = 'absolute';
+			ta.style.left = '-9999px';
+			document.body.appendChild(ta);
+			ta.select();
+			var ok = false;
+			try {
+				ok = document.execCommand('copy');
+			} catch (err) {}
+			document.body.removeChild(ta);
+			return ok;
+		}
+
+		btn.addEventListener('click', function () {
+			var url = btn.getAttribute('data-share-url');
+			var done = function () {
+				flash('Copied!');
+			};
+			var fallback = function () {
+				flash(legacyCopy(url) ? 'Copied!' : 'Press Ctrl+C');
+			};
+			if (navigator.clipboard && navigator.clipboard.writeText) {
+				// writeText rejects when the page lacks clipboard permission.
+				navigator.clipboard.writeText(url).then(done, fallback);
+			} else {
+				fallback();
+			}
+		});
+	})();
+</script>
+
+<style>
+	.share-row {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.75em;
+		margin: 2.5em 0 1em 0;
+		padding: 1em 0;
+		border-top: 1px solid rgb(var(--gray-light));
+		border-bottom: 1px solid rgb(var(--gray-light));
+	}
+	.share-label {
+		font-size: 0.9em;
+		font-weight: 700;
+		color: rgb(var(--gray));
+	}
+	.share-buttons {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5em;
+	}
+	.share-btn {
+		/* No global border-box reset in global.css, so set it here:
+		   without it min-height below applies to content only on the <a>s. */
+		box-sizing: border-box;
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+		padding: 0.4em 0.8em;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 6px;
+		background: #fff;
+		color: rgb(var(--gray-dark));
+		font-family: inherit;
+		font-size: 0.8em;
+		line-height: 1.4;
+		text-decoration: none;
+		cursor: pointer;
+		transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+	}
+	.share-btn svg {
+		flex-shrink: 0;
+	}
+	.share-btn:hover {
+		color: #fff;
+		text-decoration: none;
+	}
+	.share-btn.pinterest:hover {
+		background: #e60023;
+		border-color: #e60023;
+	}
+	.share-btn.facebook:hover {
+		background: #1877f2;
+		border-color: #1877f2;
+	}
+	.share-btn.reddit:hover {
+		background: #ff4500;
+		border-color: #ff4500;
+	}
+	.share-btn.copy:hover,
+	.share-btn.copied {
+		background: rgb(var(--gray-dark));
+		border-color: rgb(var(--gray-dark));
+		color: #fff;
+	}
+	@media (max-width: 480px) {
+		.share-row {
+			gap: 0.5em;
+		}
+		.share-btn {
+			padding: 0.5em 0.9em;
+			font-size: 0.75em;
+			/* Keep tap targets at the 44px minimum on touch screens. */
+			min-height: 44px;
+		}
+	}
+</style>
