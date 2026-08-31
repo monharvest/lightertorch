@@ -23,12 +23,14 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 
 <p>Before diving into detailed reviews, here's a side-by-side comparison of the seven flashlights reviewed below to help you quickly identify which models might meet your needs.</p>
 
+<p><strong>Price band:</strong> $ = under $50 &middot; $$ = $50&ndash;100 &middot; $$$ = over $100. Flashlight prices move constantly, so we show a band rather than a figure that would be wrong by the time you read it &mdash; check the current price on Amazon before buying.</p>
+
 <div class="table-container">
 <table class="responsive-table responsive-table-striped">
 <thead>
 <tr>
 <td data-row="head">Model</td>
-<td data-row="head">Price</td>
+<td data-row="head">Price band</td>
 <td data-row="head">Max Lumens</td>
 <td data-row="head">Battery Type</td>
 <td data-row="head">Beam Distance</td>
@@ -38,7 +40,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 <tbody>
 <tr>
 <td data-label="Model">Fenix PD36R Pro</td>
-<td data-label="Price">$119.95</td>
+<td data-label="Price band">$$$</td>
 <td data-label="Max Lumens">2,800</td>
 <td data-label="Battery Type">21700 Rechargeable</td>
 <td data-label="Beam Distance">380m</td>
@@ -46,7 +48,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Acebeam TAC 2AA</td>
-<td data-label="Price">$49.95</td>
+<td data-label="Price band">$</td>
 <td data-label="Max Lumens">1,600</td>
 <td data-label="Battery Type">AA or Rechargeable</td>
 <td data-label="Beam Distance">181m</td>
@@ -54,7 +56,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Nitecore EDC27</td>
-<td data-label="Price">$89.95</td>
+<td data-label="Price band">$$</td>
 <td data-label="Max Lumens">3,000</td>
 <td data-label="Battery Type">Built-in Li-ion</td>
 <td data-label="Beam Distance">220m</td>
@@ -62,7 +64,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Nitecore EDC33</td>
-<td data-label="Price">$69.95</td>
+<td data-label="Price band">$$</td>
 <td data-label="Max Lumens">4,000</td>
 <td data-label="Battery Type">Built-in 18650 (sealed)</td>
 <td data-label="Beam Distance">450m</td>
@@ -70,7 +72,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Fenix PD36 TAC</td>
-<td data-label="Price">$99.95</td>
+<td data-label="Price band">$$</td>
 <td data-label="Max Lumens">3,000</td>
 <td data-label="Battery Type">21700 Rechargeable</td>
 <td data-label="Beam Distance">274m</td>
@@ -78,7 +80,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Olight Javelot Mini</td>
-<td data-label="Price">$79.95</td>
+<td data-label="Price band">$$</td>
 <td data-label="Max Lumens">1,068</td>
 <td data-label="Battery Type">Rechargeable Li-ion</td>
 <td data-label="Beam Distance">584m</td>
@@ -86,7 +88,7 @@ tags: ['Best Sellers Flashlights', 'Amazon Flashlights', 'Top Flashlights 2024',
 </tr>
 <tr>
 <td data-label="Model">Nitecore P20iX</td>
-<td data-label="Price">$119.95</td>
+<td data-label="Price band">$$$</td>
 <td data-label="Max Lumens">4,000</td>
 <td data-label="Battery Type">21700 Rechargeable</td>
 <td data-label="Beam Distance">220m</td>
