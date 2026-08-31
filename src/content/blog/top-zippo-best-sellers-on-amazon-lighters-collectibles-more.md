@@ -370,7 +370,7 @@ tags: ['Zippo Lighters', 'Amazon Best Sellers', 'Zippo Collectibles']
   <p>With hundreds of Zippo models available on Amazon, choosing the right one can be overwhelming. This buying guide will help you navigate the key factors to consider when selecting your ideal Zippo lighter.</p>
 
   <div class="img-container">
-    <img src="https://lightertorch.com/wp-content/uploads/2025/05/Various-Zippo-finishes-and-models-displayed-for-comparison-1024x585.jpeg" alt="Various Zippo finishes and models displayed for comparison" title="Various Zippo finishes and models displayed for comparison" width="1024" height="585" class="aligncenter size-large wp-image-407" />
+    <img src="/uploads/2025/05/Various-Zippo-finishes-and-models-displayed-for-comparison-1024x585.jpeg" alt="Various Zippo finishes and models displayed for comparison" title="Various Zippo finishes and models displayed for comparison" width="1024" height="585" class="aligncenter size-large wp-image-407" />
   </div>
 
   <h3>Finish Types</h3>

@@ -16,7 +16,7 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":108,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://lightertorch.com/wp-content/uploads/2021/05/Screenshot-2021-05-21-at-19.30.01-1024x566.png" alt="" class="wp-image-108"/></figure>
+<figure class="wp-block-image size-large"><img src="/uploads/2025/02/Screenshot-2021-05-21-at-19.30.01-1024x566.png" alt="" class="wp-image-108"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

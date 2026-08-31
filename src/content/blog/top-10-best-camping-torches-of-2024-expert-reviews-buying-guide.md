@@ -624,7 +624,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <h2>Safety Features to Look for in Camping Torches</h2>
 
 <div class="img-container">
-<img src="https://lightertorch.com/wp-content/uploads/2025/06/Camping-torch-with-emergency-strobe-mode-activated-highlighting-safety-features-of-the-best-1024x585.jpeg" alt="Camping torch with emergency strobe mode activated, highlighting safety features of the best camping torches" title="Camping torch with emergency strobe mode activated, highlighting safety features of the best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-440" />
+<img src="/uploads/2025/06/Camping-torch-with-emergency-strobe-mode-activated-highlighting-safety-features-of-the-best-1024x585.jpeg" alt="Camping torch with emergency strobe mode activated, highlighting safety features of the best camping torches" title="Camping torch with emergency strobe mode activated, highlighting safety features of the best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-440" />
 </div>
 
 <p>When selecting the best camping torches, safety features can be just as important as brightness and battery life. Here are key safety elements to consider:</p>
@@ -666,7 +666,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 <h2>Best Camping Torches for Different Scenarios</h2>
 
 <div class="img-container">
-<img src="https://lightertorch.com/wp-content/uploads/2025/06/Multiple-camping-torches-being-used-in-different-camping-scenarios-showing-versatility-of-the--1024x585.jpeg" alt="Multiple camping torches being used in different camping scenarios, showing versatility of the best camping torches" title="Multiple camping torches being used in different camping scenarios, showing versatility of the best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-441" />
+<img src="/uploads/2025/06/Multiple-camping-torches-being-used-in-different-camping-scenarios-showing-versatility-of-the--1024x585.jpeg" alt="Multiple camping torches being used in different camping scenarios, showing versatility of the best camping torches" title="Multiple camping torches being used in different camping scenarios, showing versatility of the best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-441" />
 </div>
 
 <p>Different camping situations call for different lighting solutions. Here's how to choose the best camping torches for specific scenarios:</p>
@@ -772,7 +772,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 </div>
 
 <div class="img-container">
-<img src="https://lightertorch.com/wp-content/uploads/2025/06/Side-by-side-comparison-of-a-person-using-a-handheld-torch-versus-a-headlamp-for-camping-tasks-1024x585.jpeg" alt="Side-by-side comparison of a person using a handheld torch versus a headlamp for camping tasks, illustrating differences between best camping torches styles" title="Side-by-side comparison of a person using a handheld torch versus a headlamp for camping tasks, illustrating differences between best camping torches styles" width="1024" height="585" class="aligncenter size-large wp-image-442" />
+<img src="/uploads/2025/06/Side-by-side-comparison-of-a-person-using-a-handheld-torch-versus-a-headlamp-for-camping-tasks-1024x585.jpeg" alt="Side-by-side comparison of a person using a handheld torch versus a headlamp for camping tasks, illustrating differences between best camping torches styles" title="Side-by-side comparison of a person using a handheld torch versus a headlamp for camping tasks, illustrating differences between best camping torches styles" width="1024" height="585" class="aligncenter size-large wp-image-442" />
 </div>
 
 <p><strong>Pro Tip:</strong> Many experienced campers carry both a headlamp and a handheld torch. Use the headlamp for camp tasks and close-up work, and keep a powerful handheld torch available for distance illumination, emergency situations, or when maximum brightness is needed.</p>
@@ -839,7 +839,7 @@ tags: ['Camping torches', 'Outdoor gear', 'LED flashlights']
 </div>
 
 <div class="img-container">
-<img src="https://lightertorch.com/wp-content/uploads/2025/06/Comparison-of-battery-powered-and-solar-powered-camping-torches-with-their-key-components-1024x585.jpeg" alt="Comparison of battery-powered and solar-powered camping torches with their key components visible, showing different power options for best camping torches" title="Comparison of battery-powered and solar-powered camping torches with their key components visible, showing different power options for best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-443" />
+<img src="/uploads/2025/06/Comparison-of-battery-powered-and-solar-powered-camping-torches-with-their-key-components-1024x585.jpeg" alt="Comparison of battery-powered and solar-powered camping torches with their key components visible, showing different power options for best camping torches" title="Comparison of battery-powered and solar-powered camping torches with their key components visible, showing different power options for best camping torches" width="1024" height="585" class="aligncenter size-large wp-image-443" />
 </div>
 
 <p><strong>Pro Tip:</strong> For the best of both worlds, consider dual-fuel options like the Acebeam TAC 2AA that can use either standard batteries or rechargeable power, or hybrid models like the Goal Zero Torch 250 that combine solar charging with USB backup options.</p>
