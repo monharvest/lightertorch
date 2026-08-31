@@ -47,7 +47,7 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [x] Best keychain flashlights → `/best-keychain-flashlights/` (2026-08-14)
 - [~] ~~Best flashlights for kids (gift intent)~~ — **KILLED 2026-08-17.** Ubersuggest: search volume **0**. The gift-intent logic was fine, the keyword doesn't exist. Validate volume before writing anything else on this list.
 - [x] Best arc/plasma lighters for camping → `/best-arc-lighters-for-camping/` (2026-08-01)
-- [x] Best candle lighters for the home → `/best-candle-lighters/` (2026-08-24) — "best candle lighter" 320/mo, transactional, seasonal (210 summer → 480 Nov → 720 Dec); published ahead of the peak. Compares electric arc vs refillable butane vs disposable long-reach, differentiated from the arc guide (which covers arc tech for camping). Backlinks added from the arc guide, the Zippo/BIC/arc comparison, and the gas stove post. **Hero image outstanding** — prompt in `lightertorch-images/PROMPTS-2026-08-24.md`; currently the only real article on the site without one.
+- [x] Best candle lighters for the home → `/best-candle-lighters/` (2026-08-24) — "best candle lighter" 320/mo, transactional, seasonal (210 summer → 480 Nov → 720 Dec); published ahead of the peak. Compares electric arc vs refillable butane vs disposable long-reach, differentiated from the arc guide (which covers arc tech for camping). Backlinks added from the arc guide, the Zippo/BIC/arc comparison, and the gas stove post. ~~Hero image outstanding~~ — **DONE 2026-08-31**, `candle-lighter-flexible-neck-jar-candle.webp` wired into frontmatter.
 - [x] Zippo gift guide by budget → `/zippo-gift-guide/` (2026-08-02)
 
 ### Question posts (easy rankings, feed internal links)
@@ -55,8 +55,8 @@ Format per post: 1,200–1,800 words, one target keyword, 2–4 tagged Amazon li
 - [ ] Are rechargeable batteries worth it? (18650 vs AA)
 - [ ] Why does my rechargeable flashlight die so fast?
 - [x] Can you bring a lighter/flashlight on a plane? → `/can-you-bring-a-lighter-on-a-plane/` (2026-08-01)
-- [ ] Butane vs lighter fluid: which Zippo insert?
-- [ ] How to store lighters and fuel safely
+- [x] Butane vs lighter fluid: which Zippo insert? → `/butane-vs-lighter-fluid-zippo-insert/` (2026-08-31) — 1,683 words. Leads on the two things no page in the top 20 states plainly: the butane insert carries a **two-year warranty, not the lifetime guarantee**, and it **does not fit Slim®, Armor® or 1935 Replica cases** (both verified on Zippo's own product page). Includes the vapor-lock purge procedure to catch the 0.00-competition troubleshooting queries. Backlinks added from the Zippo repair post (2) and Zippo vs BIC vs arc (2). ~~Hero image outstanding~~ — **DONE 2026-08-31**, `zippo-insert-swap-workbench.webp` (candidate 3, 1280×720) installed and verified against the brief: two inserts, unbranded case, no text or logos.
+- [~] ~~How to store lighters and fuel safely~~ — **KILLED 2026-08-31.** Ubersuggest: 10/mo.
 - [ ] IP ratings explained (IPX7 etc.) — **check for cannibalization first.** The
   2026-08-30 durable-flashlight rewrite now carries a full IPX4/IPX7/IPX8/IP68
   table plus the ANSI FL1 drop test and the MIL-STD-810 debunk. A standalone page
@@ -181,3 +181,128 @@ check shows the mail link is actually dead.
 - Check **Google Search Console** monthly (GA4 = G-ZWE72TWTHB) — impressions data decides what to write/update next
 - Watch Amazon Associates dashboard for which links click — double down on those pages
 - Strategy decision made: **US English primary** ("flashlight" in titles, "torch" secondary), niche = flashlights + lighters only
+
+## 2026-08-31 — Ubersuggest pass: the Zippo insert cluster
+
+Ran the required pre-write keyword pass on the two remaining lighter-cluster
+candidates. Result: **one clear winner, one kill.**
+
+| Keyword | Vol/mo | SD | Competition | Intent |
+|---|---|---|---|---|
+| zippo butane insert | 5,400 | 19 | 0.95 | Transactional |
+| butane zippo insert | 5,400 | 24 | 0.93 | Transactional |
+| zippo insert butane | 4,400 | 31 | 0.94 | Transactional |
+| zippo insert | 1,900 | 28 | 1.00 | Transactional |
+| **butane vs lighter fluid** | **480** | **18** | **0.07** | **Informational** |
+| zippo insert torch | 880 | 28 | 1.00 | Transactional |
+| slim zippo butane insert | 320 | 19 | 0.87 | Transactional |
+| zippo insert replacement | 210 | 23 | 0.94 | Transactional |
+| best zippo insert | 110 | 27 | 0.91 | Transactional |
+| zippo butane insert not working | 110 | 33 | **0.00** | Navigational/fix |
+| zippo butane insert refill | 90 | 19 | 0.53 | Fix + buy |
+| how to fill zippo butane insert | 50 | 22 | **0.00** | Informational |
+| zippo butane insert won't light | 30 | 22 | **0.00** | Fix |
+
+**KILLED: "how to store lighters safely" — 10/mo.** Same zero-volume trap as the
+kids-flashlight post. Removed from the Phase 3 list below the line.
+
+**Read the SD number carefully — it is misleading here.** SERP for the 5,400/mo
+head term: zippo.com holds **four** organic slots (#1, #4, #13, #18), Reddit #2
+(DA 92), Amazon #11, YouTube #12 and #14. That is a brand-navigational SERP and
+a DA 6 affiliate site is not taking the top of it. SD 19 does not capture "the
+manufacturer owns the page."
+
+**But there is a real foothold.** thyrm.com ranks #10 at **DA 32**, a forum
+ranks #17 at DA 40 — non-brand sites do get in. And there is **no independent
+comparison or decision guide anywhere in the top 20.** Zippo's own pages sell
+inserts; they don't tell you which one to pick or admit the trade-offs.
+
+**Therefore: target the decision layer, not the head term.** The post the plan
+already had queued — *"Butane vs lighter fluid: which Zippo insert?"* — is
+exactly right, and now validated. Realistic addressable set is the ~700–900/mo
+of low-competition informational and troubleshooting terms (`butane vs lighter
+fluid` at competition 0.07, plus the four 0.00-competition fix queries), with
+the 5,400/mo head term as long-tail upside rather than the goal.
+
+**Cannibalization: clear.** `/zippo-repairs.../` mentions inserts (lines 31, 42,
+83, 109) but only to say "don't put butane in a standard insert." That is a seed,
+not the article. The new post takes the decision; the repair post links to it.
+
+**WRITTEN 2026-08-31** → `/butane-vs-lighter-fluid-zippo-insert/`, 1,683 words,
+3 tagged Amazon links, 7 internal links. Build passes at 51 pages. **Not
+deployed** — awaiting Batu.
+
+**What the research turned up that changed the article.** Pulled from Zippo's own
+product page and knowledge base, not from competitors:
+
+- The Single Torch insert is "backed by a **two-year Zippo warranty**." The
+  famous lifetime guarantee does **not** extend to it. Swapping to butane trades
+  away the single best reason to own a Zippo — and no page in the top 20 says so.
+- It "does not fit **Slim®, Armor® or 1935 Replica** cases." Inserts date-stamped
+  J20–L22 may not fit Armor even where later ones do.
+- Rated "up to 100 5-second ignitions per fill" from 0.9 g (the category page
+  claims up to 125 — both figures given, attributed).
+- **Vapor lock** is the cause behind nearly all "won't light" complaints. Zippo's
+  purge procedure (5–6 second fill bursts, 2-minute wait) is reproduced in full,
+  which is what targets the four 0.00-competition fix queries.
+- Full insert range priced: Yellow Flame ~$24, Single Torch ~$21, Double Torch
+  ~$24, Yellow Flame Pipe ~$24, Pipe ~$18, Double Arc Rechargeable ~$27 (sold
+  out when checked), Bit Safe Screwdriver ~$20. Given as bands per the
+  2026-08-31 hardcoded-price fix.
+
+**ASINs probed before linking** (the 08-30 lesson): `B0DJW8L8HN` 200,
+`B0D33ZGNFD` 200, `B000MT8Y98` 200. All live.
+
+
+## 2026-08-31 — Site-wide image audit
+
+Audited every post for hero presence, hero file existence, in-body image
+resolution, and hotlinking.
+
+**Heroes: 40/41 articles have one, all resolving.** Zero heroes point at a
+missing file. The only articles without the field are `about`,
+`affiliate-disclosure` and `privacy-policy` (legal pages, correctly excluded from
+the post grid). Both previously outstanding heroes — `/best-candle-lighters/`
+and `/butane-vs-lighter-fluid-zippo-insert/` — were generated and installed on
+2026-08-31. **The hero backlog is empty.**
+
+**FIXED: 8 in-body images were 404 on the live site.** Four posts still
+referenced absolute WordPress URLs (`https://lightertorch.com/wp-content/...`).
+WordPress is gone, so these have been broken since the Astro migration —
+probed and confirmed 404. **The files already existed in `public/uploads/`**;
+the migration copied the images but left the old absolute URLs in the markdown.
+All 8 rewritten to local paths:
+
+| Post | Images |
+|---|---|
+| `top-10-best-camping-torches-of-2024...` | 4 |
+| `top-10-best-selling-flashlights-on-amazon...` | 2 |
+| `top-zippo-best-sellers-on-amazon...` | 1 |
+| `voltage-in-a-gas-lighter` | 1 |
+
+Verified after the fix: **every `<img src>` in `dist/` resolves to a real file.**
+
+**FIXED: 8 koala.sh hotlinks replaced 2026-08-31.**
+`how-many-lumens-should-flashlight-have-2` (6) and
+`brightest-and-affordable-torches-in-the-market-today` (2) hotlinked in-body
+images from an AI-writing-service CDN — a `CLAUDE.md` violation and the same
+risk class as the purged `manuscdn.com` links. Decision was to **replace rather
+than delete**. Eight 1280×720 WebPs generated, installed with per-image
+descriptive alt text (the old alt was repetitive), and the hotlinks removed.
+Prompts and manifest in
+`lightertorch-images/PROMPTS-2026-08-31-koala-replacements.md`.
+
+Two constraints drove the prompts and both held up on review: **no branded
+product portraits** (image 2 sits under an *FMU LED Tactical Flashlight* heading
+and image 7 follows an *Anker Bolder LC90* mention — a render reading as that
+exact product would be a fake product shot next to affiliate links), and **no
+rendered text** (both posts discuss lumen figures). The focused-room winner
+needed a crop to remove an otherwise visible torch body.
+
+**Site-wide result: zero external hotlinked images remain in `src/content/blog/`.**
+Verified after install: clean 51-page build, 8/8 new images rendering, all 94
+unique local image references in `dist/` resolve, zero broken.
+
+**Note for future image work:** `BlogPost.astro:78` renders heroes with
+`alt={title}`, so per-image alt text only applies to in-body images. Not changed
+— it is a site-wide pattern and out of scope here.

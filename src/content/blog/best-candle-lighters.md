@@ -2,6 +2,7 @@
 title: 'Best Candle Lighters for the Home: Electric, Butane & Long-Reach Compared'
 description: 'Which candle lighter actually suits your candles — rechargeable electric arc, refillable butane, or a long-reach utility lighter. Types, safety features, and what to look for before you buy.'
 pubDate: '2026-08-24'
+heroImage: '/uploads/2026/08/candle-lighter-flexible-neck-jar-candle.webp'
 categories: ['Buying Guides']
 tags: ['candle lighter', 'electric lighter', 'butane lighter', 'utility lighter', 'home safety']
 ---

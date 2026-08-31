@@ -12,7 +12,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovazb-znxz8.jpg?width=1024&amp;height=1024&amp;dream" alt="A dark forest at night with a bright beam of light cutting through the darkness, illuminating the surrounding trees and wildlife"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-forest-beam-night.webp" alt="A flashlight beam cutting through mist in a dark conifer forest at night, lighting a narrow section of trunks and forest floor."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,7 +62,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovazm-bptdk.jpg?width=1024&amp;height=1024&amp;dream" alt="A dark forest at night, with a bright FMU LED Tactical Flashlight illuminating the path ahead with a powerful beam of light"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-trail-beam-path.webp" alt="A hiker's flashlight lighting a rutted dirt trail ahead at night, the beam falling off into darkness further along the path."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -94,7 +94,7 @@ tags: []
 <!-- /wp:paragraph -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovazr-ye109.jpg?width=1024&amp;height=1024&amp;dream" alt="A person using a flashlight to do indoor and outdoor chores at dusk"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-chores-dusk-garage.webp" alt="Hands holding a small flashlight over an open toolbox in a garage at dusk, the beam making a soft pool of light across the tools."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -114,7 +114,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovazw-7eu4t.jpg?width=1024&amp;height=1024&amp;dream" alt="A person shines a flashlight into a dark area, illuminating the surroundings with a bright beam of light"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-search-beam-undergrowth.webp" alt="A crouched figure sweeping a bright flashlight beam low into brambles and long grass while searching at night."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -134,7 +134,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovb01-y4zvj.jpg?width=1024&amp;height=1024&amp;dream" alt="A flashlight illuminates a dark room, casting a bright beam onto the wall"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-professional-worksite.webp" alt="A gloved hand aiming a high-output flashlight across wet steel scaffolding and cable at a worksite at night."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -150,7 +150,7 @@ tags: []
 <!-- /wp:heading -->
 
 <!-- wp:image -->
-<figure class="wp-block-image"><img src="https://koala.sh/api/image/v2-ovb09-y8oun.jpg?width=1024&amp;height=1024&amp;dream" alt="A person shining a flashlight in a dark room, adjusting the brightness to find the right amount of lumens needed"/></figure>
+<figure class="wp-block-image"><img src="/uploads/2026/08/lumens-beam-brightness-wall.webp" alt="Two flashlight beams side by side on a dark plaster wall, the left dimmer with soft edges and the right brighter with a defined hotspot."/></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
