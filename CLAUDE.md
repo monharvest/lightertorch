@@ -16,6 +16,7 @@ Affiliate content site about flashlights/torches and lighters. Astro 5 static si
 - Images: use existing files under `public/uploads/`. Never hotlink external/signed CDN URLs (a previous post used expiring manuscdn.com links — they were removed).
 - AI-generated images live in `~/Documents/Obsidian/Projects/websites/active/LighterTorch/lightertorch-images/` (not in this site repo).
 - Do not deploy unless Batu asks.
+- **Ubersuggest pre-write (required):** before drafting the next post, load `ubersuggest-seo-triage` and record a phrase that can rank (volume + SD). No draft without that pass. Project `5904905d736329bdf055763f198d833236733ce011b750a6fceabb51327f6f99`, en/US. "flashlight" in titles; "torch" as secondary.
 - Style decision: US English primary ("flashlight" in titles; "torch" as secondary keyword). Niche is flashlights + lighters only — no off-topic posts.
 - Site identity (title/description) is in `src/consts.ts`.
 
