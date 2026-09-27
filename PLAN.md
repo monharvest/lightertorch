@@ -356,3 +356,54 @@ Build: 51 pages, every image ref in `dist/` resolves, zero external.
 **Not decided:** every image on the site is 16:9, but `PinOverlay.astro` pins
 whatever the reader hovers and Pinterest favours 2:3. The candle-lighter and
 Zippo gift posts likely want dedicated 1000×1500 verticals before December.
+
+## 2026-09-27 — AI-search audit
+
+**Why now:** GA4's AI Assistant channel went from ~3 to 30 sessions in 28 days
+(+900%), against 52 from Google organic. AI referrals land on our pages, so our
+tagged Amazon links can earn from them. An AI answer that links straight to
+Amazon earns nothing.
+
+**Already in place:**
+- AI crawlers can get in. Tested live as GPTBot, OAI-SearchBot, ChatGPT-User,
+  PerplexityBot and ClaudeBot: all 200. robots.txt allows all. Leave
+  Cloudflare's AI-crawler block off.
+- 24 posts open with a **Quick answer** block. 22 have an FAQ section and 25
+  have a comparison table. That is the extractable structure AI engines quote.
+- Article JSON-LD with datePublished/dateModified.
+
+**Gaps, in priority order:**
+1. **Sources are never linked. 39 of 44 posts have zero external links.** The
+   rewrites state TSA/FAA rules, BIC's 3,000-light figure, Zippo's lifetime
+   guarantee and the insert's 2-year warranty, ANSI FL1 and IEC 60529, but link
+   none of them. Citing sources is the top-ranked factor in the GEO research, and
+   it matters more for low-authority sites. Add 2–4 primary-source links per
+   post, verified live, starting with the plane, BIC-lifespan, Zippo-repair,
+   Zippo-insert, can-a-Zippo-explode, fixing-a-lighter and durable-flashlight
+   posts.
+2. **No author anywhere.** The Article schema has a publisher only, and there is
+   no byline. This needs a real person and a truthful bio; do not invent
+   credentials. Waiting on Batu.
+3. **FAQ sections aren't marked up.** 22 posts have `**Question?**` FAQs in
+   markdown but no FAQPage JSON-LD. It can be generated at build time from the
+   existing format, with no content change. Google mostly ignores it; ChatGPT
+   and Perplexity use it.
+4. **Freshness.** Only 9 posts set `updatedDate`. Set it on every substantive
+   content update (not on image swaps) so dateModified and "Last updated" are
+   true.
+5. **High-traffic pages missing structure.** `/can-a-zippo-explode/` (3rd most
+   viewed, 26 views/28d) has no FAQ or table. `/zippo-gift-guide/` (Q4) has no
+   FAQ.
+6. **19 legacy WordPress posts** have no quick answer, FAQ or table. Five are
+   lighter questions in the cluster that is working: `filling-up-a-gas-lighter`,
+   `inside-of-a-gas-lighter`, `voltage-in-a-gas-lighter` (still WP format,
+   566 words), `gas-stove-that-doesnt-ignite` and `make-a-gas-lighter-at-home`.
+   Upgrade them the way the Aug rewrites were done.
+7. **Presence off-site.** AI engines lean heavily on Reddit and YouTube.
+   Authentic participation (r/flashlight, r/zippo) doubles as the link-building
+   this plan has never executed. No spam.
+8. `llms.txt`: optional and cheap. Google ignores it. Lowest priority.
+
+**Measure:** in GA4, open Traffic acquisition → AI Assistant → landing page +
+session source monthly, and `click` events to amazon.com by channel. Manually
+check ~20 target queries in ChatGPT/Perplexity monthly and log who gets cited.
