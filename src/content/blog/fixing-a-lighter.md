@@ -57,6 +57,8 @@ On a flint-wheel refillable, the flint is a consumable. Unscrew the retaining sc
 
 ### Problem 4: It works indoors but not outside in the cold
 
+![Gloved hands holding an unlit plastic gas lighter in freezing weather, frost on the gloves and on the log beside them.](/uploads/2026/09/cold-weather-lighter-gloved-hands-frost.webp)
+
 This isn't a fault. **Butane boils at about −0.5 °C (31 °F)**, and below roughly 4 °C (40 °F) it stops generating enough vapour pressure to feed the jet. Warm the lighter in a closed fist or an inside pocket for a minute and it will light.
 
 If you need reliable cold-weather ignition, the fix is a different tool rather than a repair: an [electric arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) has no fuel to vaporise and works the same at −20 °C as at room temperature. See our [best arc lighters guide](/best-arc-lighters-for-camping/).

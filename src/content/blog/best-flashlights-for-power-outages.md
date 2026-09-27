@@ -41,6 +41,8 @@ The resilient setup mixes chemistries: rechargeable primaries, alkaline-powered 
 
 ## Fire, Candles, and the Old Ways
 
+![A flexible-neck lighter lighting a pillar candle in a dark kitchen during a power outage, rain on the window behind.](/uploads/2026/09/blackout-kitchen-candle-lit-by-long-lighter.webp)
+
 Candles cause a well-documented spike in house fires during every major outage — if you use them, never leave one burning unattended, and put them in real holders away from curtains. The safer modern equivalent for ambiance and ignition both: an [arc lighter](/best-arc-lighters-for-camping/) for the gas stove (most gas ranges light manually in an outage — here's [how to light a gas stove manually](/manually-lighting-a-gas-stove/)) and LED lanterns for the light. If you do stock a lighter in the kit, a fresh BIC keeps for years, as we covered in [Zippo vs BIC vs arc](/zippo-vs-bic-vs-arc-lighter/).
 
 ## The 10-Minute Storm-Kit Checklist

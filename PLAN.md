@@ -306,3 +306,46 @@ unique local image references in `dist/` resolve, zero broken.
 **Note for future image work:** `BlogPost.astro:78` renders heroes with
 `alt={title}`, so per-image alt text only applies to in-body images. Not changed
 — it is a site-wide pattern and out of scope here.
+
+## 2026-09-02 — Forward image batch queued
+
+Hero backlog is empty, so this batch is ahead of the content rather than behind
+it. 7 stems in `lightertorch-images/PROMPTS-2026-09-02.md`, ordered by certainty:
+
+- **Tier 1 (certain).** `olight-vs-fenix-vs-streamlight.md` still carries **two
+  manufacturer renders in-body**, both under brand headings next to tagged
+  Amazon links: the same Streamlight ProTac catalog sheet the durability batch
+  replaced as a hero (line 29), and an **Olight S1R Baton render with the OLIGHT
+  wordmark on the body** (line 63). The 08-31 note said "separate batch" — this
+  is it. Replacements are use-case scenes (duty belt; magnetic tail under a car
+  hood), not product portraits.
+- **Tier 2 (queued posts).** Heroes for the three unwritten question posts
+  (18650 vs AA, why-it-dies-fast, IP ratings). **Not Ubersuggest-validated yet** —
+  each stem was written to double as an in-body image for an existing post so a
+  kill doesn't waste the run.
+- **Tier 3 (Q4 seasonal).** Blackout candle-lighting and cold-weather lighter
+  scenes, for posts that already exist. Install before the Nov–Dec peak.
+
+**Installed 2026-09-27.** All 7 generated and reviewed at full resolution.
+
+- Tier 1: both brand renders in `olight-vs-fenix-vs-streamlight.md` replaced.
+  No text, logos or insignia; the one engine-bay label is illegible blur.
+- Tier 3: `blackout-kitchen-candle...` under "Fire, Candles, and the Old Ways"
+  in `/best-flashlights-for-power-outages/`; `cold-weather-lighter...` under
+  "Problem 4: … in the cold" in `/fixing-a-lighter/`. One placement each — the
+  candle-lighter hero already shows a flexible-neck lighter on a candle, and the
+  BIC post's cold note is a bullet, not a section.
+- Alt text corrected to what the images actually show (the brief's alt claimed
+  a scuffed torch and visible breath; neither is in frame).
+- Tier 2: held, **not committed** — files sit untracked in
+  `public/uploads/2026/09/` until their posts are validated and written.
+  **`rechargeable-cells-charger-bench` fails its own brief:** only 3 large cells,
+  the small cells read as stubby CR123s rather than AAs (the size ratio is ~2.5×,
+  not ~1.3×), and there is no corrosion. Regenerate before using it for the
+  18650-vs-AA post. The other two (fading beam, submerged) pass.
+
+Build: 51 pages, 97 unique image refs in `dist/`, zero missing, zero external.
+
+**Not decided:** every image on the site is 16:9, but `PinOverlay.astro` pins
+whatever the reader hovers and Pinterest favours 2:3. The candle-lighter and
+Zippo gift posts likely want dedicated 1000×1500 verticals before December.
