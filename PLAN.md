@@ -495,3 +495,18 @@ overstate how early a *BIC* fails in the cold ("below roughly 40 °F"). Fix once
 the fuel is confirmed from a live or archived BIC source (the Wayback Machine
 was rate-limiting on 2026-09-27). Also unsourced: "China bans lighters on
 flights entirely" in the plane post.
+
+**Brand photos, 2026-09-27.** All three sections of `/olight-vs-fenix-vs-streamlight/`
+now use the maker's own photo, credited: Olight (olight.com), Streamlight PolyTac
+(streamlight.com), Fenix PD36R V2.0 (fenixlighting.com). The two new ones had
+only white space trimmed or padded (PolyTac padded to 4:3, Fenix cropped to
+16:9), with the product untouched. Specs corrected against the maker pages:
+PolyTac is **600 lm / 214 m / 2×CR123A / IPX7 / 3 m impact** (the post said
+"~1,000 lumens" and "survives being run over"); PD36R V2.0 is **1,700 lm / 396 m /
+up to 482 h / IP68 / 21700 5,000 mAh / USB-C** (the post said 1,600 lm, 115 h,
+"submersible to 2 m"; Fenix's page gives no depth). The Grok belt image
+(`duty-flashlight-work-belt-night.webp`) is no longer used; it's kept for reuse.
+
+**PD36R spec sweep still outstanding** on the other posts that quote the original
+PD36R (long-range, police, $20-vs-$100, Sunitact, plane). The verified V2.0 numbers
+are above.
