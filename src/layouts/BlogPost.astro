@@ -15,6 +15,7 @@ const { title, description, pubDate, updatedDate, heroImage, categories } = Astr
 // Utility pages (About, Privacy, Disclosure) have no categories - no share row there.
 const showShare = (categories?.length ?? 0) > 0;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const AUTHOR_NAME = 'LighterTorch Team';
 const articleLd = {
 	'@context': 'https://schema.org',
 	'@type': 'Article',
@@ -24,6 +25,7 @@ const articleLd = {
 	dateModified: (updatedDate ?? pubDate).toISOString(),
 	url: canonicalURL.href,
 	mainEntityOfPage: { '@type': 'WebPage', '@id': canonicalURL.href },
+	author: { '@type': 'Organization', name: AUTHOR_NAME, url: new URL('/about/', Astro.site).href },
 	publisher: { '@type': 'Organization', name: SITE_TITLE, url: Astro.site?.href },
 	...(heroImage ? { image: new URL(heroImage, Astro.site).href } : {}),
 };
@@ -82,6 +84,9 @@ const articleLd = {
 			.last-updated-on {
 				font-style: italic;
 			}
+			.byline a {
+				color: inherit;
+			}
 		</style>
 	</head>
 
@@ -95,6 +100,11 @@ const articleLd = {
 				<div class="prose">
 					<div class="title">
 						<div class="date">
+							{showShare && (
+								<span class="byline">
+									By <a href="/about/">{AUTHOR_NAME}</a> ·{' '}
+								</span>
+							)}
 							<FormattedDate date={pubDate} />
 							{
 								updatedDate && (
