@@ -326,25 +326,32 @@ it. 7 stems in `lightertorch-images/PROMPTS-2026-09-02.md`, ordered by certainty
 - **Tier 3 (Q4 seasonal).** Blackout candle-lighting and cold-weather lighter
   scenes, for posts that already exist. Install before the Nov–Dec peak.
 
-**Installed 2026-09-27.** All 7 generated and reviewed at full resolution.
+**Installed 2026-09-27, after a cross-model review.** The Sep 2 run produced
+all 7 stems in five models (Krea, Grok, Z-Image, Flux, Ideogram), but only the
+Krea set was ever compared, so the Krea picks went in by default. Batu reviewed
+all five side by side (`lightertorch-images/review/2026-09-27-model-compare/`).
+The final picks are mixed-model; the per-stem reasons are in `selections.txt`.
 
-- Tier 1: both brand renders in `olight-vs-fenix-vs-streamlight.md` replaced.
-  No text, logos or insignia; the one engine-bay label is illegible blur.
-- Tier 3: `blackout-kitchen-candle...` under "Fire, Candles, and the Old Ways"
-  in `/best-flashlights-for-power-outages/`; `cold-weather-lighter...` under
-  "Problem 4: … in the cold" in `/fixing-a-lighter/`. One placement each — the
-  candle-lighter hero already shows a flexible-neck lighter on a candle, and the
-  BIC post's cold note is a bullet, not a section.
-- Alt text corrected to what the images actually show (the brief's alt claimed
-  a scuffed torch and visible breath; neither is in frame).
-- Tier 2: held, **not committed** — files sit untracked in
-  `public/uploads/2026/09/` until their posts are validated and written.
-  **`rechargeable-cells-charger-bench` fails its own brief:** only 3 large cells,
-  the small cells read as stubby CR123s rather than AAs (the size ratio is ~2.5×,
-  not ~1.3×), and there is no corrosion. Regenerate before using it for the
-  18650-vs-AA post. The other two (fading beam, submerged) pass.
+- **Live in posts:** belt (Grok) in `olight-vs-fenix-vs-streamlight.md` under
+  Streamlight; blackout candle (Grok) under "Fire, Candles, and the Old Ways" in
+  `/best-flashlights-for-power-outages/`; cold lighter (Grok) under "Problem 4:
+  … in the cold" in `/fixing-a-lighter/`. One placement each: the
+  candle-lighter hero already shows a lighter on a candle, and the BIC post's
+  cold note is a bullet, not a section.
+- **Olight section has no image for now.** The Olight S1R render is gone, and
+  every model's magnetic-tail version was rejected.
+- **Held, untracked in `public/uploads/2026/09/`:** fading beams (Z-Image) and
+  underwater (Krea), for the unwritten question posts.
+- **Rejected in all five models, re-briefed** in
+  `lightertorch-images/PROMPTS-2026-09-27.md` for Hermes:
+  - magnetic tail: standing a light upright never shows a magnet. New concept:
+    stuck sideways on vertical steel.
+  - 18650 vs AA: every model got the size ratio or the trade dress wrong. New
+    concept: two cells upright at eye level.
+- Every image and its alt text was checked at full resolution for text, logos
+  and insignia.
 
-Build: 51 pages, 97 unique image refs in `dist/`, zero missing, zero external.
+Build: 51 pages, every image ref in `dist/` resolves, zero external.
 
 **Not decided:** every image on the site is 16:9, but `PinOverlay.astro` pins
 whatever the reader hovers and Pinterest favours 2:3. The candle-lighter and

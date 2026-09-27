@@ -26,7 +26,7 @@ If you've narrowed your search to these three names, you've already done the har
 
 ## Streamlight — The Duty Workhorse
 
-![A black flashlight clipped to a worn leather work belt at night, beside a vehicle on wet asphalt.](/uploads/2026/09/duty-flashlight-work-belt-night.webp)
+![A scuffed black flashlight hanging from a worn leather belt at night, on a wet road beside a parked car.](/uploads/2026/09/duty-flashlight-work-belt-night.webp)
 
 Streamlight has been building lights for police, firefighters, and industry since 1973, and it shows in the design philosophy: nothing exotic, everything durable. As we covered in [what flashlights police use](/what-flashlights-do-police-use/), Streamlight is the most common brand on American duty belts — and that field record is the brand's best argument.
 
@@ -59,8 +59,6 @@ Fenix built its name with outdoor enthusiasts, and its catalogue reads like a hi
 **Our picks:** [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) (all-rounder), [E-series](https://www.amazon.com/s?k=fenix+e35+flashlight&tag=lightertorch-20) (compact EDC), [HM-series headlamps](https://www.amazon.com/s?k=fenix+headlamp+rechargeable&tag=lightertorch-20) (hands-free).
 
 ## Olight — The EDC Innovator
-
-![A pocket-sized flashlight standing on its magnetic tail cap inside a car engine bay, lighting the work area hands-free.](/uploads/2026/09/magnetic-tail-flashlight-under-car-hood.webp)
 
 Olight is the youngest of the three and behaves like it: fast release cycles, bold colors, and features the other two don't have. Its magnetic MCC charging tail — snap the cable on, no ports to open — is genuinely convenient, and nobody packs more light into smaller bodies.
 
