@@ -2,6 +2,7 @@
 title: 'Butane vs Lighter Fluid: Which Zippo Insert Should You Buy?'
 description: 'Swapping to a Zippo butane insert costs you the lifetime guarantee and will not fit a Slim or Armor case. Here is what each insert does and which one to buy.'
 pubDate: '2026-08-31'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/zippo-insert-swap-workbench.webp'
 categories: ['Buying Guides', 'Torch Lighter Reviews']
 tags: ['Zippo', 'butane insert', 'lighter fluid', 'Zippo insert', 'naphtha']
@@ -13,9 +14,9 @@ The insert is the metal chassis that lifts out of your Zippo case. The case is j
 
 ## Read this before you buy: you are trading away the guarantee
 
-Zippo's lifetime guarantee is the single best reason to own one. Send in a mechanically broken lighter from any decade and Zippo repairs it free — the policy we cover in full in our [Zippo repair guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).
+[Zippo's lifetime guarantee](https://kb.zippo.com/warranty-repair) is the single best reason to own one. Send in a mechanically broken lighter from any decade and Zippo repairs it free — the policy we cover in full in our [Zippo repair guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).
 
-That guarantee does not extend to the butane inserts. Zippo's own product page for the Single Torch insert states it is "backed by a two-year Zippo warranty." The lifetime promise stays with the **case and its standard wick mechanism**; the pressurised butane unit is a separate two-year product.
+That guarantee does not extend to the butane inserts. [Zippo's own product page for the Single Torch insert](https://zippo.com/products/single-torch-butane-lighter-insert) states it is "backed by a two-year Zippo warranty." The lifetime promise stays with the **case and its standard wick mechanism**; the pressurised butane unit is a separate two-year product.
 
 This is the trade almost every "best Zippo insert" listicle skips. You are swapping a lifetime-repairable mechanism for a sealed gas unit with a fixed warranty window. Sometimes that is the right call. It should be a decision, not a surprise.
 
@@ -68,7 +69,7 @@ Butane struggles in cold (it stops vaporising properly near its boiling point ar
 
 ### Fuel cost and availability
 
-Both fuels are cheap and widely sold. Zippo's knowledge base specifically recommends [Zippo or Ronson butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20), which are refined for use in their products — cheap unrefined butane is the usual culprit behind a clogged valve. Standard inserts take any naphtha-based [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20).
+Both fuels are cheap and widely sold. [Zippo's knowledge base](https://kb.zippo.com/butane-lighter-inserts) specifically recommends [Zippo or Ronson butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20), which are refined for use in their products — cheap unrefined butane is the usual culprit behind a clogged valve. Standard inserts take any naphtha-based [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20).
 
 ## So which one should you buy?
 
@@ -88,7 +89,7 @@ Not sure the Zippo platform is right for you at all? [Zippo vs BIC vs arc lighte
 
 Nearly every "my butane insert won't light" complaint is **vapor lock** — trapped air in the fuel chamber blocking the butane. It is not a fault, and the fix is free.
 
-Zippo's own procedure:
+[Zippo's own procedure](https://kb.zippo.com/butane-lighter-inserts):
 
 1. **Purge the insert.** Press the fill valve with a small flathead screwdriver until all gas and air hisses out. Do this outdoors, away from any flame.
 2. **Fill in short bursts.** Hold the can upside down against the valve for **5–6 seconds at a time**, not one long push.

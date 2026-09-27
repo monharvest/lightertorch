@@ -2,6 +2,7 @@
 title: 'Can You Bring a Lighter or Flashlight on a Plane? TSA Rules Explained (2026)'
 description: 'TSA rules for lighters and flashlights: one disposable or Zippo in carry-on is fine, torch lighters are banned everywhere, and spare lithium batteries must fly in the cabin. Full rules table inside.'
 pubDate: '2026-08-01'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/lighter-flashlight-airport-security-tray.webp'
 categories: ['Safety Tips', 'How-to Guides']
 tags: ['TSA rules', 'travel', 'lighters on planes', 'flashlight batteries', 'airport security']
@@ -23,15 +24,15 @@ Here's the full breakdown so nothing of yours ends up in the airport bin.
 | Safety matches | ✅ One book | ❌ No |
 | Strike-anywhere matches | ❌ No | ❌ No |
 
-*One exception: fueled lighters may go in checked baggage only inside a **DOT-approved airtight travel case** (sold specifically for this purpose, maximum two lighters). Without the case, keep it on your person.
+*One exception: fueled lighters may go in checked baggage only inside a **DOT-approved airtight travel case** (sold specifically for this purpose, maximum two lighters), per [TSA's lighter rules](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lighters-disposable-and-zippo). Without the case, keep it on your person.
 
 ### Why are torch lighters banned?
 
-Jet-flame (torch) lighters burn hotter and more intensely than a normal flame, so the FAA prohibits them in both cabin and checked baggage — no exceptions, no case. If you travel with cigars, buy a soft-flame lighter for the trip. This ban covers most "windproof" jet lighters, including butane torch inserts. (Standard Zippos with the classic soft flame are fine — see our [Zippo safety guide](/can-a-zippo-explode/) for how they work.)
+Jet-flame (torch) lighters burn hotter and more intensely than a normal flame, so [the FAA](https://www.faa.gov/hazmat/packsafe/lighters) and [TSA](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lighters-torch) prohibit them in both cabin and checked baggage — no exceptions, no case. If you travel with cigars, buy a soft-flame lighter for the trip. This ban covers most "windproof" jet lighters, including butane torch inserts. (Standard Zippos with the classic soft flame are fine — see our [Zippo safety guide](/can-a-zippo-explode/) for how they work.)
 
 ### Arc and plasma lighters
 
-Rechargeable [arc lighters](/best-arc-lighters-for-camping/) are treated as electronic devices with lithium batteries: allowed in the cabin, banned from checked bags, and TSA wants them protected against accidental activation (locked, in a case, or with the safety cap on). Since most arc lighters have a safety lid or a two-step ignition, this is easy to satisfy.
+Rechargeable [arc lighters](/best-arc-lighters-for-camping/) are treated as electronic devices with lithium batteries: allowed in the cabin, banned from checked bags, and [TSA wants them protected against accidental activation](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lighters-arc-lighters-electronic-lighters-e-lighters) (locked, in a case, or with the safety cap on). Since most arc lighters have a safety lid or a two-step ignition, this is easy to satisfy.
 
 ### An empty Zippo?
 
@@ -42,7 +43,7 @@ A **completely empty, fuel-free** Zippo (no fluid, dry wick and cotton) is gener
 Flashlights themselves are permitted in both carry-on and checked bags — TSA has no problem with a [USB-C rechargeable flashlight](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) or a [camping torch](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/) in either location. The rules that trip people up are about the **batteries**:
 
 1. **Installed batteries** (inside the flashlight): fine in carry-on or checked. FAA prefers devices with lithium batteries in the cabin, and some airlines require it — cabin is always the safe choice.
-2. **Spare lithium batteries** (18650s, 21700s, power banks, loose rechargeables): **carry-on ONLY.** Never checked. This is a hard FAA rule because a battery fire in the cabin can be handled; one in the hold cannot.
+2. **Spare lithium batteries** (18650s, 21700s, power banks, loose rechargeables): **carry-on ONLY.** Never checked. This is a [hard FAA rule](https://www.faa.gov/hazmat/packsafe/lithium-batteries) because a battery fire in the cabin can be handled; one in the hold cannot.
 3. **Protect spare terminals** from short circuit: original packaging, a plastic [battery case](https://www.amazon.com/s?k=18650+battery+case+holder&tag=lightertorch-20), or tape over the contacts.
 4. **Size limit:** batteries up to 100Wh need no approval — every normal flashlight battery is far under this. (A 5,000mAh 21700 is ~18Wh.)
 
@@ -56,7 +57,7 @@ The table above is TSA (US domestic and departures). Most countries follow simil
 
 ## FAQ
 
-**Can I bring two lighters?** TSA's rule is one lighter on your person. A second fueled lighter belongs in a DOT-approved case in checked baggage. Empty spares are generally fine.
+**Can I bring two lighters?** No, not both in the cabin: [FAA rules](https://www.faa.gov/hazmat/packsafe/lighters) allow one lighter per passenger, in your carry-on or on your person. A second fueled lighter belongs in a DOT-approved case in checked baggage. Empty spares are generally fine.
 
 **Can I bring a lighter with no fuel?** Yes — empty lighters without fuel or residue are allowed, though screeners have final say.
 

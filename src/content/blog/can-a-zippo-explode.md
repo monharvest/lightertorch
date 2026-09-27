@@ -2,6 +2,7 @@
 title: 'Can a Zippo Explode? Safety, Risks & Care Guide'
 description: 'Zippo lighters are far less likely to explode than disposable lighters thanks to their vented metal case and liquid-fuel design. Here are the real risks, myths, and how to use yours safely.'
 pubDate: '2026-08-01'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/07/can-zippo-explode-zippo-tips.jpeg'
 categories: ['Safety Tips', 'Brands']
 tags: ['Zippo', 'lighter safety', 'explosion prevention', 'lighter maintenance']
@@ -22,7 +23,7 @@ A Zippo works on a completely different principle, and that design — essential
 - **Controlled fuel delivery.** The wick draws up fuel by capillary action, and the flint wheel ignites only the vapor at the wick — the flow is naturally self-limiting.
 - **Lid extinguishes the flame.** Closing the hinged lid starves the flame of oxygen. No exposed burner, no valve to stick open.
 
-Zippo backs this with a lifetime "it works or we fix it free" guarantee — the build quality is a genuine safety feature. (See our guide to [Zippo repairs and replacement parts](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).)
+Zippo backs this with a [lifetime "it works or we fix it free" guarantee](https://kb.zippo.com/warranty-repair) — the build quality is a genuine safety feature. (See our guide to [Zippo repairs and replacement parts](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).)
 
 ## The Real Risks (and How to Avoid Them)
 

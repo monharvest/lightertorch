@@ -2,7 +2,7 @@
 title: 'How Long Does a BIC Lighter Last? (And Do Lighters Expire?)'
 description: 'A full-size BIC is built for about 3,000 lights — months for a daily smoker, years for occasional use. What that means in practice, and why lighters do not expire.'
 pubDate: '2021-05-21'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/disposable-lighters-fuel-levels-row.webp'
 categories: ['How-to Guides', 'Safety Tips']
 tags: ['BIC lighter', 'butane', 'lighter lifespan', 'storage', 'do lighters expire', 'Zippo']
@@ -12,7 +12,7 @@ tags: ['BIC lighter', 'butane', 'lighter lifespan', 'storage', 'do lighters expi
 
 ## The Number BIC Actually Publishes
 
-BIC rates its full-size lighter at **up to 3,000 lights**. That's the manufacturer's own figure, and it's the only hard number worth building on — everything else you'll read is someone's estimate.
+BIC rates its full-size lighter at **up to 3,000 lights** (the [Maxi, in BIC's own words](https://eu.bic.com/en-gb/lighters/bicr-standard-lighter), "lights up to 3,000 flames"). That's the manufacturer's own figure, and it's the only hard number worth building on — everything else you'll read is someone's estimate.
 
 Three thousand sounds enormous until you divide it by how you actually use the thing:
 
@@ -65,7 +65,7 @@ An [arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&ta
 
 ## What Actually Shortens a Lighter's Life
 
-- **Holding the flame lit.** This is the big one. Every extra second burns fuel you can't get back, and on a disposable the metal hood gets genuinely hot — BIC's own safety guidance is to light it briefly, not to hold it burning. Long burns are both the fastest way to drain a lighter and the most common way people burn their thumb.
+- **Holding the flame lit.** This is the big one. Every extra second burns fuel you can't get back, and on a disposable the metal hood gets genuinely hot, so keep each light short rather than holding it burning. Long burns are both the fastest way to drain a lighter and the most common way people burn their thumb.
 - **Running the flame high.** If your lighter has an adjuster, a lower flame does the same job on most tasks and stretches the fuel noticeably.
 - **Heat.** A lighter left on a dashboard loses fuel far faster than one in a drawer, and a pressurised tank in direct sun is a genuine hazard — see [can a Zippo explode?](/can-a-zippo-explode/) for what actually goes wrong.
 - **Cold, temporarily.** Butane boils at about **−0.5 °C (31 °F)**, so below roughly 40 °F a butane lighter stops producing enough vapour to light. Nothing is broken and no fuel is lost — warm it in a fist for a minute and it works again. More on that in [how to fix a lighter that won't light](/fixing-a-lighter/).

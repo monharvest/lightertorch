@@ -2,7 +2,7 @@
 title: "How to Fix a Lighter That Won't Light (Butane, Zippo & Disposables)"
 description: 'Most dead lighters are fixed in two minutes. Bleed the tank, clear the jet, change the flint — plus the faults that mean you should bin it instead.'
 pubDate: '2021-05-21'
-updatedDate: '2026-08-14'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-4.jpg-1.webp'
 categories: ['How-to Guides']
 tags: ['lighter repair', 'butane lighter', 'torch lighter', 'flint', 'refilling', 'troubleshooting']
@@ -38,6 +38,8 @@ This is the classic. Butane tanks hold pressurised liquid fuel, and any air trap
 4. **Wait two to three minutes.** Refilling chills the tank sharply, and cold butane won't vaporise properly. Lighting it immediately is why people conclude the refill "didn't work" and bleed it all over again.
 5. Turn the flame adjuster back up gradually.
 
+Zippo publishes the same routine for its own butane inserts: [purge, refill in 5–6 second bursts, and wait at least two minutes](https://kb.zippo.com/butane-lighter-inserts).
+
 Full step-by-step with the common mistakes is in our guide to [filling up a gas lighter](/filling-up-a-gas-lighter/).
 
 ### Problem 2: Weak, sputtering or lopsided flame
@@ -59,9 +61,9 @@ On a flint-wheel refillable, the flint is a consumable. Unscrew the retaining sc
 
 ![Frost-covered gloves holding an unlit disposable lighter with little fuel left, breath misting in the freezing air.](/uploads/2026/09/cold-weather-lighter-gloved-hands-frost.webp)
 
-This isn't a fault. **Butane boils at about −0.5 °C (31 °F)**, and below roughly 4 °C (40 °F) it stops generating enough vapour pressure to feed the jet. Warm the lighter in a closed fist or an inside pocket for a minute and it will light.
+This isn't a fault. **Butane boils at about −0.5 °C (31 °F)** ([PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Butane)), and below roughly 4 °C (40 °F) it stops generating enough vapour pressure to feed the jet. Warm the lighter in a closed fist or an inside pocket for a minute and it will light.
 
-If you need reliable cold-weather ignition, the fix is a different tool rather than a repair: an [electric arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) has no fuel to vaporise and works the same at −20 °C as at room temperature. See our [best arc lighters guide](/best-arc-lighters-for-camping/).
+If you need reliable cold-weather ignition, the fix is a different tool rather than a repair: an [electric arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) has no fuel to vaporise, so cold doesn't stop it sparking (its battery does run down faster in freezing weather, like any lithium cell). See our [best arc lighters guide](/best-arc-lighters-for-camping/).
 
 ### Problem 5: Flame too tall, or won't turn down
 

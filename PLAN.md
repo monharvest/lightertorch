@@ -468,3 +468,30 @@ check ~20 target queries in ChatGPT/Perplexity monthly and log who gets cited.
 2), FAQ schema (gap 3), and a spec sweep of `/what-is-the-best-long-range-flashlight/`,
 which still features the S1R Baton II and the Javelot Turbo (and says "145 feet"
 where its table says 145 m).
+
+**Gap 1 (source links), first pass done 2026-09-27.** Each source was checked
+live and against the exact claim before linking:
+- Plane: TSA (disposable/Zippo, torch, arc lighters) and FAA PackSafe (lighters,
+  lithium batteries). Also corrected the FAQ: "one lighter" is FAA's rule
+  (49 CFR 175.10), not TSA's.
+- BIC lifespan: BIC Europe's page ("lights up to 3,000 flames"). **us.bic.com and
+  bic.com consumer sites have closed**, so BIC's US product pages are dead. The
+  unverifiable "BIC's own safety guidance" attribution was removed and the
+  advice kept.
+- Zippo insert / Zippo repair / can-a-Zippo-explode: Zippo KB warranty page,
+  the Single Torch product page (two-year warranty; doesn't fit Slim/Armor/1935;
+  100 × 5-second ignitions, all verified verbatim) and the Zippo KB butane-insert
+  page (vapor-lock purge, 5–6 s bursts, 2-minute wait).
+- Fixing a lighter: Zippo KB purge procedure; PubChem for butane's −0.5 °C.
+  Softened "arc lighter works the same at −20 °C" (lithium cells lose charge in
+  the cold).
+- Durable flashlights: ANSI/PLATO FL 1 (2025 revision), IEC's IP-ratings page,
+  MIL-STD-810H.
+
+**Open accuracy issue, not yet changed:** BIC's (now-dead) product pages said
+BIC uses **pure isobutane**, which boils at about −12 °C (11 °F), not n-butane's
+−0.5 °C. If that's right, the BIC-lifespan and fixing-a-lighter posts
+overstate how early a *BIC* fails in the cold ("below roughly 40 °F"). Fix once
+the fuel is confirmed from a live or archived BIC source (the Wayback Machine
+was rate-limiting on 2026-09-27). Also unsourced: "China bans lighters on
+flights entirely" in the plane post.

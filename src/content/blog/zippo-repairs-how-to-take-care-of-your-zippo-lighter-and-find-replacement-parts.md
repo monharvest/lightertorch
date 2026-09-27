@@ -2,7 +2,7 @@
 title: 'Zippo Repair Guide: Fix It Yourself or Send It Back Free'
 description: 'Zippo repairs it free for life — but most faults are a two-minute fix at your kitchen table. Here is what to replace yourself and what to ship to Bradford.'
 pubDate: '2024-03-05'
-updatedDate: '2026-08-14'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it.jpg'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
@@ -64,7 +64,7 @@ When you genuinely run out, replace it: pull the old wick out from the top, then
 
 ## What to Send Back — and Why It's Free
 
-Zippo's guarantee is the real reason to own one: **"It works or we fix it free."** It has no time limit, no receipt requirement, and no registration. It covers mechanical function — hinge, cam, spring, chimney, case.
+[Zippo's guarantee](https://kb.zippo.com/warranty-repair) is the real reason to own one: **"It works or we fix it free."** It has no time limit, no receipt requirement, and no registration. It covers mechanical function — hinge, cam, spring, chimney, case.
 
 What it does **not** cover is appearance. Plating wear, scratches, a faded engraving, a chipped enamel decoration — those are cosmetic and Zippo won't restore them. Expect your lighter back working perfectly and looking exactly as beaten-up as when you sent it.
 
@@ -74,7 +74,7 @@ Two practical notes people learn the hard way:
 - **Send the case, not just the insert**, and don't send fuel — ship it empty. Carriers treat a fuelled lighter as a hazardous material.
 - If the exact part is discontinued, Zippo may return a **replacement lighter** of similar style rather than your original. If your lighter has sentimental or collector value, say so clearly in the note you include, or don't send it at all.
 
-Start at zippo.com's repair clinic page for the current form and shipping address (the plant is in Bradford, Pennsylvania). Requirements change; the page is authoritative and this article isn't.
+Start at [Zippo's warranty and repair page](https://kb.zippo.com/warranty-repair) for the current form and shipping address (the plant is in Bradford, Pennsylvania). Requirements change; the page is authoritative and this article isn't.
 
 ## Where to Get Genuine Parts
 
