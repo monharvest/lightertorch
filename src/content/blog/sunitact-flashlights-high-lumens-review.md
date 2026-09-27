@@ -2,7 +2,7 @@
 title: 'Sunitact Flashlight Review: The 990,000-Lumen Claim Is Fake'
 description: 'Sunitact ST1476 review: Amazon still sells this zoomable XHP70.2 light. The 20,000–990,000 lumen claims are not real. What it is, and what to buy instead.'
 pubDate: '2025-03-31'
-updatedDate: '2026-08-22'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/03/image.jpeg'
 categories: ['Buying Guides']
 tags: ['sunitact flashlight', 'high lumens flashlight', 'amazon flashlight']
@@ -40,10 +40,10 @@ For scale, ANSI-rated lights we cover elsewhere:
 | Light | Claimed / rated output | What the number means |
 |---|---|---|
 | Sunitact ST1476 | 20,000 lm (was 990,000) | Marketing copy, not ANSI FL1 |
-| [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | 1,600 lm | Measured, with a published step-down |
-| [Olight Javelot Turbo](/what-is-the-best-long-range-flashlight/) | 1,300 lm / 1,300 m | A real thrower; still nowhere near 20,000 lm |
+| [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | 1,700 lm | Measured, with a published step-down |
+| [Olight Javelot Turbo 2](/what-is-the-best-long-range-flashlight/) | 1,800 lm / 1,500 m | A real thrower; still nowhere near 20,000 lm |
 
-The 5,000 ft beam is the same problem. That is about **1,500 m**. Our [long-range guide](/what-is-the-best-long-range-flashlight/) treats 1,300 m as a dedicated thrower with a deep reflector. A zoomable $22 host does not do that.
+The 5,000 ft beam is the same problem. That is about **1,500 m**. That is exactly what the Olight Javelot Turbo 2 in our [long-range guide](/what-is-the-best-long-range-flashlight/) is rated for, and it takes a dedicated 63 mm reflector and roughly 577,000 cd to get there. A zoomable $22 host does not do that.
 
 If you want the lumen math, start with [how many lumens a flashlight should have](/how-many-lumens-should-flashlight-have-2/) and [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/).
 
