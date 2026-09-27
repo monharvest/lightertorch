@@ -61,6 +61,10 @@ Fenix built its name with outdoor enthusiasts, and its catalogue reads like a hi
 
 ## Olight — The EDC Innovator
 
+![Three Olight Baton-series EDC flashlights in black, tan and orange, each with a side switch near the head.](/uploads/2026/09/olight-baton-series-three-colors.webp)
+
+*Image: Olight*
+
 Olight is the youngest of the three and behaves like it: fast release cycles, bold colors, and features the other two don't have. Its magnetic MCC charging tail — snap the cable on, no ports to open — is genuinely convenient, and nobody packs more light into smaller bodies.
 
 **Strengths:**

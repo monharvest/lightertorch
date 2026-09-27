@@ -447,10 +447,12 @@ check ~20 target queries in ChatGPT/Perplexity monthly and log who gets cited.
 **Done 2026-09-27 (same day):**
 1. `/olight-vs-fenix-vs-streamlight/`: picks updated to Baton 4 Pro / Baton Ultra
    / Javelot Turbo 2 (US-sourced specs); the quick answer now links each brand's
-   flagship; `updatedDate` set. The Olight section still has no image. Options:
-   Hermes candidate `magnetic-tail-flashlight-stuck-sideways-candidate-2`
-   (passes the brief), or a licensed Olight product photo once the source is
-   confirmed.
+   flagship; `updatedDate` set. The Olight section image is now Olight's own
+   Baton-series product photo (`olight-baton-series-three-colors.webp`, from
+   olight.com per Batu, credited "Image: Olight"). If we join Olight's affiliate
+   program, swap it for the program's official asset. The Hermes candidate
+   `magnetic-tail-flashlight-stuck-sideways-candidate-2` also passes the brief;
+   it's held as a spare in-body image.
 2. Post layout: the hero now matches the 720px text column and is capped at
    34vh; the title uses a clamped smaller size; the hero loads eagerly. The first
    Amazon link moved from 1,107px to 639–778px on a 1440×800 screen and is in the
