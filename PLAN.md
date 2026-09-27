@@ -407,3 +407,39 @@ Amazon earns nothing.
 **Measure:** in GA4, open Traffic acquisition → AI Assistant → landing page +
 session source monthly, and `click` events to amazon.com by channel. Manually
 check ~20 target queries in ChatGPT/Perplexity monthly and log who gets cited.
+
+### GA4 findings, pulled 2026-09-27 (last 28 days, Aug 30 – Sep 26)
+
+| Channel | Sessions | Avg engagement | Outbound clicks |
+|---|---|---|---|
+| Direct | 571 | **1s** (bots) | 0 |
+| Organic Search | 52 | 2m 22s | **8** |
+| AI Assistant | 30 | 23s | 1 |
+
+- **AI sources:** chatgpt.com 28, copilot.com 2.
+- **Where ChatGPT sends people:** buying guides, not the lighter question posts.
+  `/best-keychain-flashlights/` 9, `/best-headlamps-for-camping-and-running/` 7,
+  `/olight-vs-fenix-vs-streamlight/` 7, `/best-edc-flashlights-under-50/` 2, and
+  1 each to arc lighters, candle lighters, plane rules and inside-of-a-gas-lighter.
+- **Who clicks out (mostly to Amazon):** 9 outbound clicks in total.
+  `/top-10-best-selling-flashlights-on-amazon.../` 5 (Google), then 1 each from
+  arc lighters (ChatGPT), lighter-cause-a-shock, police flashlights and Zippo
+  repair (all Google). The Zippo repair page's Google visitors average **6m 11s**,
+  so the rewrite is being read.
+
+**What this changes:**
+- ChatGPT cites exactly the flashlight buying guides that Google won't rank at
+  DA 6. The "don't add another flashlight buying guide" rule (08-22) was about
+  Google; revisit it with AI traffic in mind.
+- **ChatGPT visitors stay ~14s.** On the pages it sends them to, the top pick and
+  its Amazon link must be visible in the first screen, or those visits can't
+  earn.
+- **The Olight/Fenix/Streamlight page gets 7 ChatGPT visits and still recommends
+  the replaced Baton 3 Pro.** Updating it to Baton 4 Pro / Baton Ultra is now the
+  top content fix.
+- **The Google buyers land on `top-10-best-selling-flashlights`.** It's still
+  legacy WordPress with no quick answer or FAQ, and it's the highest-value
+  upgrade on the site.
+- Amazon reports 26 clicks against GA4's 9. The gap is visitors blocking GA4 plus
+  bots hitting tagged links, so sales can't be attributed to a channel
+  precisely.
