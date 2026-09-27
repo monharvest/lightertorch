@@ -529,3 +529,20 @@ Found on the way:
 - Local builds cache rendered posts in `.astro/data-store.json`. After changing a
   markdown plugin, delete it or unchanged posts keep the old output. Cloudflare
   builds fresh, so production isn't affected.
+
+**Closed 2026-09-27 (evening):**
+- **Gap 2 (author):** posts show "By LighterTorch Team" (links /about/), and
+  the Article JSON-LD has an Organization author, which clears the Rich Results
+  Test's only warning. Swap for a named person later if Batu wants the extra
+  E-E-A-T weight.
+- **PD36R sweep done:** the power-outage, $20-vs-$100 and police posts now use the
+  V2.0 figures. The camping list's PD36R Pro button searches for the Pro. The
+  only remaining "1,600 lm / 283 m" is the durability guide's deliberate note
+  about the discontinued original.
+- **BIC fuel settled:** BIC's archived US product page (Web Archive, 2026-01-14)
+  says "pure isobutane fuel, with up to 3,000 lights". Isobutane boils at
+  −11.7 °C / 11 °F (PubChem). The BIC-lifespan, fixing-a-lighter and camping-torch
+  posts now separate n-butane (fails below ~40 °F) from BIC's isobutane (holds
+  out to ~11 °F).
+- **China line sourced:** CAAC bans lighters and matches for flights departing or
+  connecting through mainland China (EVA Air's summary).
