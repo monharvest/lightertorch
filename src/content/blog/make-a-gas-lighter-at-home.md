@@ -1,84 +1,78 @@
 ---
-title: 'Make a gas lighter at home'
-description: 'Steps to Make a Gas Lighter at Home Making a gas lighter at home is a science experiment that gives you some kick. It can make your kitchen tasks way easier...'
+title: 'How to Make a Lighter at Home: 2 Safe DIY Methods'
+description: "Make a fuel-free spark lighter for your stove from an old piezo igniter, or start a campfire with a 9V battery and steel wool, and why to skip fuel lighters."
 pubDate: '2021-05-21'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-3.jpg-1.webp'
 categories: ['How-to Guides', 'Safety Tips']
-tags: []
+tags: ['DIY lighter', 'homemade lighter', 'piezo igniter', 'gas stove', 'fire starting']
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Steps to Make a <a href="https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Gas Lighter</a> at Home</strong></p>
-<!-- /wp:paragraph -->
+**Quick answer:** The safest homemade lighter is a **fuel-free spark lighter** for a gas stove. Take the piezo igniter out of an empty push-button lighter (or buy a [replacement piezo igniter](https://www.amazon.com/s?k=piezo+igniter+push+button&tag=lightertorch-20)), mount it in a short length of plastic pipe, and wire it to two metal tips a few millimetres apart. Each press throws a spark that lights the stove's gas. For starting a fire outdoors, a **9-volt battery and fine steel wool** makes a glowing ember in seconds. What you shouldn't build is anything that stores fuel.
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+Both methods below make a spark or an ember, not a flame, so there's nothing to leak and nothing under pressure.
 
-<!-- wp:paragraph -->
-<p>Making a gas lighter at home is a science experiment that gives you some kick. It can make your kitchen tasks way easier with a quality way better than the commercial one. Here is <strong>how you can I make my gas lighter at home.</strong></p>
-<!-- /wp:paragraph -->
+## Why Not Build a Lighter That Holds Fuel?
 
-<!-- wp:image {"id":104,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/2021/05/Webp.net-compress-image-6.jpg" alt="" class="wp-image-104"/></figure>
-<!-- /wp:image -->
+A disposable lighter looks simple, but it's a sealed pressure container. Its tank holds liquefied gas, its valve has to seal every time, and in the US it has to pass a federal [child-resistance standard](https://www.ecfr.gov/current/title-16/chapter-II/subchapter-B/part-1210). BIC doesn't even [sell component parts](https://nam.bic.com/en-us/lighter-frequently-asked-questions) for its lighters. A homemade fuel lighter has none of that: no pressure-rated tank, no reliable valve and no child guard. The risks are leaks, flare-ups and burns, for a tool that costs a few dollars to buy.
 
-<!-- wp:paragraph -->
-<p><strong>Step 1: gather all the required material</strong></p>
-<!-- /wp:paragraph -->
+## Method 1: A Piezo Spark Lighter for Your Stove
 
-<!-- wp:paragraph -->
-<p>The materials required to make a gas lighter at home are all usually available at home, so you won't have to go through a hassle to collect the tiny parts of a proper gas lighter.</p>
-<!-- /wp:paragraph -->
+This is the kitchen "gas lighter": a long body with a button that makes a spark at the tip. It has no fuel of its own. The stove's gas does the burning. How the igniter inside works is covered in [how does a lighter work?](/inside-of-a-gas-lighter/)
 
-<!-- wp:list {"ordered":true} -->
-<ol><li>A spare cigarette lighter</li><li>Pvc pipe</li><li>Bottlecap</li><li>Safety pins</li><li>Insulation tape</li><li>Wire</li><li>Glue&nbsp;</li></ol>
-<!-- /wp:list -->
+**You'll need:**
 
-<!-- wp:paragraph -->
-<p><strong>Step 2: disassemble a lighter&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+- **A piezo igniter.** Either salvage one from a dead push-button lighter, or buy a replacement [piezo igniter button](https://www.amazon.com/s?k=piezo+igniter+push+button&tag=lightertorch-20). Grill-replacement igniter kits often include the lead wire and an electrode, which makes this much easier.
+- **About 6 inches (15 cm) of narrow PVC pipe**, or any rigid plastic tube. It has to be plastic, not metal, so it doesn't carry the spark to your hand.
+- **Insulated wire** and **two small metal tips.** Straightened safety-pin shafts work.
+- **Electrical tape**, glue and an end cap (a bottle cap is fine).
 
-<!-- wp:paragraph -->
-<p>Take a spare cigarette gas lighter and assemble the upper portion of it. After taking out the button that you press to ignite a flame together with the metallic portion at the side, you'll be exposed to a metallic part sticking out. Once you remove it, you'll be able to look at the wire sticking at its side, pull it out so that it's easily visible.</p>
-<!-- /wp:paragraph -->
+**Steps:**
 
-<!-- wp:paragraph -->
-<p>Remove the insulation of the wire using a wire stripper so that it is visible bare to you. Attach a new wire at its end and another wire at the head of the electronic part. Then cover both the wire connection properly with the tape together. &nbsp;</p>
-<!-- /wp:paragraph -->
+1. **Make sure the donor lighter is empty.** Outdoors and away from flames, hold its button or valve down until no more gas hisses out. Never cut into a lighter that still has fuel in it.
+2. **Remove the igniter.** Take off the button and cover and pull out the piezo unit, keeping its wire attached.
+3. **Mount it in the pipe.** Cut a hole near one end of the pipe just big enough for the igniter to sit snugly with the button sticking out.
+4. **Run two wires down the pipe.** A piezo igniter needs a return path. Connect one wire to its output lead and the other to its metal body or second terminal. Tape each connection.
+5. **Make the spark gap.** At the far end, fix the two metal tips so their points sit about 3–4 mm apart. Tape or glue them firmly so the gap can't shift. A piezo spark can cross a gap of a few millimetres, as explained in [how many volts is a gas lighter spark](/voltage-in-a-gas-lighter/).
+6. **Test it in a dim room.** Press the button: a blue-white spark should jump between the tips. If it doesn't, move the tips a little closer and try again. Then cap the open end.
+7. **Use it spark-first.** Hold the tip at the edge of the burner and start clicking before you turn the knob to low, so the spark is already there when the gas arrives. The full routine is in [how to light a gas stove manually](/manually-lighting-a-gas-stove/).
 
-<!-- wp:paragraph -->
-<p><strong>Step 3: make alterations to the PVC pipe</strong></p>
-<!-- /wp:paragraph -->
+**Good to know:** if you touch the tips while pressing, you'll get a sharp snap. It's startling but harmless, as we explain in [why a gas lighter shocks you](/lighter-cause-a-shock/). Keep the tips dry, and never use it to light a modern gas oven.
 
-<!-- wp:paragraph -->
-<p>Now take a PVC pipe and cut a small hole at the upper surface. Make sure it's big enough to fit in the disassembled part above inside of it. At the same time, it shouldn't be small enough to damage the part, neither too big for it to fall out of it.&nbsp;</p>
-<!-- /wp:paragraph -->
+Honestly, a ready-made [piezo stove lighter](https://www.amazon.com/s?k=gas+stove+spark+lighter+piezo&tag=lightertorch-20) costs a few dollars and is sturdier. Building one is worth it as a project, or to reuse a lighter you'd otherwise throw away.
 
-<!-- wp:paragraph -->
-<p><strong>Step 4: Insert the electric parts into the PVC&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+## Method 2: A 9-Volt Battery and Steel Wool
 
-<!-- wp:paragraph -->
-<p>In the steps of <strong>how can I make my gas lighter </strong>at home, the next step involved fixing the electric part of the lighter into the PVC diligently. Start inserting the part from the side of the wire in first so that you can see the ends of them sticking out of the other end of the PVC. Once the wires are in, you will finally be able to insert the electric part in; however, most of it will still stick out of the hole to be held but shouldn't fall out even if you hold it upside down.&nbsp;</p>
-<!-- /wp:paragraph -->
+This isn't a kitchen tool. It's a well-known way to start a campfire without a lighter or matches. Very fine steel wool (grade #0000) is made of strands thin enough that a battery's current heats them until they glow and burn.
 
-<!-- wp:paragraph -->
-<p><strong>Step 5: Connect wires to a safety pin</strong></p>
-<!-- /wp:paragraph -->
+1. **Prepare your fire first.** Have dry tinder and small kindling ready, outdoors, on bare ground or in a fire ring.
+2. **Fluff out a small pad** of the finest steel wool you can find.
+3. **Touch both terminals of a 9-volt battery to the wool.** The strands between the terminals glow red almost instantly and the glow spreads.
+4. **Move the glowing wool into the tinder** and blow gently until it catches.
+5. **Put the battery away** from the steel wool straight away.
 
-<!-- wp:paragraph -->
-<p>After inserting the electric part into the PVC, take a safety pin, unclasp it and cut out the spear together with the end; this is the part that fits in the head of the pin. Repeat it with another pin. Now fit the spears into the free ends of the wires that you can see coming out of the PVC pipe. Secure the ends properly by tightly locking the wires with the end of the spear. After doing it with both of the wires, secure the lock by wrapping an insulation tape around.&nbsp;</p>
-<!-- /wp:paragraph -->
+That last step matters. The Colorado Springs Fire Department specifically warns against [storing steel wool near 9-volt batteries](https://coloradosprings.gov/fire-department/page/9-volt-battery-fire-safety), because if both terminals touch it, it can start a fire. That's the same reaction, just unplanned. Keep a 9-volt in your fire kit with its terminals taped or capped.
 
-<!-- wp:paragraph -->
-<p><strong>Step 6: assemble&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+## Or Skip the DIY: Fire Starters That Never Need Fuel
 
-<!-- wp:paragraph -->
-<p>To assemble the lighter, take two tiny pieces of the double tape to keep the metallic ends of the wire in place. For this, place a piece of tape at the lower end of the PVC pipe and stick one tap on it. Then place the other piece of tape over and layer it up with the other wire to stick them together. Now, to keep them in place, wrap them up with insulation tape. This now makes up for the two metallic ends to create a spark.&nbsp;</p>
-<!-- /wp:paragraph -->
+| Option | What it makes | Stored fuel? | Best for | Main risk |
+|---|---|---|---|---|
+| DIY piezo spark lighter | A spark | None | Lighting a gas stove | A harmless zap |
+| 9V battery + steel wool | A glowing ember | None | Starting a campfire | Burns and stray embers |
+| [Ferro rod](https://www.amazon.com/s?k=ferro+rod+fire+starter&tag=lightertorch-20) | A shower of hot sparks | None | Campfires, emergency kits | Low |
+| [Arc lighter](/best-arc-lighters-for-camping/) | An electric arc | None (rechargeable) | Candles, stoves, camping | Battery runs down |
+| Homemade fuel lighter | A flame | Yes | Don't build one | Leaks, flare-ups, burns |
 
-<!-- wp:paragraph -->
-<p>Close the other end of the PVC with a bottle cap, and you have a gas stove lighter ready.&nbsp;</p>
-<!-- /wp:paragraph -->
+A ferro rod is made of ferrocerium, the same material as the "flint" in a disposable lighter, just much bigger. Scrape it with a steel striker and it throws hot sparks, strike after strike, for years. For campfires it's the most reliable fuel-free tool there is.
+
+## FAQ
+
+**Can you make a lighter at home?** Yes, safely, if it doesn't hold fuel. A piezo spark lighter for a gas stove is a simple afternoon project, and a 9-volt battery with steel wool will start a campfire. Building a lighter that stores butane or fluid isn't worth the risk.
+
+**How do you make a lighter with a battery?** Touch both terminals of a 9-volt battery to a pad of very fine (#0000) steel wool. The thin strands heat up and glow, and you can blow that ember into a flame in dry tinder. Do it outdoors, and store the battery away from the wool afterwards.
+
+**Can you make lighter fluid at home?** Don't. Lighters are designed around one specific fuel. Substitutes like gasoline or rubbing alcohol burn very differently, and in a Zippo they're a genuine hazard. Buy the right fuel: [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) for wick lighters, refined butane for gas lighters.
+
+**How do you make a lighter work again?** Most "dead" lighters aren't broken. A butane lighter that sparks but won't light usually has air in the tank or is too cold. See [how to fix a lighter that won't light](/fixing-a-lighter/), or [how to fill a butane lighter](/filling-up-a-gas-lighter/) if it's just empty.
+
+**Is a homemade spark lighter safe to use on an oven?** No. Modern gas ovens use a glow-bar igniter connected to a safety valve and shouldn't be lit by hand at all. Use a homemade or store-bought spark lighter on stovetop burners only.

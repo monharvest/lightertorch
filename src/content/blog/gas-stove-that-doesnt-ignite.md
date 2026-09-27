@@ -1,64 +1,81 @@
 ---
-title: 'Gas Stove that Doesn''t Ignite'
-description: 'Fixing a Gas Stove that Doesn''t Ignite Gas stoves are undoubtedly very advantageous, but you can hardly showcase any of your culinary prowess if you''re...'
+title: "Gas Stove Won't Light? 5 Fixes (Clicking, No Click, Gas Smell)"
+description: "A gas burner that clicks but won't light is usually wet, clogged or has a crooked cap. Five fixes, what no clicking means, and when a gas smell means stop."
 pubDate: '2021-05-21'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-1.jpg-1.webp'
-categories: ['How-to Guides']
-tags: []
+categories: ['How-to Guides', 'Safety Tips']
+tags: ['gas stove', 'gas burner', 'stove igniter', 'kitchen safety', 'troubleshooting']
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Fixing a Gas Stove that Doesn't Ignite</strong></p>
-<!-- /wp:paragraph -->
+**Quick answer:** If a burner **clicks but won't light**, it's almost always wet, dirty or reassembled wrong. Dry it, clear the burner holes with a needle or paper clip, and make sure the cap sits flat on the right burner. Those are the first fixes [GE Appliances lists](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17827). If **nothing clicks at all**, check the plug and the circuit breaker. And if you smell gas strongly, or the smell stays with every burner off, stop troubleshooting: get outside and call your gas company.
 
-<!-- wp:image {"id":81,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/uploads/2021/05/Webp.net-compress-image-1.jpg" alt="gas stove cleaning" class="wp-image-81"/></figure>
-<!-- /wp:image -->
+## First: If You Smell Gas
 
-<!-- wp:paragraph -->
-<p>Gas stoves are undoubtedly very advantageous, but you can hardly showcase any of your culinary prowess if you're unable to light your stove. The problem of <strong>why is my gas stove not lighting </strong>remains to be one of the most commonly asked questions. You can solve all of your troubles through simple troubleshooting procedures that can fix your gas stove.&nbsp;</p>
-<!-- /wp:paragraph -->
+A faint smell right after a burner clicked without lighting is normal. That's the unburned gas from the burner you just tried. Turn the knob fully off, open a window, let it clear, then work through the fixes below. Connecticut's utility regulator notes that a gas smell near an appliance [may just be a burner valve left slightly open](https://portal.ct.gov/pura/gas-pipeline-safety/what-to-do-if--you-smell-natural-gas), which you can fix by turning it off.
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Clogged feed</strong></li></ol>
-<!-- /wp:list -->
+**A strong smell, or one that doesn't fade with every knob off, is different.** Treat it as a leak:
 
-<!-- wp:paragraph -->
-<p>One of the most common reasons <strong>is my gas stove, not lighting clogged debris,</strong> which blocks the gas flow to the igniter. You'll know this if you can see sparks, hear clicking sounds and smell the gas, but the flame won't ignite. You can fix this quickly by lifting the grate off your burner cap and place the burner from your range top aside. Make sure it is cool before picking it up barehanded. You might need to untighten the two screws holding the burner in its place if your stove is of a newer model. A regular nut driver or socket wrench will be enough to do the job.&nbsp;</p>
-<!-- /wp:paragraph -->
+- Don't flip light switches, use the phone near the smell, or strike a lighter or match.
+- Leave the house and get everyone else out.
+- Call the gas company or 911 from outside or a neighbor's house.
 
-<!-- wp:paragraph -->
-<p>Take a look at the small hole at the back of the burner, which paves the way for the gas to the igniter. This can very easily get clogged by debris or grease. Clean it properly, wash the surroundings with warm soapy water and soak the burner base in vinegar or warm water overnight. Reinstall the burner, and you'll have your problem solved.&nbsp;</p>
-<!-- /wp:paragraph -->
+## What's Wrong? Match the Symptom
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Loose connection</strong></li></ol>
-<!-- /wp:list -->
+| What happens | Likely cause | Where to start |
+|---|---|---|
+| Clicks, but no flame | Wet or clogged burner, or a misaligned cap | Fixes 1–3 |
+| Won't light after cleaning | Water trapped in the burner holes | Fix 1 |
+| Lights slowly or unevenly | Partly blocked holes, or a crooked cap | Fixes 2–3 |
+| Clicks with a weak or no spark | Dirty igniter tip | Fix 4 |
+| No clicking on any burner | No power to the stove | Fix 5 |
+| One burner won't click | Wrong knob or cap, or a faulty switch | Fix 5, then call for service |
+| Keeps clicking after it lights, or when off | Moisture, or a knob not fully off | Fix 1, and push the knob fully off |
 
-<!-- wp:paragraph -->
-<p>Another major reason for a stove not igniting is some connections getting loose on the top. This can commonly occur while cleaning or installation. If the wire that connects the igniter to the module isn't properly secured, you'll have problems lighting your stove. The very first thing to do is to unplug the stove from the wall or flip the breaker. Remove the grate, burner cap, and then the sealed burner base to have a clear look at the loose connections or disconnected wires. Reconnect the disconnected ones, secure the loosened wires, reinstall the sealed burner base, burner caps, and grate, and restore the stove's power connection. This will solve your issue.&nbsp;</p>
-<!-- /wp:paragraph -->
+## Fix 1: Dry the Burner
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Replacing the igniter</strong></li></ol>
-<!-- /wp:list -->
+This is the most common cause, especially right after you've cleaned the stovetop or something boiled over. Water sitting in the burner's holes blocks the gas, and the igniter keeps clicking without lighting it.
 
-<!-- wp:paragraph -->
-<p>If all of the connections are secure and in place and cleaning the grease doesn't solve your problem either, then you're probably dealing with a faulty igniter. To be one hundred percent sure, shut off the lights and monitor the color of the sparks that come out of the igniter when you turn the knob. They should be blue-white; if they're not, it's time to replace your igniter. For a perfect replacement, check the model number of your oven and order an igniter replacement from the company or purchase it from a nearby hardware store.&nbsp;</p>
-<!-- /wp:paragraph -->
+Turn off the stove and let it cool. Lift off the grate, burner cap and burner head, shake out the water, and let them dry completely. GE suggests air-drying them or setting them in a warm oven for 30 minutes. Put everything back and try again. [It can take up to 10 or 12 clicks](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17827) for a burner to light, so give it a few seconds before assuming it has failed.
 
-<!-- wp:paragraph -->
-<p>For the replacement, disconnect the stove from the power and gas connection, lift the burner head from the stove, and put it upside down. Use a screwdriver to detach the wiring from the igniter, install the new one, and put back the burner base, cap, and grate. Resisted the power for the gas stove, and that should fix your issue of <strong>why is my gas stove not igniting.&nbsp;</strong></p>
-<!-- /wp:paragraph -->
+## Fix 2: Clear the Burner Holes
 
-<!-- wp:list {"ordered":true} -->
-<ol><li><strong>Faulty igniter wiring harness</strong></li></ol>
-<!-- /wp:list -->
+Grease and food boil-overs clog the small holes the gas flows through. With the stove off and cool, remove the grate, cap and burner head. GE recommends [poking through the holes with a needle or a paper clip](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17361). Avoid wooden toothpicks, which can snap off inside a hole. Pay attention to the hole that sits closest to the igniter, since that's the one that carries the first flame. Wash the parts in warm soapy water if they're greasy, then dry them fully (Fix 1) before reassembling.
 
-<!-- wp:paragraph -->
-<p>If only one of the burners doesn't receive the spark, but others are working normally, then it's probably the issue of a faulty igniter wiring harness. Wire harnesses can get short out if a burning liquid boils over them, or they might have been stripped over time. For the replacement, turn off the gas, unplug the stove, and remove the grates and burners. After that, remove the control knobs, and remove the metal stovetop using screwdrivers. Just unscrew bolts and look underneath the panel by opening the oven door. After removing the front panel, you can easily put aside the top panel. After that's done, pull the oven forward and pull the back panel aside as well, which will expose the wiring harness to you. Here, you'll see two wires connecting to the back of the oven and the front of the stove. Take the back wire off using a plastic clip and free the other wire as well from the spark module terminal. After you're done with this, pull the four switches of the gas valve shafts and thread the new igniter harness in its place. Reconnect the wires from the back and spark module terminal and put all the parts back in their designated places.&nbsp;</p>
-<!-- /wp:paragraph -->
+## Fix 3: Seat the Cap Correctly
 
-<!-- wp:paragraph -->
-<p><strong>One safety note before you start:</strong> a gas range's spark module runs off 120 V mains power, so always unplug the appliance or kill its breaker before opening anything up, and never work on it with wet hands. If the stove has been <em>shocking</em> you rather than just failing to light, stop and read <a href="/lighter-cause-a-shock/">why a lighter or stove igniter shocks you</a> first — a mains-powered zap is a very different problem from a handheld piezo lighter's harmless snap. In the meantime you can still cook by <a href="/manually-lighting-a-gas-stove/">lighting the burner manually</a>.&nbsp;</p>
-<!-- /wp:paragraph -->
+A burner cap that's crooked, upside down or on the wrong burner stops the igniter from lighting the gas, and the flame comes out uneven. Most stoves have burners of different sizes, and a medium cap on a small burner won't work. Each cap should match its burner and lie flat. Give it a light wiggle; it should settle into place and not rock.
+
+## Fix 4: Clean the Igniter
+
+The igniter is the small white ceramic post with a metal tip beside the burner. When it's coated in grease, the spark goes weak or jumps to the wrong place. Wipe the tip with a clean, dry paper towel, even if it looks clean, and [press it down gently](https://products.geappliances.com/appliance/gea-support-search-content?contentId=17361) to make sure it's seated.
+
+## Fix 5: No Clicking? Check the Power
+
+The igniters run on electricity, so a stove that doesn't click at all usually has no power. Check that it's plugged in and that its circuit breaker or fuse hasn't tripped. Then confirm you're turning the knob to the **Lite** position. On a range, try the oven. If the oven works but none of the surface burners click, [GE says the fix is a service call](https://products.geappliances.com/appliance/gea-support-search-content?contentId=19170).
+
+## When to Call a Technician
+
+If the burner is dry, clean and correctly assembled and still won't light, or an igniter won't click at all, the fault is usually an igniter, the spark module or the wiring. Those are parts swaps inside the appliance. The spark module runs on 120 V mains power, so the stove must be unplugged (or its breaker switched off) before anyone opens it up, and the gas supply shut off too. If you aren't comfortable doing that, book a repair. And any gas smell that persists after the knobs are off is a job for the gas company, not a DIY fix.
+
+If the stove has been giving you shocks rather than just failing to light, that's a separate problem. See [why a gas lighter or stove shocks you](/lighter-cause-a-shock/).
+
+## Need to Cook Now? Light It by Hand
+
+A stovetop burner will light by hand while you sort out the igniter. The safe order is flame first, then gas: hold a lit [long-reach lighter](https://www.amazon.com/s?k=long+utility+lighter+refillable&tag=lightertorch-20) at the edge of the burner, then turn the knob to Lite. Full steps are in [how to light a gas stove manually](/manually-lighting-a-gas-stove/). A long lighter keeps your hand clear of the flame. A fuel-free [piezo spark lighter](https://www.amazon.com/s?k=gas+stove+spark+lighter+piezo&tag=lightertorch-20) works too and never needs refilling: start clicking it at the burner edge before you turn the knob, so the spark is already there when the gas arrives.
+
+**Never light a modern gas oven by hand.** Most use a glow-bar igniter wired to a safety valve, and gas can build up in the oven while you try. The manual-lighting guide explains why.
+
+## FAQ
+
+**Why is my gas stove clicking but not lighting?** The spark is working, but the gas isn't reaching it properly. The usual causes are water in the burner holes, grease clogging them, or a burner cap that's crooked or on the wrong burner. Dry it, clear the holes and reseat the cap.
+
+**Why won't my gas stove light after cleaning?** Water is still trapped in the burner holes. Take the burner head and cap off, shake out the water and let them dry completely, either overnight or in a warm oven for about 30 minutes, then reassemble.
+
+**Why does my stove smell like gas but won't light?** If you've just tried a burner, that's the unburned gas from it: turn it off, air the room and fix the burner. If the smell is strong, or it stays with every knob off, treat it as a leak: leave the house and call the gas company from outside.
+
+**How many clicks does it take for a burner to light?** GE says it can take up to 10 or 12 clicks. If it's still not lit after that, turn it off, let the gas clear and check the burner.
+
+**Why won't one burner on my gas stove light?** If the others work, the problem is in that burner: wet or clogged holes, a misaligned or wrong-size cap, or a greasy igniter. If it doesn't click at all while the others do, the igniter, its switch or its wiring needs a technician.
+
+**Can I use my gas stove during a power outage?** The burners, usually yes, lit by hand with a long lighter. The oven, no. See [the best flashlights for power outages](/best-flashlights-for-power-outages/) for the rest of a blackout kit.

@@ -546,3 +546,43 @@ Found on the way:
   out to ~11 °F).
 - **China line sourced:** CAAC bans lighters and matches for flights departing or
   connecting through mainland China (EVA Air's summary).
+
+**Gaps 5 and 6 closed 2026-09-27 (late):**
+
+- **Gap 5, Zippo pages.** `/can-a-zippo-explode/` now has a lighter-type risk
+  table and a 6-question FAQ, sourced to Zippo's fill guide and BIC's US FAQ
+  (`nam.bic.com`, live again: "Do not leave a lighter in a hot vehicle").
+  `/zippo-gift-guide/`'s FAQ heading was renamed so the schema picks it up, and
+  it gained Zippo sources (guarantee, Armor thickness, ships unfueled, finish not
+  covered) plus a USPS answer on mailing a lighter. The archived BIC link on two
+  posts was swapped for the live `nam.bic.com` FAQ.
+- **Gap 6, the five legacy lighter posts, rewritten** as clean markdown with a
+  quick answer, table, FAQ and outside sources. The slugs are unchanged, so no
+  redirects are needed. Ubersuggest targets (US):
+
+  | Post | Target | Vol | SD |
+  |---|---|---|---|
+  | `filling-up-a-gas-lighter` | how to fill a butane lighter (+ refill with butane 9,900; Zippo 9,900; BIC 2,900; torch 1,600) | 9,900 | 31 |
+  | `inside-of-a-gas-lighter` | how does a lighter work / parts of a lighter | 880 / 720 | 20 / 38 |
+  | `gas-stove-that-doesnt-ignite` | gas stove won't light (+ "but smell gas" 390) | 590 | 28 |
+  | `make-a-gas-lighter-at-home` | how to make a lighter / homemade lighter | 880 / 320 | 32 |
+  | `voltage-in-a-gas-lighter` | piezo lighter voltage | 30 | 24 |
+
+  Watch these in GSC from mid-October. The fill guide is the biggest opportunity
+  on the site by search volume.
+- **Unused high-volume questions found on the way:** "how to make a lighter flame
+  bigger (bic)" (480 + 320) and "how to make a lighter work again" (480). BIC says
+  its flames are fixed. It is answered in the how-a-lighter-works FAQ; worth a
+  line in `fixing-a-lighter` too.
+- **Site-wide mobile fix:** wide tables pushed pages sideways on phones (the
+  Olight vs Fenix page was 490px wide on a 390px phone, the top-10 Amazon page
+  547px). Markdown tables are now wrapped in a scroll box (`rehypeTableScroll`),
+  and legacy `table.responsive-table` scrolls itself. All 50 pages fit at 390px.
+- **FAQ schema now covers 34 pages, 189 questions.**
+- **Build gotcha:** a markdown error doesn't fail `npm run build`. The log shows
+  `[ERROR] [glob-loader]` and the page ships with an empty body, then the build
+  still says "Complete!". Check the log for `ERROR` after a plugin change.
+- **Hero images still needed:** prompts for the fill guide, the DIY lighter post
+  and (optional) the voltage post are in
+  `lightertorch-images/PROMPTS-2026-09-27-legacy-lighter-heroes.md`.
+- **Gap 1 remaining:** 23 pages still link no outside source (was 29), 20 of them real posts (the other 3 are About, Privacy and Disclosure). 14 posts are still legacy WordPress HTML.
