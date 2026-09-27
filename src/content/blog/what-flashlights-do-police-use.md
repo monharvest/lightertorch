@@ -2,6 +2,7 @@
 title: 'What Flashlights Do Police Use? Brands, Lumens & Best Picks (US & UK)'
 description: 'Police officers rely on tactical flashlights from Streamlight, SureFire, and LED Lenser, typically 800–1,200 lumens. See what US and UK police carry and the best civilian equivalents.'
 pubDate: '2026-08-01'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/police-officer-flashlight-night-patrol.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['police flashlights', 'tactical flashlights', 'Streamlight', 'LED Lenser']
@@ -51,7 +52,7 @@ A tactical light in the 500+ lumen range also serves a defensive purpose: aimed 
 
 You don't need a badge to buy any of the lights above. If you want police-grade performance for camping, home security, or everyday carry, these are our picks:
 
-- **Best overall:** [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,600 lumens, USB-C rechargeable, IP68 waterproof, with a tactical mode switch. Read our full take in [the strongest torches on the market](/what-is-the-best-long-range-flashlight/).
+- **Best overall:** [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,700 lumens, USB-C rechargeable, IP68 waterproof, with a tactical tail switch. Read our full take in [the strongest torches on the market](/what-is-the-best-long-range-flashlight/).
 - **Best budget tactical:** [Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) — the actual light many officers carry as a backup, usually under $50.
 - **Best rechargeable duty-style:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) — 4,000 lumens with a tail switch designed for tactical use.
 

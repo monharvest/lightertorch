@@ -2,6 +2,7 @@
 title: '$20 vs $100 Flashlight: What You Actually Get for the Money'
 description: 'Where the extra $80 really goes when you buy a premium flashlight: honest lumens, regulated drivers, safe batteries, real waterproofing — and when the cheap light is genuinely enough.'
 pubDate: '2026-08-02'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/cheap-vs-premium-flashlight-workbench.webp'
 categories: ['Buying Guides']
 tags: ['budget flashlight', 'premium flashlight', 'flashlight comparison', 'value guide']
@@ -13,7 +14,7 @@ Let's open both up and see where the $80 goes.
 
 ## The Spec-Sheet Illusion
 
-Search Amazon for flashlights and you'll find $18 lights claiming "990,000 lumens" next to a $100 Fenix rated at 1,600. The cheap light is not 600× brighter — it's lying, and the premium one is measured. That single difference explains most of the price gap:
+Search Amazon for flashlights and you'll find $18 lights claiming "990,000 lumens" next to a $100 Fenix rated at 1,700. The cheap light is not 580× brighter — it's lying, and the premium one is measured. That single difference explains most of the price gap:
 
 - **ANSI FL1 ratings.** Reputable brands (Fenix, Olight, Streamlight, Nitecore — [compared here](/olight-vs-fenix-vs-streamlight/)) publish output, runtime, beam distance, and impact resistance measured to the ANSI FL1 standard. No-name lights print whatever number sells. We tore into one of these claims in our [Sunitact "990,000 lumen" review](/sunitact-flashlights-high-lumens-review/).
 - **Turbo honesty.** Premium lights tell you turbo lasts 2 minutes before stepping down; cheap lights just dim quietly and hope you don't notice.
@@ -52,7 +53,7 @@ The key is buying a *reputable* budget light rather than a lying one: a [Streaml
 - **Daily carry** — anything used daily amortizes to pennies; buy once
 - **Camping, hiking, hunting** — regulated output and real waterproofing are the difference between gear and toys ([our camping picks](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/))
 - **Work** — if a dead light stops the job, the warranty and build quality are the product
-- **Emergencies** — the [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) does 115 hours on low; that's a week of blackout on one charge
+- **Emergencies** — the [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) runs up to 482 hours on its lowest mode, so one charge outlasts a long blackout
 
 ## The Verdict
 
