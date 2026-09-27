@@ -2,7 +2,7 @@
 title: 'What Is the Best Torch for Camping? Headlamp vs Handheld vs Lantern'
 description: 'The best camping torch depends on the job, not the lumen count. How headlamps, handhelds and lanterns differ — and the two-light setup most campers should own.'
 pubDate: '2021-05-31'
-updatedDate: '2026-08-14'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2025/02/Webp.net-compress-image-7.jpg-1.webp'
 categories: ['Buying Guides']
 tags: ['camping', 'headlamp', 'lantern', 'flashlight', 'runtime', 'IPX rating']
@@ -81,7 +81,7 @@ High output costs runtime roughly proportionally, and most lights step down afte
 
 Whatever the mix, follow the **two-light rule**: carry a backup, and don't let both run on the same battery type. A single point of failure on a dark night in the woods is the one camping gear mistake that turns a nuisance into an actual problem.
 
-And while you're packing lights, pack fire. A butane lighter loses pressure below about 40 °F, which is exactly when you want it most — an [arc lighter](/best-arc-lighters-for-camping/) doesn't have that problem.
+And while you're packing lights, pack fire. A butane lighter loses pressure in the cold (refillable n-butane ones below about 40 °F; isobutane disposables like BIC hold out to around 11 °F), which is exactly when you want it most — an [arc lighter](/best-arc-lighters-for-camping/) doesn't have that problem.
 
 ## FAQ
 

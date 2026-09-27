@@ -68,7 +68,7 @@ An [arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&ta
 - **Holding the flame lit.** This is the big one. Every extra second burns fuel you can't get back, and on a disposable the metal hood gets genuinely hot, so keep each light short rather than holding it burning. Long burns are both the fastest way to drain a lighter and the most common way people burn their thumb.
 - **Running the flame high.** If your lighter has an adjuster, a lower flame does the same job on most tasks and stretches the fuel noticeably.
 - **Heat.** A lighter left on a dashboard loses fuel far faster than one in a drawer, and a pressurised tank in direct sun is a genuine hazard — see [can a Zippo explode?](/can-a-zippo-explode/) for what actually goes wrong.
-- **Cold, temporarily.** Butane boils at about **−0.5 °C (31 °F)**, so below roughly 40 °F a butane lighter stops producing enough vapour to light. Nothing is broken and no fuel is lost — warm it in a fist for a minute and it works again. More on that in [how to fix a lighter that won't light](/fixing-a-lighter/).
+- **Cold, temporarily.** A lighter only works while its fuel is warm enough to boil. BIC fills its lighters with [pure isobutane](https://web.archive.org/web/20260114075654/https://us.bic.com/en_us/bic-classic-lighters-assorted-12-pack.html), which boils at about **−12 °C (11 °F)** ([PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Isobutane)), so a BIC keeps lighting well below freezing and only fades as it nears that point. Lighters running on ordinary n-butane give up much sooner: it boils at **−0.5 °C (31 °F)** ([PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Butane)), and below roughly 40 °F it stops making enough vapour to light. Either way nothing is broken and no fuel is lost — warm it in a fist for a minute and it works again. More on that in [how to fix a lighter that won't light](/fixing-a-lighter/).
 
 ## Four Pieces of Advice You'll See That Are Wrong
 
@@ -104,6 +104,6 @@ Curious what's actually inside the thing? [Inside a gas lighter](/inside-of-a-ga
 
 **Can you refill a BIC lighter?** Not practically. There's no fill valve and the flint is under a crimped hood. Buy a refillable butane lighter if you want to refill.
 
-**Why won't my lighter light even though it's full?** Usually cold — butane stops vaporising near freezing, so warm it in your hand. On a refillable, it's more often air trapped in the tank, which needs bleeding before a refill.
+**Why won't my lighter light even though it's full?** Usually cold — the fuel stops vaporising (around 40 °F for n-butane refillables, about 11 °F for the isobutane in a BIC), so warm it in your hand. On a refillable, it's more often air trapped in the tank, which needs bleeding before a refill.
 
 **Does the flame size affect how long a lighter lasts?** Yes, substantially. A high flame burns through fuel much faster than a low one and rarely does the job any better.

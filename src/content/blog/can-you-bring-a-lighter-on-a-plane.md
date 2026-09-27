@@ -53,7 +53,7 @@ Big "tactical" flashlights with aggressive strike bezels occasionally get extra 
 
 ## International Flights
 
-The table above is TSA (US domestic and departures). Most countries follow similar ICAO-based rules — one lighter on person, no fuel, spare batteries in cabin — but some are stricter: several Asian airports confiscate **all** lighters from cabin baggage, and China bans lighters on flights entirely. Check your airline and departure airport before flying internationally with any lighter.
+The table above is TSA (US domestic and departures). Most countries follow similar ICAO-based rules — one lighter on person, no fuel, spare batteries in cabin — but some are stricter: several Asian airports confiscate **all** lighters from cabin baggage, and flights departing or connecting through mainland China ban lighters and matches entirely — on your person, in carry-on and in checked bags, under [CAAC rules as EVA Air summarizes them](https://www.evaair.com/en-us/fly-prepare/baggage/additional-baggage-information/special-rules-for-different-airports/). Check your airline and departure airport before flying internationally with any lighter.
 
 ## FAQ
 

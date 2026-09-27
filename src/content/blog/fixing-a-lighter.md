@@ -61,7 +61,7 @@ On a flint-wheel refillable, the flint is a consumable. Unscrew the retaining sc
 
 ![Frost-covered gloves holding an unlit disposable lighter with little fuel left, breath misting in the freezing air.](/uploads/2026/09/cold-weather-lighter-gloved-hands-frost.webp)
 
-This isn't a fault. **Butane boils at about −0.5 °C (31 °F)** ([PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Butane)), and below roughly 4 °C (40 °F) it stops generating enough vapour pressure to feed the jet. Warm the lighter in a closed fist or an inside pocket for a minute and it will light.
+This isn't a fault. **Butane boils at about −0.5 °C (31 °F)** ([PubChem](https://pubchem.ncbi.nlm.nih.gov/compound/Butane)), and below roughly 4 °C (40 °F) it stops generating enough vapour pressure to feed the jet. Warm the lighter in a closed fist or an inside pocket for a minute and it will light. (Disposable BICs run on [isobutane](https://web.archive.org/web/20260114075654/https://us.bic.com/en_us/bic-classic-lighters-assorted-12-pack.html), which boils at about −12 °C / 11 °F, so they keep working in much colder weather than an n-butane refillable.)
 
 If you need reliable cold-weather ignition, the fix is a different tool rather than a repair: an [electric arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) has no fuel to vaporise, so cold doesn't stop it sparking (its battery does run down faster in freezing weather, like any lithium cell). See our [best arc lighters guide](/best-arc-lighters-for-camping/).
 
@@ -112,4 +112,4 @@ For how long a tankful should actually last before any of this becomes relevant,
 
 **Is it worth repairing a disposable lighter?** No. The flint sits under a crimped hood next to a sealed pressurised tank, and the lighter costs about a dollar. Repair refillables; replace disposables.
 
-**Why does my lighter only work indoors?** Butane boils near freezing, so below about 40 °F there isn't enough vapour pressure to feed the jet. Warm it in your hand, or switch to an arc lighter for cold weather.
+**Why does my lighter only work indoors?** n-Butane boils near freezing, so below about 40 °F a refillable butane lighter doesn't have enough vapour pressure to feed the jet (isobutane disposables like BIC hold out to around 11 °F). Warm it in your hand, or switch to an arc lighter for cold weather.
