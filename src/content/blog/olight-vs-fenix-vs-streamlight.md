@@ -2,12 +2,13 @@
 title: 'Olight vs Fenix vs Streamlight: Which Flashlight Brand Should You Buy?'
 description: 'Olight, Fenix, and Streamlight compared head-to-head: build quality, charging, warranty, and best models — so you know exactly which flashlight brand fits your needs and budget.'
 pubDate: '2026-08-01'
+updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/three-tactical-flashlights-comparison.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Olight', 'Fenix', 'Streamlight', 'flashlight brands', 'comparison']
 ---
 
-**Quick answer:** All three are excellent — the right one depends on how you'll use it. **Streamlight** is the duty-proven workhorse: the brand US police actually carry, tough, simple, and usually the cheapest of the three. **Fenix** is the outdoor enthusiast's pick: the best balance of output, runtime, and waterproofing for camping and hiking. **Olight** is the innovation brand: magnetic charging, the most compact bodies, and the most polished everyday-carry (EDC) lights. Details, model picks, and a full comparison table below.
+**Quick answer:** All three are excellent — the right one depends on how you'll use it. **Streamlight** is the duty-proven workhorse: the brand US police actually carry, tough, simple, and usually the cheapest of the three (start with the [PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20)). **Fenix** is the outdoor enthusiast's pick: the best balance of output, runtime, and waterproofing for camping and hiking (the [PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) is the all-rounder). **Olight** is the innovation brand: magnetic charging, the most compact bodies, and the most polished everyday-carry (EDC) lights (the [Baton 4 Pro](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) is the benchmark). Details, model picks, and a full comparison table below.
 
 If you've narrowed your search to these three names, you've already done the hard part — you're choosing between the three most respected flashlight brands on the market, and there's no bad answer. What's left is matching the brand's personality to your use case. Having covered all three across our reviews and guides, here's how they actually differ.
 
@@ -18,11 +19,11 @@ If you've narrowed your search to these three names, you've already done the har
 | Founded | 1973 (USA) | 2001 | 2007 |
 | Reputation | Law-enforcement standard | Outdoor performance | EDC innovation |
 | Typical price range | [Most models $20–$80](https://www.amazon.com/s?k=streamlight+flashlight&tag=lightertorch-20) | [Most models $40–$120](https://www.amazon.com/s?k=fenix+flashlight&tag=lightertorch-20) | [Most models $35–$150](https://www.amazon.com/s?k=olight+flashlight&tag=lightertorch-20) |
-| Charging | USB / rechargeable docks | USB-C on most models | Proprietary magnetic (MCC) |
+| Charging | USB / rechargeable docks | USB-C on most models | Magnetic (MCC); newer models add USB-C |
 | Batteries | CR123A / proprietary packs / 18650 | 18650 / 21700, standard cells | Mostly proprietary customized cells |
 | Warranty | Limited lifetime | Limited lifetime (5 yr on battery/electronics) | Limited lifetime (varies by region) |
 | Best for | Duty, work, budget tactical | Camping, hiking, one-light-for-everything | EDC, pocket lights, gadget lovers |
-| Flagship pick | [Check price on Amazon →](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=olight+baton+3+pro&tag=lightertorch-20) |
+| Flagship pick | [Check price on Amazon →](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) |
 
 ## Streamlight — The Duty Workhorse
 
@@ -64,15 +65,15 @@ Olight is the youngest of the three and behaves like it: fast release cycles, bo
 
 **Strengths:**
 
-- **Compact power.** The S1R Baton II pushes 1,000 lumens from a body shorter than your thumb — the most powerful pocket light class on the market, as we noted in our [long-range guide](/what-is-the-best-long-range-flashlight/).
+- **Compact power.** The [Baton 4 Pro](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) puts 1,600 lumens into a 111 mm pocket light, and the [Baton Ultra](https://www.amazon.com/s?k=olight+baton+ultra&tag=lightertorch-20) pushes the same pocket size to 1,800 lumens and a 300 m throw. Few lights this small come close.
 - **Magnetic charging.** No cover flaps, no worn-out ports; the magnetic tail cap also sticks the light to any steel surface for hands-free work.
 - **Thoughtful EDC details.** Pocket clips, lockout modes, slow-blink battery indicators — small touches that make daily carry pleasant.
 
-**Weaknesses:** Proprietary batteries and charging are the flip side of the innovation — a customized Olight cell charges through the tail, so you can't just drop in any 18650 from a drawer. Losing the magnetic cable on a trip is more annoying than losing a USB-C cable, since any phone charger replaces the latter.
+**Weaknesses:** Proprietary batteries are the flip side of the innovation — Olight's customized cells charge through the light, so you can't just drop in any 18650 from a drawer. Newer models like the Baton 4 Pro and Baton Ultra add a USB-C port next to the magnetic tail; on older models, losing the magnetic cable on a trip is more annoying than losing a USB-C cable, since any phone charger replaces the latter.
 
 **Buy Olight if:** you'll carry the light daily, love clever design, and charge your gear regularly rather than swapping batteries in the field.
 
-**Our picks:** [Olight Baton series](https://www.amazon.com/s?k=olight+baton+3+pro&tag=lightertorch-20) (EDC benchmark), [Warrior series](https://www.amazon.com/s?k=olight+warrior+tactical&tag=lightertorch-20) (tactical), [Javelot throwers](https://www.amazon.com/s?k=olight+javelot+turbo&tag=lightertorch-20) (long range).
+**Our picks:** [Olight Baton 4 Pro](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) (EDC benchmark, or the brighter [Baton Ultra](https://www.amazon.com/s?k=olight+baton+ultra&tag=lightertorch-20)), [Warrior series](https://www.amazon.com/s?k=olight+warrior+tactical&tag=lightertorch-20) (tactical), [Javelot Turbo 2](https://www.amazon.com/s?k=olight+javelot+turbo+2&tag=lightertorch-20) (long range, 1,500 m throw).
 
 ## Head-to-Head: Common Scenarios
 
