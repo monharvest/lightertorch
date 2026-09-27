@@ -35,14 +35,20 @@ const imageURL = new URL(imagePath, Astro.site);
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWE72TWTHB"></script>
-<script is:inline>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-ZWE72TWTHB');
-</script>
+<!-- Google tag (gtag.js) — production builds only, so dev-server previews don't count as visits -->
+{
+	import.meta.env.PROD && (
+		<>
+			<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWE72TWTHB"></script>
+			<script is:inline>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+				gtag('config', 'G-ZWE72TWTHB');
+			</script>
+		</>
+	)
+}
 
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />

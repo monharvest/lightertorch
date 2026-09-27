@@ -38,13 +38,22 @@ const articleLd = {
 				width: calc(100% - 2em);
 				max-width: 100%;
 				margin: 0;
+				padding-top: 1.5em;
 			}
 			.hero-image {
 				width: 100%;
 			}
+			/* Hero matches the text column and is capped at a third of the screen,
+			   so the title and the quick answer (with its first Amazon link) land in
+			   the first screen instead of below a 510px image. */
 			.hero-image img {
 				display: block;
 				margin: 0 auto;
+				width: 720px;
+				max-width: 100%;
+				height: auto;
+				max-height: 34vh;
+				object-fit: cover;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
 			}
@@ -63,6 +72,8 @@ const articleLd = {
 			}
 			.title h1 {
 				margin: 0 0 0.5em 0;
+				font-size: clamp(1.6em, 4.5vw, 2.2em);
+				line-height: 1.15;
 			}
 			.date {
 				margin-bottom: 0.5em;
