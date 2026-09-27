@@ -22,6 +22,22 @@ function rehypeAffiliateLinks() {
 	return (tree) => visit(tree);
 }
 
+// Wraps markdown tables in a scroll box, so a wide comparison table scrolls
+// sideways on a phone instead of widening the whole page.
+function rehypeTableScroll() {
+	const visit = (node) => {
+		if (!node.children) return;
+		node.children = node.children.map((child) => {
+			if (child.type === 'element' && child.tagName === 'table') {
+				return { type: 'element', tagName: 'div', properties: { className: ['table-scroll'] }, children: [child] };
+			}
+			visit(child);
+			return child;
+		});
+	};
+	return (tree) => visit(tree);
+}
+
 // Builds FAQPage JSON-LD from a post's visible FAQ section, so the markup can
 // never drift from what readers see. Handles both markdown FAQs
 // (`**Question?** answer`, or `### Question?` + paragraphs) and the legacy
@@ -103,6 +119,6 @@ export default defineConfig({
 	site: 'https://lightertorch.com',
 	integrations: [mdx(), sitemap()],
 	markdown: {
-		rehypePlugins: [rehypeAffiliateLinks, rehypeFaqSchema],
+		rehypePlugins: [rehypeAffiliateLinks, rehypeTableScroll, rehypeFaqSchema],
 	},
 });
