@@ -510,3 +510,22 @@ up to 482 h / IP68 / 21700 5,000 mAh / USB-C** (the post said 1,600 lm, 115 h,
 **PD36R spec sweep still outstanding** on the other posts that quote the original
 PD36R (long-range, police, $20-vs-$100, Sunitact, plane). The verified V2.0 numbers
 are above.
+
+**Gap 3 (FAQ schema) DONE 2026-09-27.** `rehypeFaqSchema` in `astro.config.mjs`
+builds FAQPage JSON-LD at build time from each post's visible FAQ section, so the
+markup can't drift from the page. **27 posts, 147 questions**: 22 markdown
+(`**Question?** answer` / `### Question?`) and 5 legacy WordPress HTML
+(`<h3>Question?</h3>` + answer). It reads a parsed copy of the tree and adds one
+`<script>` per page. A full before/after diff of `dist/` showed no other change
+except tie-ordering on listing pages. `hast-util-raw` is now a direct dependency.
+
+Found on the way:
+- **Live rendering bug, fixed:** `/top-zippo-best-sellers.../` had 4-space
+  indented HTML, which markdown turned into a **code block showing raw
+  `<div class="faq-item">` markup to readers**. The body was de-indented (HTML
+  whitespace only); it was the only `<pre>` on the site, and now there are none.
+- The same page's airplane FAQ had TSA's rule backwards (it said an *unfueled*
+  Zippo needs a DOT case in checked bags). Corrected to match TSA/FAA, with links.
+- Local builds cache rendered posts in `.astro/data-store.json`. After changing a
+  markdown plugin, delete it or unchanged posts keep the old output. Cloudflare
+  builds fresh, so production isn't affected.
