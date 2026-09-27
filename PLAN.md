@@ -1,7 +1,7 @@
 # LighterTorch.com — Improvement Plan
 
 Site: https://lightertorch.com · Repo: github.com/monharvest/lightertorch (push to `master` = auto-deploy via Cloudflare Pages)
-Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qualifying sales by ~Jan 2028** or the account closes)
+Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qualifying sales by 2027-01-28** (180 days) or the account closes; as of 2026-09-27: 2 shipped (Aug 28 $1.04, Sep $0.33) + 1 ordered in Sep, not yet shipped)
 
 ## ✅ Done (Aug 1, 2026)
 

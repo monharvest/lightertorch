@@ -6,7 +6,7 @@ Affiliate content site about flashlights/torches and lighters. Astro 5 static si
 
 ## Key facts
 
-- **Amazon Associates tag: `lightertorch-20`** — every Amazon link must carry `?tag=lightertorch-20` (or `&tag=` if the URL already has a query string). Account created Aug 2026; needs 3 qualifying sales within 180 days (~Jan 2028) or it closes.
+- **Amazon Associates tag: `lightertorch-20`** — every Amazon link must carry `?tag=lightertorch-20` (or `&tag=` if the URL already has a query string). Account created Aug 2026; needs 3 qualifying sales within 180 days (**by 2027-01-28**) or it closes.
 - Site URL: https://lightertorch.com · GA4: G-ZWE72TWTHB
 - Content = markdown in `src/content/blog/` (one file per post, slug = filename). Legacy posts contain raw WordPress HTML blocks — that's fine, they render; new posts should be clean markdown.
 - Frontmatter: `title`, `description` (~155 chars, plain text — never HTML), `pubDate`, `heroImage` (path under `/uploads/`), `categories`, `tags`.
