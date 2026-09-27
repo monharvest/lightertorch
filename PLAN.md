@@ -443,3 +443,26 @@ check ~20 target queries in ChatGPT/Perplexity monthly and log who gets cited.
 - Amazon reports 26 clicks against GA4's 9. The gap is visitors blocking GA4 plus
   bots hitting tagged links, so sales can't be attributed to a channel
   precisely.
+
+**Done 2026-09-27 (same day):**
+1. `/olight-vs-fenix-vs-streamlight/`: picks updated to Baton 4 Pro / Baton Ultra
+   / Javelot Turbo 2 (US-sourced specs); the quick answer now links each brand's
+   flagship; `updatedDate` set. The Olight section still has no image. Options:
+   Hermes candidate `magnetic-tail-flashlight-stuck-sideways-candidate-2`
+   (passes the brief), or a licensed Olight product photo once the source is
+   confirmed.
+2. Post layout: the hero now matches the 720px text column and is capped at
+   34vh; the title uses a clamped smaller size; the hero loads eagerly. The first
+   Amazon link moved from 1,107px to 639–778px on a 1440×800 screen and is in the
+   first screen on phones.
+3. `/top-10-best-selling-flashlights.../`: quick answer added (PD36R Pro /
+   Acebeam TAC 2AA / Nitecore EDC27). Two "our team tested" claims are reworded
+   to "compared". The hero with garbled baked-in text ("Top 10 Best Best") is
+   swapped for `brightest-torch-lineup-bench.webp`; a dedicated hero prompt is
+   stem 3 in `PROMPTS-2026-09-27.md`.
+4. GA4 now loads only in production builds.
+
+**Still outstanding from the audit:** source links (gap 1), author byline (gap
+2), FAQ schema (gap 3), and a spec sweep of `/what-is-the-best-long-range-flashlight/`,
+which still features the S1R Baton II and the Javelot Turbo (and says "145 feet"
+where its table says 145 m).
