@@ -1,6 +1,8 @@
-# Tells Bing (and other IndexNow engines) which posts changed on each push,
-# so they re-crawl them within hours instead of days. Google doesn't use
-# IndexNow; it picks changes up from the sitemap.
+# Tells Bing which posts changed on each push, so it re-crawls them within
+# hours instead of days. Bing passes IndexNow URLs on to the other IndexNow
+# engines. We submit to Bing directly because submissions sent to
+# api.indexnow.org never showed up in Bing Webmaster Tools. Google doesn't
+# use IndexNow; it picks changes up from the sitemap.
 name: IndexNow
 
 on:
@@ -55,7 +57,7 @@ jobs:
               "urlList": urls,
           }).encode()
           req = urllib.request.Request(
-              "https://api.indexnow.org/indexnow", data=body,
+              "https://www.bing.com/indexnow", data=body,
               headers={"Content-Type": "application/json; charset=utf-8"})
           try:
               status = urllib.request.urlopen(req, timeout=30).status
