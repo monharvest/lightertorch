@@ -611,3 +611,31 @@ page; `zippo-lighter-torch-brightest-torch-in-the-market` (13) → the Zippo
 insert post, which gained a "Does Zippo make a torch lighter?" FAQ for "zippo
 torch lighter" (1,900 / 25). All four claimed hands-on testing that never
 happened. Also fixed a 404: `/category/zippo-lighter-care/` → the Zippo care guide.
+
+**Legacy upgrade finished 2026-09-28.** Written in parallel, then checked against
+sources and the build before commit. Every legacy WordPress post is now either
+rewritten or merged; only `privacy-policy` keeps its old format.
+
+- **Rewritten:** brightest flashlights (Imalent MS32 as record holder, with 1Lumen's
+  measurements), best flashlight brands (9 brands, maker warranty pages), best
+  flashlights on Amazon (retitled "7 Picks Compared": the old "Best Sellers Ranked"
+  wasn't true, since only one pick is in Amazon's flashlight top 100), USB-C guide
+  (4,490 → ~2,000 words), camping list ("Tested Picks" removed; it's now the product
+  list and `what-is-the-best-torch-for-camping` is the type guide), lumens guide,
+  Zippo best-sellers (all 5 ASINs kept), About.
+- **Merged:** `things-to-look-for-in-a-good-led-flashlights` → lumens guide (301);
+  its 7 inbound links now point at `#what-else-to-look-for-besides-lumens`.
+- **Removed across these pages:** invented review scores and star ratings, "tested"
+  claims, a false "butane insert fits any case", wrong IP ratings, and 15 AI images
+  with garbled fake logos.
+- **Corrected elsewhere:** Maglite's warranty is now ten years (durability guide);
+  Fenix's US lifetime cover only applies to authorized-dealer purchases
+  (Olight/Fenix/Streamlight comparison); the broken Amazon Zippo store link (gift guide).
+- **FAQ schema now covers 36 pages, 205 questions.**
+- **Follow-ups:**
+  - Three Amazon-list picks are discontinued by their makers (Nitecore EDC27 and
+    EDC33, Olight Javelot Mini). They're flagged on the page; replace them next
+    (EDC27 UHi, EDC31/EDC35).
+  - `/dp/` links for the PD36R Pro and PD36 TAC would convert better than searches.
+  - Five heroes need replacing: prompts in
+    `lightertorch-images/PROMPTS-2026-09-28-rewrite-heroes.md`.
