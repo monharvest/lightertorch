@@ -3,7 +3,7 @@ title: 'How to Make a Lighter at Home: 2 Safe DIY Methods'
 description: "Make a fuel-free spark lighter for your stove from an old piezo igniter, or start a campfire with a 9V battery and steel wool, and why to skip fuel lighters."
 pubDate: '2021-05-21'
 updatedDate: '2026-09-27'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-3.jpg-1.webp'
+heroImage: '/uploads/2026/09/steel-wool-9v-battery-ember.webp'
 categories: ['How-to Guides', 'Safety Tips']
 tags: ['DIY lighter', 'homemade lighter', 'piezo igniter', 'gas stove', 'fire starting']
 ---

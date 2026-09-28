@@ -3,7 +3,7 @@ title: 'How to Fill a Butane Lighter (Plus Torch and Zippo Refills)'
 description: "Bleed it, flip the can, fill in 5-second bursts, wait two minutes. How to refill a butane or torch lighter, why BICs can't be refilled, and quick fixes."
 pubDate: '2021-05-21'
 updatedDate: '2026-09-27'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-3.jpg-1.webp'
+heroImage: '/uploads/2026/09/butane-refill-kit-still-life.webp'
 categories: ['How-to Guides']
 tags: ['butane lighter', 'refilling', 'torch lighter', 'butane', 'Zippo', 'lighter maintenance']
 ---
