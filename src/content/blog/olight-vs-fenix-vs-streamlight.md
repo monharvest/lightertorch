@@ -56,7 +56,7 @@ Fenix built its name with outdoor enthusiasts, and its catalogue reads like a hi
 **Strengths:**
 
 - **Best spec balance.** The [PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) is the poster child: [1,700 lumens and a 396 m beam](https://www.fenixlighting.com/products/fenix-pd36r-rechargeable-flashlight), up to 482 hours on its lowest mode, IP68 dustproof and waterproof, USB-C charging, and a standard 21700 battery you can swap in the field. We named it the best all-rounder in our [long-range flashlight guide](/what-is-the-best-long-range-flashlight/).
-- **USB-C everywhere.** Fenix moved to USB-C fast charging across most of its line — no proprietary cables to lose. (Why that matters: see our [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).)
+- **USB-C everywhere.** Fenix moved to USB-C fast charging across most of its line — no proprietary cables to lose. (Why that matters: see our [USB-C rechargeable flashlight guide](/best-usb-c-rechargeable-flashlights/).)
 - **Honest numbers.** Fenix publishes ANSI-rated outputs and step-down behavior, so the light does what the box says.
 
 **Weaknesses:** Rarely the cheapest option, and the designs are functional rather than exciting — you're paying for engineering, not styling.
@@ -87,7 +87,7 @@ Olight is the youngest of the three and behaves like it: fast release cycles, bo
 
 ## Head-to-Head: Common Scenarios
 
-**Camping and hiking → Fenix.** Standard batteries, USB-C, deep waterproofing, and multi-day runtimes are exactly the outdoor formula. See our [best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/) roundup.
+**Camping and hiking → Fenix.** Standard batteries, USB-C, deep waterproofing, and multi-day runtimes are exactly the outdoor formula. See our [best camping flashlights](/best-camping-flashlights/) roundup.
 
 **Everyday pocket carry → Olight.** Smallest bodies, best clips, and charging so effortless you'll actually keep it topped up.
 

@@ -140,7 +140,7 @@ For most people, peak lumens is the wrong number to shop on. Sustained output an
 
 **Standard vs proprietary batteries.** 18650, 21700, AA and D cells are sold everywhere and can be swapped in the field. Proprietary cells, battery packs and built-in batteries tie you to one maker, and built-in batteries usually shorten the warranty: Nitecore gives 24 months instead of 60, Fenix two years instead of five.
 
-**USB-C charging.** On a rechargeable light, a USB-C port means any phone cable will do. Magnetic cables are convenient until you lose one. More in our [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).
+**USB-C charging.** On a rechargeable light, a USB-C port means any phone cable will do. Magnetic cables are convenient until you lose one. More in our [USB-C rechargeable flashlight guide](/best-usb-c-rechargeable-flashlights/).
 
 **Warranty and US support.** Read the exclusions and who does the repair. Streamlight's lifetime cover excludes batteries and limits electronics to two years. Olight's lifetime cover applies to US purchases made after January 2023. Fenix Lighting US [refers Amazon buyers to the seller's own service center](https://www.fenixlighting.com/pages/warranty-repairs) rather than handling the claim itself, and Nitecore and Acebeam route claims through the dealer you bought from. Keep your receipt either way.
 

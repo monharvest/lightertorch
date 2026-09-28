@@ -1,0 +1,67 @@
+# Tells Bing (and other IndexNow engines) which posts changed on each push,
+# so they re-crawl them within hours instead of days. Google doesn't use
+# IndexNow; it picks changes up from the sitemap.
+name: IndexNow
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'src/content/blog/**'
+
+env:
+  SITE: https://lightertorch.com
+  # Public by design: the same key is served at /<key>.txt to prove ownership.
+  INDEXNOW_KEY: f2c1a8eb38150eb949af10b8312c64d4
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: List changed post URLs
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -z "$BEFORE" ] || ! git cat-file -e "$BEFORE" 2>/dev/null; then BEFORE="HEAD~1"; fi
+          # --no-renames lists a renamed post under both slugs, so engines
+          # re-crawl the old URL (now a 301) as well as the new one.
+          git diff --no-renames --name-only "$BEFORE" "${{ github.sha }}" -- src/content/blog \
+            | sed -n 's#^src/content/blog/\(.*\)\.md$#'"$SITE"'/\1/#p' | sort -u > urls.txt
+          cat urls.txt
+
+      - name: Wait for the Cloudflare Pages deploy
+        run: |
+          [ -s urls.txt ] || exit 0
+          for i in $(seq 1 30); do
+            if curl -sf "$SITE/$INDEXNOW_KEY.txt" | grep -q "$INDEXNOW_KEY"; then sleep 60; exit 0; fi
+            sleep 20
+          done
+          echo "Key file never appeared; submitting anyway"
+
+      - name: Submit to IndexNow
+        run: |
+          [ -s urls.txt ] || { echo "No post changes"; exit 0; }
+          python3 - <<'PY'
+          import json, os, urllib.request, urllib.error
+          site, key = os.environ["SITE"], os.environ["INDEXNOW_KEY"]
+          urls = [u.strip() for u in open("urls.txt") if u.strip()]
+          body = json.dumps({
+              "host": site.split("//")[1],
+              "key": key,
+              "keyLocation": f"{site}/{key}.txt",
+              "urlList": urls,
+          }).encode()
+          req = urllib.request.Request(
+              "https://api.indexnow.org/indexnow", data=body,
+              headers={"Content-Type": "application/json; charset=utf-8"})
+          try:
+              status = urllib.request.urlopen(req, timeout=30).status
+          except urllib.error.HTTPError as e:
+              status = e.code
+          print(f"IndexNow answered {status} for {len(urls)} URLs")
+          # 200 = accepted, 202 = accepted while the key is being verified.
+          raise SystemExit(0 if status in (200, 202) else 1)
+          PY

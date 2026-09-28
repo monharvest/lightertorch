@@ -40,7 +40,7 @@ A **completely empty, fuel-free** Zippo (no fluid, dry wick and cotton) is gener
 
 ## Flashlights: Allowed, With Battery Rules
 
-Flashlights themselves are permitted in both carry-on and checked bags — TSA has no problem with a [USB-C rechargeable flashlight](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) or a [camping torch](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/) in either location. The rules that trip people up are about the **batteries**:
+Flashlights themselves are permitted in both carry-on and checked bags — TSA has no problem with a [USB-C rechargeable flashlight](/best-usb-c-rechargeable-flashlights/) or a [camping torch](/best-camping-flashlights/) in either location. The rules that trip people up are about the **batteries**:
 
 1. **Installed batteries** (inside the flashlight): fine in carry-on or checked. FAA prefers devices with lithium batteries in the cabin, and some airlines require it — cabin is always the safe choice.
 2. **Spare lithium batteries** (18650s, 21700s, power banks, loose rechargeables): **carry-on ONLY.** Never checked. This is a [hard FAA rule](https://www.faa.gov/hazmat/packsafe/lithium-batteries) because a battery fire in the cabin can be handled; one in the hold cannot.

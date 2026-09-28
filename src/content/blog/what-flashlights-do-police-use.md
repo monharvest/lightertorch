@@ -56,7 +56,7 @@ You don't need a badge to buy any of the lights above. If you want police-grade 
 - **Best budget tactical:** [Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) — the actual light many officers carry as a backup, usually under $50.
 - **Best rechargeable duty-style:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) — 4,000 lumens with a tail switch designed for tactical use.
 
-For more options, see our [top 10 best-selling flashlights on Amazon](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/).
+For more options, see our [top 10 best-selling flashlights on Amazon](/best-flashlights-on-amazon/).
 
 ## FAQ
 

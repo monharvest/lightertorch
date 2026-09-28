@@ -17,7 +17,7 @@ The sub-$50 band changed more than any other over the last few years. Onboard US
 
 **2. Do you want a menu or a switch?** Anduril 2 firmware — standard on Sofirn and Wurkkos — gives you ramping, strobe, lockout, battery check, and a genuinely deep configuration tree. Enthusiasts love it. If the phrase "hold from off for 3 clicks" makes you tired, buy a two-mode light instead and never think about it again.
 
-**3. How often will you actually charge it?** Onboard USB-C is the single most useful feature at this price. A light you top up from the same cable as your phone gets carried; one that needs a separate cell charger ends up in a drawer. See our [USB-C flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for why.
+**3. How often will you actually charge it?** Onboard USB-C is the single most useful feature at this price. A light you top up from the same cable as your phone gets carried; one that needs a separate cell charger ends up in a drawer. See our [USB-C flashlight guide](/best-usb-c-rechargeable-flashlights/) for why.
 
 ## The Comparison
 

@@ -38,7 +38,7 @@ For everything outside the house: downed branches, the breaker panel, signaling,
 | AA / D alkaline | Shelf-stable ~10 years, buy anywhere | Weaker output, single-use | Backup lights + lantern |
 | Power bank | Recharges lights AND phones | Needs discipline to keep charged | The bridge between them |
 
-The resilient setup mixes chemistries: rechargeable primaries, alkaline-powered backups, and a [high-capacity power bank](https://www.amazon.com/s?k=power+bank+20000mah&tag=lightertorch-20) (or two) kept charged. When a storm enters the forecast, top up every rechargeable device that night — not when the wind starts. Spare alkalines live *in* the kit, not in the kitchen drawer where they wander off. For why we prefer USB-C charging across the board, see the [USB-C flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).
+The resilient setup mixes chemistries: rechargeable primaries, alkaline-powered backups, and a [high-capacity power bank](https://www.amazon.com/s?k=power+bank+20000mah&tag=lightertorch-20) (or two) kept charged. When a storm enters the forecast, top up every rechargeable device that night — not when the wind starts. Spare alkalines live *in* the kit, not in the kitchen drawer where they wander off. For why we prefer USB-C charging across the board, see the [USB-C flashlight guide](/best-usb-c-rechargeable-flashlights/).
 
 ## Fire, Candles, and the Old Ways
 

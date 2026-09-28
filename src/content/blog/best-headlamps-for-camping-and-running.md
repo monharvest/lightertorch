@@ -109,7 +109,7 @@ For technical descents at speed, this is a meaningful advantage rather than a gi
 
 ## Where a Headlamp Fits in Your Kit
 
-A headlamp is the first camping light to buy, not the only one. It's poor at lighting a shared space — everyone gets dazzled every time you look at them — and poor at distance. The full breakdown of headlamp vs lantern vs handheld is in [what is the best torch for camping?](/what-is-the-best-torch-for-camping/), and if you want a handheld to go alongside, [best EDC flashlights under $50](/best-edc-flashlights-under-50/) covers the pocket-sized end. For specific handheld picks by trip type, see [the best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
+A headlamp is the first camping light to buy, not the only one. It's poor at lighting a shared space — everyone gets dazzled every time you look at them — and poor at distance. The full breakdown of headlamp vs lantern vs handheld is in [what is the best torch for camping?](/what-is-the-best-torch-for-camping/), and if you want a handheld to go alongside, [best EDC flashlights under $50](/best-edc-flashlights-under-50/) covers the pocket-sized end. For specific handheld picks by trip type, see [the best camping flashlights](/best-camping-flashlights/).
 
 ## FAQ
 

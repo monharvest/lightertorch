@@ -107,7 +107,7 @@ Red flags on a listing:
 - **A brand with no website of its own** and no presence outside the marketplace.
 - **No beam distance, candela or runtime figures**, just one huge lumen number.
 
-If you're shopping on Amazon, stick to brands that publish full ANSI specs. Our guide to the [best-selling flashlights on Amazon](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) covers the ones that hold up.
+If you're shopping on Amazon, stick to brands that publish full ANSI specs. Our guide to the [best-selling flashlights on Amazon](/best-flashlights-on-amazon/) covers the ones that hold up.
 
 ## Is Brighter Always Better?
 

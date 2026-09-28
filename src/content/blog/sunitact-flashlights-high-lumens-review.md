@@ -63,7 +63,7 @@ That is a glove-box or junk-drawer light. It is not a camping, duty, or “one f
 
 **Same budget, honest specs.** A [Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) or a light from [best EDC flashlights under $50](/best-edc-flashlights-under-50/) — Sofirn, Wurkkos, or the Olight i5R. You lose the fake lumen number and gain a regulated driver and a brand that will still exist next year.
 
-**One light you will actually depend on.** The [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20): USB-C, IP68, published runtime. See [USB-C rechargeable flashlights](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
+**One light you will actually depend on.** The [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20): USB-C, IP68, published runtime. See [USB-C rechargeable flashlights](/best-usb-c-rechargeable-flashlights/) and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
 
 **Distance.** Ignore Sunitact’s 5,000 ft line and use the [long-range flashlight guide](/what-is-the-best-long-range-flashlight/).
 

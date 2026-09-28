@@ -63,9 +63,9 @@ Not everyone wants a monster. The [Olight Baton Ultra](https://www.amazon.com/s?
 - **Tactical/duty use:** [NITECORE P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20)
 - **Pocket-sized power:** [Olight Baton Ultra](https://www.amazon.com/s?k=olight+baton+ultra&tag=lightertorch-20)
 
-If you want the most powerful *rechargeable* torch rather than the longest beam, start with the Fenix PD36R V2.0: USB-C charging, 1,700 lumens, and an IP68 body. See the [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for charging and battery trade-offs, and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/) if impact and weather resistance matter more than throw.
+If you want the most powerful *rechargeable* torch rather than the longest beam, start with the Fenix PD36R V2.0: USB-C charging, 1,700 lumens, and an IP68 body. See the [USB-C rechargeable flashlight guide](/best-usb-c-rechargeable-flashlights/) for charging and battery trade-offs, and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/) if impact and weather resistance matter more than throw.
 
-For everyday and camping options, see our [top 10 best-selling flashlights](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) and [best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
+For everyday and camping options, see our [top 10 best-selling flashlights](/best-flashlights-on-amazon/) and [best camping flashlights](/best-camping-flashlights/).
 
 ## FAQ
 

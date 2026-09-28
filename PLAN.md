@@ -639,3 +639,21 @@ rewritten or merged; only `privacy-policy` keeps its old format.
   - `/dp/` links for the PD36R Pro and PD36 TAC would convert better than searches.
   - Five heroes need replacing: prompts in
     `lightertorch-images/PROMPTS-2026-09-28-rewrite-heroes.md`.
+
+**2026-09-28 (late): year-free slugs, new heroes, IndexNow.**
+
+- **Slugs without a year** (the year belongs in the title, updated each January; the
+  URL never changes again): `top-10-best-camping-torches-of-2024-...` →
+  `/best-camping-flashlights/`, `top-10-best-selling-flashlights-on-amazon-...-2025` →
+  `/best-flashlights-on-amazon/`, `usb-c-rechargeable-flashlights_-the-complete-2025-...` →
+  `/best-usb-c-rechargeable-flashlights/`. 301s for both slash variants; older redirects
+  repointed so there are no chains; all internal links point at the final URLs.
+  **Request indexing for the three new URLs in GSC.**
+- **Heroes installed** for brightest, Zippo best-sellers (cropped), brands, camping list and
+  camping type guide (picks in `lightertorch-images/selections.txt`).
+- **IndexNow:** `.github/workflows/indexnow.yml` runs on every push that touches
+  `src/content/blog/`, waits for the Pages deploy, and submits the changed post URLs
+  (renames submit both old and new) to api.indexnow.org, which shares with Bing, Yandex,
+  Seznam and Naver. Key file: `public/f2c1a8eb38150eb949af10b8312c64d4.txt`. Bing Webmaster
+  Tools was imported from GSC on 2026-09-28 (48 h to populate). Check a run under the
+  repo's Actions tab after the first push.

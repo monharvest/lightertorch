@@ -51,7 +51,7 @@ The key is buying a *reputable* budget light rather than a lying one: a [Streaml
 ## When the $100 Light Pays for Itself
 
 - **Daily carry** — anything used daily amortizes to pennies; buy once
-- **Camping, hiking, hunting** — regulated output and real waterproofing are the difference between gear and toys ([our camping picks](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/))
+- **Camping, hiking, hunting** — regulated output and real waterproofing are the difference between gear and toys ([our camping picks](/best-camping-flashlights/))
 - **Work** — if a dead light stops the job, the warranty and build quality are the product
 - **Emergencies** — the [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) runs up to 482 hours on its lowest mode, so one charge outlasts a long blackout
 
@@ -60,7 +60,7 @@ The key is buying a *reputable* budget light rather than a lying one: a [Streaml
 Think in three tiers, not two:
 
 - **$15–25:** honest budget brands only — drawer, car, kids, loaners
-- **$35–70:** the value sweet spot — 90% of premium performance ([best sellers live here](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/))
+- **$35–70:** the value sweet spot — 90% of premium performance ([best sellers live here](/best-flashlights-on-amazon/))
 - **$90–130:** buy-once lights for people who use them like tools — [check the PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
 
 The only wrong purchase is the $20 light wearing a $100 light's claims. Check for ANSI ratings, a named LED, and a real warranty — [our buying checklist](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens) covers the rest.
@@ -71,6 +71,6 @@ The only wrong purchase is the $20 light wearing a $100 light's claims. Check fo
 
 **Do cheap lights really overstate lumens?** Routinely, sometimes by 100×. Independent testing communities (BudgetLightForum, r/flashlight) document it constantly. ANSI-rated brands are the fix.
 
-**What's the single best upgrade from a cheap light?** USB-C rechargeability with a regulated driver — the jump from "dimming AAA junk" to "constant, rechargeable output" is bigger than any lumen increase. See the [USB-C guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).
+**What's the single best upgrade from a cheap light?** USB-C rechargeability with a regulated driver — the jump from "dimming AAA junk" to "constant, rechargeable output" is bigger than any lumen increase. See the [USB-C guide](/best-usb-c-rechargeable-flashlights/).
 
 **So where's the sweet spot?** Right around the $30–$50 mark, where onboard USB-C, high-CRI emitters and real water ratings all become standard. Our four picks are in [best EDC flashlights under $50](/best-edc-flashlights-under-50/).

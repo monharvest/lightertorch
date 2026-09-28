@@ -18,7 +18,7 @@ Press the button and the lighter's circuit steps its small lithium battery up to
 That design gives arc lighters three built-in advantages:
 
 1. **True windproofing.** A flame — even a Zippo's famously stubborn one — can be blown out. An electric arc can't; wind doesn't interact with it in any meaningful way. For exposed campsites and beaches, nothing else is close.
-2. **No fuel, ever.** No butane cans, no [lighter fluid top-ups](/filling-up-a-gas-lighter/), no fuel smell, and nothing to leak in your pack. Recharge from the same USB power bank as your phone and [flashlight](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/).
+2. **No fuel, ever.** No butane cans, no [lighter fluid top-ups](/filling-up-a-gas-lighter/), no fuel smell, and nothing to leak in your pack. Recharge from the same USB power bank as your phone and [flashlight](/best-usb-c-rechargeable-flashlights/).
 3. **Altitude and cold don't matter.** Butane vaporizes poorly at altitude and in freezing temperatures — a common camping frustration. An electric arc performs identically at sea level or on a mountain in January.
 
 The trade-offs are real too: the arc gap is small (great for tinder and wicks, clumsy for lighting a cigar), most models shut off after ~10 seconds to protect the circuit, and a dead battery with no power source means no fire — carry [waterproof matches](https://www.amazon.com/s?k=waterproof+matches&tag=lightertorch-20) as backup on serious trips.

@@ -51,7 +51,7 @@ Charging is via a small port under a cover. Keep the cover seated and it stays c
 
 The Aurora line's other trick is the **secondary side LEDs**: a diffused panel in the body that gives you a soft glow, a red mode, or UV depending on variant. The soft glow is the mode you'll use most — it turns the light into a tiny lantern for reading a map or finding something in a bag without a harsh hotspot. Many versions have a glow-in-the-dark body so you can find the light itself.
 
-USB-C charging, which is the correct port in 2026 — see our [USB-C flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for why it matters more than it sounds.
+USB-C charging, which is the correct port in 2026 — see our [USB-C flashlight guide](/best-usb-c-rechargeable-flashlights/) for why it matters more than it sounds.
 
 **The catch:** it's a button light, so pocket activation is possible, and the port sees more grit than a sealed design. The 650-lumen mode is a short burst before thermal step-down.
 

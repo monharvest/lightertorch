@@ -47,7 +47,7 @@ The body tube is almost never the thing that fails. These are, roughly in order:
 
 **Zoom heads.** A sliding head cannot seal as well as a fixed one, and the moving surfaces wear. Any light with a twist-to-focus head and a high IP claim deserves skepticism — one of the reasons we treat cheap zoomies as drawer lights in the [$20 vs $100 flashlight comparison](/20-vs-100-dollar-flashlight/).
 
-**The charge port.** A rubber flap over a USB port is both a wear item and a leak path. Better designs seal the electronics behind the port so the light keeps its rating even with the cover open — Fenix advertises exactly that on the PD36R V2.0 below. The [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) covers the charging trade-offs in full.
+**The charge port.** A rubber flap over a USB port is both a wear item and a leak path. Better designs seal the electronics behind the port so the light keeps its rating even with the cover open — Fenix advertises exactly that on the PD36R V2.0 below. The [USB-C rechargeable flashlight guide](/best-usb-c-rechargeable-flashlights/) covers the charging trade-offs in full.
 
 **Battery leakage.** The classic killer of emergency lights. Alkaline cells left in a drawer light for years vent potassium hydroxide and corrode the contacts solid. Lithium primaries (CR123A, lithium AA) do not do this and hold charge for about a decade, which is why duty lights and glovebox kits use them. If a light is going to sit unused, either run lithium primaries or store it with the cells out — the same logic behind our [power outage kit](/best-flashlights-for-power-outages/).
 
@@ -99,7 +99,7 @@ Clean the lens with a soft cloth only. Abrasives and solvents haze a polycarbona
 ## Related Guides
 
 - [Best long-range and powerful rechargeable torches](/what-is-the-best-long-range-flashlight/)
-- [USB-C rechargeable flashlight buying guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/)
+- [USB-C rechargeable flashlight buying guide](/best-usb-c-rechargeable-flashlights/)
 - [Best EDC flashlights under $50](/best-edc-flashlights-under-50/)
 - [Lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/)
 - [$20 vs $100 flashlight: what the money buys](/20-vs-100-dollar-flashlight/)
