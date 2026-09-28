@@ -3,7 +3,7 @@ title: 'The Brightest Flashlights of 2026: Record Holders to Pocket Picks'
 description: 'The brightest flashlight you can buy is the 200,000-lumen Imalent MS32. Record holders, pocket picks, budget options, and why max lumens mislead.'
 pubDate: '2025-01-20'
 updatedDate: '2026-09-28'
-heroImage: '/uploads/2026/08/lumens-search-beam-undergrowth.webp'
+heroImage: '/uploads/2026/09/brightest-flashlight-beam-night-field.webp'
 categories: ['Buying Guides']
 tags: ['brightest flashlight', 'high lumen flashlight', 'Imalent', 'Acebeam', 'Sofirn', 'lumens', 'rechargeable flashlight']
 ---

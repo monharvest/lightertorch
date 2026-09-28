@@ -3,7 +3,7 @@ title: 'The Best Camping Flashlights of 2026: Picks by Trip Type'
 description: 'Five camping flashlights matched to the trip: backpacking, car camping, lantern use, emergencies and budget. Compared on runtime, batteries and weight.'
 pubDate: '2025-06-27'
 updatedDate: '2026-09-28'
-heroImage: '/uploads/2026/08/camping-lantern-tent-night.webp'
+heroImage: '/uploads/2026/09/camping-flashlight-table-diffuser.webp'
 categories: ['Buying Guides']
 tags: ['camping flashlight', 'Fenix PD36R', 'Acebeam', 'Nitecore P20iX', 'AA flashlight', 'backpacking']
 ---
