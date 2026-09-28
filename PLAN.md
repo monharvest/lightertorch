@@ -586,3 +586,28 @@ Found on the way:
   and (optional) the voltage post are in
   `lightertorch-images/PROMPTS-2026-09-27-legacy-lighter-heroes.md`.
 - **Gap 1 remaining:** 23 pages still link no outside source (was 29), 20 of them real posts (the other 3 are About, Privacy and Disclosure). 14 posts are still legacy WordPress HTML.
+
+## 2026-09-28 — Triage of the last legacy WordPress pages
+
+Search Console (URL-prefix property, last 3 months: 23 clicks, 5.94K impressions)
+plus Ubersuggest (US). The `sc-domain:` property still says "processing data".
+
+| Page | GSC clicks / impr / pos | Target (vol / SD) | Decision |
+|---|---|---|---|
+| `brightest-and-affordable-torches-in-the-market-today` | 0 / 130 / 63.6 | brightest flashlight (18,100 / 34); on amazon 1,300; in the world 2,400 | **Rewrite: biggest opportunity on the site** |
+| `what-is-the-best-torch-brand` | 0 / 108 / 70.4 | best flashlight brand 1,900 / 38; best torch brand 1,900 / 28 | Rewrite as a multi-brand guide (links to Olight vs Fenix) |
+| `top-zippo-best-sellers-...` | **10** / 334 / 28.4 | best zippo lighter 260 / 32 | Careful upgrade: top page by clicks |
+| `top-10-best-selling-flashlights-on-amazon-...` | 0 / 190 / 41.9 | best flashlight on amazon 1,300 / 33 | Careful upgrade: top page for Amazon clicks (GA4) |
+| `usb-c-rechargeable-flashlights_-...` | 0 / 4 / 40.5 | usb c rechargeable flashlight 1,000 / 25 | Rewrite, tighten 4,490 words |
+| `top-10-best-camping-torches-of-2024-...` | 0 / 85 / 63.0 | best camping flashlight 320 / 34 | Overlaps `what-is-the-best-torch-for-camping` (0 / 122 / 73.7): keep one, merge the other |
+| `how-many-lumens-should-flashlight-have-2` | 0 / 0 | how many lumens flashlight 140 / 18; do I need 90 / 17 | Rewrite |
+| `things-to-look-for-in-a-good-led-flashlights` | 0 / 0 | no measurable volume | Fold into the lumens guide |
+| `about` | 0 / 14 | — | Rewrite (the byline links here) |
+
+**Merged 2026-09-28 (301s, both slash variants):** `latest-led-torch` (0 impr)
+and `fmu-led-tactical-flashlight` (8) → the Amazon best-sellers list;
+`best-torches-bright-torch-long-baterry-life-2` (0) → the brightest-flashlight
+page; `zippo-lighter-torch-brightest-torch-in-the-market` (13) → the Zippo
+insert post, which gained a "Does Zippo make a torch lighter?" FAQ for "zippo
+torch lighter" (1,900 / 25). All four claimed hands-on testing that never
+happened. Also fixed a 404: `/category/zippo-lighter-care/` → the Zippo care guide.

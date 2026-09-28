@@ -103,6 +103,8 @@ Two more causes worth ruling out: **unrefined butane** clogging the valve (use Z
 
 ## FAQ
 
+**Does Zippo make a torch lighter?** Yes, as an insert. Zippo's torch lighter is the Single or Double Torch butane insert, which drops into a classic Zippo case in place of the wick insert and gives a blue jet flame. It carries a two-year warranty rather than the lifetime guarantee, and it won't fit Slim, Armor or 1935 Replica cases.
+
 **Can I put butane in a standard Zippo insert?** No. The standard insert is an open cotton reservoir designed for naphtha — it cannot hold pressurised gas. Butane requires the dedicated pressurised insert. Improvising here is a genuine safety risk.
 
 **Does the butane insert void my Zippo's lifetime guarantee?** No. The guarantee covers the case and its standard mechanism, and inserts are consumable parts — swapping one changes nothing about the case's coverage. But the butane insert itself carries only a two-year warranty, so the swapped-in part is not lifetime-covered.
