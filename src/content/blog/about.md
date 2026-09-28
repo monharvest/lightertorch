@@ -1,75 +1,39 @@
 ---
-title: 'About'
-description: 'Welcome to LighterTorch.com – Your Trusted Source for Expert Reviews on Torch Lighters At LighterTorch.com, we specialize in providing in-depth reviews and...'
+title: 'About LighterTorch'
+description: 'Who writes LighterTorch, what we cover, how we research flashlight and lighter guides, how the site earns money, and how to report a mistake.'
 pubDate: '2025-02-07'
+updatedDate: '2026-09-28'
 categories: []
 tags: []
 ---
 
-<!-- wp:paragraph -->
-<p><strong>Welcome to LighterTorch.com</strong> – Your Trusted Source for Expert Reviews on Torch Lighters</p>
-<!-- /wp:paragraph -->
+LighterTorch is a small, independent site about two everyday tools: **flashlights** and **lighters**. It's written by the LighterTorch Team. We publish buying guides, plain answers to common questions, and safety explainers, such as how many lumens you actually need, why a lighter won't light, or whether you can take one on a plane.
 
-<!-- wp:paragraph -->
-<p>At LighterTorch.com, we specialize in providing in-depth reviews and insights on the latest torch lighters and related tools available on the market. Whether you’re a seasoned professional or a casual user, we’re here to help you make informed decisions about which products are worth your time and money.</p>
-<!-- /wp:paragraph -->
+## What we cover
 
-<!-- wp:paragraph -->
-<p><strong>Our Mission</strong></p>
-<!-- /wp:paragraph -->
+- **Flashlights:** everyday carry, camping, long-range, rechargeable and emergency lights, plus the specs behind them (lumens, candela, runtime, water resistance).
+- **Lighters:** butane and torch lighters, Zippos and their inserts, arc lighters, refilling and repairs.
+- **Safety:** lighter safety, travel rules, and using gas appliances and fuels correctly.
 
-<!-- wp:paragraph -->
-<p>Our mission is simple: to offer unbiased, thorough, and honest reviews of torch lighters from all brands and manufacturers. We delve into the pros and cons of each product, highlighting their features, performance, and value. Our goal is to ensure that every visitor can find the perfect torch lighter suited to their needs—whether for cigars, culinary applications, or any other specialized use.</p>
-<!-- /wp:paragraph -->
+## How we research
 
-<!-- wp:paragraph -->
-<p><strong>What We Do</strong></p>
-<!-- /wp:paragraph -->
+We haven't bench-tested every product we write about, and we don't pretend to. Our guides compare what manufacturers publish and what independent sources say, and we tell you which is which. In practice that means:
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Expert Reviews</strong>: We test and evaluate a wide variety of torch lighters, offering detailed insights into their functionality, durability, and ease of use.</li>
-<!-- /wp:list-item -->
+- **Specs come from the maker where possible**, such as Fenix, Streamlight, Zippo or BIC, and are linked in the article so you can check them.
+- **Rules and safety advice come from the people who set them**: the TSA and FAA for air travel, federal standards for lighters, appliance makers for stove repairs, gas utilities for gas leaks.
+- **We say when a figure is a manufacturer claim**, and we flag common traps like inflated lumen ratings on no-name lights.
+- **We update pages when the facts change** and show a "Last updated" date. When a newer model replaces one we recommended, we change the recommendation.
 
-<!-- wp:list-item -->
-<li><strong>Pros and Cons Breakdown</strong>: We help you navigate the strengths and weaknesses of each product to make a well-rounded decision.</li>
-<!-- /wp:list-item -->
+## Images
 
-<!-- wp:list-item -->
-<li><strong>Product Comparisons</strong>: If you’re stuck between several options, our comparison guides break down key differences to help you find your best match.</li>
-<!-- /wp:list-item -->
+Product photos come from the manufacturer and are credited under the image. Some of our scene illustrations are AI-generated. We never use them to show a specific product you could buy.
 
-<!-- wp:list-item -->
-<li><strong>Buying Guides</strong>: Not sure where to start? Our comprehensive buying guides offer expert advice on what to look for when purchasing a torch lighter, based on your specific needs.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
+## How we make money
 
-<!-- wp:paragraph -->
-<p><strong>Why Choose LighterTorch.com?</strong></p>
-<!-- /wp:paragraph -->
+LighterTorch is a participant in the Amazon Services LLC Associates Program. When you buy through one of our Amazon links, we may earn a small commission at no extra cost to you. Commissions don't decide what we recommend. Details are in our [affiliate disclosure](/affiliate-disclosure/), and how we handle data is in our [privacy policy](/privacy-policy/).
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Unbiased and Honest</strong>: We are dedicated to providing impartial reviews and evaluations, so you can trust our advice without any hidden agendas.</li>
-<!-- /wp:list-item -->
+## Corrections and contact
 
-<!-- wp:list-item -->
-<li><strong>Thorough Research</strong>: Our team takes the time to test each product and review it from every angle to give you the most complete picture.</li>
-<!-- /wp:list-item -->
+If you spot a mistake, a spec that's changed or a broken link, tell us and we'll fix it. Email **support@lightertorch.com**.
 
-<!-- wp:list-item -->
-<li><strong>Up-to-Date Information</strong>: The world of torch lighters is constantly evolving. We stay on top of new releases and trends to bring you the latest updates.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><strong>Get in Touch</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Have a question or want to share your experience with a product? Don’t hesitate to contact us! We’re always happy to hear from our community. Reach out through our <a>Contact Page</a> or email us directly at <a>support@lightertorch.com</a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Thank you for choosing LighterTorch.com. We’re excited to help you find the perfect torch lighter!</p>
-<!-- /wp:paragraph -->
+Good places to start: [how many lumens you need](/how-many-lumens-should-flashlight-have-2/), [Olight vs Fenix vs Streamlight](/olight-vs-fenix-vs-streamlight/), and [how to fix a lighter that won't light](/fixing-a-lighter/).
