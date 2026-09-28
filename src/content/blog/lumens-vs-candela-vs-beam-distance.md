@@ -87,7 +87,7 @@ That last calculation is the one worth doing before buying. Decide the distance 
 | EDC, around the house | Lumens | 300–1,000 lm, wide beam |
 | Camping, campsite | Lumens + beam width | 200–500 lm, flood |
 | Headlamp | Lumens, low-mode runtime | 300–500 lm max |
-| Dog walking, trails | Both | 500+ lm, 5,000–15,000 cd |
+| Dog walking, trails | Both | 200–500 lm, 5,000–15,000 cd |
 | Search & rescue, marine | **Candela** | 50,000+ cd |
 | Astronomy, spotting | **Candela** | 100,000+ cd |
 

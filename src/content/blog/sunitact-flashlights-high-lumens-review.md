@@ -83,4 +83,4 @@ Keep the Sunitact if you already own it and it turns on. Do not buy it because t
 
 **Can I use it in the rain?** The listing says IP67. Zoom heads are a weak point for seals. We have not submerged this sample, so do not treat the rating as verified.
 
-**What should I search instead of “sunitact flashlight”?** “ANSI flashlight,” a named brand (Fenix, Streamlight, Sofirn), or our [buying checklist](/things-to-look-for-in-a-good-led-flashlights/).
+**What should I search instead of “sunitact flashlight”?** “ANSI flashlight,” a named brand (Fenix, Streamlight, Sofirn), or our [buying checklist](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens).

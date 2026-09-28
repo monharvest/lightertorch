@@ -28,7 +28,7 @@ The most underrated outage tool. Cooking on a camp stove, taping windows, checki
 
 ### Layer 3: One serious handheld
 
-For everything outside the house: downed branches, the breaker panel, signaling, walking a dark street. This is where our usual advice applies — see [things to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/) — but for storms, weight **waterproofing (IPX7+)** and a **low mode with 100+ hour runtime** over maximum lumens. Our pick is the same light we recommend everywhere: the [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,700 lumens when you need power, up to 482 hours on its 5-lumen Eco mode when you need endurance, IP68, USB-C. A [budget tactical light](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) covers the same role for less.
+For everything outside the house: downed branches, the breaker panel, signaling, walking a dark street. This is where our usual advice applies — see [things to look for in a good LED flashlight](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens) — but for storms, weight **waterproofing (IPX7+)** and a **low mode with 100+ hour runtime** over maximum lumens. Our pick is the same light we recommend everywhere: the [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) — 1,700 lumens when you need power, up to 482 hours on its 5-lumen Eco mode when you need endurance, IP68, USB-C. A [budget tactical light](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) covers the same role for less.
 
 ## The Battery Strategy (This Is the Part People Get Wrong)
 

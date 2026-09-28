@@ -8,7 +8,7 @@ categories: ['Buying Guides']
 tags: ['camping', 'headlamp', 'lantern', 'flashlight', 'runtime', 'IPX rating']
 ---
 
-**Quick answer:** There isn't one best camping torch, because camping asks lights to do three unrelated jobs. A **headlamp** for anything you do with your hands — cooking, pitching a tent, night hiking. A **lantern** for lighting a shared space so nobody is blinded by a beam. A **handheld** for looking at something far away, or for a serious blackout. Most campers are best served by a headlamp plus a lantern, and only add a handheld if they actually need distance. If you want specific models rather than a framework, jump to our [10 best camping torches](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
+**Quick answer:** There isn't one best camping torch, because camping asks lights to do three unrelated jobs. A **headlamp** for anything you do with your hands — cooking, pitching a tent, night hiking. A **lantern** for lighting a shared space so nobody is blinded by a beam. A **handheld** for looking at something far away, or for a serious blackout. Most campers are best served by a headlamp plus a lantern, and only add a handheld if they actually need distance. If you want specific models rather than a framework, jump to our [best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
 
 The reason "which torch is best for camping?" gets bad answers is that it's usually answered with a lumen number. Lumens tell you how much light comes out; they tell you nothing about whether the light lands where you need it, whether your hands are free while it does, or whether it will still be running at 3 a.m.
 

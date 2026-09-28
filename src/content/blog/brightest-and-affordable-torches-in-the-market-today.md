@@ -1,56 +1,134 @@
 ---
-title: 'Brightest and Affordable Torches in the Market Today: Top Picks and Buying Guide'
-description: 'Finding a high-quality torch that is both bright and affordable can be challenging. With advancement...'
+title: 'The Brightest Flashlights of 2026: Record Holders to Pocket Picks'
+description: 'The brightest flashlight you can buy is the 200,000-lumen Imalent MS32. Record holders, pocket picks, budget options, and why max lumens mislead.'
 pubDate: '2025-01-20'
-heroImage: '/uploads/2025/02/Webp.net-compress-image-7.jpg-1.webp'
+updatedDate: '2026-09-28'
+heroImage: '/uploads/2026/08/lumens-search-beam-undergrowth.webp'
 categories: ['Buying Guides']
-tags: []
+tags: ['brightest flashlight', 'high lumen flashlight', 'Imalent', 'Acebeam', 'Sofirn', 'lumens', 'rechargeable flashlight']
 ---
 
-Finding a high-quality torch that is both bright and affordable can be challenging. With advancements in LED technology, the choices are better than ever for those seeking powerful illumination without spending a fortune. <strong>Some of the brightest flashlights available today, such as the <a href="https://www.amazon.com/s?k=olight+warrior&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Olight Warrior</a> Nano and the <a href="https://www.amazon.com/s?k=anker+flashlight&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Anker</a> Bolder LC90, offer impressive performance, combining high lumen output with reasonable prices.</strong>
+**Quick answer:** The brightest flashlight you can buy is the [Imalent MS32](https://www.amazon.com/s?k=imalent+ms32&tag=lightertorch-20). It makes 200,000 lumens from 32 LEDs, but only for about 45 seconds before stepping down to 40,000, and it weighs 6.8 lb. For a light you'd actually carry, the [Acebeam X75](https://www.amazon.com/s?k=acebeam+x75&tag=lightertorch-20) (80,000 lumens) and the pocket-size [Imalent MS03](https://www.amazon.com/s?k=imalent+ms03&tag=lightertorch-20) (13,000) are the brightest picks. On a budget, the [Sofirn Q8 Plus](https://www.amazon.com/s?k=sofirn+q8+plus&tag=lightertorch-20) makes 16,000 lumens for under $100.
 
-For individuals who enjoy outdoor activities or need a reliable torch at home, selecting the right LED flashlight is key. These tools are not just convenient but essential for safety during night hikes or power outages. The versatility of models like the GearLight Mini, known for its affordability and performance, makes them an excellent choice for diverse needs.
+"Brightest" on this page means total light output in lumens, the number printed on the box. How far a beam reaches is a separate spec, and it's covered in our [long-range flashlight guide](/what-is-the-best-long-range-flashlight/). Specs below come from the manufacturers' own pages. Where the independent review site 1Lumen measured something different, we say so.
 
-There's a growing interest in pocket-friendly torches that do not compromise on brightness. Products from brands like Fenix and Anker provide great options for those who want dependability on a budget. The <a href="https://lightadviser.com/best-led-torch-light-rechargeable">Anker Bolder LC90</a> is particularly noted for its compact design and robust lighting, making it a popular choice among torch enthusiasts.
-<h2>Features of Top-performing Flashlights</h2>
-<img src="/uploads/2026/08/brightest-focused-beam-dark-room.webp" alt="A tightly focused flashlight beam throwing a small intense circle of light onto the far wall of a dark room, with dust drifting through the beam." />
+## The Brightest Flashlights Compared
 
-Top-performing flashlights boast high brightness, long battery life, and durability. They offer impressive lumen output and can withstand harsh weather conditions. Evaluating these factors helps in choosing the right flashlight for various needs.
-<h3>Lumen Output and Brightness Levels</h3>
-<strong>Lumens</strong> measure the total light output. The higher the lumens, the brighter the flashlight. A top-performing flashlight often features a high lumen count, reaching up to 200,000 lumens like the <a href="https://www.zdnet.com/home-and-office/energy/brightest-flashlight/">Imalent MS32</a>.
+![Five unbranded flashlights of different sizes laid in a row on a dark workbench, from a keychain light to a large searchlight.](/uploads/2026/08/brightest-torch-lineup-bench.webp)
 
-Brightness levels in flashlights vary, providing users with adjustable settings for different environments. A high lumen output is beneficial for tasks requiring maximum illumination, while lower settings save power for prolonged use. Beam range is also important, indicating how far the light can reach effectively.
-<h3>Battery Life and Types</h3>
-Battery life is crucial for reliable performance. Many flashlights use <strong>rechargeable batteries</strong>, offering convenience and cost savings. Models like the <a href="https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20" rel="sponsored nofollow noopener" target="_blank">Fenix PD36R</a> Pro are notable for their <a href="https://gearjunkie.com/outdoor/hiking/best-flashlights">battery efficiency</a>, lasting for several hours on a charge.
+| Flashlight | Max lumens | Beam distance | Battery | Weight | What it's for |
+|---|---|---|---|---|---|
+| [Imalent MS32](https://www.amazon.com/s?k=imalent+ms32&tag=lightertorch-20) | 200,000 | 1,618 m | 12 × 21700 pack | 3.1 kg (6.8 lb) | Brightest overall |
+| Haikelite AK24 | 230,000 (burst) | 1,750 m | 12 × 21700 pack | 3.1 kg (6.9 lb) | Highest output at switch-on |
+| [Imalent SR32](https://www.amazon.com/s?k=imalent+sr32&tag=lightertorch-20) | 120,000 | 2,080 m | 8 × 21700 pack | 2.2 kg (4.8 lb) | Huge output plus long reach |
+| [Acebeam X75](https://www.amazon.com/s?k=acebeam+x75&tag=lightertorch-20) | 80,000 | 1,150 m | Built-in 4 × 21700 pack | 1.24 kg (2.7 lb) | Huge output you can still carry |
+| [Fenix LR40R V2.0](https://www.amazon.com/s?k=fenix+lr40r+v2&tag=lightertorch-20) | 15,000 | 900 m | Built-in 3-cell pack | 843 g (1.9 lb) | Search, farm and property use |
+| [Sofirn Q8 Plus](https://www.amazon.com/s?k=sofirn+q8+plus&tag=lightertorch-20) | 16,000 | 554 m | 3 × 21700, removable | 492 g without batteries | Most lumens for the money |
+| [Imalent MS03](https://www.amazon.com/s?k=imalent+ms03&tag=lightertorch-20) | 13,000 | 324 m | 1 × 21700 | 187 g (6.6 oz) | Brightest pocket light |
+| [Nitecore EDC37](https://www.amazon.com/s?k=nitecore+edc37&tag=lightertorch-20) | 8,000 | 420 m | Built-in 8,000 mAh | 199 g (7.0 oz) | Flat tactical EDC light |
+| [Sofirn SP36 Pro](https://www.amazon.com/s?k=sofirn+sp36+pro&tag=lightertorch-20) | 8,000 (claimed) | 423 m | 3 × 18650, removable | 436 g (15.4 oz) | Budget floodlight |
+| [Sofirn SC33](https://www.amazon.com/s?k=sofirn+sc33&tag=lightertorch-20) | 5,200 | 327 m | 1 × 21700, removable | 110 g without battery | Budget pocket light |
 
-<strong>Battery types</strong> vary, with lithium-ion being common for its longevity and rechargeability. Alkaline batteries are another option but generally provide shorter life. A flashlight should ideally feature easy-to-replace batteries or built-in options for charging. Longer battery life can be a deciding factor for those using flashlights for extended periods.
-<h3>Durability and Weather Resistance</h3>
-Durability is essential for flashlights used in harsh conditions. A top-performing flashlight often features shockproof and impact-resistant materials. Many flashlights are designed to resist water and dust, with ratings like <strong>IP67</strong>, ensuring they can handle immersion in water up to a meter deep.
+Lumens and beam distance are the makers' ratings. Weights include batteries unless noted. The AK24 and SP36 Pro weights are 1Lumen's measurements. Every light on the list is USB-C rechargeable. The MS03 charges through a USB-C port on its battery.
 
-Weather resistance is crucial, especially for outdoor use. Flashlights with high durability withstand elements like rain, snow, and extreme temperatures. It's important to choose a flashlight that can endure the scenarios in which you anticipate using it. Such reliability offers peace of mind, whether exploring the wilderness or navigating a power outage.
-<h2>Choosing the Right Torch for Your Needs</h2>
-Finding the perfect torch depends on how you plan to use it. Whether you're exploring the great outdoors or need specific features for unique activities, it's important to choose wisely to meet your requirements. Pay attention to brightness, size, and functionality to ensure your torch is the best fit.
-<h3>Outdoor and Tactical Use</h3>
-When venturing into the wilderness for activities like camping or hiking, selecting a suitable torch is crucial. An <a href="https://www.stuff.tv/features/best-torches-flashlights/">outdoor torch</a> typically requires a robust build and a long-lasting battery. These torches often come with an adjustable beam, vital for both wide-area lighting and focused tasks.
+## What Is the Brightest Flashlight in the World?
 
-<strong>Tactical torches</strong>, often used by professionals, should offer features like a <strong>red light</strong> mode. This is less obtrusive in the dark, preserving night vision. A <strong>head torch</strong> is highly recommended when hands-free operation is necessary, such as during climbing or setting up camp in low light. Compact torches with durable, water-resistant casings are ideal for unpredictable environments.
-<h3>Specialized Features for Different Activities</h3>
-Specialized torches cater to unique needs. For search and rescue operations, a high-lumen <a href="https://www.zdnet.com/home-and-office/energy/brightest-flashlight/">handheld torch</a> with powerful brightness is crucial. These can reach up to 200,000 lumens, ensuring visibility across vast distances.
+That depends on whether you count the first second or the first 30 seconds.
 
-For everyday carry (EDC) purposes, a compact torch should suffice. These are lightweight, often pocket-sized, and suitable for general use. An <strong>adjustable beam</strong> feature is beneficial for varied tasks, from reading maps to illuminating a trail. Torches with additional features like strobe functions for signaling or waterproof ratings are advantageous for those involved in diverse outdoor activities.
-<h2>Frequently Asked Questions</h2>
-<img src="/uploads/2026/08/brightest-torch-lineup-bench.webp" alt="Five unbranded flashlights of different sizes laid in a row on a dark workbench, with warm light casting long shadows across the steel." />
+**By the standard measurement, it's the Imalent MS32.** Imalent rates it at [200,000 lumens, 655,000 candela and a 1,618 m beam](https://www.imalentstore.com/products/imalent-ms32-200000-lumen-flashlight), running on a pack of twelve 21700 cells. 1Lumen [measured 191,388 lumens at switch-on and 177,957 lumens after 30 seconds](https://1lumen.com/brightest-flashlight/). Thirty seconds is when the ANSI FL1 standard takes its reading, and no other light on 1Lumen's list scored higher at that point.
 
-Choosing the right torch involves considering brightness, cost, reliability, and specific features. Well-known brands and proper specifications help ensure one gets a bright and affordable torch.
-<h3>What are the top-rated high-lumen torches available at an affordable price?</h3>
-Many affordable torches offer high lumens today, with features like USB charging and waterproofing. The <a href="https://www.livefortheoutdoors.com/hiking/accessories/best-torches/">Davinci 2000</a> doubles as a power bank, providing both brightness and functionality in one device.
-<h3>Which torches offer the best lumens-to-price ratio currently on the market?</h3>
-Torches with over 1500 lumens fall into tactical categories, and some models manage to offer this at relatively low prices. Consider torches with features like multiple lighting modes or durable materials for the best lumens-to-dollar value.
-<h3>What are the most reliable brands for powerful and cost-effective flashlights?</h3>
-Several brands are well-regarded for their quality and cost-effectiveness. Key brands often use materials like aluminum, known for its heat-conducting properties, ensuring long-lasting performance for bright and affordable torches.
-<h3>How does the brightness of top market torches compare to natural light sources?</h3>
-High-lumen flashlights can simulate daylight to some extent, especially when leveraging flood or spot beams. These beams are designed to focus light effectively over wide or long distances, making them suitable for a variety of situations.
-<h3>What features should I look for in a long-distance torch that offers great value?</h3>
-Long-distance torches should prioritize beam focus, battery life, and durability. Models constructed from aluminum help in heat dissipation, ensuring longer life and consistent performance. Look for adjustable beams to cater to various needs and environments.
-<h3>What are the considerations for choosing an exceptionally bright flashlight within a budget?</h3>
-Ensure the flashlight is durable, with a sturdy build and efficient battery usage. Cost-efficient torches often feature high-powered LEDs and tactical beams without compromising on quality. Affordable options still offer innovations like water resistance and power bank capabilities.
+**By peak burst, it's the Haikelite AK24.** Haikelite claims 230,000 lumens, and 1Lumen did [measure 231,722 lumens at switch-on](https://1lumen.com/review/haikelite-ak24/). By 30 seconds it had dropped to 128,565 lumens, and by 10 minutes it was below 9,000. The reviewer's verdict is that the MS32 beats it after the first 30 seconds or so.
+
+As of September 2026, we couldn't find any production flashlight with an independently measured output above these two.
+
+## The Record Holders: 100,000+ Lumens
+
+These are specialist tools. They're heavy, need cooling fans, and cost several hundred dollars. They make sense for search and rescue over open ground, large rural properties, and people who simply want the biggest light there is.
+
+**[Imalent MS32](https://www.amazon.com/s?k=imalent+ms32&tag=lightertorch-20).** It has 32 Cree XHP70.2 LEDs, three cooling fans and a 3,096 g body. Imalent says that at full output it draws close to 2,000 watts. Turbo gives 200,000 lumens for 45 seconds, then 40,000 lumens for about 40 minutes. It charges over 100 W USB-C and doubles as a power bank. Note that it's only rated IP56: it will handle rain, but don't drop it in a lake.
+
+**Haikelite AK24.** This is the one to buy if you want the biggest number at switch-on. It isn't built for sustained output, though: 1Lumen found it runs below 10,000 lumens for most of its runtime once turbo ends.
+
+**[Imalent SR32](https://www.amazon.com/s?k=imalent+sr32&tag=lightertorch-20).** This is the reach-focused sibling. It's rated at [120,000 lumens, 1,090,000 candela and a 2,080 m beam](https://www.imalentstore.com/products/imalent-sr32-120000-lumen-flashlight) from an 8-cell pack, and it weighs 2,166 g. It throws further than the MS32 even though it makes fewer lumens. We explain why further down.
+
+## Brightest Flashlights You'd Actually Carry
+
+**[Acebeam X75](https://www.amazon.com/s?k=acebeam+x75&tag=lightertorch-20): 80,000 lumens in a hand-sized body.** Acebeam rates it at [80,000 lumens and a 1,150 m beam](https://www.acebeam.com/x75/) from a built-in four-cell 21700 pack. It's 176 mm long and weighs 1,240 g, less than half the weight of the MS32. It has a removable cooling fan, IP68 sealing to 2 m, and 60 W USB-C charging that fills it in about 1.5 hours. Turbo holds 80,000 lumens for 30 seconds, then settles at 12,000 for about 42 minutes. That's still more light than most people will ever need.
+
+**[Fenix LR40R V2.0](https://www.amazon.com/s?k=fenix+lr40r+v2&tag=lightertorch-20): big output from a mainstream brand.** Fenix rates it at [15,000 lumens and a 900 m beam](https://www.fenixlighting.com/products/fenix-lr40r-v2-search-flashlight-15000-lumens). It has a spotlight, a floodlight, or both together, and it weighs 842.5 g including its built-in pack of three 5,000 mAh cells. Runtime reaches 177 hours on the lowest setting. Choose it over the Acebeam if US-based support and a lighter body matter more to you than raw output. There's more on the brand in our [Olight vs Fenix vs Streamlight comparison](/olight-vs-fenix-vs-streamlight/).
+
+## Brightest Pocket Flashlights
+
+**[Imalent MS03](https://www.amazon.com/s?k=imalent+ms03&tag=lightertorch-20): the smallest, brightest flashlight.** Imalent rates it at [13,000 lumens from a single 21700 cell](https://www.imalentstore.com/products/imalent-ms03-13000-lumen-flashlight) in a body 110 mm long, and it weighs 187 g with the battery. 1Lumen [measured about 12,000 lumens](https://1lumen.com/brightest-flashlight/) and names it the brightest pocket flashlight. The catch is that 13,000 lumens lasts 45 seconds before the light drops to 2,000. A body that small can't shed more heat than that.
+
+**[Nitecore EDC37](https://www.amazon.com/s?k=nitecore+edc37&tag=lightertorch-20): 8,000 lumens in a flat body.** Nitecore rates it at [8,000 lumens, 44,010 candela and a 420 m beam](https://www.nitecore.com/product/edc37). The flat 108 mm body holds a built-in 8,000 mAh battery and weighs 199 g. It's rated IP54, which means it's splash-resistant, not waterproof.
+
+**[Sofirn SC33](https://www.amazon.com/s?k=sofirn+sc33&tag=lightertorch-20): the budget pocket option.** Sofirn rates it at [5,200 lumens and a 327 m beam](https://us.sofirnlight.com/products/sofirn-sc33-powerful-edc-flashlight). It runs on a removable 21700 cell and is rated IP68, and it usually sells for under $50. For lights you'll carry every day rather than show off, see our [best EDC flashlights under $50](/best-edc-flashlights-under-50/).
+
+## Brightest Flashlight for the Money
+
+**[Sofirn Q8 Plus](https://www.amazon.com/s?k=sofirn+q8+plus&tag=lightertorch-20).** Sofirn rates it at [16,000 lumens and a 554 m beam](https://us.sofirnlight.com/products/sofirn-q8-plus-16000-lumens-rechargeable-flashlight-with-anduril-2-0-ui) from six XHP50B LEDs and three removable 21700 cells. It's IP68 rated, charges over USB-C and works as a power bank. It weighs 492 g before the batteries go in, and it typically costs under $100.
+
+**[Sofirn SP36 Pro](https://www.amazon.com/s?k=sofirn+sp36+pro&tag=lightertorch-20).** Sofirn rates this compact three-18650 light at [8,000 lumens and 423 m](https://us.sofirnlight.com/products/sofirn-sp36pro-rechargeable-flashlight-with-anduril-2-0-ui). When 1Lumen tested it, the result was [5,359 lumens at switch-on and 5,146 at 30 seconds](https://1lumen.com/review/sofirn-sp36-pro-anduril2/), about two-thirds of the claim. That's still a very bright light for well under $100. It's also a reminder that even established brands' figures can run high.
+
+Both lights use the Anduril 2 interface. It's powerful but has a learning curve, so if you want simple controls, look at the Fenix.
+
+## Why the Max Lumen Number Is Misleading
+
+![A tightly focused flashlight beam throwing a small, intense circle of light onto the far wall of a dark room, with dust drifting through the beam.](/uploads/2026/08/brightest-focused-beam-dark-room.webp)
+
+**Turbo lasts seconds, not hours.** High-output lights step down to protect themselves from heat. Here's what the makers themselves publish:
+
+| Flashlight | Turbo output | Holds for | Then drops to |
+|---|---|---|---|
+| Imalent MS32 | 200,000 lm | 45 seconds | 40,000 lm |
+| Imalent SR32 | 120,000 lm | 45 seconds | 25,000 lm |
+| Acebeam X75 | 80,000 lm | 30 seconds | 12,000 lm |
+| Imalent MS03 | 13,000 lm | 45 seconds | 2,000 lm |
+
+The sustained figure in the last column tells you far more about what the light will do on a real search than the headline number does.
+
+**The ANSI FL1 standard reads output at 30 seconds.** Under ANSI/PLATO FL1, the initial output is [measured 30 seconds after switch-on](https://www.streamlight.com/docs/default-source/ansi-documents/ansistandards_2018.pdf). Runtime counts until output falls to 10% of that figure, and beam distance is where the light drops to 0.25 lux. So a turbo "runtime" can be mostly time spent at a fraction of turbo. Brands that publish step-down figures, as Imalent and Acebeam do above, are telling you more than the standard requires.
+
+**Lumens aren't reach.** Lumens measure the total light a flashlight makes, while candela measures how tightly the beam is focused, and focus is what decides distance. That's why the 120,000-lumen SR32 is rated to throw 2,080 m while the 200,000-lumen MS32 manages 1,618 m. It's also why the 15,000-lumen Fenix out-throws the 16,000-lumen Sofirn, 900 m to 554 m. The full explanation is in [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/).
+
+**Specs run optimistic.** 1Lumen measured the AK24's beam at 1,322 m against a 1,750 m claim, and the SP36 Pro at about 5,300 lumens against 8,000. Treat any spec as a ceiling, not a promise.
+
+## Beware of "900,000-Lumen" Flashlights
+
+Search Amazon for "brightest flashlight" and you'll find no-name lights claiming 900,000 or a million lumens. SlashGear found [listings claiming 1 million lumens or more for under $50](https://www.slashgear.com/2230853/1-million-lumen-flashlights-on-amazon-fake/). Some claim more than 2 million. None of them are real. When the Torque Test Channel measured budget lights bought on Amazon, the best one produced 0.24% of its advertised output and the worst 0.05%. 1Lumen's own verdict on these listings is that [the best they can do is about 1,000 lumens](https://1lumen.com/million-lumen-flashlight/).
+
+The physics settles it. The genuine record holders weigh around 3 kg, carry cooling fans, and still hold full power for less than a minute. A $30 handheld can't make five times more light.
+
+Red flags on a listing:
+
+- **A lumen claim above about 230,000.** That's the highest independent measurement of a production flashlight we could find.
+- **A single-battery light claiming six figures.** The brightest single-cell light on 1Lumen's list, the MS03, made about 12,000 lumens.
+- **A brand with no website of its own** and no presence outside the marketplace.
+- **No beam distance, candela or runtime figures**, just one huge lumen number.
+
+If you're shopping on Amazon, stick to brands that publish full ANSI specs. Our guide to the [best-selling flashlights on Amazon](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) covers the ones that hold up.
+
+## Is Brighter Always Better?
+
+Not for most jobs. A few hundred to about 1,000 lumens covers walking the dog, camping and power cuts. Past that, extra lumens start working against you. Glare bounces back off fog, rain and snow. Up close, the light blinds you and everyone near you. Batteries drain faster, and the head gets hot quickly.
+
+If you want one bright light you'll actually carry, a 1,700-lumen all-rounder like the [Fenix PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) will get more use than a 3 kg record holder. Save the 10,000+ lumen lights for jobs that need them: searching fields and tree lines, lighting a whole yard, or finding someone at night.
+
+Two safety notes for the big ones. Never shine them in anyone's eyes. And don't leave a light on turbo facing a cushion, a bag or your own leg, because these heads get hot fast.
+
+## FAQ
+
+**What is the brightest flashlight in the world?** The Imalent MS32. It's rated at 200,000 lumens, and 1Lumen measured about 178,000 lumens 30 seconds after switch-on, the point where the ANSI FL1 standard takes its reading. The Haikelite AK24 claims 230,000 lumens and does beat the MS32 at the moment you switch it on, but it falls well behind within a minute.
+
+**How many lumens is the brightest flashlight?** About 200,000 to 230,000 lumens at switch-on. We haven't found an independent measurement of any production flashlight above that. After turbo steps down, the MS32 sustains about 40,000 lumens. The brightest pocket light, the Imalent MS03, makes 13,000 lumens for 45 seconds.
+
+**Are 100,000-lumen flashlights real?** Yes, but only a handful exist. They're large, fan-cooled lights like the Imalent SR32 (2.2 kg) and MS32 (3.1 kg). Cheap no-name lights claiming 100,000, 900,000 or a million lumens are not real. Independent tests find them producing well under 1% of the claim.
+
+**What is the brightest flashlight on Amazon?** The brightest genuine flashlight you'll typically find on Amazon is the Imalent MS32, followed by the Imalent SR32 and Acebeam X75. Ignore any listing that claims more than about 230,000 lumens, especially at a budget price, because those numbers are fiction.
+
+**What is the brightest small flashlight?** The Imalent MS03, which makes 13,000 lumens from one 21700 battery in a 110 mm body. If you'd rather carry a flat light, the Nitecore EDC37 makes 8,000 lumens and weighs 199 g.
+
+**What is the brightest rechargeable flashlight for the money?** The Sofirn Q8 Plus. It's rated at 16,000 lumens, uses removable 21700 cells, has USB-C charging and typically costs under $100. For a pocket light under $50, the Sofirn SC33 is rated at 5,200 lumens.
+
+**Is a brighter flashlight always better?** No. Beyond about 1,000 lumens, extra output mostly adds glare, heat and battery drain for everyday tasks. Buy a 10,000+ lumen light only if you need to light up large outdoor areas.

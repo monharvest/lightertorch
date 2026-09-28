@@ -47,7 +47,7 @@ Flashlights themselves are permitted in both carry-on and checked bags — TSA h
 3. **Protect spare terminals** from short circuit: original packaging, a plastic [battery case](https://www.amazon.com/s?k=18650+battery+case+holder&tag=lightertorch-20), or tape over the contacts.
 4. **Size limit:** batteries up to 100Wh need no approval — every normal flashlight battery is far under this. (A 5,000mAh 21700 is ~18Wh.)
 
-One practical tip: lock your flashlight or remove a battery before flying. A high-powered light switching on inside a packed bag can generate serious heat — the same reason we recommend lockout mode in our [flashlight buying guide](/things-to-look-for-in-a-good-led-flashlights/).
+One practical tip: lock your flashlight or remove a battery before flying. A high-powered light switching on inside a packed bag can generate serious heat — the same reason we recommend lockout mode in our [flashlight buying guide](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens).
 
 Big "tactical" flashlights with aggressive strike bezels occasionally get extra scrutiny at the checkpoint. They're not prohibited, but if a screener judges one to be a club-like weapon, it may need to go in checked baggage (with no spare batteries inside, per rule 2).
 

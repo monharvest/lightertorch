@@ -69,7 +69,7 @@ Three things fall out of that table, and none of them are what the marketing wou
 
 **Polymer beats aluminum on drops.** The plastic-bodied PolyTac is rated to **3 m**; the aluminum ProTac HL-X to 2 m; the aluminum Maglite to 1 m. Polymer flexes and absorbs the hit where aluminum transmits it into the lens and the emitter shelf. Aluminum wins on heat dissipation — which is why the high-output lights are aluminum — not on toughness. SureFire built the entire G2X line on the same reasoning with its Nitrolon body.
 
-**The most famously "indestructible" flashlight is only IPX4.** Maglite publishes IPX4 for the ML300L: splash-resistant, not submersible, not rated for a long downpour. It is a genuinely tough D-cell club with a lifetime warranty and a 403 m beam, and it will not survive a dropped-in-the-creek moment the way an IPX7 light will. Reputation is not a rating.
+**The most famously "indestructible" flashlight is only IPX4.** Maglite publishes IPX4 for the ML300L: splash-resistant, not submersible, not rated for a long downpour. It is a genuinely tough D-cell club with a ten-year warranty and a 403 m beam, and it will not survive a dropped-in-the-creek moment the way an IPX7 light will. Reputation is not a rating.
 
 **"No published figure" is itself information.** SureFire does not publish an FL1 impact number for the G2X Pro, so we are not going to invent one. What we can report is what SureFire does state: a Nitrolon polymer body, an aluminum bezel, a polycarbonate lens, O-ring and gasket sealing, 600 and 15 lumens at 1.5 and 52 hours on two CR123A cells, and a limited lifetime warranty. If a submersion rating is a hard requirement for you, buy something that prints one.
 
@@ -83,7 +83,7 @@ A lifetime warranty on a light with sealed electronics is doing less work than i
 
 Read it as guidance rather than as a complaint. The body and the head are the parts nobody needs to warrant for long, because they don't break. The cell, the charge circuit, and the switch are the parts that do — and they are the ones with a clock on them.
 
-For comparison: Fenix Lighting USA offers a limited lifetime guarantee, free repair for five years and parts at cost after that. SureFire warrants the G2X for life. Maglite gives a limited lifetime warranty in the Western Hemisphere and ten years elsewhere. An Amazon-brand light generally gives you a seller-level return window and a brand that may not exist next year — which is a durability spec of its own.
+For comparison: Fenix Lighting USA offers a limited lifetime guarantee, free repair for five years and parts at cost after that. SureFire warrants the G2X for life. Maglite now gives a [ten-year limited warranty](https://www.maglite.com/pages/warranty). An Amazon-brand light generally gives you a seller-level return window and a brand that may not exist next year — which is a durability spec of its own.
 
 ## Maintenance That Actually Matters
 
@@ -103,7 +103,7 @@ Clean the lens with a soft cloth only. Abrasives and solvents haze a polycarbona
 - [Best EDC flashlights under $50](/best-edc-flashlights-under-50/)
 - [Lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/)
 - [$20 vs $100 flashlight: what the money buys](/20-vs-100-dollar-flashlight/)
-- [What to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/)
+- [What to look for in a good LED flashlight](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens)
 - [What flashlights do police use?](/what-flashlights-do-police-use/)
 
 ## FAQ

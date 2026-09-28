@@ -63,7 +63,7 @@ Think in three tiers, not two:
 - **$35–70:** the value sweet spot — 90% of premium performance ([best sellers live here](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/))
 - **$90–130:** buy-once lights for people who use them like tools — [check the PD36R](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
 
-The only wrong purchase is the $20 light wearing a $100 light's claims. Check for ANSI ratings, a named LED, and a real warranty — [our buying checklist](/things-to-look-for-in-a-good-led-flashlights/) covers the rest.
+The only wrong purchase is the $20 light wearing a $100 light's claims. Check for ANSI ratings, a named LED, and a real warranty — [our buying checklist](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens) covers the rest.
 
 ## FAQ
 

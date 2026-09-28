@@ -66,7 +66,7 @@ Be clear about the compromises before buying: it charges over **micro-USB**, not
 
 ## What to Skip in This Price Band
 
-- **"100,000 lumen" listings.** No pocket light makes five figures of lumens. Inflated marketing claims are the single most reliable sign of a light whose other specs are also fiction — more red flags in [what to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/).
+- **"100,000 lumen" listings.** No pocket light makes five figures of lumens. Inflated marketing claims are the single most reliable sign of a light whose other specs are also fiction — more red flags in [what to look for in a good LED flashlight](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens).
 - **Lights with a sealed, unnamed battery.** When the cell dies in two years the whole light is landfill.
 - **Zoomable "tactical" kits** with a plastic bezel and a bundled charger. The zoom mechanism kills the beam and breaks first.
 - **Anything without a stated water rating.** IPX4 is a real answer; silence is not.

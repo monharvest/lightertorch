@@ -65,7 +65,7 @@ Not everyone wants a monster. The [Olight Baton Ultra](https://www.amazon.com/s?
 
 If you want the most powerful *rechargeable* torch rather than the longest beam, start with the Fenix PD36R V2.0: USB-C charging, 1,700 lumens, and an IP68 body. See the [USB-C rechargeable flashlight guide](/usb-c-rechargeable-flashlights_-the-complete-2025-buyers-guide/) for charging and battery trade-offs, and [most durable flashlights](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/) if impact and weather resistance matter more than throw.
 
-For everyday and camping options, see our [top 10 best-selling flashlights](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) and [best camping torches](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
+For everyday and camping options, see our [top 10 best-selling flashlights](/top-10-best-selling-flashlights-on-amazon-expert-reviews-buyers-guide-2025/) and [best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/).
 
 ## FAQ
 

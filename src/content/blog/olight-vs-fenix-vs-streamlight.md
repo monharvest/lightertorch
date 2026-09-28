@@ -21,7 +21,7 @@ If you've narrowed your search to these three names, you've already done the har
 | Typical price range | [Most models $20–$80](https://www.amazon.com/s?k=streamlight+flashlight&tag=lightertorch-20) | [Most models $40–$120](https://www.amazon.com/s?k=fenix+flashlight&tag=lightertorch-20) | [Most models $35–$150](https://www.amazon.com/s?k=olight+flashlight&tag=lightertorch-20) |
 | Charging | USB / rechargeable docks | USB-C on most models | Magnetic (MCC); newer models add USB-C |
 | Batteries | CR123A / proprietary packs / 18650 | 18650 / 21700, standard cells | Mostly proprietary customized cells |
-| Warranty | Limited lifetime | Limited lifetime (5 yr on battery/electronics) | Limited lifetime (varies by region) |
+| Warranty | Limited lifetime | [Limited lifetime](https://www.fenixlighting.com/pages/warranty-repairs) from US authorized dealers | Limited lifetime (varies by region) |
 | Best for | Duty, work, budget tactical | Camping, hiking, one-light-for-everything | EDC, pocket lights, gadget lovers |
 | Flagship pick | [Check price on Amazon →](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | [Check price on Amazon →](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) |
 
@@ -87,7 +87,7 @@ Olight is the youngest of the three and behaves like it: fast release cycles, bo
 
 ## Head-to-Head: Common Scenarios
 
-**Camping and hiking → Fenix.** Standard batteries, USB-C, deep waterproofing, and multi-day runtimes are exactly the outdoor formula. See our [best camping torches](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/) roundup.
+**Camping and hiking → Fenix.** Standard batteries, USB-C, deep waterproofing, and multi-day runtimes are exactly the outdoor formula. See our [best camping flashlights](/top-10-best-camping-torches-of-2024-expert-reviews-buying-guide/) roundup.
 
 **Everyday pocket carry → Olight.** Smallest bodies, best clips, and charging so effortless you'll actually keep it topped up.
 
@@ -101,11 +101,11 @@ Olight is the youngest of the three and behaves like it: fast release cycles, bo
 
 **Which brand is brightest?** On paper, Olight and Fenix trade the lumen crown depending on the model year. In practice all three make lights brighter than most people ever need — sustained output and beam focus matter more than the turbo number, which often lasts only minutes before stepping down.
 
-**Are these brands better than cheap Amazon flashlights?** Meaningfully, yes. No-name lights routinely overstate lumens several-fold, use unprotected cells, and fail early. If budget is tight, a Streamlight PolyTac is the cheapest way into genuine quality. Our [things to look for in a good LED flashlight](/things-to-look-for-in-a-good-led-flashlights/) guide covers the red flags.
+**Are these brands better than cheap Amazon flashlights?** Meaningfully, yes. No-name lights routinely overstate lumens several-fold, use unprotected cells, and fail early. If budget is tight, a Streamlight PolyTac is the cheapest way into genuine quality. Our [things to look for in a good LED flashlight](/how-many-lumens-should-flashlight-have-2/#what-else-to-look-for-besides-lumens) guide covers the red flags.
 
-**What about SureFire, Nitecore, or Klarus?** SureFire is the premium military option at roughly double the price; Nitecore competes closely with Fenix (its [P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) is a favorite of ours); Klarus is a solid value brand — we've covered it in [what is the best torch brand](/what-is-the-best-torch-brand/).
+**What about SureFire, Nitecore, or Klarus?** SureFire is the premium military option at roughly double the price; Nitecore competes closely with Fenix (its [P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) is a favorite of ours); Klarus is a solid value brand. All of them are compared in [our guide to the best flashlight brands](/what-is-the-best-torch-brand/).
 
-**Do they all have lifetime warranties?** All three offer limited lifetime warranties on the flashlight body and workmanship, with shorter coverage (typically 2–5 years) on batteries and electronics. Streamlight's US-based service is the most established; register your light either way.
+**Do they all have lifetime warranties?** All three offer limited lifetime warranties on the flashlight body and workmanship, with shorter coverage (usually one to two years) on batteries and chargers. Fenix's US lifetime cover applies to lights bought from its website or an authorized dealer; outside that network, Fenix's own policy is five years of free repair. Streamlight's US-based service is the most established; register your light either way.
 
 ---
 
