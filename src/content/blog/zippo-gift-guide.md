@@ -58,4 +58,4 @@ Pair any lighter with fluid + flints and you've built a complete "Zippo starter 
 
 ---
 
-*Short version: Street Chrome if you're unsure, engraved Brushed Chrome if you want to be remembered, and always add the fluid. [See all Zippo best sellers →](https://www.amazon.com/stores/ZippoManufacturingCompany/BestSellers/page/698E5D32-9464-4899-A6CA-55BC9B78C7EC?tag=lightertorch-20)*
+*Short version: Street Chrome if you're unsure, engraved Brushed Chrome if you want to be remembered, and always add the fluid. [See all Zippo best sellers →](https://www.amazon.com/s?k=zippo+lighter&s=exact-aware-popularity-rank&tag=lightertorch-20)*
