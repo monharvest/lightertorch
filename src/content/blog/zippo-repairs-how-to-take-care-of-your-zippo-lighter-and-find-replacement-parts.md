@@ -2,7 +2,7 @@
 title: 'Zippo Repair Guide: Fix It Yourself or Send It Back Free'
 description: 'Zippo repairs it free for life — but most faults are a two-minute fix at your kitchen table. Here is what to replace yourself and what to ship to Bradford.'
 pubDate: '2024-03-05'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-10'
 heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it.jpg'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
@@ -14,7 +14,7 @@ tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'li
 
 The single most common mistake is replacing the wrong part. Zippo fuel is naphtha, and naphtha evaporates whether you use the lighter or not — **a full Zippo runs dry in roughly one to two weeks sitting in a drawer**. That means "my Zippo stopped working" is a fuel problem far more often than a hardware problem.
 
-Work through it in this order:
+Work through it in this order. [Zippo's own not-lighting checklist](https://kb.zippo.com/zippo-lighter/not-lighting) covers the same four suspects: fuel, a stuck wheel, a worn flint and a spent wick.
 
 | Symptom | Likely cause | Fix |
 |---|---|---|
@@ -32,7 +32,7 @@ Everything below happens to the **insert** — the metal chassis that lifts out 
 
 ### 1. Refuelling (the fix for most "dead" Zippos)
 
-Lift the insert out and flip it over. Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can.
+Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can.
 
 Two things people get wrong here:
 
@@ -58,7 +58,7 @@ Zippo ships six flints per card and they fit every standard insert. Buy them in 
 
 A wick doesn't usually need replacing — it needs raising. Every lighting chars the exposed tip, and after a few dozen strikes the burnt section is all that's left above the chimney. The flame goes small, yellow and sooty.
 
-Grab the wick with tweezers or needle-nose pliers and pull it up a few millimetres, then snip the blackened tip flush with the top of the chimney with scissors. There's a surprising amount of wick coiled down inside — most Zippos have years of pulling-up left in them.
+Grab the wick with tweezers or needle-nose pliers and pull it up until clean wick appears (Zippo suggests about 1 cm), then snip the blackened tip flush with the top of the chimney. [Zippo's own wick guide](https://kb.zippo.com/zippo-lighter/wick) says to do this once or twice a year, and to replace the wick once it has been trimmed more than two or three times.
 
 When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel.
 
@@ -66,7 +66,7 @@ When you genuinely run out, replace it: pull the old wick out from the top, then
 
 [Zippo's guarantee](https://kb.zippo.com/warranty-repair) is the real reason to own one: **"It works or we fix it free."** It has no time limit, no receipt requirement, and no registration. It covers mechanical function — hinge, cam, spring, chimney, case.
 
-What it does **not** cover is appearance. Plating wear, scratches, a faded engraving, a chipped enamel decoration — those are cosmetic and Zippo won't restore them. Expect your lighter back working perfectly and looking exactly as beaten-up as when you sent it.
+What it does **not** cover is appearance: Zippo states that [the finish and decoration aren't covered](https://kb.zippo.com/zippo-lighter/worn-deco) by the lifetime guarantee. Plating wear, scratches, a faded engraving, a chipped enamel decoration — those are cosmetic and Zippo won't restore them. Expect your lighter back working perfectly and looking exactly as beaten-up as when you sent it.
 
 Two practical notes people learn the hard way:
 
@@ -84,7 +84,7 @@ Start at [Zippo's warranty and repair page](https://kb.zippo.com/warranty-repair
 
 **Case parts — hinges, cams, springs.** Zippo does not sell these to consumers. This is deliberate: it's what the free repair service exists for. Anyone selling you a "genuine Zippo hinge pin" is selling salvage. Send the lighter in instead.
 
-**Vintage and discontinued cases.** eBay and collector forums are the market here. Date codes stamped on the bottom of the case tell you the year, and prices for genuine vintage pieces are set by condition and rarity — a market with plenty of reproductions in it. Buy from sellers with a long feedback history and clear photographs of the base stamp.
+**Vintage and discontinued cases.** eBay and collector forums are the market here. [Date codes stamped on the bottom of the case](https://kb.zippo.com/zippo-lighter/date-codes) tell you the month and year, and prices for genuine vintage pieces are set by condition and rarity — a market with plenty of reproductions in it. Buy from sellers with a long feedback history and clear photographs of the base stamp.
 
 ## Keeping It Working
 

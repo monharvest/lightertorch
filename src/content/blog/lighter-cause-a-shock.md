@@ -1,8 +1,8 @@
 ---
-title: 'Why Does a Gas Lighter Shock You? (And Is It Dangerous?)'
-description: 'A gas lighter spark is over 10,000 volts but carries almost no energy — which is why it stings without hurting. Here is what causes the zap and when to worry.'
+title: 'Why Does a Lighter Shock You? (Is It Dangerous?)'
+description: "A lighter's piezo zap is 10,000+ volts but lasts microseconds, so it stings without harming you. The 4 causes, and the one that needs fixing: your stove."
 pubDate: '2021-05-21'
-updatedDate: '2026-08-07'
+updatedDate: '2026-10-10'
 heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'
 categories: ['Safety Tips']
 tags: ['gas lighter', 'piezo igniter', 'electric shock', 'kitchen safety', 'gas stove']
@@ -14,11 +14,11 @@ tags: ['gas lighter', 'piezo igniter', 'electric shock', 'kitchen safety', 'gas 
 
 Inside the handle is a piezoelectric crystal — usually lead zirconate titanate — and a spring-loaded hammer. Pressing the button cocks the spring; past a trip point the spring lets go and the hammer slams the crystal. Squeezing that crystal along one axis pushes a voltage out across the other, and because the strike is violent and instantaneous, the voltage is enormous.
 
-How enormous? You can work it out from the spark itself rather than trusting a spec sheet. Dry air at room temperature and sea-level pressure breaks down at roughly **3,000 volts per millimetre** (3 kV/mm, or 30 kV/cm). Look at the business end of a gas lighter and the two electrodes sit about **3–4 mm apart**. For a spark to cross that gap at all, the crystal has to be producing somewhere in the region of **10,000–20,000 volts**. One hobbyist who pulled the mechanism out of a barbecue lighter measured hundreds of volts from a hand-flick of the crystal, but got a spark around 7 mm long from the proper hammer strike — which puts the real output squarely in the tens of kilovolts.
+How enormous? You can work it out from the spark itself rather than trusting a spec sheet. Dry air at room temperature and sea-level pressure breaks down at roughly [**3,000 volts per millimetre**](https://hypertextbook.com/facts/2000/AliceHong.shtml) (3 kV/mm, or 30 kV/cm). Look at the business end of a gas lighter and the two electrodes sit about **3–4 mm apart**. For a spark to cross that gap at all, the crystal has to be producing somewhere in the region of **10,000–20,000 volts**. How hard the crystal is hit matters: one hobbyist who pulled the crystal out of a barbecue lighter measured [about 240 volts just from knocking it against a tabletop](https://rimstar.org/materials/piezo/ignitor1.htm). The spring-loaded hammer strikes far harder and faster, which is how the real output reaches the tens of kilovolts needed to jump the gap.
 
 If you have seen "800 volts" quoted for gas lighters (including in an older version of this article), it is simply wrong. Eight hundred volts cannot jump a 3 mm air gap. It would not even reach across a third of a millimetre.
 
-The flip side is how *little* energy that pulse carries. The discharge is over in microseconds and delivers on the order of a millijoule — thousandths of a joule. That's plenty for the job: propane needs about **0.25 mJ** to ignite and natural gas about **0.3 mJ**, so the spark clears the bar with room to spare while remaining, from your body's point of view, nearly nothing. For more on the mechanism, see our breakdown of [what's inside a gas lighter](/inside-of-a-gas-lighter/) and the [voltage in a gas lighter](/voltage-in-a-gas-lighter/).
+The flip side is how *little* energy that pulse carries. The discharge is over in microseconds and delivers on the order of a millijoule — thousandths of a joule. That's plenty for the job: propane needs about [**0.25 mJ** to ignite](https://www.heatingandprocess.com/product/hazardous-area-zones/mie-minimum-ignition-energy/) and natural gas (methane) about **0.3 mJ**, so the spark clears the bar with room to spare while remaining, from your body's point of view, nearly nothing. For more on the mechanism, see our breakdown of [what's inside a gas lighter](/inside-of-a-gas-lighter/) and the [voltage in a gas lighter](/voltage-in-a-gas-lighter/).
 
 ## The Four Reasons You Actually Get Zapped
 
@@ -42,7 +42,7 @@ If you suspect the shock came from the appliance rather than a handheld lighter:
 
 ## So Is the Piezo Shock Dangerous?
 
-For a healthy adult, no. The reason is that danger tracks *energy and current*, not voltage. Walking across a nylon carpet on a dry day can charge your body to anywhere from 1,500 to 35,000 volts — you don't feel anything below about 3,000 V, and above that you get the familiar doorknob snap. Those discharges are harmless because they carry mere microjoules. A piezo lighter sits in the same category: very high voltage, vanishingly small energy, no sustained current path.
+For a healthy adult, no. The reason is that danger tracks *energy and current*, not voltage: OSHA's guidance on electrical injury puts the risk in [how much current flows through the body and for how long](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.269AppC). Walking across a nylon carpet on a dry day can charge your body to anywhere from 1,500 to 35,000 volts — you don't feel anything below about 3,000 V, and above that you get the familiar doorknob snap. Those discharges are harmless because they carry mere microjoules. A piezo lighter sits in the same category: very high voltage, vanishingly small energy, no sustained current path.
 
 What you may see afterwards is a small red mark or a tingling fingertip for a minute or two. What you should *not* see is a burn, a lingering numbness, or muscle twitching — those point to a mains-powered source, i.e. reason #4 above, and are worth a call to a doctor as well as an electrician.
 

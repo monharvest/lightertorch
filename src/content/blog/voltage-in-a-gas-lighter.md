@@ -1,6 +1,6 @@
 ---
-title: 'How Many Volts Is a Gas Lighter Spark? (10,000+)'
-description: "A piezo gas lighter fires roughly 10,000–20,000 volts across a few millimetres of air. How the crystal makes it, the math, and why it can't hurt you."
+title: 'How Many Volts Is a Gas Lighter? (10,000–20,000 V)'
+description: "A gas lighter's piezo spark is about 10,000–20,000 volts, yet it can't hurt you: it lasts microseconds and carries almost no energy. Where it comes from, and the math."
 pubDate: '2021-05-21'
 updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'

@@ -1,14 +1,14 @@
 ---
-title: 'How to Fill a Butane Lighter (Plus Torch and Zippo Refills)'
-description: "Bleed it, flip the can, fill in 5-second bursts, wait two minutes. How to refill a butane or torch lighter, why BICs can't be refilled, and quick fixes."
+title: 'How to Refill a Butane Lighter (Step by Step, Plus Fixes)'
+description: "To refill a butane lighter, bleed it, flip the can, fill in 5-second bursts and wait two minutes. Torch and Zippo refills, plus fixes if it won't light."
 pubDate: '2021-05-21'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-10'
 heroImage: '/uploads/2026/09/butane-refill-kit-still-life.webp'
 categories: ['How-to Guides']
 tags: ['butane lighter', 'refilling', 'torch lighter', 'butane', 'Zippo', 'lighter maintenance']
 ---
 
-**Quick answer:** Turn the flame adjuster to its lowest setting and bleed out the old gas by pressing the fill valve with a small screwdriver until the hissing stops. Then hold the lighter upside down, press the upside-down [butane can](https://www.amazon.com/s?k=butane+refill+5x+refined&tag=lightertorch-20) straight onto the valve for 5–6 seconds, and repeat once or twice. **Wait at least two minutes before lighting it**, because the fresh fuel is too cold to vaporize. That's the same routine [Zippo gives for its butane inserts](https://kb.zippo.com/butane-lighter-inserts).
+**Quick answer:** To refill a butane lighter, turn the flame adjuster to its lowest setting and bleed out the old gas by pressing the fill valve with a small screwdriver until the hissing stops. Then hold the lighter upside down, press the upside-down [butane can](https://www.amazon.com/s?k=butane+refill+5x+refined&tag=lightertorch-20) straight onto the valve for 5–6 seconds, and repeat once or twice. **Wait at least two minutes before lighting it**, because the fresh fuel is too cold to vaporize. That's the same routine [Zippo gives for its butane inserts](https://kb.zippo.com/butane-lighter-inserts).
 
 Most "the refill didn't work" complaints come from skipping one of three things: the bleed, holding the can upside down, or the wait. The steps below cover all three.
 
@@ -20,7 +20,7 @@ Most "the refill didn't work" complaints come from skipping one of three things:
 - **A paper towel** to wipe off spilled fuel.
 - **Adapter tips**, only if you need them. Most cans come with a set, but the can's own nozzle fits most lighters.
 
-## How to Fill a Butane Lighter, Step by Step
+## How to Refill a Butane Lighter, Step by Step
 
 1. **Pick a safe spot.** Let the lighter cool if you've just used it, and work by an open window or outdoors, away from flames, pilot lights and cigarettes. Butane vapour is heavier than air and settles.
 2. **Turn the flame adjuster to minimum.** It's usually marked **+/−**. Starting low stops the first flame from flaring up at you.
@@ -82,5 +82,9 @@ No. BIC says all of its lighters are [designed to be non-refillable](https://nam
 **How do you refill a lighter without an adapter?** Most cans' built-in nozzle fits a standard valve if you press it straight down firmly. You only need an adapter tip if the fuel sprays out around the valve instead of going in. Don't force a nozzle that doesn't fit.
 
 **Can you put butane in a regular Zippo?** No. The classic insert has no valve or sealed tank, so the butane just boils off. Use lighter fluid in a fluid insert, or buy Zippo's butane insert if you want a butane flame.
+
+**How do you know when a butane lighter is full?** Liquid butane starts spitting back out around the nozzle when you press the can down. Stop there. Some lighters have a small window that shows the fuel level, but most don't, so the spit-back is the signal.
+
+**What butane should I use to refill a lighter?** Any can of refined butane that comes with or fits a standard valve. Higher refinement (sold as 5x, 7x and so on) means fewer impurities to clog the jet, which matters most for torch lighters. Avoid unbranded, unrefined cans.
 
 **How long does a refill last?** It depends on the lighter and how you use it. See [how long a gas lighter lasts](/a-gas-lighter-last-how-long/) for typical numbers.

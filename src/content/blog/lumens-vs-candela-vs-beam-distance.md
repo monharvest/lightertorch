@@ -2,6 +2,7 @@
 title: 'Lumens vs Candela vs Beam Distance: What Flashlight Specs Mean'
 description: 'Lumens measure total light, candela measures the beam, lux measures what lands. The simple math linking all three — and why 2,000 lumens can throw less than 500.'
 pubDate: '2026-08-14'
+updatedDate: '2026-10-10'
 heroImage: '/uploads/2026/08/flashlight-beam-comparison-flood-vs-throw.webp'
 categories: ['Buying Guides']
 tags: ['lumens', 'candela', 'lux', 'beam distance', 'ANSI FL1', 'throw', 'flood']
@@ -19,7 +20,7 @@ Picture a bucket of water.
 - **Candela (cd)** = how tightly you're aiming it. Water through a hose nozzle versus water tipped out. Same volume, completely different reach.
 - **Lux (lx)** = how wet the target gets. Light per square metre arriving at a surface.
 
-Formally: a lumen is total luminous flux. A candela is luminous intensity — lumens per unit of solid angle, in one direction. A lux is one lumen spread over one square metre.
+Formally: a lumen is total luminous flux. A candela is luminous intensity (it's one of the seven [SI base units, maintained in the US by NIST](https://www.nist.gov/si-redefinition/candela)) — lumens per unit of solid angle, in one direction. A lux is one lumen spread over one square metre.
 
 The relationship people never get taught:
 
@@ -46,7 +47,7 @@ This is why throwers are long and fat at the head, and floodlights are short and
 
 ## The ANSI FL1 Standard, and What It Hides
 
-Reputable manufacturers publish specs to **ANSI/NEMA FL1**, which is why you see the same set of icons on flashlight packaging. Four numbers matter:
+Reputable manufacturers publish specs to **ANSI/PLATO FL1** (originally [published as ANSI/NEMA FL1](https://inside.safariland.com/blog/ansi-plato-fl%E2%80%911-standard-guide-to-flashlight-performance/) and now run by the Portable Lights American Trade Organization), which is why you see the same set of icons on flashlight packaging. Four numbers matter:
 
 **Beam distance (m).** Defined as the distance at which the light produces **0.25 lux** — roughly the illumination of a clear full moon. From `lux = cd/d²`:
 

@@ -2,7 +2,7 @@
 title: 'Zippo Gift Guide: The Best Zippo Lighters for Every Budget (2026)'
 description: 'The best Zippo lighters to give, from $15 classics to engraved keepsakes — organized by budget, with the add-ons (butane insert, fluid, flints) that complete the gift.'
 pubDate: '2026-08-02'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-10'
 heroImage: '/uploads/2026/08/zippo-gift-wrapped-present.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
@@ -53,6 +53,10 @@ Pair any lighter with fluid + flints and you've built a complete "Zippo starter 
 **Can they travel with it?** In a pocket or carry-on, yes (one lighter). Rules and exceptions in [our TSA guide](/can-you-bring-a-lighter-on-a-plane/).
 
 **Can I mail a Zippo as a gift?** Yes, if it has never been filled, which is how it arrives from Zippo. A lighter that contains fuel can't go in the mail without prior written approval from USPS, and it can never be mailed internationally ([USPS rules](https://pe.usps.com/text/pub52/pub52apxc_012.htm)). Have the fluid delivered separately.
+
+**Does a Zippo come filled with fuel?** No. [Zippo ships every windproof lighter without fuel](https://kb.zippo.com/shipping-policies), so it won't light out of the box. Add a can of fluid (and spare flints) to the gift, or the recipient's first evening with it ends in a trip to the store.
+
+**How can I tell a real Zippo from a fake?** Look at the bottom of the case. Genuine Zippos have carried a stamped date code since the 1950s; [Zippo's current system](https://kb.zippo.com/zippo-lighter/date-codes) is a letter from A to L for the month plus two digits for the year. A missing, blurry or nonsensical stamp is a red flag. The simplest protection is to buy from Zippo, an authorized dealer, or a listing sold by Zippo itself.
 
 **Non-smoker recipient — still a good gift?** Often the *best* recipient: candles, camp stoves, fireplaces, grills, emergency kits, or purely as a pocket piece. The click is universal.
 

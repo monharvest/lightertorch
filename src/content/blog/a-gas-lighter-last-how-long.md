@@ -1,6 +1,6 @@
 ---
-title: 'How Long Does a BIC Lighter Last? (And Do Lighters Expire?)'
-description: 'A full-size BIC is built for about 3,000 lights — months for a daily smoker, years for occasional use. What that means in practice, and why lighters do not expire.'
+title: 'How Long Does a BIC Lighter Last? (3,000 Lights, No Expiry)'
+description: "A full-size BIC is rated for about 3,000 lights: roughly five months for a daily smoker, years for occasional use. Lighters don't expire. Here's what wears out."
 pubDate: '2021-05-21'
 updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/disposable-lighters-fuel-levels-row.webp'
