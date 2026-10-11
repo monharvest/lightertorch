@@ -2,7 +2,7 @@
 title: 'Zippo Gift Guide: The Best Zippo Lighters to Give (2026)'
 description: "The best Zippo lighters to give this holiday season, from the classic Street Chrome to engraved keepsakes, plus the fluid and flints that complete the gift."
 pubDate: '2026-08-02'
-updatedDate: '2026-10-10'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/zippo-gift-wrapped-present.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
@@ -38,9 +38,11 @@ A bare Zippo arrives *unfueled*: because of carrier restrictions, [Zippo ships e
 |---|---|
 | [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) | The lighter is a paperweight without it |
 | [Flints + wicks](https://www.amazon.com/s?k=zippo+flints+wicks&tag=lightertorch-20) | A few dollars; years of maintenance covered |
-| [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)) |
+| [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)); see [which insert to pick](/butane-vs-lighter-fluid-zippo-insert/) |
 
 Pair any lighter with fluid + flints and you've built a complete "Zippo starter kit" without spending much more than the lighter itself.
+
+Buying for someone who would rather carry a light than a flame? Our [best keychain flashlights](/best-keychain-flashlights/) and [best EDC flashlights](/best-edc-flashlights-under-50/) make good stocking stuffers.
 
 ## Zippo Gift FAQ
 
@@ -58,7 +60,7 @@ Pair any lighter with fluid + flints and you've built a complete "Zippo starter 
 
 **How can I tell a real Zippo from a fake?** Look at the bottom of the case. Genuine Zippos have carried a stamped date code since the 1950s; [Zippo's current system](https://kb.zippo.com/zippo-lighter/date-codes) is a letter from A to L for the month plus two digits for the year. A missing, blurry or nonsensical stamp is a red flag. The simplest protection is to buy from Zippo, an authorized dealer, or a listing sold by Zippo itself.
 
-**Non-smoker recipient — still a good gift?** Often the *best* recipient: candles, camp stoves, fireplaces, grills, emergency kits, or purely as a pocket piece. The click is universal.
+**Non-smoker recipient — still a good gift?** Often the *best* recipient: candles, camp stoves, fireplaces, grills, emergency kits, or purely as a pocket piece. The click is universal. If they mainly light candles, an [electric candle lighter](/best-candle-lighters/) may be the more useful gift.
 
 ---
 

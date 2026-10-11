@@ -2,7 +2,7 @@
 title: 'The Best Flashlights on Amazon (2026): 7 Picks Compared'
 description: 'The best flashlight on Amazon for most people is the Fenix PD36R Pro. Seven picks compared on maker specs: lumens, battery, waterproofing and best use.'
 pubDate: '2025-05-17'
-updatedDate: '2026-10-10'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/brightest-torch-lineup-bench.webp'
 categories: ['Buying Guides']
 tags: ['best flashlight on Amazon', 'Amazon flashlights', 'Fenix', 'Nitecore', 'Acebeam', 'Olight', 'flashlight buying guide']
@@ -154,11 +154,11 @@ A cheap light can still be fine for a kitchen drawer. Just don't pay for a numbe
 
 **Lumens.** For finding things around the house, 100–500 lumens is plenty. Trails and campsites benefit from more, and search work from 1,000 or more. More output means shorter runtime and more heat. Our guide to [how many lumens a flashlight should have](/how-many-lumens-should-flashlight-have-2/) breaks it down by task.
 
-**Beam distance vs. flood.** A "thrower" like the Javelot puts its light in a tight, far-reaching spot. A "flooder" like the P20iX lights a wide area close by. Most people are better served by something in between, like the PD36R Pro.
+**Beam distance vs. flood.** A "thrower" like the Javelot puts its light in a tight, far-reaching spot. A "flooder" like the P20iX lights a wide area close by. Most people are better served by something in between, like the PD36R Pro. The specs behind this are explained in [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/).
 
-**Battery.** A removable 21700 (PD36R Pro, PD36 TAC) gives the best runtime and lets you carry a spare. Lights that take common cells (AAs in the TAC 2AA, CR123As in the P20iX) are the safest bet for emergency kits. Built-in batteries (EDC27 UHi, EDC31) are the most convenient to charge, but the light only lasts as long as the battery does. Nitecore's i-series cell in the P20iX ties you to one brand for spares.
+**Battery.** A removable 21700 (PD36R Pro, PD36 TAC) gives the best runtime and lets you carry a spare. Lights that take common cells (AAs in the TAC 2AA, CR123As in the P20iX) are the safest bet for emergency kits (more in our [power outage flashlight guide](/best-flashlights-for-power-outages/)). Built-in batteries (EDC27 UHi, EDC31) are the most convenient to charge, but the light only lasts as long as the battery does. Nitecore's i-series cell in the P20iX ties you to one brand for spares.
 
-**Water rating.** IP54 means splash-resistant. IPX7 or IP67 means it survives brief immersion (1 m for 30 minutes). IPX8 or IP68 means deeper immersion, to a depth the maker states: 2 m for most lights here. For camping, fishing or boating, get at least IPX7.
+**Water rating.** IP54 means splash-resistant. IPX7 or IP67 means it survives brief immersion (1 m for 30 minutes). IPX8 or IP68 means deeper immersion, to a depth the maker states: 2 m for most lights here. For camping, fishing or boating, get at least IPX7; our [camping flashlight picks](/best-camping-flashlights/) all clear that bar. How the ratings are actually tested is in our [durable flashlight guide](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
 
 **Size and switch.** A tail switch you can press through a glove is best for work and tactical use. A pocket clip and a lockout mode matter more for everyday carry.
 
@@ -170,7 +170,7 @@ A cheap light can still be fine for a kitchen drawer. Just don't pay for a numbe
 
 **Are more lumens always better in a flashlight?** No. Higher output drains the battery faster, makes more heat and usually steps down within minutes. Indoors, 100–500 lumens is plenty; 4,000 lumens earns its keep outdoors or in a search.
 
-**What's the difference between a tactical flashlight and a regular flashlight?** Tactical lights put a momentary-on tail switch and instant strobe first, often with a simplified mode (like the PD36 TAC's Tactical setting), a strike bezel and holster or weapon mounts. Regular lights focus on brightness levels and runtime. Many modern lights, including the PD36R Pro, do both.
+**What's the difference between a tactical flashlight and a regular flashlight?** Tactical lights put a momentary-on tail switch and instant strobe first, often with a simplified mode (like the PD36 TAC's Tactical setting), a strike bezel and holster or weapon mounts. Regular lights focus on brightness levels and runtime. Many modern lights, including the PD36R Pro, do both. For what officers actually carry, see [what flashlights police use](/what-flashlights-do-police-use/).
 
 **How long do rechargeable flashlight batteries last?** Per charge, it depends on the mode: minutes at Turbo, days on the lowest setting (the P20iX is rated for up to 350 hours). Over the years, lithium-ion cells slowly lose capacity. A light with a removable cell just takes a fresh battery; one with a built-in battery can't.
 

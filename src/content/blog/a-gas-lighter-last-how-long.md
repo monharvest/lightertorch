@@ -2,7 +2,7 @@
 title: 'How Long Does a BIC Lighter Last? (3,000 Lights, No Expiry)'
 description: "A full-size BIC is rated for about 3,000 lights: roughly five months for a daily smoker, years for occasional use. Lighters don't expire. Here's what wears out."
 pubDate: '2021-05-21'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/disposable-lighters-fuel-levels-row.webp'
 categories: ['How-to Guides', 'Safety Tips']
 tags: ['BIC lighter', 'butane', 'lighter lifespan', 'storage', 'do lighters expire', 'Zippo']
@@ -59,7 +59,7 @@ Two practical rules for anything you're stockpiling — emergency kits, camping 
 | **Zippo-style wick** | Naphtha fluid | ~1–2 weeks per fill | **Empties itself in ~2 weeks** |
 | **Electric arc** | None (USB) | ~100–300 lights per charge | Cell ages over 2–3 years |
 
-The Zippo row is the one that surprises people. Naphtha evaporates through the wick and the case seam continuously, so a Zippo sitting untouched in a drawer runs dry in a fortnight. It's not a flaw — it's the cost of the open-wick design — but it makes a Zippo a poor choice for a glovebox or an emergency kit. Our [Zippo repair and care guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/) covers refuelling and what the lifetime guarantee does and doesn't cover.
+The Zippo row is the one that surprises people. Naphtha evaporates through the wick and the case seam continuously, so a Zippo sitting untouched in a drawer runs dry in a fortnight. It's not a flaw — it's the cost of the open-wick design — but it makes a Zippo a poor choice for a glovebox or an emergency kit. A [butane insert](/butane-vs-lighter-fluid-zippo-insert/) stops the evaporation, though it carries a two-year warranty instead of the lifetime guarantee. Our [Zippo repair and care guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/) covers refuelling and what the lifetime guarantee does and doesn't cover.
 
 An [arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) is the opposite trade: nothing to evaporate or leak, so it holds a charge for months, but the internal cell has a finite number of charge cycles and can't usually be replaced. We compare all three head to head in [Zippo vs BIC vs arc lighter](/zippo-vs-bic-vs-arc-lighter/).
 
@@ -87,7 +87,7 @@ This article previously repeated some of these, so it's worth being blunt about 
 - **Buy multipacks and keep them cool.** Disposables are cheapest per light in bulk, and a drawer at room temperature is the best storage you have.
 - **Turn the flame down** if the lighter has an adjuster.
 - **Light and release** rather than holding the flame.
-- **Use the right tool for long jobs.** Lighting a fireplace or a stubborn grill with a pocket disposable wastes fuel and singes fingers. A long-reach lighter or an arc lighter does it faster — see [best arc lighters for camping](/best-arc-lighters-for-camping/).
+- **Use the right tool for long jobs.** Lighting a fireplace or a stubborn grill with a pocket disposable wastes fuel and singes fingers. A long-reach lighter or an arc lighter does it faster — see [best arc lighters for camping](/best-arc-lighters-for-camping/), or our [candle lighter guide](/best-candle-lighters/) for long-reach models.
 - **Keep one that doesn't depend on fuel at all** in your emergency kit. It's the same logic as keeping a backup light in a [blackout kit](/best-flashlights-for-power-outages/).
 
 Curious what's actually inside the thing? [Inside a gas lighter](/inside-of-a-gas-lighter/) breaks down the tank, valve, flint and piezo mechanism.
@@ -100,7 +100,7 @@ Curious what's actually inside the thing? [Inside a gas lighter](/inside-of-a-ga
 
 **How long do lighters last in storage?** A disposable kept cool and dry commonly still works after five to ten years. Heat is the enemy: a lighter stored in a hot car or in direct sun loses fuel far faster.
 
-**How long does a Zippo last compared to a BIC?** Very differently. A Zippo holds fuel for only one to two weeks because naphtha evaporates continuously, but the lighter itself lasts a lifetime and is repaired free by Zippo. A BIC holds fuel for years but is disposable.
+**How long does a Zippo last compared to a BIC?** Very differently. A Zippo holds fuel for only one to two weeks because naphtha evaporates continuously, but the lighter itself lasts a lifetime and is repaired free by Zippo, which is why it makes such a durable gift ([Zippo gift guide](/zippo-gift-guide/)). A BIC holds fuel for years but is disposable.
 
 **Can you refill a BIC lighter?** Not practically. There's no fill valve and the flint is under a crimped hood. Buy a refillable butane lighter if you want to refill.
 

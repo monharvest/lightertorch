@@ -2,7 +2,7 @@
 title: "Why Does a Lighter Shock You? Is It Dangerous? (4 Causes)"
 description: "A lighter's piezo zap is 10,000+ volts but lasts microseconds, so it stings without harming you. The 4 causes, and the one that needs fixing: your stove."
 pubDate: '2021-05-21'
-updatedDate: '2026-10-10'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'
 categories: ['Safety Tips']
 tags: ['gas lighter', 'piezo igniter', 'electric shock', 'kitchen safety', 'gas stove']
@@ -52,9 +52,9 @@ Two sensible exceptions. If you have an **implanted cardiac device** (pacemaker 
 
 - **Dry your hands and the lighter** before use. Moisture is the single biggest amplifier of a piezo zap.
 - **Hold the plastic, not the metal.** Grip the insulated body, keep fingers well back from the tip.
-- **Replace a lighter that has started shocking you.** A split high-voltage wire only gets worse, and a replacement costs less than a coffee. [Browse refillable gas lighters →](https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20)
+- **Replace a lighter that has started shocking you.** A split high-voltage wire only gets worse, and a replacement costs less than a coffee. [Browse refillable gas lighters →](https://www.amazon.com/s?k=refillable+gas+lighter&tag=lightertorch-20) A refillable one is easy to keep going: here's [how to refill a butane lighter](/filling-up-a-gas-lighter/).
 - **Wipe spills off the cooktop.** Liquid reaching the ignition wiring causes both phantom clicking and real shocks on electric-ignition ranges.
-- **Switch to an arc lighter.** Rechargeable [electric arc lighters](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) are fully enclosed, have no exposed high-voltage electrode near your grip, and cut out the moment the arc is interrupted. They're windproof and refuel-free too — see our [best arc lighters guide](/best-arc-lighters-for-camping/) and how they stack up in [Zippo vs BIC vs arc](/zippo-vs-bic-vs-arc-lighter/).
+- **Switch to an arc lighter.** Rechargeable [electric arc lighters](https://www.amazon.com/s?k=electric+arc+lighter+rechargeable&tag=lightertorch-20) are fully enclosed, have no exposed high-voltage electrode near your grip, and cut out the moment the arc is interrupted. They're windproof and refuel-free too — see our [best arc lighters guide](/best-arc-lighters-for-camping/) and how they stack up in [Zippo vs BIC vs arc](/zippo-vs-bic-vs-arc-lighter/). For candles and the stovetop, the long-neck models in our [candle lighter guide](/best-candle-lighters/) keep your hand well back from the flame.
 
 ## FAQ
 

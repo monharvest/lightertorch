@@ -2,7 +2,7 @@
 title: 'How Many Volts Is a Gas Lighter? (10,000–20,000 V)'
 description: "A gas lighter's piezo spark is about 10,000–20,000 volts, yet it can't hurt you: it lasts microseconds and carries almost no energy. Where it comes from."
 pubDate: '2021-05-21'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'
 categories: ['How-to Guides']
 tags: ['gas lighter', 'piezo igniter', 'voltage', 'spark', 'gas stove']
@@ -10,7 +10,7 @@ tags: ['gas lighter', 'piezo igniter', 'voltage', 'spark', 'gas stove']
 
 **Quick answer:** Roughly **10,000 to 20,000 volts**. You can work it out from the spark itself. Dry air breaks down at about [3,000 volts per millimetre](https://hypertextbook.com/facts/2000/AliceHong.shtml), and a push-button gas lighter's spark jumps a gap of a few millimetres, so it needs at least 10,000 volts to get across. It still can't hurt you, because the pulse lasts microseconds and carries very little energy.
 
-That covers the push-button lighters that use a piezo igniter: most kitchen spark lighters, torch lighters and grill buttons. A flint-wheel lighter like a BIC makes sparks by friction instead, so it has no voltage at all.
+That covers the push-button lighters that use a piezo igniter: most kitchen spark lighters, torch lighters and grill buttons. A flint-wheel lighter like a BIC makes sparks by friction instead, so it has no voltage at all. How the main lighter types compare is in [Zippo vs BIC vs arc lighter](/zippo-vs-bic-vs-arc-lighter/).
 
 ## Where the Voltage Comes From
 
@@ -61,10 +61,10 @@ For the full anatomy of each type, see [how does a lighter work?](/inside-of-a-g
 
 **Can a gas lighter spark kill you?** No. It's high voltage but carries so little charge, for such a short time, that it can only sting. The shock to take seriously is one from a mains-powered appliance.
 
-**Does a gas lighter need a battery?** A piezo one doesn't. The crystal makes the voltage from the hammer blow, so it never needs charging. Arc lighters are the ones with batteries.
+**Does a gas lighter need a battery?** A piezo one doesn't. The crystal makes the voltage from the hammer blow, so it never needs charging. Arc lighters, including most [electric candle lighters](/best-candle-lighters/), are the ones with batteries.
 
 **How many volts is a grill igniter?** Grill push-button igniters use the same piezo mechanism, so they're in the same range: roughly 10,000–20,000 volts, enough to jump a gap of several millimetres.
 
-**Why does the spark sometimes miss the gas?** Either the gap is too wide or dirty for the pulse to jump reliably, or the gas-air mix at the spark point is too rich or too lean. On a stove, a misaligned burner cap is the usual cause.
+**Why does the spark sometimes miss the gas?** Either the gap is too wide or dirty for the pulse to jump reliably, or the gas-air mix at the spark point is too rich or too lean. On a stove, a misaligned burner cap is the usual cause. If a handheld lighter sparks but won't catch, see [how to fix a lighter that won't light](/fixing-a-lighter/).
 
 **Why is it called a piezo lighter?** From piezoelectricity, the property some crystals have of producing a voltage when squeezed. "Piezo" comes from the Greek word for press.
