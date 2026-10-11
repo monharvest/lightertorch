@@ -1,8 +1,8 @@
 ---
-title: 'How to Refill a Butane Lighter (Step by Step, Plus Fixes)'
-description: "To refill a butane lighter, bleed it, flip the can, fill in 5-second bursts and wait two minutes. Torch and Zippo refills, plus fixes if it won't light."
+title: "How to Refill a Butane Lighter: 8 Steps + Won't-Light Fixes"
+description: "How to fill a butane lighter the right way: bleed it, hold the can upside down, fill in 5-second bursts, wait 2 minutes. Torch, Zippo and won't-light fixes."
 pubDate: '2021-05-21'
-updatedDate: '2026-10-10'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/09/butane-refill-kit-still-life.webp'
 categories: ['How-to Guides']
 tags: ['butane lighter', 'refilling', 'torch lighter', 'butane', 'Zippo', 'lighter maintenance']
@@ -56,7 +56,7 @@ It depends on which insert is inside.
 
 **Butane insert:** fill it as above. Zippo's own instructions are to hold the insert upside down, fill for 5–6 seconds, briefly press the valve to release trapped air, fill again for 5–6 seconds, then [wait at least two minutes](https://kb.zippo.com/butane-lighter-inserts) before lighting. Our [butane vs lighter fluid insert guide](/butane-vs-lighter-fluid-zippo-insert/) covers which insert to buy.
 
-**Classic fluid insert:** this one takes [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20), never butane. Pull the insert out of the case and flip it over, lift the felt pad, and slowly saturate the cotton. [Zippo says to stop](https://kb.zippo.com/zippo-lighter/fill) when the fuel reaches the top of the packing. Wipe the lighter and your hands dry before you strike it. More in [can a Zippo explode?](/can-a-zippo-explode/) and our [Zippo care guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).
+**Classic fluid insert:** this one takes [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20), never butane. Pull the insert out of the case and flip it over, lift the felt pad, and slowly saturate the cotton (the full routine is in [how to refill a Zippo safely](/can-a-zippo-explode/#how-to-refill-a-zippo-safely)). [Zippo says to stop](https://kb.zippo.com/zippo-lighter/fill) when the fuel reaches the top of the packing. Wipe the lighter and your hands dry before you strike it. More in [can a Zippo explode?](/can-a-zippo-explode/) and our [Zippo care guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).
 
 ## Can You Refill a BIC?
 
@@ -70,6 +70,10 @@ No. BIC says all of its lighters are [designed to be non-refillable](https://nam
 - **Store cans cool.** A butane can is a pressurized container. Keep it out of hot cars and direct sun, and out of children's reach.
 
 ## FAQ
+
+**How do you fill a butane lighter?** Turn the flame to minimum, bleed the old gas out of the valve, then hold the lighter upside down and press an upside-down can of refined butane onto the valve for 5–6 seconds, two or three times. Wipe off any spilled fuel and wait at least two minutes before lighting. "Filling" and "refilling" are the same job: the steps above work for a new lighter and an empty one.
+
+**How do you refill a butane torch lighter?** The same way, with the ignition lock on. Torch jets are tiny and clog easily, so use well-refined butane and always bleed first. If the flame sputters afterwards, give it a few more minutes to warm up before you assume the jet is blocked.
 
 **How long do you hold butane in a lighter?** About 5–6 seconds per burst, which is what Zippo specifies for its butane inserts. Two or three bursts fill most lighters. When butane spits back out around the nozzle, it's full.
 
