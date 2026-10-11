@@ -1,6 +1,6 @@
 ---
 title: '$20 vs $100 Flashlight: What You Actually Get for the Money'
-description: 'Where the extra $80 really goes when you buy a premium flashlight: honest lumens, regulated drivers, safe batteries, real waterproofing — and when the cheap light is genuinely enough.'
+description: "Where the extra money goes in a premium flashlight: honest lumens, regulated drivers, safe batteries, real waterproofing, and when a cheap light is enough."
 pubDate: '2026-08-02'
 updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/cheap-vs-premium-flashlight-workbench.webp'

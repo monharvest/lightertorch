@@ -1,5 +1,5 @@
 ---
-title: 'Privacy Policy'
+title: "Privacy Policy: How LighterTorch Handles Your Data"
 description: 'Privacy Policy At LighterTorch.com, we value your privacy and are committed to safeguarding your personal information. This Privacy Policy outlines the types...'
 pubDate: '2021-05-10'
 categories: []

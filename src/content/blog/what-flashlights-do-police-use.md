@@ -1,6 +1,6 @@
 ---
-title: 'What Flashlights Do Police Use? Brands, Lumens & Best Picks (US & UK)'
-description: 'Police officers rely on tactical flashlights from Streamlight, SureFire, and LED Lenser, typically 800–1,200 lumens. See what US and UK police carry and the best civilian equivalents.'
+title: "What Flashlights Do Police Use? Brands, Lumens & Best Picks"
+description: "Police carry tactical flashlights from Streamlight, SureFire and LED Lenser, typically 800–1,200 lumens. What US and UK officers use, and civilian equivalents."
 pubDate: '2026-08-01'
 updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/police-officer-flashlight-night-patrol.webp'

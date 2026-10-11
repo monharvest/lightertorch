@@ -1,6 +1,6 @@
 ---
-title: 'Can You Bring a Lighter or Flashlight on a Plane? TSA Rules Explained (2026)'
-description: 'TSA rules for lighters and flashlights: one disposable or Zippo in carry-on is fine, torch lighters are banned everywhere, and spare lithium batteries must fly in the cabin. Full rules table inside.'
+title: "Can You Bring a Lighter on a Plane? TSA & FAA Rules (2026)"
+description: "TSA rules for lighters and flashlights: one disposable or Zippo in carry-on is fine, torch lighters are banned, spare lithium batteries fly in the cabin."
 pubDate: '2026-08-01'
 updatedDate: '2026-09-27'
 heroImage: '/uploads/2026/08/lighter-flashlight-airport-security-tray.webp'

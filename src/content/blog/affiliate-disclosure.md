@@ -1,5 +1,5 @@
 ---
-title: 'Affiliate Disclosure'
+title: "Affiliate Disclosure: How LighterTorch Earns Money"
 description: 'LighterTorch.com participates in the Amazon Services LLC Associates Program. Learn how affiliate links on this site work and how they support our content.'
 pubDate: '2022-07-25'
 categories: []

@@ -1,6 +1,6 @@
 ---
 title: 'Zippo Gift Guide: The Best Zippo Lighters to Give (2026)'
-description: 'The best Zippo lighters to give, from the classic Street Chrome to engraved keepsakes, grouped by recipient, plus the fluid and flints that complete the gift.'
+description: "The best Zippo lighters to give this holiday season, from the classic Street Chrome to engraved keepsakes, plus the fluid and flints that complete the gift."
 pubDate: '2026-08-02'
 updatedDate: '2026-10-10'
 heroImage: '/uploads/2026/08/zippo-gift-wrapped-present.webp'

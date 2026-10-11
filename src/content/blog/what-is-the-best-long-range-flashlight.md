@@ -1,5 +1,5 @@
 ---
-title: 'Best Long Range Flashlights: Longest Beam, Strongest & Most Powerful Picks'
+title: "Best Long Range Flashlights: Longest Beam & Most Powerful"
 description: 'The best long range flashlights compared: Olight Javelot Turbo 2 (1,500 m), Astrolux MF05 (3,162 m), Fenix PD36R V2.0 and more, and which one to buy.'
 pubDate: '2026-08-01'
 updatedDate: '2026-09-27'

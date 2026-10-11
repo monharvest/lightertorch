@@ -1,5 +1,5 @@
 ---
-title: 'How Many Lumens Should a Flashlight Have? (Real Numbers by Use)'
+title: "How Many Lumens Should a Flashlight Have? Real Numbers by Use"
 description: 'How many lumens do you need in a flashlight? 20–100 for the house, 200–500 for walks and trails, 1,000+ for searching, and why runtime matters more.'
 pubDate: '2025-01-20'
 updatedDate: '2026-09-28'

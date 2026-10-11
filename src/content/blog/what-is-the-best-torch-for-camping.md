@@ -1,5 +1,5 @@
 ---
-title: 'What Is the Best Torch for Camping? Headlamp vs Handheld vs Lantern'
+title: "Best Torch for Camping: Headlamp vs Handheld vs Lantern"
 description: 'The best camping torch depends on the job, not the lumen count. How headlamps, handhelds and lanterns differ — and the two-light setup most campers should own.'
 pubDate: '2021-05-31'
 updatedDate: '2026-09-27'

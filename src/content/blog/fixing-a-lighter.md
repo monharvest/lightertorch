@@ -1,5 +1,5 @@
 ---
-title: "How to Fix a Lighter That Won't Light (Butane, Zippo & Disposables)"
+title: "How to Fix a Lighter That Won't Light (Butane, Zippo, BIC)"
 description: 'Most dead lighters are fixed in two minutes. Bleed the tank, clear the jet, change the flint — plus the faults that mean you should bin it instead.'
 pubDate: '2021-05-21'
 updatedDate: '2026-09-27'

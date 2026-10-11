@@ -1,5 +1,5 @@
 ---
-title: 'Best USB-C Rechargeable Flashlights (2026): Picks and What to Check'
+title: "Best USB-C Rechargeable Flashlights (2026), Compared"
 description: 'The best USB-C rechargeable flashlights for EDC, home, camping and max output, plus what to check: charge time, battery type, power-bank mode, sealing.'
 pubDate: '2025-07-18'
 updatedDate: '2026-09-28'

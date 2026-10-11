@@ -1,5 +1,5 @@
 ---
-title: 'Can a Zippo Explode? Safety, Risks & Care Guide'
+title: "Can a Zippo Explode? Hot Cars, Pockets & the Real Risks"
 description: "A Zippo holds no pressurized gas, so it's far less likely to explode than a disposable. The real risks, the myths, and how to use and refill one safely."
 pubDate: '2026-08-01'
 updatedDate: '2026-10-10'

@@ -1,5 +1,5 @@
 ---
-title: 'About LighterTorch'
+title: "About LighterTorch: Who We Are and How We Research"
 description: 'Who writes LighterTorch, what we cover, how we research flashlight and lighter guides, how the site earns money, and how to report a mistake.'
 pubDate: '2025-02-07'
 updatedDate: '2026-09-28'
