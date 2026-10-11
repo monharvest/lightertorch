@@ -19,7 +19,7 @@ How we picked: we haven't bench-tested these lights. Each one is compared on its
 | Flashlight | Best for | Max output | Low mode (runtime) | Battery | Weight | Water rating |
 |---|---|---|---|---|---|---|
 | [Fenix PD36R V2.0](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20) | Car camping, all-round | 1,700 lm | 5 lm Eco (up to 482 h) | 21700 Li-ion, USB-C | 167 g with battery | IP68 |
-| [Fenix PD36R Pro](https://www.amazon.com/s?k=fenix+pd36r+pro&tag=lightertorch-20) | Most output | 2,800 lm | Up to 42 h | 21700 Li-ion, USB-C | 169 g with battery | Submersible to 2 m |
+| [Fenix PD36R Pro](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20) | Most output | 2,800 lm | Up to 42 h | 21700 Li-ion, USB-C | 169 g with battery | Submersible to 2 m |
 | [Acebeam Pokelit AA](https://www.amazon.com/s?k=acebeam+pokelit+aa&tag=lightertorch-20) | Backpacking | 550 lm | 5 lm (58 h) | 14500 Li-ion with USB-C, or 1× AA | 54.6 g | IP68 (2 m) |
 | [Acebeam TAC 2AA](https://www.amazon.com/ACEBEAM-Flashlight-Rechargeable-Waterproof-Brightness/dp/B0DCMHQBKQ/?tag=lightertorch-20) | Around camp, lantern use | 1,600 lm (630 on NiMH AAs) | 1.6 lm (94 h); 35 lm (36 h) | Acebeam Li-ion with USB-C, or 2× AA | 106 g | IP68 (2 m, 30 min) |
 | [Nitecore P20iX](https://www.amazon.com/NITECORE-Tactical-Flashlight-Rechargeable-Waterproof/dp/B0GWNXF3WC/?tag=lightertorch-20) | Emergencies, bug-out bag | 4,000 lm | 2 lm (350 h); 50 lm (38 h) | Nitecore 21700i or 2× CR123A | 116 g | IP68 (2 m) |
@@ -41,7 +41,7 @@ The battery is a standard-size 21700 (Fenix's own 5,000 mAh cell comes in the bo
 
 **Trade-offs:** 167 g with the battery is heavy for a backpack, the tint is a cool 6,500 K, and there's no red mode. None of that matters much at a car campsite.
 
-**Want more output?** The [Fenix PD36R Pro](https://www.amazon.com/s?k=fenix+pd36r+pro&tag=lightertorch-20) pushes [2,800 lumens and a 380 m beam](https://www.fenixlighting.com/products/fenix-pd36r-pro-rechargeable-flashlight) from almost the same body (169 g). For camping it's the weaker pick: its longest rated runtime is 42 hours against the V2.0's 482, and Fenix says Turbo is locked out once the battery falls to about half. Buy it only if you really want the extra top end.
+**Want more output?** The [Fenix PD36R Pro](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20) pushes [2,800 lumens and a 380 m beam](https://www.fenixlighting.com/products/fenix-pd36r-pro-rechargeable-flashlight) from almost the same body (169 g). For camping it's the weaker pick: its longest rated runtime is 42 hours against the V2.0's 482, and Fenix says Turbo is locked out once the battery falls to about half. Buy it only if you really want the extra top end.
 
 [Check the Fenix PD36R V2.0 on Amazon →](https://www.amazon.com/s?k=fenix+pd36r&tag=lightertorch-20)
 
