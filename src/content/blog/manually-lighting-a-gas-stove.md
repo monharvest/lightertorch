@@ -2,7 +2,7 @@
 title: 'How to Light a Gas Stove Manually (Power Outage Safe Method)'
 description: 'Gas cooktops still work without electricity — if you light them in the right order. The safe step-by-step, plus why you must never do this to a gas oven.'
 pubDate: '2021-05-21'
-updatedDate: '2026-08-14'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2025/02/screenshot_2021_05_2_AEvX9.jpg-1.webp'
 categories: ['How-to Guides', 'Safety Tips']
 tags: ['gas stove', 'power outage', 'stove lighter', 'kitchen safety', 'manual ignition']
@@ -14,7 +14,7 @@ Most gas cooktops are perfectly usable in a blackout, because the gas valve is m
 
 ## Before You Strike Anything
 
-**If you can smell gas, stop.** A sulphur or rotten-egg smell means gas has already accumulated. Do not light a flame, do not flip a light switch, do not use an electric igniter — any of these can ignite it. Turn the knobs off, open windows and doors, leave the house, and call your gas utility's emergency line from outside. Go back in only when they say so.
+**If you can smell gas, stop.** A sulphur or rotten-egg smell means gas has already accumulated. Do not light a flame, do not flip a light switch, do not use an electric igniter — any of these can ignite it. Turn the knobs off, open windows and doors, leave the house, and call your gas utility's emergency line from outside. That matches [Connecticut's gas-safety regulator's advice](https://portal.ct.gov/pura/gas-pipeline-safety/what-to-do-if--you-smell-natural-gas): no matches, candles or light switches, and leave first if the smell is strong. Go back in only when they say so.
 
 Assuming the air is clear, take thirty seconds over these:
 
@@ -58,7 +58,7 @@ An [electric arc lighter](https://www.amazon.com/s?k=electric+arc+lighter+rechar
 
 This is the part most articles leave out, and it matters more than anything above.
 
-Cooktop burners have simple mechanical valves — turn the knob, gas flows. **Gas ovens built since roughly the 1990s don't work that way.** They use a glow-bar igniter wired in series with a safety valve: the valve only opens once the igniter has heated up and is drawing enough current. No electricity means no glow bar, which means no current, which means the valve stays shut.
+Cooktop burners have simple mechanical valves — turn the knob, gas flows. **Gas ovens built since roughly the 1990s don't work that way.** They use a glow-bar igniter wired in series with a safety valve: the valve only opens once the igniter has heated up and is drawing enough current. No electricity means no glow bar, which means no current, which means the valve stays shut. GE Appliances puts it plainly: in a power outage you can light the surface burners with a match, but [the oven cannot be manually lit](https://products.geappliances.com/appliance/gea-support-search-content?contentId=19226).
 
 So in an outage, a modern gas oven simply won't produce gas — and that's the safe outcome. The danger is in trying to force it. Poking a lit match into the oven cavity while turning the dial achieves nothing on a working safety valve, and on a partially failed one it can let gas accumulate in an enclosed box before it finds your flame.
 
@@ -68,7 +68,7 @@ The exception is genuinely old ovens with a **standing pilot light** — a small
 
 - **Don't leave it unattended.** A manually lit burner has no flame-failure supervision on most consumer stoves — if a draught or a boil-over kills the flame, gas keeps flowing.
 - **Keep ventilating.** Cooking on gas in a house with no power means no extractor fan, so leave a window open.
-- **Have a working CO alarm.** Battery-powered, and tested. Unvented gas cooking in a sealed room is exactly the scenario carbon monoxide alarms exist for.
+- **Have a working CO alarm.** Battery-powered, and tested. The [CPSC recommends one on every level of the home](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Carbon-Monoxide-Information-Center) and outside sleeping areas. Unvented gas cooking in a sealed room is exactly the scenario carbon monoxide alarms exist for.
 - **Don't use the cooktop for space heating.** It's a common outage mistake and a genuinely dangerous one — CO risk plus an unattended open flame.
 - **Turn burners fully off** when you're done, and check the knob is seated in the OFF detent rather than just near it.
 

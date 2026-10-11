@@ -16,7 +16,7 @@ Let's open both up and see where the $80 goes.
 
 Search Amazon for flashlights and you'll find $18 lights claiming "990,000 lumens" next to a $100 Fenix rated at 1,700. The cheap light is not 580× brighter — it's lying, and the premium one is measured. That single difference explains most of the price gap:
 
-- **ANSI FL1 ratings.** Reputable brands (Fenix, Olight, Streamlight, Nitecore — [compared here](/olight-vs-fenix-vs-streamlight/)) publish output, runtime, beam distance, and impact resistance measured to the ANSI FL1 standard. No-name lights print whatever number sells. We tore into one of these claims in our [Sunitact "990,000 lumen" review](/sunitact-flashlights-high-lumens-review/).
+- **ANSI FL1 ratings.** Reputable brands (Fenix, Olight, Streamlight, Nitecore — [compared here](/olight-vs-fenix-vs-streamlight/)) publish output, runtime, beam distance, and impact resistance measured to the [ANSI/PLATO FL 1 standard](https://www.streamlight.com/resources/learning/ansi-information). No-name lights print whatever number sells. We tore into one of these claims in our [Sunitact "990,000 lumen" review](/sunitact-flashlights-high-lumens-review/).
 - **Turbo honesty.** Premium lights tell you turbo lasts 2 minutes before stepping down; cheap lights just dim quietly and hope you don't notice.
 
 ## Where the $80 Actually Goes
@@ -26,7 +26,7 @@ Search Amazon for flashlights and you'll find $18 lights claiming "990,000 lumen
 | LED emitter | Unbranded, cool blue tint, uneven beam | Name-brand (Cree, Luminus), tested bin, clean beam |
 | Driver circuit | Direct drive — dims as the battery drains | Regulated — constant brightness until near-empty |
 | Battery | Unprotected cell of unknown origin, or 3×AAA | Protected, branded 18650/21700, USB-C charging |
-| Waterproofing | "Waterproof" (a word) | IPX8/IP68 (a test) |
+| Waterproofing | "Waterproof" (a word) | IPX8/IP68 ([a test](https://keystonecompliance.com/ipx7-ipx8-water-immersion/)) |
 | Body & threads | Thin aluminum, dry threads, sharp edges | HA-III anodizing, greased square threads, glass lens |
 | Modes & UI | Strobe you can't skip, forgets your last mode | Mode memory, lockout, moonlight mode |
 | Warranty | The return window | Limited lifetime, real support |

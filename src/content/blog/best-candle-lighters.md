@@ -2,6 +2,7 @@
 title: "Best Candle Lighters: Electric, Butane & Long-Reach Compared"
 description: "Which candle lighter suits your candles: rechargeable electric arc, refillable butane or long-reach utility? Types, safety features and what to check first."
 pubDate: '2026-08-24'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/candle-lighter-flexible-neck-jar-candle.webp'
 categories: ['Buying Guides']
 tags: ['candle lighter', 'electric lighter', 'butane lighter', 'utility lighter', 'home safety']
@@ -35,7 +36,7 @@ The familiar plastic wand lighter. Cheap, available everywhere, and completely a
 
 **Neck length and flexibility.** This is the single specification that decides whether a candle lighter is pleasant or annoying to own. Measure your deepest jar candle before buying. A rigid short neck cannot reach a wick that has burned down inside a tall vessel, and that is exactly when you most need the tool.
 
-**Child-resistant lock.** Any lighter kept in a kitchen drawer should have one. It's a small daily inconvenience and the reason the drawer is safe.
+**Child-resistant lock.** Any lighter kept in a kitchen drawer should have one. In the US, [CPSC rules](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Lighters) require multi-purpose lighters (the long-reach kind used for candles and grills) to have a child-resistant mechanism that resets after every use. It's a small daily inconvenience and the reason the drawer is safe.
 
 **Battery indicator (electric models).** Without one you discover the battery is flat at the moment you want light. A four-LED indicator is more useful than a single blinking light.
 
@@ -65,6 +66,8 @@ Before blaming the tool, check the candle. A wick trimmed too short sits below t
 Tunnelling causes the same complaint. If a candle has burned a narrow shaft down the middle, the wick ends up recessed deep inside a wax wall, and only a long flexible neck will reach it at all. That's the situation that sells more candle lighters than any other, and it's worth knowing it's a candle-burning issue rather than a lighter issue — the first burn should be long enough to melt the wax all the way to the edge.
 
 ## Safety and Storage
+
+The candle is a bigger fire risk than the lighter. US fire departments respond to an estimated [5,894 home fires a year started by candles](https://www.nfpa.org/education-and-research/home-fire-safety/candles), and over half begin when something flammable sits too close to the flame, so keep lit candles well clear of curtains and décor.
 
 Keep any lighter away from heat sources and out of direct sun — that applies to butane and to lithium batteries alike, for different reasons. Store them where children can't reach them even with the child lock engaged, and don't leave a lighter sitting on a warm hob or a sunny windowsill. If a butane lighter stops working after a refill, it's usually an air lock rather than a fault; [bleeding and refilling it properly](/fixing-a-lighter/) fixes most of them.
 

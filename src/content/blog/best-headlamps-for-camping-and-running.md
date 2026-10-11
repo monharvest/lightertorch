@@ -53,7 +53,7 @@ Otherwise it's a well-sorted camping light: a genuine wide flood for camp tasks,
 
 ## 2. Black Diamond Spot 400-R — Best Waterproofing
 
-**IP67** is the spec that separates this one: dust-tight, and good for 1 m of immersion for 30 minutes. Most headlamps in this price band are IPX4, which means "rain, briefly." The Spot 400-R is the one you take kayaking, canyoning, or camping in a genuinely wet week.
+**IP67** is the spec that separates this one: dust-tight, and good for [1 m of immersion for 30 minutes](https://keystonecompliance.com/ipx7-ipx8-water-immersion/). Most headlamps in this price band are IPX4, which means "rain, briefly." The Spot 400-R is the one you take kayaking, canyoning, or camping in a genuinely wet week.
 
 The 400-lumen output is enough for everything short of running fast, and Black Diamond's dimming is smooth rather than stepped, so you can dial in the low output camp chores actually need. Red, green and blue night-vision modes and a lock-out round it out.
 
@@ -105,7 +105,7 @@ For technical descents at speed, this is a meaningful advantage rather than a gi
 
 **Check the tilt ratchet.** A bracket that slips under vibration is the other cause of a nodding beam. Firm detents matter more than the number of positions.
 
-**Cold weather changes the answer.** Lithium-ion capacity drops sharply below freezing, which is another argument for the Actik Core's AAA fallback — lithium primary AAAs work down to about −40 °C. Same logic applies to your fire source: butane loses pressure near freezing, so an [arc lighter](/best-arc-lighters-for-camping/) is the reliable cold-weather option.
+**Cold weather changes the answer.** Lithium-ion capacity drops sharply below freezing, which is another argument for the Actik Core's AAA fallback — lithium primary AAAs are [rated down to −40 °C](https://energizer.com/batteries/energizer-ultimate-lithium-batteries/). Same logic applies to your fire source: butane loses pressure near freezing, so an [arc lighter](/best-arc-lighters-for-camping/) is the reliable cold-weather option.
 
 ## Where a Headlamp Fits in Your Kit
 

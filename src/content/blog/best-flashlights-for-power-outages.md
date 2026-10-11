@@ -2,7 +2,7 @@
 title: 'Best Flashlights for Power Outages & Hurricane Season (2026)'
 description: "Build a blackout lighting kit that works when the grid fails: long-runtime flashlights, lanterns, headlamps and the battery plan that keeps them going."
 pubDate: '2026-08-02'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/power-outage-blackout-lantern-kit.webp'
 categories: ['Buying Guides', 'Safety Tips']
 tags: ['power outage', 'hurricane season', 'emergency flashlight', 'blackout kit', 'emergency preparedness']
@@ -44,7 +44,7 @@ The resilient setup mixes chemistries: rechargeable primaries, alkaline-powered 
 
 ![A long-neck lighter that has just lit a pillar candle in a dark kitchen during a power outage, rain on the window behind.](/uploads/2026/09/blackout-kitchen-candle-lit-by-long-lighter.webp)
 
-Candles cause a well-documented spike in house fires during every major outage — if you use them, never leave one burning unattended, and put them in real holders away from curtains. The safer modern equivalent for ambiance and ignition both: an [arc lighter](/best-arc-lighters-for-camping/) for the gas stove (most gas ranges light manually in an outage — here's [how to light a gas stove manually](/manually-lighting-a-gas-stove/)) and LED lanterns for the light. If you do stock a lighter in the kit, a fresh BIC keeps for years, as we covered in [Zippo vs BIC vs arc](/zippo-vs-bic-vs-arc-lighter/).
+Candles are a real fire risk in an outage: the National Candle Association, citing NFPA data, says [more than 20% of candle fires involving fatalities happen during a loss of power](https://candles.org/fire-safety-tips/), and the Red Cross's advice is simply to [use flashlights, not candles](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/types-of-emergencies/power-outage.html). If you use them anyway, never leave one burning unattended, and put them in real holders away from curtains. The safer modern equivalent for ambiance and ignition both: an [arc lighter](/best-arc-lighters-for-camping/) for the gas stove (most gas ranges light manually in an outage — here's [how to light a gas stove manually](/manually-lighting-a-gas-stove/)) and LED lanterns for the light. If you do stock a lighter in the kit, a fresh BIC keeps for years, as we covered in [Zippo vs BIC vs arc](/zippo-vs-bic-vs-arc-lighter/).
 
 ## The 10-Minute Storm-Kit Checklist
 

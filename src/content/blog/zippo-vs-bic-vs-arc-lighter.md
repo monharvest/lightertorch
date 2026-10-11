@@ -48,7 +48,7 @@ You lose lighters. Be honest — if a lighter's life expectancy in your pocket i
 
 ### When the Zippo wins
 
-You want a lighter you *keep*. Nothing else has the Zippo's open-a-lid-strike-once ritual, windproof soft flame, and a [repair guarantee](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/) that has honored broken lighters since 1932. It's also the strongest gift option of the three — see the [best-selling Zippos](/top-zippo-best-sellers-on-amazon-lighters-collectibles-more/) for the classic models, starting with the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20). Just accept the fluid habit (and read our [safety guide](/can-a-zippo-explode/) on filling it properly).
+You want a lighter you *keep*. Nothing else has the Zippo's open-a-lid-strike-once ritual, windproof soft flame, and a [repair guarantee](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/) (Zippo's ["it works or we fix it free" lifetime warranty](https://kb.zippo.com/warranty-repair)) that has honored broken lighters since 1932. It's also the strongest gift option of the three — see the [best-selling Zippos](/top-zippo-best-sellers-on-amazon-lighters-collectibles-more/) for the classic models, starting with the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20). Just accept the fluid habit (and read our [safety guide](/can-a-zippo-explode/) on filling it properly).
 
 ### When the arc lighter wins
 
@@ -72,4 +72,4 @@ The honest recommendation for most households is two lighters, not one: an [arc 
 
 **Why does my arc lighter click but not light things?** The arc needs direct contact with something thin and dry — tinder, a wick, paper edge. It has far less reach than a flame; that's the design trade-off.
 
-**Which is safest?** All three are safe used sensibly. The arc has no fuel to leak, the BIC has child-resistant wheels, and the Zippo's lid smothers its flame — the real risks with any of them are refueling spills and hot surfaces.
+**Which is safest?** All three are safe used sensibly. The arc has no fuel to leak, the BIC has child-resistant wheels (US rules [require child resistance on disposable lighters](https://www.cpsc.gov/Business--Manufacturing/Business-Education/Business-Guidance/Lighters)), and the Zippo's lid smothers its flame — the real risks with any of them are refueling spills and hot surfaces.

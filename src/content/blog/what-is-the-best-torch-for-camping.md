@@ -50,11 +50,11 @@ If you're carrying one anyway for everyday use, a compact pocket light does the 
 
 ## The Four Specs Worth Reading
 
-**1. Runtime on the mode you'll actually use.** Manufacturers quote runtime under the ANSI FL1 standard, which measures until output drops to 10% of initial — so a "4 hour" light may be dim for much of hour four. More importantly, high-mode runtime is nearly irrelevant to camping. Find the low- and mid-mode figures.
+**1. Runtime on the mode you'll actually use.** Manufacturers quote runtime under the [ANSI FL1 standard](https://www.streamlight.com/resources/learning/ansi-information), which measures until output drops to 10% of initial — so a "4 hour" light may be dim for much of hour four. More importantly, high-mode runtime is nearly irrelevant to camping. Find the low- and mid-mode figures.
 
 **2. Battery type, decided by trip length and temperature.** Rechargeable 18650 or built-in cells with USB-C charging are the default now, and if you carry a power bank they're clearly the right call — see our [USB-C flashlight guide](/best-usb-c-rechargeable-flashlights/). But for a week off-grid, or in cold weather, lights that take **AA cells** have a real advantage: you can carry spares, and **lithium AAs work down to about −40 °C** where alkalines die and rechargeables lose a large chunk of their capacity. Cold is the one situation where the old technology still wins.
 
-**3. Water rating, and be honest about it.** IPX4 handles rain. IPX7 survives being dropped in a stream and fished out (1 m, 30 minutes). IPX8 goes further. For most camping, IPX4 is the floor and IPX7 is the sensible target — a light that dies the first wet night is worse than no light, because you stopped carrying a backup.
+**3. Water rating, and be honest about it.** IPX4 handles rain. IPX7 survives being dropped in a stream and fished out ([1 m, 30 minutes](https://keystonecompliance.com/ipx7-ipx8-water-immersion/)). IPX8 goes further. For most camping, IPX4 is the floor and IPX7 is the sensible target — a light that dies the first wet night is worse than no light, because you stopped carrying a backup.
 
 **4. Beam shape over brightness.** A wide flood at 200 lumens lights a campsite better than a tight 1,000-lumen spot, which just paints a bright circle on one tree. Match the beam to the job: flood for tasks, spot for distance. The spec that actually predicts reach is candela, not lumens — see [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/).
 

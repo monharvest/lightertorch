@@ -119,4 +119,4 @@ Keychain flashlights are fine in carry-on luggage, incidentally — it's lighter
 
 **Will a keychain flashlight survive on my keys?** The aluminium ones will, cosmetically battered. The failure points are charging ports filling with lint and cells degrading, not the body.
 
-**Can I take a keychain flashlight on a plane?** Yes — flashlights are permitted in carry-on and checked bags. Lithium cells should travel in your carry-on rather than checked luggage.
+**Can I take a keychain flashlight on a plane?** Yes — [TSA allows flashlights](https://www.tsa.gov/travel/security-screening/whatcanibring/items/flashlights) in carry-on and checked bags. Spare lithium cells have to travel in your carry-on, not checked luggage ([FAA](https://www.faa.gov/hazmat/packsafe/lithium-batteries)).

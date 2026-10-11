@@ -2,7 +2,7 @@
 title: "What Flashlights Do Police Use? Brands, Lumens & Best Picks"
 description: "Police carry tactical flashlights from Streamlight, SureFire and LED Lenser, typically 800–1,200 lumens. What US and UK officers use, and civilian equivalents."
 pubDate: '2026-08-01'
-updatedDate: '2026-09-27'
+updatedDate: '2026-10-11'
 heroImage: '/uploads/2026/08/police-officer-flashlight-night-patrol.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['police flashlights', 'tactical flashlights', 'Streamlight', 'LED Lenser']
@@ -14,12 +14,12 @@ A duty flashlight is one of the few pieces of kit an officer uses on nearly ever
 
 ## What US Police Use: Streamlight Leads
 
-**Streamlight** has been building illumination tools for law enforcement since 1973 and is the most trusted name in American policing. What sets the company apart is how it designs: Streamlight engineers go into the field to observe the real demands a duty light faces, so the products are shaped by experience rather than spec sheets.
+**Streamlight** has been building illumination tools for law enforcement [since 1973](https://www.streamlight.com/community/blog/streamlight-marks-50-years-of-manufacturing-high-quality-lighting) and is the most trusted name in American policing. What sets the company apart is how it designs: Streamlight engineers go into the field to observe the real demands a duty light faces, so the products are shaped by experience rather than spec sheets.
 
 Popular duty models include:
 
-- **[Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20)** — a high-impact polymer tactical light producing around 1,000 lumens, with a tail-cap push button that jumps straight to strobe mode for defensive situations. It's inexpensive, nearly indestructible, and a common patrol backup light.
-- **[Streamlight Stinger](https://www.amazon.com/s?k=streamlight+stinger+2020&tag=lightertorch-20)** — the classic rechargeable duty light found in patrol cars across the US, now producing up to 2,000 lumens in its 2020 version.
+- **[Streamlight PolyTac](https://www.amazon.com/s?k=streamlight+polytac&tag=lightertorch-20)** — a high-impact nylon polymer light rated at [600 lumens and a 214 m beam](https://www.streamlight.com/products/detail/polytac), IPX7 and impact-tested to 3 m, with a tail switch whose default mode set includes strobe. It's inexpensive, tough, and a common patrol backup light.
+- **[Streamlight Stinger](https://www.amazon.com/s?k=streamlight+stinger+2020&tag=lightertorch-20)** — the classic rechargeable duty light found in patrol cars across the US, now rated at [2,000 lumens and a 315 m beam](https://www.streamlight.com/products/detail/stinger-2020) in its 2020 version.
 - **[SureFire](https://www.amazon.com/s?k=surefire+tactical+flashlight&tag=lightertorch-20)** — the premium alternative, favored by SWAT teams and the military for its bombproof reliability.
 
 Beyond the brand, US departments look for the same core traits: a compact body that rides comfortably on a duty belt, a powerful focused (throw) beam, a battery that survives a long shift, and a body that shrugs off drops, rain, and rough handling.
