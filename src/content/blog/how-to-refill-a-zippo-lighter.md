@@ -2,7 +2,7 @@
 title: "How to Refill a Zippo Lighter: Steps, Safety & Fixes"
 description: "How do you refill a Zippo? Pull the insert, lift the felt pad, soak the cotton until fluid hits the top, wipe dry. Plus butane inserts, flints and wicks."
 pubDate: '2026-10-19'
-heroImage: '/uploads/2026/09/zippo-classic-lineup-walnut.webp'
+heroImage: '/uploads/2026/10/zippo-refill-fluid-into-cotton.webp'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo', 'lighter fluid', 'refilling', 'lighter maintenance', 'flint', 'wick']
 ---
