@@ -2,13 +2,13 @@
 title: 'Zippo Gift Guide: The Best Zippo Lighters to Give (2026)'
 description: "The best Zippo lighters to give this holiday season, from the classic Street Chrome to engraved keepsakes, plus the fluid and flints that complete the gift."
 pubDate: '2026-08-02'
-updatedDate: '2026-10-11'
+updatedDate: '2026-10-19'
 heroImage: '/uploads/2026/08/zippo-gift-wrapped-present.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
 ---
 
-**Quick answer:** A Zippo is one of the few affordable gifts that can genuinely last the rest of someone's life — every one carries the same [lifetime "it works or we fix it free" guarantee](https://kb.zippo.com/warranty-repair), from the plainest chrome case to a limited edition. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
+**Quick answer:** A Zippo is one of the few affordable gifts that can genuinely last the rest of someone's life — every one carries the same [lifetime "it works or we fix it free" guarantee](https://kb.zippo.com/warranty-repair), from the plainest chrome case to a limited edition. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
 
 Why do Zippos make such reliable gifts? They're personal without being risky (no sizes, no tastes to guess), they patina into keepsakes, and the recipient doesn't even need to smoke — candles, campfires, grills, and the sheer ritual of the click cover it. Here's the full menu, grouped by who you're buying for.
 
@@ -17,7 +17,7 @@ Why do Zippos make such reliable gifts? They're personal without being risky (no
 The plainest Zippo has the *same* mechanism as every other Zippo; the models differ only in case and finish.
 
 - **[Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20)** — the one from the movies. Slightly textured chrome that hides fingerprints and wears in beautifully. If you know nothing about the recipient, this is the answer.
-- **[Black Matte](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20)** — the modern minimalist option; looks sharp with everything and suits anyone who'd rather not flash chrome. (Zippo's plain matte black comes and goes; the red-bordered version is the one that stays in stock.)
+- **[Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20)** — the modern minimalist option; looks sharp with everything and suits anyone who'd rather not flash chrome. (If that listing sells out, the [red-bordered version](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) has the same matte finish with a red edge and the Zippo logo.)
 
 ## The Upgrades: For Someone Who Appreciates Craft
 
@@ -36,8 +36,8 @@ A bare Zippo arrives *unfueled*: because of carrier restrictions, [Zippo ships e
 
 | Add-on | Why | 
 |---|---|
-| [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) | The lighter is a paperweight without it |
-| [Flints + wicks](https://www.amazon.com/s?k=zippo+flints+wicks&tag=lightertorch-20) | A few dollars; years of maintenance covered |
+| [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) | The lighter is a paperweight without it |
+| [Flints + wicks](https://www.amazon.com/dp/B01G2IUJX6/?tag=lightertorch-20) | Zippo's co-pack has three flint cards and three wicks: years of upkeep |
 | [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)); see [which insert to pick](/butane-vs-lighter-fluid-zippo-insert/) |
 
 Pair any lighter with fluid + flints and you've built a complete "Zippo starter kit" without spending much more than the lighter itself.
@@ -55,6 +55,8 @@ Buying for someone who would rather carry a light than a flame? Our [best keycha
 **Can they travel with it?** In a pocket or carry-on, yes (one lighter). Rules and exceptions in [our TSA guide](/can-you-bring-a-lighter-on-a-plane/).
 
 **Can I mail a Zippo as a gift?** Yes, if it has never been filled, which is how it arrives from Zippo. A lighter that contains fuel can't go in the mail without prior written approval from USPS, and it can never be mailed internationally ([USPS rules](https://pe.usps.com/text/pub52/pub52apxc_012.htm)). Have the fluid delivered separately.
+
+**When should I order a Zippo for Christmas?** Early, if it has to travel. For delivery before December 25, 2026, USPS recommends sending by December 17 for Ground Advantage, December 18 for Priority Mail and December 19 for Priority Mail Express within the lower 48 states ([USPS holiday dates](https://www.usps.com/holiday/holiday-shipping-dates.htm)). Hanukkah starts on December 4 this year, so give yourself more time for it. Engraving adds its own lead time, so check it with the seller or engraver before you order.
 
 **Does a Zippo come filled with fuel?** No. [Zippo ships every windproof lighter without fuel](https://kb.zippo.com/shipping-policies), so it won't light out of the box. Add a can of fluid (and spare flints) to the gift, or the recipient's first evening with it ends in a trip to the store.
 
