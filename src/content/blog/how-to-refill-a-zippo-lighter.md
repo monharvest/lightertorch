@@ -39,7 +39,7 @@ The whole job takes under a minute. What goes wrong is nearly always overfilling
 
 ## How Long Does a Zippo Fill Last?
 
-With regular daily use, expect roughly one to two weeks per fill, and less if you light it often. The bigger factor is evaporation: Zippo fluid is a petroleum distillate, so it [evaporates even when you don't use the lighter](https://www.zippo.com.au/pages/faq). A Zippo isn't sealed like a butane lighter. The lid closes over the chimney, but the vapour still slowly escapes.
+With regular daily use, expect roughly one to two weeks per fill, and less if you light it often. The bigger factor is evaporation: Zippo fluid is a petroleum distillate, so it [evaporates even when you don't use the lighter](https://www.zippo.com.au/pages/faq). A Zippo isn't sealed like a butane lighter. The lid closes over the chimney, but the vapor still slowly escapes.
 
 To make a fill last longer:
 
@@ -58,7 +58,7 @@ A classic insert has no valve or sealed tank, so butane just boils off. If you w
 
 ## Zippo Fluid vs Ronsonol
 
-Both are naphtha-type lighter fluids, and both will light a Zippo. Zippo designs its lighters around [its own fluid](https://kb.zippo.com/zippo-lighter/fill) and says it burns cleanly and lights quickly, and its current formula is [lower in odour and less irritating to skin](https://www.zippo.com.au/pages/faq). Many users notice less of a fuel smell with Zippo fluid. Ronsonol is easy to find and works fine in an emergency. Whichever you use, stick to one fluid made for wick lighters. Never use gasoline, alcohol or other fuels.
+Both are naphtha-type lighter fluids, and both will light a Zippo. Zippo designs its lighters around [its own fluid](https://kb.zippo.com/zippo-lighter/fill) and says it burns cleanly and lights quickly, and its current formula is [lower in odor and less irritating to skin](https://www.zippo.com.au/pages/faq). Many users notice less of a fuel smell with Zippo fluid. Ronsonol is easy to find and works fine in an emergency. Whichever you use, stick to one fluid made for wick lighters. Never use gasoline, alcohol or other fuels.
 
 ## Replacing the Flint and Wick
 
