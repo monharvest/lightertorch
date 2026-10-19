@@ -8,7 +8,7 @@ categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
 ---
 
-**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/s?k=zippo+flints&tag=lightertorch-20), a charred [wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20), or a dry felt pad. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
+**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20), a charred [wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20), or a dry felt pad. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
 
 ## First: Diagnose Before You Disassemble
 
@@ -32,7 +32,7 @@ Everything below happens to the **insert** — the metal chassis that lifts out 
 
 ### 1. Refuelling (the fix for most "dead" Zippos)
 
-Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can.
+Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can.
 
 Two things people get wrong here:
 

@@ -68,7 +68,7 @@ The honest recommendation for most households is two lighters, not one: an [arc 
 
 **Do BIC lighters expire?** No official expiry — sealed butane keeps for years. The flint wheel can corrode in damp storage, so keep spares dry.
 
-**Is Zippo fluid interchangeable with butane?** No. Classic Zippo inserts burn naphtha-based [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20); butane only belongs in the dedicated butane insert. Mixing them up is a safety problem — see our [Zippo safety guide](/can-a-zippo-explode/) and our [guide to choosing an insert](/butane-vs-lighter-fluid-zippo-insert/).
+**Is Zippo fluid interchangeable with butane?** No. Classic Zippo inserts burn naphtha-based [lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20); butane only belongs in the dedicated butane insert. Mixing them up is a safety problem — see our [Zippo safety guide](/can-a-zippo-explode/) and our [guide to choosing an insert](/butane-vs-lighter-fluid-zippo-insert/).
 
 **Why does my arc lighter click but not light things?** The arc needs direct contact with something thin and dry — tinder, a wick, paper edge. It has far less reach than a flame; that's the design trade-off.
 

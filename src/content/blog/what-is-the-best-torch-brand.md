@@ -20,7 +20,7 @@ Search Amazon for "flashlight" and you'll see hundreds of brand names. The nine 
 | Streamlight | Work, duty, value | $20–$80 | Limited lifetime (2 years on rechargeable batteries, chargers, switches, electronics) | [Stinger 2020](https://www.amazon.com/s?k=streamlight+stinger+2020&tag=lightertorch-20) |
 | Olight | Everyday carry, magnetic charging | $35–$150 | Lifetime on US purchases since Jan 2023 (2 years on rechargeable batteries) | [Baton 4 Pro](https://www.amazon.com/s?k=olight+baton+4+pro&tag=lightertorch-20) |
 | SureFire | Premium tactical | $80–$300 | Lifetime (2 years on rechargeable batteries and chargers) | [EDCL2-T](https://www.amazon.com/s?k=surefire+edcl2-t&tag=lightertorch-20) |
-| Nitecore | Slim, high-output EDC | $40–$150 | 5 years (2 years if the battery is built in), then you pay for parts only | [P20iX](https://www.amazon.com/s?k=nitecore+p20ix&tag=lightertorch-20) |
+| Nitecore | Slim, high-output EDC | $40–$150 | 5 years (2 years if the battery is built in), then you pay for parts only | [P20iX](https://www.amazon.com/dp/B0H7FRH1KZ/?tag=lightertorch-20) |
 | Acebeam | The brightest lights | $35–$420 | 10 years free repair, then you pay for parts and shipping | [E75](https://www.amazon.com/s?k=acebeam+e75&tag=lightertorch-20) |
 | Maglite | Simple lights on AA or D cells | $25–$50 | 10-year limited | [ML300LX](https://www.amazon.com/s?k=maglite+ml300lx&tag=lightertorch-20) |
 | Wurkkos | Budget enthusiast lights | $20–$60 | 1 year | [FC11C](https://www.amazon.com/s?k=wurkkos+fc11c&tag=lightertorch-20) |
@@ -72,7 +72,7 @@ SureFire began with laser sights in 1979 and introduced the 6C tactical flashlig
 
 **Founded:** [2007](https://www.nitecore.us/aboutus) · **Best for:** flat pocket lights, tactical lights, gadget fans
 
-Nitecore packs a lot of output into thin bodies. The [EDC37](https://www.amazon.com/s?k=nitecore+edc37&tag=lightertorch-20) is rated at [8,000 lumens from a built-in 8,000 mAh battery](https://www.nitecore.us/product/edc37), although that figure is a floodlight burst; its 420 m throw comes from a separate 3,000-lumen search mode. The more conventional [P20iX](https://www.amazon.com/s?k=nitecore+p20ix&tag=lightertorch-20) tactical light is rated at [4,000 lumens and 221 m on a 21700 cell](https://www.nitecore.us/product/p20ix).
+Nitecore packs a lot of output into thin bodies. The [EDC37](https://www.amazon.com/s?k=nitecore+edc37&tag=lightertorch-20) is rated at [8,000 lumens from a built-in 8,000 mAh battery](https://www.nitecore.us/product/edc37), although that figure is a floodlight burst; its 420 m throw comes from a separate 3,000-lumen search mode. The more conventional [P20iX](https://www.amazon.com/dp/B0H7FRH1KZ/?tag=lightertorch-20) tactical light is rated at [4,000 lumens and 221 m on a 21700 cell](https://www.nitecore.us/product/p20ix).
 
 **Warranty:** [60 months on lights with removable batteries and 24 months on lights with built-in batteries](https://www.nitecore.us/article/416), then a limited lifetime warranty that covers labor but not parts. Claims go through the authorized dealer you bought from.
 

@@ -71,7 +71,7 @@ A ferro rod is made of ferrocerium, the same material as the "flint" in a dispos
 
 **How do you make a lighter with a battery?** Touch both terminals of a 9-volt battery to a pad of very fine (#0000) steel wool. The thin strands heat up and glow, and you can blow that ember into a flame in dry tinder. Do it outdoors, and store the battery away from the wool afterwards.
 
-**Can you make lighter fluid at home?** Don't. Lighters are designed around one specific fuel. Substitutes like gasoline or rubbing alcohol burn very differently, and in a Zippo they're a genuine hazard. Buy the right fuel: [lighter fluid](https://www.amazon.com/s?k=zippo+lighter+fluid&tag=lightertorch-20) for wick lighters, refined butane for gas lighters.
+**Can you make lighter fluid at home?** Don't. Lighters are designed around one specific fuel. Substitutes like gasoline or rubbing alcohol burn very differently, and in a Zippo they're a genuine hazard. Buy the right fuel: [lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) for wick lighters, refined butane for gas lighters.
 
 **How do you make a lighter work again?** Most "dead" lighters aren't broken. A butane lighter that sparks but won't light usually has air in the tank or is too cold. See [how to fix a lighter that won't light](/fixing-a-lighter/), or [how to fill a butane lighter](/filling-up-a-gas-lighter/) if it's just empty.
 
