@@ -8,7 +8,7 @@ categories: ['Buying Guides']
 tags: ['best flashlight on Amazon', 'Amazon flashlights', 'Fenix', 'Nitecore', 'Acebeam', 'Olight', 'flashlight buying guide']
 ---
 
-**Quick answer:** For most people, the best flashlight on Amazon is the [Fenix PD36R Pro](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20): 2,800 lumens, a 380 m beam, USB-C charging and a swappable 21700 battery. On a budget, the [Acebeam TAC 2AA](https://www.amazon.com/s?k=acebeam+tac+2aa+flashlight&tag=lightertorch-20) runs on its included rechargeable cell or two AAs. For a flat light that disappears in a pocket, get the [Nitecore EDC27 UHi](https://www.amazon.com/s?k=nitecore+edc27+uhi&tag=lightertorch-20).
+**Quick answer:** For most people, the best flashlight on Amazon is the [Fenix PD36R Pro](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20): 2,800 lumens, a 380 m beam, USB-C charging and a swappable 21700 battery. On a budget, the [Acebeam TAC 2AA](https://www.amazon.com/dp/B0DCMHQBKQ/?tag=lightertorch-20) runs on its included rechargeable cell or two AAs. For a flat light that disappears in a pocket, get the [Nitecore EDC27 UHi](https://www.amazon.com/dp/B0DDWGGGTX/?tag=lightertorch-20).
 
 Below: all seven picks in one table, how we chose them, a short review of each with its weak spots, and how to avoid listings with made-up lumen numbers.
 
@@ -17,12 +17,12 @@ Below: all seven picks in one table, how we chose them, a short review of each w
 | Flashlight | Max output (beam) | Battery | Water rating | Best for |
 |---|---|---|---|---|
 | [Fenix PD36R Pro](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20) | 2,800 lm (380 m) | 21700, 5,000 mAh, removable | IP68, 2 m | One light for everything |
-| [Acebeam TAC 2AA](https://www.amazon.com/s?k=acebeam+tac+2aa+flashlight&tag=lightertorch-20) | 1,600 lm (181 m) | Included USB-C Li-ion cell or 2× AA | IP68, 2 m | Budget; AA backup |
-| [Nitecore EDC27 UHi](https://www.amazon.com/s?k=nitecore+edc27+uhi&tag=lightertorch-20) | 3,100 lm (305 m) | Built-in 1,700 mAh | IP54, splash only | Flat pocket carry |
-| [Nitecore EDC31](https://www.amazon.com/s?k=nitecore+edc31&tag=lightertorch-20) | 3,500 lm flood; 380 m spot | Built-in 3,800 mAh, not replaceable | IP68, 2 m | Most output per inch |
+| [Acebeam TAC 2AA](https://www.amazon.com/dp/B0DCMHQBKQ/?tag=lightertorch-20) | 1,600 lm (181 m) | Included USB-C Li-ion cell or 2× AA | IP68, 2 m | Budget; AA backup |
+| [Nitecore EDC27 UHi](https://www.amazon.com/dp/B0DDWGGGTX/?tag=lightertorch-20) | 3,100 lm (305 m) | Built-in 1,700 mAh | IP54, splash only | Flat pocket carry |
+| [Nitecore EDC31](https://www.amazon.com/dp/B0DSCGY287/?tag=lightertorch-20) | 3,500 lm flood; 380 m spot | Built-in 3,800 mAh, not replaceable | IP68, 2 m | Most output per inch |
 | [Fenix PD36 TAC](https://www.amazon.com/s?k=fenix+pd36+tac&tag=lightertorch-20) | 3,000 lm (274 m) | 21700, 5,000 mAh, removable | IP68 | Duty and tactical use |
 | [Olight Javelot](https://www.amazon.com/s?k=olight+javelot+flashlight&tag=lightertorch-20) | 1,350 lm (730 m) | 21700, 5,000 mAh | IPX8 | Long throw |
-| [Nitecore P20iX](https://www.amazon.com/s?k=nitecore+p20ix&tag=lightertorch-20) | 4,000 lm (221 m) | Nitecore 21700i, 5,000 mAh, or 2× CR123A | IP68, 2 m | Wide, bright beam; CR123A backup |
+| [Nitecore P20iX](https://www.amazon.com/dp/B0H7FRH1KZ/?tag=lightertorch-20) | 4,000 lm (221 m) | Nitecore 21700i, 5,000 mAh, or 2× CR123A | IP68, 2 m | Wide, bright beam; CR123A backup |
 
 Amazon prices move daily, so check the current price on each listing before you buy.
 
@@ -65,7 +65,7 @@ The TAC 2AA is a pen-shaped light, 5.9 in long and 106 g. Acebeam rates the stan
 
 More good budget pocket lights are in our [best budget EDC flashlights](/best-edc-flashlights-under-50/) guide.
 
-[Check the Acebeam TAC 2AA price on Amazon →](https://www.amazon.com/s?k=acebeam+tac+2aa+flashlight&tag=lightertorch-20)
+[Check the Acebeam TAC 2AA price on Amazon →](https://www.amazon.com/dp/B0DCMHQBKQ/?tag=lightertorch-20)
 
 ## Best Flat EDC Flashlight: Nitecore EDC27 UHi
 
@@ -79,7 +79,7 @@ It replaced the original [EDC27](https://www.nitecore.com/product/edc27), which 
 - **The battery is built in.** When it wears out, the light is finished.
 - **Impact rating is only 1 m**, lower than the 1.5–2 m of the tube-shaped lights here.
 
-[Check the Nitecore EDC27 UHi on Amazon →](https://www.amazon.com/s?k=nitecore+edc27+uhi&tag=lightertorch-20)
+[Check the Nitecore EDC27 UHi on Amazon →](https://www.amazon.com/dp/B0DDWGGGTX/?tag=lightertorch-20)
 
 ## Best Compact EDC Flashlight: Nitecore EDC31
 
@@ -93,7 +93,7 @@ It takes the place of the EDC33, which [Nitecore now marks as discontinued](http
 - **The battery is built in** (a 3,800 mAh cell). You can't carry a spare, and when it wears out the light is finished.
 - **It steps down.** Nitecore's temperature regulation dims the high modes as the body heats up, like every light this small and bright.
 
-[Check the Nitecore EDC31 on Amazon →](https://www.amazon.com/s?k=nitecore+edc31&tag=lightertorch-20)
+[Check the Nitecore EDC31 on Amazon →](https://www.amazon.com/dp/B0DSCGY287/?tag=lightertorch-20)
 
 ## Best Tactical Flashlight: Fenix PD36 TAC
 
@@ -131,7 +131,7 @@ The CR123A magazine is the emergency feature: two CR123A lithium cells keep for 
 - **Proprietary battery.** The P20iX won't take an ordinary 21700. It needs Nitecore's i-series cell, so buy a spare from Nitecore.
 - **Turbo is short.** Like every light this bright, it steps down to protect itself, so plan around the lower modes for long use.
 
-[Check the Nitecore P20iX price on Amazon →](https://www.amazon.com/s?k=nitecore+p20ix&tag=lightertorch-20)
+[Check the Nitecore P20iX price on Amazon →](https://www.amazon.com/dp/B0H7FRH1KZ/?tag=lightertorch-20)
 
 ## Watch Out for Inflated Lumen Claims
 
