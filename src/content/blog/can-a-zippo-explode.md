@@ -53,6 +53,8 @@ A Zippo won't spontaneously explode, but it *is* a fire-making tool full of flam
 
 ## How to Refill a Zippo Safely
 
+For the full walkthrough with troubleshooting, see [how to refill a Zippo lighter](/how-to-refill-a-zippo-lighter/).
+
 1. Work in a ventilated area away from flames, and make sure the lighter is cool.
 2. Remove the insert from the case and flip it over.
 3. Lift the felt pad at the bottom to expose the cotton batting.

@@ -32,7 +32,7 @@ Everything below happens to the **insert** — the metal chassis that lifts out 
 
 ### 1. Refuelling (the fix for most "dead" Zippos)
 
-Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can.
+Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can. Our [step-by-step Zippo refill guide](/how-to-refill-a-zippo-lighter/) covers overfilling, evaporation and troubleshooting.
 
 Two things people get wrong here:
 

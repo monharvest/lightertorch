@@ -69,7 +69,7 @@ Butane struggles in cold (it stops vaporising properly near its boiling point ar
 
 ### Fuel cost and availability
 
-Both fuels are cheap and widely sold. [Zippo's knowledge base](https://kb.zippo.com/butane-lighter-inserts) specifically recommends [Zippo or Ronson butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20), which are refined for use in their products — cheap unrefined butane is the usual culprit behind a clogged valve. Standard inserts take any naphtha-based [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20).
+Both fuels are cheap and widely sold. [Zippo's knowledge base](https://kb.zippo.com/butane-lighter-inserts) specifically recommends [Zippo or Ronson butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20), which are refined for use in their products — cheap unrefined butane is the usual culprit behind a clogged valve. Standard inserts take any naphtha-based [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20). Refilling a classic fluid insert is covered in [how to refill a Zippo lighter](/how-to-refill-a-zippo-lighter/).
 
 ## So which one should you buy?
 
