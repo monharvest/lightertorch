@@ -50,7 +50,7 @@ The flint is a ~2 mm ferrocerium rod that shaves off sparks each time the wheel 
 3. Tip out the stub of the old flint. If it's jammed, a paperclip or a tap on the table clears it.
 4. Drop in one new flint, thread the spring back in, and tighten snug — not hard. Overtightening strips the brass.
 
-Zippo ships six flints per card and they fit every standard insert. Buy them in a [multipack](https://www.amazon.com/s?k=zippo+flints&tag=lightertorch-20); you'll use them.
+Our [Zippo flint replacement guide](/zippo-flint-replacement/) has every step, plus fixes for a stiff wheel or a weak spark. Zippo ships six flints per card and they fit every standard insert. Buy them in a [multipack](https://www.amazon.com/s?k=zippo+flints&tag=lightertorch-20); you'll use them.
 
 **If sparks are weak rather than absent,** the wheel is clogged with flint dust before it's worn out. Roll it against a stiff brush or an old toothbrush to clear the knurling, then fit a fresh flint.
 
