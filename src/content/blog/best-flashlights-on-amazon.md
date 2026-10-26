@@ -2,7 +2,7 @@
 title: 'The Best Flashlights on Amazon (2026): 7 Picks Compared'
 description: 'The best flashlight on Amazon for most people is the Fenix PD36R Pro. Seven picks compared on maker specs: lumens, battery, waterproofing and best use.'
 pubDate: '2025-05-17'
-updatedDate: '2026-10-11'
+updatedDate: '2026-10-26'
 heroImage: '/uploads/2026/08/brightest-torch-lineup-bench.webp'
 categories: ['Buying Guides']
 tags: ['best flashlight on Amazon', 'Amazon flashlights', 'Fenix', 'Nitecore', 'Acebeam', 'Olight', 'flashlight buying guide']
@@ -20,7 +20,7 @@ Below: all seven picks in one table, how we chose them, a short review of each w
 | [Acebeam TAC 2AA](https://www.amazon.com/dp/B0DCMHQBKQ/?tag=lightertorch-20) | 1,600 lm (181 m) | Included USB-C Li-ion cell or 2× AA | IP68, 2 m | Budget; AA backup |
 | [Nitecore EDC27 UHi](https://www.amazon.com/dp/B0DDWGGGTX/?tag=lightertorch-20) | 3,100 lm (305 m) | Built-in 1,700 mAh | IP54, splash only | Flat pocket carry |
 | [Nitecore EDC31](https://www.amazon.com/dp/B0DSCGY287/?tag=lightertorch-20) | 3,500 lm flood; 380 m spot | Built-in 3,800 mAh, not replaceable | IP68, 2 m | Most output per inch |
-| [Fenix PD36 TAC](https://www.amazon.com/s?k=fenix+pd36+tac&tag=lightertorch-20) | 3,000 lm (274 m) | 21700, 5,000 mAh, removable | IP68 | Duty and tactical use |
+| [Fenix PD36R ACE](https://www.amazon.com/dp/B0FQLGPBRH?tag=lightertorch-20) | 3,000 lm (415 m) | 21700, 5,000 mAh, removable | IP68 | Duty and tactical use |
 | [Olight Javelot](https://www.amazon.com/s?k=olight+javelot+flashlight&tag=lightertorch-20) | 1,350 lm (730 m) | 21700, 5,000 mAh | IPX8 | Long throw |
 | [Nitecore P20iX](https://www.amazon.com/dp/B0H7FRH1KZ/?tag=lightertorch-20) | 4,000 lm (221 m) | Nitecore 21700i, 5,000 mAh, or 2× CR123A | IP68, 2 m | Wide, bright beam; CR123A backup |
 
@@ -95,16 +95,16 @@ It takes the place of the EDC33, which [Nitecore now marks as discontinued](http
 
 [Check the Nitecore EDC31 on Amazon →](https://www.amazon.com/dp/B0DSCGY287/?tag=lightertorch-20)
 
-## Best Tactical Flashlight: Fenix PD36 TAC
+## Best Tactical Flashlight: Fenix PD36R ACE
 
-The PD36 TAC is the tactical version of Fenix's best-selling PD36R. Fenix rates it at [3,000 lumens, a 274 m beam and up to 43 hours 10 minutes](https://www.fenixlighting.com/products/fenix-pd36-tac-tactical-flashlight). A rotary toggle on the tail picks the mode. Tactical mode gives you just the top tactical output and instant strobe. Duty mode gives you five brightness levels plus strobe. The middle position locks the light out. It's IP68, runs on a removable 5,000 mAh 21700 battery and comes with a holster. Fenix sells rail mounts (ALG-00, ALG-18) and a remote pressure switch (AER-05) for it separately.
+The PD36R ACE is the brightest light in Fenix's PD36 line. Fenix rates it at [3,000 lumens, a 415 m beam and up to 63 hours 25 minutes](https://www.fenixlighting.com/products/fenix-pd36r-ace-flashlight) on its lowest mode. The round tail switch turns it on instantly, and a second switch on the neck picks the brightness. A hidden SET button under the neck lets you choose one of three output groups, from every level down to a simplified set, so you can strip it back to a plain duty light. It's IP68, runs on a removable 5,000 mAh 21700 battery, charges through a hidden USB-C port in about 3 hours, and comes with a holster and a clip.
 
 **Watch for:**
 
-- **No charging port on the light.** The included battery has its own USB-C port, so you unscrew the tail and charge the cell. That means no port to leak, but it's a little fiddlier than the PD36R Pro.
-- **The toggle takes practice.** An owner review on Fenix's own page says the same.
+- **One tail button, not two.** The PD36R Pro has two tail switches, so you can change brightness without moving your thumb. On the ACE that job moves to the neck switch, and an owner review on Fenix's own page names it as the main downside. It's also why the ACE out-throws the Pro on paper but the Pro stays our overall pick.
+- **Turbo is a burst.** Like every light this bright, the 3,000 lumens lasts only a short while before it steps down. The 63-hour figure is for the 30-lumen Eco mode.
 
-[Check the Fenix PD36 TAC price on Amazon →](https://www.amazon.com/s?k=fenix+pd36+tac&tag=lightertorch-20)
+[Check the Fenix PD36R ACE price on Amazon →](https://www.amazon.com/dp/B0FQLGPBRH?tag=lightertorch-20)
 
 ## Best Long-Throw Flashlight: Olight Javelot
 
@@ -156,7 +156,7 @@ A cheap light can still be fine for a kitchen drawer. Just don't pay for a numbe
 
 **Beam distance vs. flood.** A "thrower" like the Javelot puts its light in a tight, far-reaching spot. A "flooder" like the P20iX lights a wide area close by. Most people are better served by something in between, like the PD36R Pro. The specs behind this are explained in [lumens vs candela vs beam distance](/lumens-vs-candela-vs-beam-distance/).
 
-**Battery.** A removable 21700 (PD36R Pro, PD36 TAC) gives the best runtime and lets you carry a spare. Lights that take common cells (AAs in the TAC 2AA, CR123As in the P20iX) are the safest bet for emergency kits (more in our [power outage flashlight guide](/best-flashlights-for-power-outages/)). Built-in batteries (EDC27 UHi, EDC31) are the most convenient to charge, but the light only lasts as long as the battery does. Nitecore's i-series cell in the P20iX ties you to one brand for spares.
+**Battery.** A removable 21700 (PD36R Pro, PD36R ACE) gives the best runtime and lets you carry a spare. Lights that take common cells (AAs in the TAC 2AA, CR123As in the P20iX) are the safest bet for emergency kits (more in our [power outage flashlight guide](/best-flashlights-for-power-outages/)). Built-in batteries (EDC27 UHi, EDC31) are the most convenient to charge, but the light only lasts as long as the battery does. Nitecore's i-series cell in the P20iX ties you to one brand for spares.
 
 **Water rating.** IP54 means splash-resistant. IPX7 or IP67 means it survives brief immersion (1 m for 30 minutes). IPX8 or IP68 means deeper immersion, to a depth the maker states: 2 m for most lights here. For camping, fishing or boating, get at least IPX7; our [camping flashlight picks](/best-camping-flashlights/) all clear that bar. How the ratings are actually tested is in our [durable flashlight guide](/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/).
 
@@ -170,7 +170,7 @@ A cheap light can still be fine for a kitchen drawer. Just don't pay for a numbe
 
 **Are more lumens always better in a flashlight?** No. Higher output drains the battery faster, makes more heat and usually steps down within minutes. Indoors, 100–500 lumens is plenty; 4,000 lumens earns its keep outdoors or in a search.
 
-**What's the difference between a tactical flashlight and a regular flashlight?** Tactical lights put a momentary-on tail switch and instant strobe first, often with a simplified mode (like the PD36 TAC's Tactical setting), a strike bezel and holster or weapon mounts. Regular lights focus on brightness levels and runtime. Many modern lights, including the PD36R Pro, do both. For what officers actually carry, see [what flashlights police use](/what-flashlights-do-police-use/).
+**What's the difference between a tactical flashlight and a regular flashlight?** Tactical lights put a momentary-on tail switch and instant strobe first, often with a simplified mode (like the PD36R ACE's simplified output group), a strike bezel and holster or weapon mounts. Regular lights focus on brightness levels and runtime. Many modern lights, including the PD36R Pro, do both. For what officers actually carry, see [what flashlights police use](/what-flashlights-do-police-use/).
 
 **How long do rechargeable flashlight batteries last?** Per charge, it depends on the mode: minutes at Turbo, days on the lowest setting (the P20iX is rated for up to 350 hours). Over the years, lithium-ion cells slowly lose capacity. A light with a removable cell just takes a fresh battery; one with a built-in battery can't.
 

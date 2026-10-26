@@ -1,7 +1,7 @@
 # LighterTorch.com — Improvement Plan
 
 Site: https://lightertorch.com · Repo: github.com/monharvest/lightertorch (push to `master` = auto-deploy via Cloudflare Pages)
-Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — needs **3 qualifying sales by 2027-01-28** (180 days) or the account closes; as of 2026-09-27: 2 shipped (Aug 28 $1.04, Sep $0.33) + 1 ordered in Sep, not yet shipped)
+Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — **application approved 2026-10-01** after the 3-qualifying-sale review, so the 2027-01-28 deadline is cleared; first sales: Aug 28 $1.04, Sep $0.33, plus a third in Sep)
 
 ## ✅ Done (Aug 1, 2026)
 
@@ -562,7 +562,7 @@ Found on the way:
 
   | Post | Target | Vol | SD |
   |---|---|---|---|
-  | `filling-up-a-gas-lighter` | how to fill a butane lighter (+ refill with butane 9,900; Zippo 9,900; BIC 2,900; torch 1,600) | 9,900 | 31 |
+  | `filling-up-a-gas-lighter` | how to refill a butane lighter (retargeted 2026-10-10; see the 2026-10-11 entry for the three 9.9K variants) | 9,900 | 37 |
   | `inside-of-a-gas-lighter` | how does a lighter work / parts of a lighter | 880 / 720 | 20 / 38 |
   | `gas-stove-that-doesnt-ignite` | gas stove won't light (+ "but smell gas" 390) | 590 | 28 |
   | `make-a-gas-lighter-at-home` | how to make a lighter / homemade lighter | 880 / 320 | 32 |
@@ -657,3 +657,184 @@ rewritten or merged; only `privacy-policy` keeps its old format.
   Seznam and Naver. Key file: `public/f2c1a8eb38150eb949af10b8312c64d4.txt`. Bing Webmaster
   Tools was imported from GSC on 2026-09-28 (48 h to populate). Check a run under the
   repo's Actions tab after the first push.
+
+## 2026-10-11 — Holiday prep log, SEO pass, sources
+
+**Oct 10 (commits `ad6bff8`, `5d61306`, deployed):** holiday prep. Refill guide
+retargeted from "fill" to "refill a butane lighter"; titles and metas sharpened on
+the refill guide, `/lighter-cause-a-shock/` and `/a-gas-lighter-last-how-long/`;
+Zippo FAQs added (`/can-a-zippo-explode/`, Zippo repair guide, gift guide); the three
+discontinued Amazon-list picks replaced (EDC27 → EDC27 UHi, EDC33 → EDC31, Javelot
+Mini → Javelot) with maker sources (EDC31 manual, Olight spec table); hardcoded
+prices removed from `/zippo-gift-guide/` and `/best-flashlights-on-amazon/`.
+
+**Refill keyword, reconciled (Ubersuggest US, 2026-10-11).** All three phrasings
+share the same 9.9K volume, so they're one cluster:
+
+| Keyword | Vol | SD |
+|---|---|---|
+| how to refill a butane lighter (primary, in the title) | 9,900 | 37 (flagged outdated) |
+| how to fill a butane lighter (in the meta + FAQ) | 9,900 | 31 |
+| how do you fill a butane lighter (FAQ question) | 9,900 | 22 |
+| how to refill a lighter | 3,600 | 39 |
+| how to refill a butane lighter torch | 1,600 | 50 |
+| how to refill a zippo lighter with fluid | 720 | 6 |
+| how to refill a djeep lighter | 390 | — |
+| how to fill gas in lighter | 260 | 7 |
+| how to refill a scripto lighter | 260 | — |
+
+Bing had the guide at position 8, 666 impressions, 0 clicks (pre-Oct 10 title).
+Watch CTR from late October. "zippo fluid refill" (720, SD 6) has no page of its
+own; it's answered in `/can-a-zippo-explode/#how-to-refill-a-zippo-safely`. A
+standalone post is a cheap candidate.
+
+**Oct 11, branch `seo-pass-2026-10-11` (local, not pushed):**
+- Refill guide: title "How to Refill a Butane Lighter: 8 Steps + Won't-Light
+  Fixes", meta leads with "How to fill a butane lighter", new FAQs "How do you fill
+  a butane lighter?" and "How do you refill a butane torch lighter?", link to the
+  Zippo fluid steps.
+- Title pass (Ubersuggest audit: 12 long, 3 short): 16 titles over 60 chars cut to
+  52–61, 3 legal/About titles lengthened, 2 CTR rewrites (Zippo explode, lighter
+  shock). 9 metas over 160 chars trimmed. Still over 60: gas stove (62), lumens vs
+  candela (62), how many lumens (61), left as they are.
+- Internal links: 24 contextual links across the voltage, shock, BIC lifespan,
+  Zippo explode, gift guide, Amazon roundup and brightest pages, mostly into the
+  candle-lighter, Zippo insert, gift, camping, power-outage and police pages. The
+  "$15" Street Chrome price on the Zippo explode post was removed.
+- PD36R Pro links → `/dp/B0H7DDGK7V` (5 links, Amazon-verified model "pd36r
+  pro"). **PD36 TAC left as a search link:** `B096YJZG81` is the right model but
+  Amazon shows it "Currently unavailable"; swap once it's back in stock.
+- Gap 1 closed for real posts: sources added to the 11 that had none (CPSC lighter
+  rules, NFPA candle data, TSA/FAA, Red Cross, National Candle Association, GE
+  Appliances, CPSC CO, CT PURA, Streamlight ANSI FL1, Keystone IPX7, Energizer,
+  PubChem, Zippo warranty, Streamlight product pages). Only About, Privacy and
+  Disclosure link no outside source now.
+- Correction: the police post said the PolyTac makes ~1,000 lumens. Streamlight
+  rates it at 600 lm / 214 m.
+- Build: 46 pages, no errors, no broken internal links.
+
+## 2026-10-19 — Monday session log
+
+**Branch `session-2026-10-19` (local only, not pushed), 4 commits on top of `34b72af`:**
+
+- `ae13c50` Amazon roundup: the TAC 2AA, EDC27 UHi, EDC31 and P20iX search links
+  are now direct `/dp/` links (11 links). ASINs: TAC 2AA `B0DCMHQBKQ` (Black,
+  181 m = the 1,600 lm version; same parent as the 1,400 lm SFT-25R), EDC27 UHi
+  `B0DDWGGGTX`, EDC31 `B0DSCGY287`, P20iX `B0H7FRH1KZ`. All in stock, shipped by
+  Amazon.
+- `541ecd6` Zippo gift guide: the Black Matte link moved to the plain Black Matte
+  `B004BATWE0` (in stock). The red-border listing `B001E5FLWW` is down to "Only 2
+  left" from a third-party seller, so it's now the fallback link and the old
+  "the red-bordered version is the one that stays in stock" line is gone. Fluid →
+  Zippo 4 oz `B071LFFN5V`, flints + wicks → Zippo 3-flint/3-wick co-pack
+  `B01G2IUJX6`, and "A few dollars" is gone. New FAQ "When should I order a Zippo
+  for Christmas?" with USPS's 2026 send-by dates for the lower 48 (Ground
+  Advantage Dec 17, Priority Dec 18, Express Dec 19; Hanukkah starts Dec 4),
+  sourced to usps.com. `updatedDate` 2026-10-19. Title and meta unchanged (title
+  already says 2026).
+- `0189cf2` Zippo best-sellers page: removed the "Typical price" column ("About
+  $20/$30") and the price note, so the page has no prices now. Black Matte pick →
+  plain `B004BATWE0`, red border kept as the fallback. Fluid and flint table links
+  are now direct. `updatedDate` 2026-10-19.
+- `284ac22` Site-wide direct links: the Zippo fluid search link → `B071LFFN5V` in
+  6 more posts (make-a-gas-lighter, zippo-vs-bic, can-a-zippo-explode, refill
+  guide, Zippo repair guide, insert guide). Repair guide "worn flint" →
+  `B000EAEAHK`, and the brand guide's 2 P20iX links → `B0H7FRH1KZ`.
+
+**Amazon checks (US view, NY 10001, ~20:35–20:47 Berlin):** In stock: PD36R Pro
+`B0H7DDGK7V` (Lumen Tactical, ships from Amazon), Street Chrome `B000MT8Y98`
+(third party), Brushed Chrome `B001E5FLT0` (Amazon), Armor Brushed Brass
+`B0007RX59O` (third party), butane insert `B0D33ZGNFD` (Amazon). Black Matte Red
+Border `B001E5FLWW`: only 2 left. High Polish Chrome `B001E57S96` (best-sellers
+page): only 6 left, third party.
+
+**Still open:**
+- **PD36 TAC `B096YJZG81` is still "Currently unavailable"** ("We don't know when
+  or if this item will be back in stock"). The 2 search links on the roundup stay.
+  Amazon's "fenix pd36 tac" search now returns no PD36 TAC at all, only other
+  Fenix lights. If it hasn't come back by early November, consider replacing the
+  tactical pick.
+- **Olight Javelot isn't sold on Amazon US.** Searches for "olight javelot" and
+  "javelot" return no Javelot listing, so the roundup's 2 Javelot links land on
+  other Olight lights. That needs a decision: keep it, or swap in a long-throw
+  light that Amazon actually sells. The same may apply to the 5 "olight javelot
+  turbo 2" links elsewhere (not checked).
+- **Amazon product images: blocked on eligibility and on how the site is built.**
+  SiteStripe offers only "Get Link: Text" now (official Associates help page). The
+  Image and Text+Image options were removed Nov 1, 2023 and old image links stopped
+  working Dec 31, 2023. PA-API 5.0 was deprecated and shut off on May 15, 2026
+  (calls get 403 AccessDenied). The only route left is the **Creators API**, which
+  requires final acceptance, **at least 10 qualifying sales in the past 30 days**,
+  and registration by the primary account owner (Associates Central → Tools →
+  Creators API → Create Application → credentials). The IP License bans storing or
+  caching images and allows storing an image *link* for 24 hours at most. A static
+  Astro build would need a rebuild at least daily, or a Cloudflare Worker / Pages
+  Function that fetches from the API at request time. The repo has no API config or
+  env vars (only `.env` and `.env.production` are in `.gitignore`; neither exists).
+  Nothing implemented.
+- **Prices elsewhere on the site** (not touched tonight): the insert guide's price
+  column (~$18–$27), zippo-vs-bic cost table, the brand guide's price ranges and
+  maker-store prices, the camping guide's Acebeam/Fenix store prices, the olight
+  vs fenix "typical price range" row, the Sunitact review's "$22", the arc
+  lighters "$10–$30". Some are maker list prices, not Amazon prices. Batu to decide
+  whether "no prices" applies to those too.
+- 28 `fenix+pd36r` search links site-wide: the PD36R V2.0 shows up as `B0H73HZH2Y`
+  (already used on the durable-flashlight page). Verify the model each post means
+  before swapping.
+- Q&A pages (shock, voltage, Zippo explode, BIC lifespan, Zippo best-sellers):
+  no title or meta changes. All of them were rewritten on Oct 10–11, and the 28-day
+  GSC window (Sep 19–Oct 16) is almost all pre-change. The dashboard has no
+  per-page queries. Recheck in early November.
+- Post candidates (no draft): "zippo fluid refill" (720, SD 6, from Oct 11), and
+  the keychain flashlights and headlamps pages, which get impressions (150 and 226)
+  but rank at pos 37 and 60. Run Ubersuggest before drafting anything.
+
+Build: `npm run build` passes, 46 pages, no `ERROR`. On the first run, Astro's
+content cache warned "Duplicate id" for the 10 changed posts. A second build was
+clean, and the new links and the FAQ schema are in `dist/`. All 300 Amazon links
+in `dist/` carry `tag=lightertorch-20`.
+
+### 2026-10-19 — Draft: how to refill a Zippo lighter (local branch only)
+- Branch `draft-zippo-refill-2026-10-19`, new post `/how-to-refill-a-zippo-lighter/`
+  (primary "how do you refill a zippo lighter" 9.9K/SD 8). Schema has no `draft` field,
+  so it stays unpublished by staying off master. Reciprocal links from can-a-zippo-explode,
+  butane-vs-lighter-fluid-zippo-insert, zippo-repairs. Build passes, 47 pages. Not pushed.
+
+### 2026-10-26 — Monday session
+**Branch `session-2026-10-26` (local only, not pushed).**
+
+**Ubersuggest (lightertorch.com, US):** On-Page SEO score 96 (7 issues), 338
+organic keywords, est. traffic 54, DA 6. Tracked keywords: "best cheap torches"
+pos 37 (+38), "best distance flashlight" pos 52 (+10); average position 74.75.
+
+**Holiday pages:** all Zippo picks verified in stock with a US ZIP. The gift guide's
+USPS 2026 send-by FAQ is still correct.
+
+**PD36 TAC replaced (Batu approved).** The TAC `B096YJZG81` is "Currently
+unavailable" on Amazon US (NY 10001) and marked Closeout on fenixlighting.com. The
+roundup's "Best Tactical" pick is now the **PD36R ACE** `B0FQLGPBRH` (in stock, ships
+from Amazon, sold by Lumen Tactical, Amazon's Choice). Specs from Fenix's product page:
+3,000 lm / 415 m / 63 h 25 min, ARB-L21-5000 V2.0 21700, hidden USB-C, IP68, SET button
+with three output groups. Table row, section, battery paragraph and tactical FAQ
+updated; the 2 search links are now direct `/dp/` links. `updatedDate` 2026-10-26.
+The PD36R Pro stays best overall (dual tail switches), and the section says why.
+
+**New draft: `/zippo-flint-replacement/`** (commit `7727a13`). Primary "zippo flint
+replacement" 1K/SD 29; also "zippo replacement flint" 590/SD 33, "zippo lighter flint
+replacement" 210/SD 27, "zippo flint wheel replacement" 70/SD 27, "zippo flint spring
+replacement" 30/SD 26, "zippo flint and wick replacement" 20/SD 19. Overlap check: the
+repair guide (flint section) and the refill guide (one flint paragraph) only cover it
+as sub-sections, and no page targets the query, so it's a new post, not a retarget.
+~2,000 words, steps, signs, how often, genuine vs generic, wheel/spring
+troubleshooting, 11-question FAQ (schema builds). Sources: Zippo KB flint and
+not-lighting pages, the zippo.com flint guide and product guide, the Zippo AU FAQ and
+getting-started pages, the Zippo KB butane insert and warranty pages. Links:
+`B000EAEAHK` (flints) and `B01G2IUJX6` (flint + wick pack). Hero reuses
+`zippo-insert-swap-workbench.webp` (also the insert guide's hero), so a dedicated hero
+is still needed. Reciprocal links from the refill guide, the repair guide and the
+best-sellers flint row. Both flint ASINs re-checked in stock (US view) on 2026-10-26.
+Pushed live 2026-10-26 with Batu's go-ahead. Build passes, 48 pages; all 307 Amazon links in `dist/` carry
+`tag=lightertorch-20`.
+
+**Next candidate:** Zippo wick replacement ("zippo wick replacement" 1.3K/SD 27,
+"zippo lighter wick replacement" 320/SD 30). Run Keyword Ideas before drafting.
