@@ -92,7 +92,7 @@ Zippo's [not-lighting checklist](https://kb.zippo.com/zippo-lighter/not-lighting
 
 If your lighter needs several strikes to catch even with a good spark, the wick is probably charred too. Doing both jobs at once saves taking the insert apart twice. Change the flint first, since it's the quicker job. Then pull the wick up with tweezers and trim the black tip level with the chimney. Zippo says to replace the wick after [two or three trims](https://www.zippo.com.au/pages/zippo-lighters-getting-started). Replacing a wick means taking out the felt pad and cotton, which also means removing the flint screw, so check the flint didn't fall out before you put the pad back.
 
-Our [refill guide](/how-to-refill-a-zippo-lighter/) has the full wick steps. Then refuel and test.
+Our [Zippo wick replacement guide](/zippo-wick-replacement/) has the full wick steps. Then refuel and test.
 
 ## FAQ
 

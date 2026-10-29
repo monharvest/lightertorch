@@ -124,7 +124,7 @@ Every Zippo arrives dry, so fuel is the first thing to buy with it. Zippo's inst
 |---|---|---|
 | Lighter fluid | When the flame gets weak. It evaporates even if you never light the Zippo. | [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) |
 | Flints | When the wheel spins but doesn't spark ([Zippo's troubleshooting](https://kb.zippo.com/zippo-lighter/not-lighting), [how to replace it](/zippo-flint-replacement/)) | [Zippo flints](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20) |
-| Wicks | When the wick turns black, pull up about 1 cm and trim, once or twice a year. Replace it after two or three trims ([Zippo](https://kb.zippo.com/zippo-lighter/wick)). | [Zippo wicks](https://www.amazon.com/s?k=zippo+replacement+wick&tag=lightertorch-20) |
+| Wicks | When the wick turns black, pull up about 1 cm and trim, once or twice a year. Replace it after two or three trims ([Zippo](https://kb.zippo.com/zippo-lighter/wick), [how to replace it](/zippo-wick-replacement/)). | [Zippo wicks](https://www.amazon.com/s?k=zippo+replacement+wick&tag=lightertorch-20) |
 | Butane | Butane inserts only. Zippo recommends Zippo or Ronson butane ([Zippo](https://kb.zippo.com/butane-lighter-inserts)). | [Zippo butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20) |
 
 To fill a fluid Zippo, Zippo says to stop when the fuel reaches the top of the cotton packing, then wipe the lighter and your hands dry before lighting it. Spilled fluid is the real hazard, not the lighter itself; see [can a Zippo explode?](/can-a-zippo-explode/) The flint and wick swaps are step by step in our [Zippo repair and care guide](/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/).

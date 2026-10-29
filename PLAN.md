@@ -838,3 +838,47 @@ Pushed live 2026-10-26 with Batu's go-ahead. Build passes, 48 pages; all 307 Ama
 
 **Next candidate:** Zippo wick replacement ("zippo wick replacement" 1.3K/SD 27,
 "zippo lighter wick replacement" 320/SD 30). Run Keyword Ideas before drafting.
+
+### 2026-10-29 — Thursday session
+**Branch `session-2026-10-29` (local only, not pushed).**
+
+**Ubersuggest (lightertorch.com, US):** On-Page SEO score 96 (7 issues), 338
+organic keywords (+118%), est. traffic 54, DA 6, 96 backlinks. Tracked keywords:
+"best cheap torches" pos 37 (+38), "best distance flashlight" 52 (+10), "what is
+inside lighters" 71 (-4), "best cheap torch" 82 (-5), "brightest budget flashlight"
+85 (0), "best powerful torch" not ranked; average position 74.75.
+
+**GSC, 28 days (Sep 29–Oct 26):** 14 clicks, 2,165 impressions, CTR 0.65%, average
+position 30.4.
+
+**Holiday pages:** all gift guide and roundup ASINs in stock on Amazon US except
+**`B004BATWE0` (Zippo Classic Black Matte)**: no Add to Cart, only other sellers. Not
+changed yet, waiting on Batu's decision. It's used twice on the gift guide (the quick
+answer's "Brushed Chrome or Black Matte with engraving" upgrade pick, and the Black
+Matte bullet in "The Classics", which already names the red-bordered `B001E5FLWW` as
+the sold-out fallback) and three times on the best-sellers page (quick answer, table
+row, "Check price" button).
+
+**New draft: `/zippo-wick-replacement/`.** Primary "zippo wick replacement" 1.3K/SD 27;
+also "zippo lighter wick replacement" 320/SD 30, "zippo wick near me" 170/SD 26,
+"zippo wick replacement instructions" 10/SD 7, "can you replace the wick in a zippo"
+10/SD 9, "zippo hand warmer wick replacement" 10, plus low-volume when/how-often
+questions. Overlap check: the refill guide (one wick paragraph), the repair guide
+(wick maintenance section), the flint post (flint + wick section) and the best-sellers
+wick row only cover it as sub-sections, and no page targets the query, so it's a new
+post. ~2,050 words: signs, trim vs replace, tools, 11 steps, how often, genuine vs
+generic, where to buy (incl. near me: Zippo store locator, tobacco shops, Ace,
+Walmart, zippo.com, Amazon), butane insert and hand warmer notes (neither has a wick;
+refillable hand warmers use a replaceable catalytic burner), troubleshooting table,
+10-question FAQ (schema builds). Sources: Zippo KB wick, not-lighting, butane insert,
+refillable hand warmer and warranty pages; the zippo.com wick guide, wick product,
+co-pack, hand warmer burner and store locator pages; the Zippo AU FAQ and
+getting-started pages; Ace Hardware's Zippo page and Walmart's Zippo wicks listing.
+Links: `B005QH6RHW` (5 wicks), `B01IAM6JN6` (wick set), `B01G2IUJX6` (flint + wick
+co-pack), `B071LFFN5V` (4 oz fluid). Hero reuses
+`/uploads/2026/10/zippo-refill-fluid-into-cotton.webp` (the refill guide's hero), so
+a dedicated hero is still needed. Reciprocal links from the flint post, the refill
+guide, the repair guide and the best-sellers wick row. Build passes, 49 pages; all
+315 Amazon links in `dist/` carry `tag=lightertorch-20`; no prices in the new post.
+
+Not pushed, waiting on Batu's OK.

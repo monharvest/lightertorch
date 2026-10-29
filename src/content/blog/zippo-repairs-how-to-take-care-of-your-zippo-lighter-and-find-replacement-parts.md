@@ -60,7 +60,7 @@ A wick doesn't usually need replacing — it needs raising. Every lighting chars
 
 Grab the wick with tweezers or needle-nose pliers and pull it up until clean wick appears (Zippo suggests about 1 cm), then snip the blackened tip flush with the top of the chimney. [Zippo's own wick guide](https://kb.zippo.com/zippo-lighter/wick) says to do this once or twice a year, and to replace the wick once it has been trimmed more than two or three times.
 
-When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel.
+When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel. Our [Zippo wick replacement guide](/zippo-wick-replacement/) walks through it step by step.
 
 ## What to Send Back — and Why It's Free
 
