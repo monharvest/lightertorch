@@ -8,7 +8,7 @@ categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'best Zippo lighter', 'Zippo lighter fluid', 'Zippo Armor', 'Amazon best sellers', 'Zippo collectibles']
 ---
 
-**Quick answer:** For most people the best Zippo lighter is the [Classic Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20). Zippo says the finish, introduced in 1933, is still its most popular, and it tops Amazon's Best Sellers sort for Zippo lighters. The [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) is the cheaper, scuff-hiding pick, the [Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20) the no-shine one, and the [Armor Brushed Brass](https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B0007RX59O/?tag=lightertorch-20) the heavy one. Add the [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) only if you want a torch flame.
+**Quick answer:** For most people the best Zippo lighter is the [Classic Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20). Zippo says the finish, introduced in 1933, is still its most popular, and it tops Amazon's Best Sellers sort for Zippo lighters. The [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) is the cheaper, scuff-hiding pick, the [Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) the no-shine one, and the [Armor Brushed Brass](https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B0007RX59O/?tag=lightertorch-20) the heavy one. Add the [butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) only if you want a torch flame.
 
 Every windproof Zippo on this list is the same lighter underneath: the same chimney, flint wheel and wick, the same click, and the same lifetime guarantee. What you are really choosing is the finish, the case, and the fuel. That's why the best-selling Zippos are the plain ones.
 
@@ -19,7 +19,7 @@ When we sorted [Amazon's "zippo lighter" results by Best Sellers](https://www.am
 | Model | Finish | Case | Best for |
 |---|---|---|---|
 | [Classic Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) | Brushed front and back, polished sides | Classic | A first Zippo, engraving, gifts |
-| [Classic Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20) | Black matte | Classic | A low-key, no-glare look |
+| [Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) | Black matte, red edge | Classic | A low-key, no-glare look |
 | [Armor Brushed Brass](https://www.amazon.com/Zippo-Armor-Polish-Pocket-Lighter/dp/B0007RX59O/?tag=lightertorch-20) | Brushed brass | Armor, about 1.5x as thick | Weight in the hand, keepsakes |
 | [Single Torch Butane Insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | None (it's an insert) | Fits classic cases only | A jet flame for cigars and wind |
 | [Classic Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) | Tumbled, "pocket-worn" chrome | Classic | The cheapest way into a real Zippo |
@@ -53,13 +53,13 @@ Zippo says the Brushed Chrome finish [was created in 1933 and has remained its m
 
 ![A black matte Zippo lighter with its lid open and flame lit against a dark background.](/uploads/2025/05/Zippo-Matte-Black-Lighter-with-open-flame-against-dark-background.jpeg)
 
-Black matte was [the first matte finish in Zippo's stock line, introduced in 1984](https://zippo.com/products/classic-matte-black). This page links the plain Classic Black Matte. If that listing sells out, the [Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) has the same finish with a red edge and the Zippo logo.
+Black matte was [the first matte finish in Zippo's stock line, introduced in 1984](https://zippo.com/products/classic-matte-black). This page links the [Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20): the same matte finish with a thin red edge and the Zippo logo. The plain Classic Black Matte is mostly sold by third-party sellers on Amazon right now, so check the seller if you'd rather have the version without the border.
 
 **Why buy it:** no glare and no smudged chrome. It suits anyone who would rather not carry something shiny.
 
 **Keep in mind:** a coated finish can wear through at the edges after years of pocket carry, and finish wear isn't covered by the guarantee. It also costs more than the chrome models.
 
-[Check price on Amazon →](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20)
+[Check price on Amazon →](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20)
 
 ### 3. Armor Brushed Brass: Best Heavy-Duty Zippo
 
@@ -95,7 +95,7 @@ Street Chrome was [introduced in 2001](https://zippo.com/products/classic-street
 
 - **A first Zippo, or a gift for someone whose taste you don't know:** Brushed Chrome.
 - **Daily pocket carry on a budget:** Street Chrome.
-- **You don't like shiny things:** Black Matte.
+- **You don't like shiny things:** Black Matte with Red Border.
 - **You want weight and a keepsake feel:** Armor Brushed Brass, knowing it won't take a butane insert.
 - **Cigars, wind, or you hate refilling fluid:** any classic-case Zippo plus the Single Torch insert.
 

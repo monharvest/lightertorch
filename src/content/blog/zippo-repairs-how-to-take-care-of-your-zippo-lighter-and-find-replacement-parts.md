@@ -8,7 +8,7 @@ categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
 ---
 
-**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20), a charred [wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20), or a dry felt pad. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
+**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20), a charred [wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20), or a dry felt pad. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
 
 ## First: Diagnose Before You Disassemble
 
@@ -60,7 +60,7 @@ A wick doesn't usually need replacing — it needs raising. Every lighting chars
 
 Grab the wick with tweezers or needle-nose pliers and pull it up until clean wick appears (Zippo suggests about 1 cm), then snip the blackened tip flush with the top of the chimney. [Zippo's own wick guide](https://kb.zippo.com/zippo-lighter/wick) says to do this once or twice a year, and to replace the wick once it has been trimmed more than two or three times.
 
-When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/s?k=zippo+wick&tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel. Our [Zippo wick replacement guide](/zippo-wick-replacement/) walks through it step by step.
+When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel. Our [Zippo wick replacement guide](/zippo-wick-replacement/) walks through it step by step.
 
 ## What to Send Back — and Why It's Free
 

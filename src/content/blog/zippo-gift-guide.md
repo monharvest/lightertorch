@@ -8,7 +8,7 @@ categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'gift guide', 'gifts for men', 'gifts for collectors', 'lighter gifts']
 ---
 
-**Quick answer:** A Zippo is one of the few affordable gifts that can genuinely last the rest of someone's life — every one carries the same [lifetime "it works or we fix it free" guarantee](https://kb.zippo.com/warranty-repair), from the plainest chrome case to a limited edition. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
+**Quick answer:** A Zippo is one of the few affordable gifts that can genuinely last the rest of someone's life — every one carries the same [lifetime "it works or we fix it free" guarantee](https://kb.zippo.com/warranty-repair), from the plainest chrome case to a limited edition. The safe pick is the [Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20) (the iconic look). The upgrade pick is a [Brushed Chrome](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20) or [Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) with **engraving**. The complete gift adds a can of fluid and spare flints — details below.
 
 Why do Zippos make such reliable gifts? They're personal without being risky (no sizes, no tastes to guess), they patina into keepsakes, and the recipient doesn't even need to smoke — candles, campfires, grills, and the sheer ritual of the click cover it. Here's the full menu, grouped by who you're buying for.
 
@@ -17,7 +17,7 @@ Why do Zippos make such reliable gifts? They're personal without being risky (no
 The plainest Zippo has the *same* mechanism as every other Zippo; the models differ only in case and finish.
 
 - **[Street Chrome](https://www.amazon.com/Zippo-Street-Chrome-Pocket-Lighter/dp/B000MT8Y98/?tag=lightertorch-20)** — the one from the movies. Slightly textured chrome that hides fingerprints and wears in beautifully. If you know nothing about the recipient, this is the answer.
-- **[Black Matte](https://www.amazon.com/dp/B004BATWE0/?tag=lightertorch-20)** — the modern minimalist option; looks sharp with everything and suits anyone who'd rather not flash chrome. (If that listing sells out, the [red-bordered version](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20) has the same matte finish with a red edge and the Zippo logo.)
+- **[Black Matte with Red Border](https://www.amazon.com/dp/B001E5FLWW/?tag=lightertorch-20)** — the modern minimalist option: a no-glare matte black case with a thin red edge and the Zippo logo. It looks sharp with everything and suits anyone who'd rather not flash chrome. (The plain Black Matte without the border is mostly sold by third-party sellers on Amazon right now.)
 
 ## The Upgrades: For Someone Who Appreciates Craft
 
