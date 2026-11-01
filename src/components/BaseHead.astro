@@ -35,10 +35,15 @@ const imageURL = new URL(imagePath, Astro.site);
 />
 <meta name="generator" content={Astro.generator} />
 
-<!-- Google tag (gtag.js) — production builds only, so dev-server previews don't count as visits -->
+<!-- Google tag (gtag.js) + AdSense — production builds only, so dev-server previews don't count as visits -->
 {
 	import.meta.env.PROD && (
 		<>
+			<script
+				async
+				src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1320198648576974"
+				crossorigin="anonymous"
+			></script>
 			<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZWE72TWTHB"></script>
 			<script is:inline>
 				window.dataLayer = window.dataLayer || [];
