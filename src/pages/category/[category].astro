@@ -24,8 +24,38 @@ export async function getStaticPaths() {
 	}));
 }
 
+// Per-category SEO copy: a generic "Posts in X" page is too thin for Google to index
+const CATEGORY_COPY: Record<string, { title: string; description: string; intro: string }> = {
+	'Buying Guides': {
+		title: 'Flashlight & Lighter Buying Guides (2026)',
+		description: 'Flashlight and lighter buying guides: best picks for camping, EDC, power outages and long range, plus what lumens, candela and price really get you.',
+		intro: 'Every buying guide on LighterTorch in one place. Flashlight guides cover camping, everyday carry, power outages and long-range throw, and the lighter guides compare arc, butane and Zippo options. New to flashlight specs? Start with <a href="/lumens-vs-candela-vs-beam-distance/">lumens vs candela vs beam distance</a> or <a href="/how-many-lumens-should-flashlight-have-2/">how many lumens you actually need</a>, then see our <a href="/best-flashlights-on-amazon/">best flashlights on Amazon</a>.',
+	},
+	'Brands': {
+		title: 'Flashlight & Lighter Brands: Zippo, Olight, Fenix',
+		description: 'Brand guides for flashlights and lighters: Olight vs Fenix vs Streamlight, the best flashlight brands, and Zippo picks, refills, repairs and parts.',
+		intro: 'Guides to the flashlight and lighter brands worth knowing. For flashlights, compare <a href="/olight-vs-fenix-vs-streamlight/">Olight vs Fenix vs Streamlight</a> or see our <a href="/what-is-the-best-torch-brand/">best flashlight brands</a> ranking. For Zippo owners, there are buying picks plus step-by-step care guides, from <a href="/how-to-refill-a-zippo-lighter/">refilling</a> to the <a href="/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/">Zippo repair guide</a>.',
+	},
+	'Safety Tips': {
+		title: 'Lighter & Flashlight Safety Tips',
+		description: 'Lighter and flashlight safety: TSA rules for flying with a lighter, Zippo explosion risks, lighter shocks, lighting a gas stove safely and outage prep.',
+		intro: 'Practical safety answers for lighters, gas stoves and emergency lighting. Find out <a href="/can-you-bring-a-lighter-on-a-plane/">whether you can bring a lighter on a plane</a>, <a href="/can-a-zippo-explode/">whether a Zippo can explode</a> in a hot car, and <a href="/manually-lighting-a-gas-stove/">how to light a gas stove manually</a> during a power outage. For outage prep, see the <a href="/best-flashlights-for-power-outages/">best flashlights for power outages</a>.',
+	},
+	'Torch Lighter Reviews': {
+		title: 'Lighter & Flashlight Reviews and Comparisons',
+		description: 'Head-to-head lighter and flashlight reviews: Zippo vs BIC vs arc lighter cost per year, butane vs fluid Zippo inserts, and the longest-range flashlights.',
+		intro: 'Side-by-side reviews that compare lighters and flashlights on real numbers rather than marketing claims. See <a href="/zippo-vs-bic-vs-arc-lighter/">Zippo vs BIC vs arc lighter</a> on cost per year, <a href="/butane-vs-lighter-fluid-zippo-insert/">butane vs lighter fluid</a> for your Zippo, and which <a href="/what-is-the-best-long-range-flashlight/">long-range flashlights</a> actually throw the farthest.',
+	},
+	'How-to Guides': {
+		title: 'Lighter How-To Guides: Refill, Fix & Repair',
+		description: 'Step-by-step lighter guides: refill a butane or Zippo lighter, fix a lighter that won\'t light, replace a Zippo flint or wick, and fix a gas stove igniter.',
+		intro: 'Step-by-step guides for refilling, fixing and maintaining lighters. Start with <a href="/fixing-a-lighter/">how to fix a lighter that won\'t light</a> or <a href="/filling-up-a-gas-lighter/">how to refill a butane lighter</a>. Zippo owners can <a href="/zippo-flint-replacement/">replace the flint</a> and <a href="/zippo-wick-replacement/">change the wick</a> in a few minutes.',
+	},
+};
+
 const { category } = Astro.props;
-const posts = (await getCollection('blog')).filter(post => 
+const copy = CATEGORY_COPY[category];
+const posts = (await getCollection('blog')).filter(post =>
 	post.data.categories && post.data.categories.includes(category)
 ).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 ---
@@ -33,7 +63,10 @@ const posts = (await getCollection('blog')).filter(post =>
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={`${category} - ${SITE_TITLE}`} description={`Posts in ${category} category`} />
+		<BaseHead
+			title={copy ? `${copy.title} | LighterTorch` : `${category} - ${SITE_TITLE}`}
+			description={copy?.description ?? `Posts in ${category} category`}
+		/>
 		<style>
 			main {
 				width: 960px;
@@ -70,6 +103,10 @@ const posts = (await getCollection('blog')).filter(post =>
 			}
 			ul li a {
 				display: block;
+			}
+			.intro {
+				max-width: 720px;
+				margin: 0 0 2rem;
 			}
 			.title {
 				margin: 0;
@@ -109,6 +146,7 @@ const posts = (await getCollection('blog')).filter(post =>
 		<main>
 			<section>
 				<h1>{category}</h1>
+				{copy && <p class="intro" set:html={copy.intro} />}
 				{posts.length === 0 ? (
 					<p>No posts found in this category.</p>
 				) : (
