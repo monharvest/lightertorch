@@ -2,7 +2,7 @@
 title: "Best Zippo Lighters on Amazon (2026): Picks & Collectibles"
 description: 'The best Zippo lighter for most people is the Brushed Chrome. Street Chrome, Black Matte, Armor and the butane insert compared, plus the right fluid.'
 pubDate: '2025-05-17'
-updatedDate: '2026-10-19'
+updatedDate: '2026-11-02'
 heroImage: '/uploads/2026/09/zippo-classic-lineup-walnut.webp'
 categories: ['Buying Guides', 'Brands']
 tags: ['Zippo', 'best Zippo lighter', 'Zippo lighter fluid', 'Zippo Armor', 'Amazon best sellers', 'Zippo collectibles']
@@ -49,7 +49,7 @@ Zippo says the Brushed Chrome finish [was created in 1933 and has remained its m
 
 [Check price on Amazon →](https://www.amazon.com/Zippo-Brushed-Chrome-Pocket-Lighter/dp/B001E5FLT0/?tag=lightertorch-20)
 
-### 2. Black Matte: Best Zippo for a Low-Key Look
+### 2. Black Matte with Red Border: Best Zippo for a Low-Key Look
 
 ![A black matte Zippo lighter with its lid open and flame lit against a dark background.](/uploads/2025/05/Zippo-Matte-Black-Lighter-with-open-flame-against-dark-background.jpeg)
 

@@ -881,4 +881,33 @@ a dedicated hero is still needed. Reciprocal links from the flint post, the refi
 guide, the repair guide and the best-sellers wick row. Build passes, 49 pages; all
 315 Amazon links in `dist/` carry `tag=lightertorch-20`; no prices in the new post.
 
-Not pushed, waiting on Batu's OK.
+Pushed live 2026-10-31 with Batu's go-ahead (`fe81565..016ff0f`), together with the
+Red Border Zippo `B001E5FLWW` replacing `B004BATWE0` on the gift guide and best-sellers.
+
+### 2026-11-02 — Monday session
+**Branch `session-2026-11-02` (local only, not pushed).** Synced with origin/master
+first (Batu's Nov 1–2 commits: category pages, AdSense script, ads.txt).
+
+**Blocked:** the local dashboard (localhost:3000) wasn't running, so no GSC/GA4 check
+and no recheck of the Oct 10–11 rewrites yet. Ubersuggest showed signed out in the box
+browser, so no project numbers and no Keyword Ideas; no new post drafted.
+
+**Holiday pages (Amazon US, ZIP 10001):** all gift guide and roundup picks in stock
+except **`B071LFFN5V` (Zippo 4 oz fluid): "Currently unavailable", no other sellers.**
+No in-stock Zippo-brand fluid on Amazon (the 12 oz `B002CENQPS` is third-party only).
+It's linked from 10 posts (11 links). Not changed yet, waiting on Batu's decision.
+USPS 2026 send-by FAQ re-checked against usps.com: still correct (Dec 17/18/19).
+
+**Best-sellers:** heading now "Black Matte with Red Border". The photo's alt text
+stays as is, because the image shows a plain black matte case (no border); a photo of
+the red-border model would be needed to change it. `updatedDate` 2026-11-02.
+
+**`/best-flashlights-for-power-outages/` optimized** (#59, high impact). New title
+"Best Flashlights for Power Outages: Blackout Kit (2026)", winter-storm angle, an
+at-a-glance picks table, and direct `/dp/` links replacing the 5 search links: Coleman
+LED lantern `B07HF226B4` (4 D), Fenix CL28R `B0BSB4BNNG` (USB-C), Black Diamond Spot
+400 `B0H1R7P6L2` (AAA), Fenix PD36R V2.0 `B0H73HZH2Y`, Streamlight PolyTac
+`B001S0IN46`; all in stock 2026-11-02. Sources added: Ready.gov power outages and
+winter weather, the Fenix PD36R V2.0 manual and product page. Added CO safety, car
+flashlight, 3 new FAQs (7 total). Removed the unsourced Ida claim. ~1,600 words.
+Build passes, 49 pages; all 322 Amazon links in `dist/` carry `tag=lightertorch-20`.
