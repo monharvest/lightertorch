@@ -61,7 +61,7 @@ Acebeam lists it at [54.6 g, with 550 lumens on High and a 5-lumen Low that runs
 
 **Best for:** lighting a table or a tent, and campers who want an AA backup with more output.
 
-A flashlight makes a decent lantern if it can stand on its tail and spread its beam. The TAC 2AA does both: it tail-stands, and [Acebeam's own store sells it with a pair of diffuser caps, one white and one orange](https://www.acebeam.com/tac-2aa). Stand it on the camp table with the white cap on and it lights the space instead of dazzling whoever it points at. Check that the Amazon listing includes the caps before you buy.
+A flashlight makes a decent lantern if it can stand on its tail and spread its beam. The TAC 2AA does both: it tail-stands, and [Acebeam's own store sells it with a pair of diffuser caps, one white and one orange](https://www.acebeam.com/tac-2aa). Stand it on the camp table with the white cap on and it lights the space instead of dazzling whoever it points at. For a dedicated lantern, see our [best rechargeable camping lanterns](/best-rechargeable-camping-lanterns/). Check that the Amazon listing includes the caps before you buy.
 
 The low modes are what make it work for this job. On the included rechargeable cell, Moon gives 1.6 lumens for 94 hours and Low gives 35 lumens for 36 hours. It also runs on two AA batteries, which matters on a long trip, but it's a different light on AAs: Acebeam lists Turbo at about 630 lumens instead of 1,600 on NiMH cells, and Low drops to 24 hours. The body is IP68 (6.5 ft for 30 minutes), weighs 106 g and is drop-rated to 1.5 m.
 

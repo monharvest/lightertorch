@@ -971,3 +971,16 @@ Sections: lumens vs runtime, USB-C/power-bank output, warm light and red mode, h
 options, power-outage use. No overlap: `/what-is-the-best-torch-for-camping/` is the
 headlamp-vs-lantern framework, `/best-camping-flashlights/` covers handhelds. Link both ways,
 plus from the power-outage guide. Needs a hero prompt and a stock check (ZIP 10001).
+
+**Draft written 2026-11-03** on branch `draft-lantern-2026-11-03`:
+`/best-rechargeable-camping-lanterns/` (~1,900 words incl. table, 4 picks, 7 FAQs). Specs from
+fenixlighting.com and goalzero.com product pages. Amazon stock check (US view, NY 10001, 2026-11-03):
+- Fenix CL28R `B0BSB4BNNG`: In Stock, ships from Amazon, sold by Lumen Tactical.
+- Fenix CL26R Pro `B0CJDXV51G`: "Only 5 left", ships from Amazon, sold by EdisonBright (bundle with cable).
+- Goal Zero Lighthouse 600 `B08HRM4J8Y`: orderable, sold by Goal Zero, but delivery quoted Nov 21 to Dec 16. Recheck before publishing.
+- Goal Zero Lighthouse Micro Charge `B075MGL7R8`: In Stock, ships from Amazon, sold by Goal Zero.
+Dropped: Black Diamond Moji R+ (Micro-USB, maker page gives both 150 and 200 lm); Coleman Classic
+Recharge 400 (coleman.com blocks with a bot check, specs unverifiable from the maker).
+Hero is a placeholder (`2026/08/camping-lantern-tent-night.webp`, shows a flame torch); prompt in
+`lightertorch-images/PROMPTS-2026-11-03-rechargeable-lantern.md`. Linked from the camping torch
+framework, camping flashlights and power-outage posts. Not published.

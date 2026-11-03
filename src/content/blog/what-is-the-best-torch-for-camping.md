@@ -38,7 +38,7 @@ Specific models, and why camping and running want different ones, are in [best h
 
 ### Lantern: what makes a camp feel civilised
 
-A lantern isn't a luxury item — it solves the problem headlamps create. Sit four people round a table wearing headlamps and everyone spends the evening being dazzled. A [lantern](https://www.amazon.com/s?k=led+camping+lantern+rechargeable&tag=lightertorch-20) throws diffuse light in all directions, so faces are lit and nobody is aiming anything at anybody.
+A lantern isn't a luxury item — it solves the problem headlamps create. Sit four people round a table wearing headlamps and everyone spends the evening being dazzled. A [lantern](https://www.amazon.com/s?k=led+camping+lantern+rechargeable&tag=lightertorch-20) throws diffuse light in all directions, so faces are lit and nobody is aiming anything at anybody. Our picks are in [best rechargeable camping lanterns](/best-rechargeable-camping-lanterns/).
 
 Look for a hanging hook or a magnetic base, a warm colour temperature (3,000–4,000 K is far more pleasant than cold blue-white at close range), and a mid-mode runtime in the tens of hours. Many double as power banks, which is genuinely useful on a longer trip.
 
