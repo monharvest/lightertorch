@@ -37,7 +37,7 @@ A bare Zippo arrives *unfueled*: because of carrier restrictions, [Zippo ships e
 | Add-on | Why | 
 |---|---|
 | [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) | The lighter is a paperweight without it |
-| [Flints + wicks](https://www.amazon.com/dp/B01G2IUJX6/?tag=lightertorch-20) | Zippo's co-pack has three flint cards and three wicks: years of upkeep |
+| [Flints + wicks](https://www.amazon.com/dp/B01G2IUJX6/?tag=lightertorch-20) | Zippo's co-pack has three flint cards and three wick cards: years of upkeep (see [how to change a Zippo wick](/zippo-wick-replacement/)) |
 | [Butane insert](https://www.amazon.com/Zippo-Butane-Lighter-Insert-Single/dp/B0D33ZGNFD/?tag=lightertorch-20) | The modern upgrade — fixes the classic evaporation complaint (fluid escapes in ~1–2 weeks, as we cover [here](/a-gas-lighter-last-how-long/)); see [which insert to pick](/butane-vs-lighter-fluid-zippo-insert/) |
 
 Pair any lighter with fluid + flints and you've built a complete "Zippo starter kit" without spending much more than the lighter itself.

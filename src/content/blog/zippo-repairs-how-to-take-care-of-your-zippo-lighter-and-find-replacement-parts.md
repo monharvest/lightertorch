@@ -2,13 +2,13 @@
 title: 'Zippo Repair Guide: Fix It Yourself or Send It Back Free'
 description: 'Zippo repairs it free for life — but most faults are a two-minute fix at your kitchen table. Here is what to replace yourself and what to ship to Bradford.'
 pubDate: '2024-03-05'
-updatedDate: '2026-10-10'
+updatedDate: '2026-11-03'
 heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it.jpg'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
 ---
 
-**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20), a charred [wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20), or a dry felt pad. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
+**Quick answer:** Almost every "broken" Zippo is one of four things — out of fuel, a worn [flint](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20), a charred [wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20), or a flint wheel clogged with dust. All four are user-serviceable in under five minutes with parts that cost a couple of dollars. If the *case* is the problem — a sprung hinge, a dead cam, a lid that won't stay shut — don't touch it. Zippo's lifetime guarantee covers mechanical failure with no charge for the repair, and opening the case yourself is the one thing that can turn a free fix into a paperweight.
 
 ## First: Diagnose Before You Disassemble
 
@@ -18,7 +18,7 @@ Work through it in this order. [Zippo's own not-lighting checklist](https://kb.z
 
 | Symptom | Likely cause | Fix |
 |---|---|---|
-| Wheel sparks, no flame | Out of fuel | Refill the felt pad |
+| Wheel sparks, no flame | Out of fuel | Refill the cotton packing |
 | No spark at all, wheel spins freely | Flint worn out | Replace flint |
 | Weak sparks, gritty wheel | Flint dust packed in the wheel | Clean wheel, replace flint |
 | Lights but flame is tiny/yellow | Wick charred or sunk too low | Trim and raise the wick |
@@ -28,9 +28,9 @@ Work through it in this order. [Zippo's own not-lighting checklist](https://kb.z
 
 ## The Three Repairs You Should Do Yourself
 
-Everything below happens to the **insert** — the metal chassis that lifts out of the case. Pull it straight up and out. Nothing you do to the insert affects your guarantee, because inserts are consumable parts.
+Everything below happens to the **insert** — the metal chassis that lifts out of the case. Pull it straight up and out. Fuel, flints and wicks are routine upkeep, and changing them doesn't affect your guarantee.
 
-### 1. Refuelling (the fix for most "dead" Zippos)
+### 1. Refueling (the fix for most "dead" Zippos)
 
 Lift the insert out and flip it over, as in [Zippo's fill guide](https://kb.zippo.com/zippo-lighter/fill). Under the felt pad is packed cotton batting. Peel the pad back — a fingernail is enough — and soak the cotton with [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) or any naphtha-based fluid until it's damp but not dripping. Roughly a 10–15 second squeeze on a fresh can. Our [step-by-step Zippo refill guide](/how-to-refill-a-zippo-lighter/) covers overfilling, evaporation and troubleshooting.
 
@@ -39,7 +39,7 @@ Two things people get wrong here:
 - **Don't overfill.** Excess naphtha runs out onto your palm and then you're holding a burning hand. If fluid pools or the insert feels wet on the outside, blot it and wait.
 - **Wait about two minutes** before striking, and wipe your hands. This isn't fussiness — see [can a Zippo explode?](/can-a-zippo-explode/) for what actually goes wrong with fuel-soaked lighters.
 
-Never put butane in a standard Zippo insert. Butane needs Zippo's own pressurised butane insert, which is a different product entirely. If you want a butane flame in a Zippo case, buy the insert — don't improvise. Which one, and what it costs you in warranty terms, is covered in [butane vs lighter fluid: which Zippo insert](/butane-vs-lighter-fluid-zippo-insert/).
+Never put butane in a standard Zippo insert. Butane needs Zippo's own pressurized butane insert, which is a different product entirely. If you want a butane flame in a Zippo case, buy the insert — don't improvise. Which one, and what it costs you in warranty terms, is covered in [butane vs lighter fluid: which Zippo insert](/butane-vs-lighter-fluid-zippo-insert/).
 
 ### 2. Flint replacement
 
@@ -58,9 +58,9 @@ Our [Zippo flint replacement guide](/zippo-flint-replacement/) has every step, p
 
 A wick doesn't usually need replacing — it needs raising. Every lighting chars the exposed tip, and after a few dozen strikes the burnt section is all that's left above the chimney. The flame goes small, yellow and sooty.
 
-Grab the wick with tweezers or needle-nose pliers and pull it up until clean wick appears (Zippo suggests about 1 cm), then snip the blackened tip flush with the top of the chimney. [Zippo's own wick guide](https://kb.zippo.com/zippo-lighter/wick) says to do this once or twice a year, and to replace the wick once it has been trimmed more than two or three times.
+Grab the wick with tweezers or needle-nose pliers and pull it up until clean wick appears (Zippo suggests about 1 cm), then snip the blackened tip flush with the top of the chimney. [Zippo's own wick guide](https://kb.zippo.com/zippo-lighter/wick) says to do this once or twice a year, and to replace the wick after two or three trims.
 
-When you genuinely run out, replace it: pull the old wick out from the top, then thread the [new wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel. Our [Zippo wick replacement guide](/zippo-wick-replacement/) walks through it step by step.
+When you genuinely run out, replace it: take out the flint spring, felt pad and cotton packing from the bottom, pull the old wick free, then thread the [new wick](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20) down through the chimney and lay it in a zigzag through the cotton batting, not straight down. The zigzag is what keeps it in contact with fuel-soaked cotton along its whole length. Repack the cotton, refit the felt pad, refuel. Our [Zippo wick replacement guide](/zippo-wick-replacement/) walks through it step by step.
 
 ## What to Send Back — and Why It's Free
 
@@ -68,10 +68,10 @@ When you genuinely run out, replace it: pull the old wick out from the top, then
 
 What it does **not** cover is appearance: Zippo states that [the finish and decoration aren't covered](https://kb.zippo.com/zippo-lighter/worn-deco) by the lifetime guarantee. Plating wear, scratches, a faded engraving, a chipped enamel decoration — those are cosmetic and Zippo won't restore them. Expect your lighter back working perfectly and looking exactly as beaten-up as when you sent it.
 
-Two practical notes people learn the hard way:
+Three practical notes people learn the hard way:
 
 - **You pay shipping to them; they pay shipping back.** The repair itself costs nothing.
-- **Send the case, not just the insert**, and don't send fuel — ship it empty. Carriers treat a fuelled lighter as a hazardous material.
+- **Send the case, not just the insert**, and don't send fuel — ship it empty. Carriers treat a fueled lighter as a hazardous material.
 - If the exact part is discontinued, Zippo may return a **replacement lighter** of similar style rather than your original. If your lighter has sentimental or collector value, say so clearly in the note you include, or don't send it at all.
 
 Start at [Zippo's warranty and repair page](https://kb.zippo.com/warranty-repair) for the current form and shipping address (the plant is in Bradford, Pennsylvania). Requirements change; the page is authoritative and this article isn't.
@@ -91,7 +91,7 @@ Start at [Zippo's warranty and repair page](https://kb.zippo.com/warranty-repair
 - **Carry it, don't store it.** A Zippo used weekly stays in better shape than one in a drawer, where the fuel evaporates and the felt dries and hardens.
 - **Refuel before it's fully dry.** Running a bone-dry wick chars it faster.
 - **Wipe the case with a soft cloth only.** No solvents, no metal polish on painted or enamel finishes — that's exactly the damage the guarantee won't fix.
-- **Keep it out of hot cars.** Heat drives evaporation and pressurises the fumes inside the case.
+- **Keep it out of hot cars.** Heat drives evaporation and pressurizes the fumes inside the case.
 - **Replace flints on a schedule** rather than waiting for failure. It costs pennies and saves you the "wheel spins, nothing happens" moment.
 
 If you're weighing whether a Zippo is even the right lighter for your use, our [Zippo vs BIC vs arc lighter](/zippo-vs-bic-vs-arc-lighter/) comparison covers the trade-offs, and the [Zippo gift guide](/zippo-gift-guide/) breaks down models by budget. For non-Zippo lighters — the disposable and butane refillables that *don't* come with a lifetime guarantee — see [fixing a lighter](/fixing-a-lighter/).
@@ -106,7 +106,7 @@ If you're weighing whether a Zippo is even the right lighter for your use, our [
 
 **Why does my Zippo keep going out?** Almost always fuel. Naphtha evaporates in one to two weeks even unused. If it's freshly filled and still dying, the wick has sunk below the chimney or is charred through — pull it up and trim it.
 
-**Can I put butane in a regular Zippo?** No. Standard inserts are designed for naphtha and an absorbent cotton reservoir. Butane requires Zippo's dedicated pressurised insert, which swaps straight into the same case.
+**Can I put butane in a regular Zippo?** No. Standard inserts are designed for naphtha and an absorbent cotton reservoir. Butane requires Zippo's dedicated pressurized insert, which swaps straight into the same case.
 
 **Will Zippo return my original lighter?** Usually. If a needed part is discontinued they may substitute a comparable lighter instead, so don't ship anything irreplaceable without saying so.
 
