@@ -39,7 +39,7 @@ If a trim brings back a steady flame, you're done. If not, or there's no wick le
 - **Scissors or wire cutters** for the final trim.
 - **A coin or a small flathead screwdriver** for the flint spring screw.
 - **A tray or paper towel** to keep the packing in the order it came out.
-- **Lighter fluid** to refill once you're done, such as [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20).
+- **Lighter fluid** to refill once you're done, such as [Zippo lighter fluid](https://www.amazon.com/dp/B001E5FLWC/?tag=lightertorch-20).
 
 It's easiest with a nearly empty lighter. Work away from any flame and keep fluid off your hands; Zippo notes that lighter fluid [is a skin irritant](https://www.zippo.com.au/pages/zippo-lighters-getting-started).
 

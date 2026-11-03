@@ -984,3 +984,14 @@ Recharge 400 (coleman.com blocks with a bot check, specs unverifiable from the m
 Hero: `2026/11/rechargeable-lantern-camp-table.webp` (generated from
 `lightertorch-images/PROMPTS-2026-11-03-rechargeable-lantern.md`, installed 2026-11-03, passes the checklist). Linked from the camping torch
 framework, camping flashlights and power-outage posts. Not published.
+
+### 2026-11-03 — Zippo fluid link swap
+**Branch `session-2026-11-03` (local, not pushed).** Batu's decision on the Nov 2 open item:
+replace the unavailable Zippo 4 oz fluid `B071LFFN5V` with the **Zippo Classic Lighter Gift
+Set `B001E5FLWC`** in all 10 posts (11 links). Amazon US (NY 10001, 2026-11-03): In Stock,
+ships from and sold by Amazon.com. Contents per zippo.com (SKU 50R): a 4 oz can of Zippo
+lighter fuel, a 6-flint dispenser and a gift box, lighter not included. Standalone Zippo
+fluid is still out: 4 oz "Currently unavailable", 12 oz `B002CENQPS` third-party only, no
+buy box. Anchors changed where they implied a standalone can: gift guide add-on row, the
+best-sellers fluid row and the refill guide's supplies list. If `B071LFFN5V` comes back in
+stock, consider switching the generic "lighter fluid" links back. Build passes, 50 pages.

@@ -7,13 +7,13 @@ categories: ['How-to Guides', 'Brands']
 tags: ['Zippo', 'lighter fluid', 'refilling', 'lighter maintenance', 'flint', 'wick']
 ---
 
-**Quick answer:** To refill a Zippo lighter, pull the insert out of the case, turn it upside down and lift the corner of the felt pad. Slowly squeeze [lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) into the cotton packing and **stop when the fluid reaches the top of the packing**. Wipe the insert and your hands dry, close the fluid can, slide the insert back into the case and only then strike it. Those are the same steps as [Zippo's official fill instructions](https://kb.zippo.com/zippo-lighter/fill).
+**Quick answer:** To refill a Zippo lighter, pull the insert out of the case, turn it upside down and lift the corner of the felt pad. Slowly squeeze [lighter fluid](https://www.amazon.com/dp/B001E5FLWC/?tag=lightertorch-20) into the cotton packing and **stop when the fluid reaches the top of the packing**. Wipe the insert and your hands dry, close the fluid can, slide the insert back into the case and only then strike it. Those are the same steps as [Zippo's official fill instructions](https://kb.zippo.com/zippo-lighter/fill).
 
 The whole job takes under a minute. What goes wrong is nearly always overfilling, lighting a wet lighter, or putting butane where fluid belongs. The steps below avoid all three.
 
 ## What You Need
 
-- **Lighter fluid.** Zippo [recommends its own fluid](https://kb.zippo.com/zippo-lighter/fill), and a [4 oz can of Zippo fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) lasts a regular user a long time. Never use butane in a classic fluid insert.
+- **Lighter fluid.** Zippo [recommends its own fluid](https://kb.zippo.com/zippo-lighter/fill), and a 4 oz can of Zippo fluid lasts a regular user a long time ([Zippo's gift set](https://www.amazon.com/dp/B001E5FLWC/?tag=lightertorch-20) pairs one with 6 flints). Never use butane in a classic fluid insert.
 - **A paper towel** for spills.
 - **A paper clip** (optional) if the felt pad is hard to lift.
 

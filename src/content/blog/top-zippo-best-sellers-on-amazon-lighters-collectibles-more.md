@@ -122,7 +122,7 @@ Every Zippo arrives dry, so fuel is the first thing to buy with it. Zippo's inst
 
 | What | When you need it | Buy |
 |---|---|---|
-| Lighter fluid | When the flame gets weak. It evaporates even if you never light the Zippo. | [Zippo lighter fluid](https://www.amazon.com/dp/B071LFFN5V/?tag=lightertorch-20) |
+| Lighter fluid | When the flame gets weak. It evaporates even if you never light the Zippo. | [Zippo 4 oz fluid + 6 flints](https://www.amazon.com/dp/B001E5FLWC/?tag=lightertorch-20) |
 | Flints | When the wheel spins but doesn't spark ([Zippo's troubleshooting](https://kb.zippo.com/zippo-lighter/not-lighting), [how to replace it](/zippo-flint-replacement/)) | [Zippo flints](https://www.amazon.com/dp/B000EAEAHK/?tag=lightertorch-20) |
 | Wicks | When the wick turns black, pull up about 1 cm and trim, once or twice a year. Replace it after two or three trims ([Zippo](https://kb.zippo.com/zippo-lighter/wick), [how to replace it](/zippo-wick-replacement/)). | [Zippo wicks](https://www.amazon.com/dp/B005QH6RHW/?tag=lightertorch-20) |
 | Butane | Butane inserts only. Zippo recommends Zippo or Ronson butane ([Zippo](https://kb.zippo.com/butane-lighter-inserts)). | [Zippo butane](https://www.amazon.com/s?k=zippo+butane+fuel&tag=lightertorch-20) |
