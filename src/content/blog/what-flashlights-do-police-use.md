@@ -22,6 +22,8 @@ Popular duty models include:
 - **[Streamlight Stinger](https://www.amazon.com/s?k=streamlight+stinger+2020&tag=lightertorch-20)** — the classic rechargeable duty light found in patrol cars across the US, now rated at [2,000 lumens and a 315 m beam](https://www.streamlight.com/products/detail/stinger-2020) in its 2020 version.
 - **[SureFire](https://www.amazon.com/s?k=surefire+tactical+flashlight&tag=lightertorch-20)** — the premium alternative, favored by SWAT teams and the military for its bombproof reliability.
 
+How these makers compare on warranty and price is in our [best flashlight brands guide](/what-is-the-best-torch-brand/).
+
 Beyond the brand, US departments look for the same core traits: a compact body that rides comfortably on a duty belt, a powerful focused (throw) beam, a battery that survives a long shift, and a body that shrugs off drops, rain, and rough handling.
 
 ## What UK Police Use: LED Lenser P7 and NightSearcher

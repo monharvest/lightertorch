@@ -53,7 +53,7 @@ The jet is partially blocked. This is nearly always down to fuel quality: cheap 
 
 ### Problem 3: No spark at all
 
-On a piezo lighter, the button should give a firm *click* you feel through your thumb. If it clicks properly but produces no visible arc, the electrode wire has usually come loose or its insulation has failed — which is also the cause of the [zap some gas lighters give you](/lighter-cause-a-shock/). That's a replace-it fault, not a repair-it one.
+On a piezo lighter, the button should give a firm *click* you feel through your thumb. If it clicks properly but produces no visible arc, the electrode wire has usually come loose or its insulation has failed — which is also the cause of the [zap some gas lighters give you](/lighter-cause-a-shock/). That's a replace-it fault, not a repair-it one. If the igniter in a dead lighter still clicks and sparks, it can be reused as a [homemade spark lighter for a gas stove](/make-a-gas-lighter-at-home/).
 
 On a flint-wheel refillable, the flint is a consumable. Unscrew the retaining screw at the base, tip out the stub, drop in a new [flint](https://www.amazon.com/s?k=lighter+flints&tag=lightertorch-20) and refit the spring. If the sparks are just *weak*, the wheel is packed with flint dust — scrub the knurling with a stiff toothbrush before you blame the flint.
 

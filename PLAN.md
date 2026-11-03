@@ -911,3 +911,31 @@ LED lantern `B07HF226B4` (4 D), Fenix CL28R `B0BSB4BNNG` (USB-C), Black Diamond 
 winter weather, the Fenix PD36R V2.0 manual and product page. Added CO safety, car
 flashlight, 3 new FAQs (7 total). Removed the unsourced Ida claim. ~1,600 words.
 Build passes, 49 pages; all 322 Amazon links in `dist/` carry `tag=lightertorch-20`.
+
+## 2026-11-03 — Quick site audit + fixes
+
+**Audit (49 built pages):** every page has a title, description, canonical and one H1;
+no duplicate titles/descriptions, no broken internal links or images, all Amazon links
+tagged, disclosure on every page with Amazon links. Card thumbnails use `alt=""` (decorative, fine).
+
+**Fixed:**
+- `/make-a-gas-lighter-at-home/` had zero inbound links. Now linked from the gas stove,
+  fixing-a-lighter and voltage posts.
+- `/what-is-the-best-torch-brand/` had one inbound link. Now also linked from best
+  flashlights on Amazon and the police flashlights post.
+- Brand guide: removed maker list prices ($419.90, $99.90, $44.99, $24.99) next to Amazon
+  links; the at-a-glance table keeps approximate price ranges.
+- Zippo pages (earlier today): repair guide wick steps, fuel table, US spellings; gift
+  guide links the wick guide; best-sellers wick row links the 5-pack. Indexing requested
+  in GSC for the wick post, gift guide, best-sellers and repair guide.
+
+**Open:**
+- Three hero images are shared by two posts each. Prompts for the replacements are in
+  `lightertorch-images/PROMPTS-2026-11-03-duplicate-heroes.md` (wick replacement, flint
+  replacement, lighter shock). Not generated yet.
+- Five August buying guides have no `updatedDate` (arc lighters, Zippo vs BIC, EDC,
+  headlamps, keychain): refresh before the holidays.
+- `public/uploads/2026/09/fading-flashlight-beam-dark-garage.webp` and
+  `flashlight-submerged-water-tank-beam.webp` are untracked on purpose: heroes for the
+  planned "rechargeable flashlight dies fast" and "IP ratings" posts.
+- Keychain flashlights and the Sunitact review still have only 2 inbound links each.

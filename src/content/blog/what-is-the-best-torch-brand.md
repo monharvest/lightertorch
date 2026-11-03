@@ -82,7 +82,7 @@ Nitecore packs a lot of output into thin bodies. The [EDC37](https://www.amazon.
 
 **Founded:** [2014 (factory since 2009), Shenzhen, China](https://www.acebeam.com/aboutus) · **Best for:** maximum output, long throw, long warranty
 
-Acebeam builds some of the brightest lights on sale, including the fan-cooled [X75](https://www.amazon.com/s?k=acebeam+x75&tag=lightertorch-20), rated at [80,000 lumens and listed at $419.90](https://www.acebeam.com/x75). Its everyday [E75](https://www.amazon.com/s?k=acebeam+e75&tag=lightertorch-20) is more practical: [up to 4,500 lumens on one 21700 cell, USB-C charging and IP68 sealing for $99.90](https://www.acebeam.com/e75), and Acebeam states plainly how fast its turbo steps down (more on that below).
+Acebeam builds some of the brightest lights on sale, including the fan-cooled [X75](https://www.amazon.com/s?k=acebeam+x75&tag=lightertorch-20), rated at [80,000 lumens](https://www.acebeam.com/x75). Its everyday [E75](https://www.amazon.com/s?k=acebeam+e75&tag=lightertorch-20) is more practical: [up to 4,500 lumens on one 21700 cell, with USB-C charging and IP68 sealing](https://www.acebeam.com/e75), and Acebeam states plainly how fast its turbo steps down (more on that below).
 
 **Warranty:** in May 2025 Acebeam [extended free repair from five years to ten](https://www.acebeam.com/acebeam-unveils-exciting-warranty-extension-from-5-years-to-10-years), including lights bought before the change. After [ten years, repairs cost parts and shipping only](https://www.acebeam.com/acebeamwarranty).
 
@@ -92,7 +92,7 @@ Acebeam builds some of the brightest lights on sale, including the fan-cooled [X
 
 **Founded:** [1955, Los Angeles area](https://maglite.com/blogs/maghistory-blog-1/company-history) · **Best for:** glovebox and household lights, anyone who wants AA or D batteries
 
-Maglite lights are [designed and assembled at the company's only factory, in Southern California](https://maglite.com/blogs/maghistory-blog-1/what-it-means-to-be-a-u-s-a-manufacturer), though some parts are imported. The LED models are far better than the old incandescent ones. The [ML300LX 2D](https://www.amazon.com/s?k=maglite+ml300lx&tag=lightertorch-20) gives [524 lumens and a 366 m beam on two D cells, with up to 69 hours in Eco mode, for $44.99](https://maglite.com/products/maglite-ml300lx-led-2d-flashlight), and the [Mini Maglite Pro](https://www.amazon.com/s?k=mini+maglite+pro&tag=lightertorch-20) gets [332 lumens from two AAs for $24.99](https://maglite.com/products/mini-maglite-pro-led-pocket-purse-flashlight-1).
+Maglite lights are [designed and assembled at the company's only factory, in Southern California](https://maglite.com/blogs/maghistory-blog-1/what-it-means-to-be-a-u-s-a-manufacturer), though some parts are imported. The LED models are far better than the old incandescent ones. The [ML300LX 2D](https://www.amazon.com/s?k=maglite+ml300lx&tag=lightertorch-20) gives [524 lumens and a 366 m beam on two D cells, with up to 69 hours in Eco mode](https://maglite.com/products/maglite-ml300lx-led-2d-flashlight), and the [Mini Maglite Pro](https://www.amazon.com/s?k=mini+maglite+pro&tag=lightertorch-20) gets [332 lumens from two AAs](https://maglite.com/products/mini-maglite-pro-led-pocket-purse-flashlight-1).
 
 **Warranty:** Maglite's current warranty page lists a [ten-year limited warranty](https://maglite.com/pages/warranty), not the lifetime cover the brand is often remembered for, and it excludes LED burnout, battery leakage and battery exhaustion.
 

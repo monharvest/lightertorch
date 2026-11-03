@@ -41,7 +41,7 @@ This is why the source of a shock matters. A handheld lighter's zap is harmless.
 
 ## How Little Energy It Takes to Light Gas
 
-The spark doesn't need much power to do its job. The minimum energy needed to ignite propane or butane is only [about 0.25 millijoules](https://www.heatingandprocess.com/product/hazardous-area-zones/mie-minimum-ignition-energy/), provided the gas-air mix is right. A piezo spark clears that easily.
+The spark doesn't need much power to do its job. The minimum energy needed to ignite propane or butane is only [about 0.25 millijoules](https://www.heatingandprocess.com/product/hazardous-area-zones/mie-minimum-ignition-energy/), provided the gas-air mix is right. A piezo spark clears that easily, which is why a [homemade spark lighter built from an old igniter](/make-a-gas-lighter-at-home/) will light a gas stove.
 
 The flip side: any small spark can ignite leaking gas, including a lighter, a light switch or static. If you smell gas, don't strike a lighter to check. See [what to do when a gas stove won't light](/gas-stove-that-doesnt-ignite/) for when to stop and call the gas company.
 

@@ -49,7 +49,7 @@ The battery is a standard-size 21700, so you can carry a spare and swap it in se
 
 - **Charging takes about 3 hours** from empty, according to Fenix's own FAQ.
 - **Turbo is locked out below about 50% battery.** You still get the lower modes, but the 2,800-lumen headline only applies to a well-charged cell.
-- **It's one of the pricier picks here.** If the brand matters to you, see how [Fenix compares with Olight and Streamlight](/olight-vs-fenix-vs-streamlight/).
+- **It's one of the pricier picks here.** If the brand matters to you, see how [Fenix compares with Olight and Streamlight](/olight-vs-fenix-vs-streamlight/) or our [guide to the best flashlight brands](/what-is-the-best-torch-brand/).
 
 [Check the Fenix PD36R Pro price on Amazon →](https://www.amazon.com/dp/B0H7DDGK7V?tag=lightertorch-20)
 
