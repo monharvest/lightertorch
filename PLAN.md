@@ -939,3 +939,35 @@ tagged, disclosure on every page with Amazon links. Card thumbnails use `alt=""`
   `flashlight-submerged-water-tank-beam.webp` are untracked on purpose: heroes for the
   planned "rechargeable flashlight dies fast" and "IP ratings" posts.
 - Keychain flashlights and the Sunitact review still have only 2 inbound links each.
+
+### 2026-11-03 — Ubersuggest pre-write: camping lantern (next post candidate)
+
+Trigger: GSC flagged the old `/top-10-best-camping-torches-of-2024-...` URL (301 to
+`/best-camping-flashlights/`) with +1,183% impressions: 92 impressions, 0 clicks, pos 17.5,
+almost all "best [unbreakable|scratch resistant|longest lasting|waterproof] lantern 2024".
+Requested reindex of the old URL so Google sees the 301. No current post targets lanterns.
+
+Ubersuggest (en/US):
+
+| Phrase | Vol | SD |
+|---|---|---|
+| **rechargeable lantern for camping** (primary) | 1,600 | **25** |
+| rechargeable camping lantern | 1,900 | 35 |
+| best camping lantern | 1,000 | 41 |
+| best rechargeable camping lantern | 590 | 40 |
+| best rechargeable lantern | 390 | 42 |
+| camping lantern (head term) | 8,100 | 40 |
+| rechargeable lantern for power outage | 140 | 23 |
+| fenix cl28r rechargeable lantern | 70 | 18 |
+
+SERP for the primary: two product carousels and an AI Overview on top; organic led by
+switchbacktravel (DA 55), Travel + Leisure (DA 88), Goal Zero and Lepro shop pages. Winnable
+as a long-tail, not as "camping lantern".
+
+**Proposed post:** "Best Rechargeable Camping Lanterns (2026)", slug
+`best-rechargeable-camping-lanterns`, categories Buying Guides. Picks from makers that publish
+FL1 specs (Fenix CL28R/CL26R, Goal Zero Lighthouse, Black Diamond, Coleman rechargeable).
+Sections: lumens vs runtime, USB-C/power-bank output, warm light and red mode, hanging
+options, power-outage use. No overlap: `/what-is-the-best-torch-for-camping/` is the
+headlamp-vs-lantern framework, `/best-camping-flashlights/` covers handhelds. Link both ways,
+plus from the power-outage guide. Needs a hero prompt and a stock check (ZIP 10001).
