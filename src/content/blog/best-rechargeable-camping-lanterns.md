@@ -2,7 +2,7 @@
 title: 'The Best Rechargeable Camping Lanterns (2026): 4 Picks'
 description: 'The best rechargeable lantern for camping, compared on low-mode runtime, power-bank output, warm light and weight: Fenix CL28R, CL26R Pro and Goal Zero.'
 pubDate: '2026-11-03'
-heroImage: '/uploads/2026/08/camping-lantern-tent-night.webp'
+heroImage: '/uploads/2026/11/rechargeable-lantern-camp-table.webp'
 categories: ['Buying Guides']
 tags: ['camping lantern', 'rechargeable lantern', 'Fenix CL28R', 'Goal Zero Lighthouse', 'power outage', 'camping']
 ---
