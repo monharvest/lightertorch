@@ -981,6 +981,6 @@ fenixlighting.com and goalzero.com product pages. Amazon stock check (US view, N
 - Goal Zero Lighthouse Micro Charge `B075MGL7R8`: In Stock, ships from Amazon, sold by Goal Zero.
 Dropped: Black Diamond Moji R+ (Micro-USB, maker page gives both 150 and 200 lm); Coleman Classic
 Recharge 400 (coleman.com blocks with a bot check, specs unverifiable from the maker).
-Hero is a placeholder (`2026/08/camping-lantern-tent-night.webp`, shows a flame torch); prompt in
-`lightertorch-images/PROMPTS-2026-11-03-rechargeable-lantern.md`. Linked from the camping torch
+Hero: `2026/11/rechargeable-lantern-camp-table.webp` (generated from
+`lightertorch-images/PROMPTS-2026-11-03-rechargeable-lantern.md`, installed 2026-11-03, passes the checklist). Linked from the camping torch
 framework, camping flashlights and power-outage posts. Not published.
