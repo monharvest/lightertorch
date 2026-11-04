@@ -9,7 +9,15 @@ import { getArticles, newestFirst, postHref, resolveTopics, topicOf } from '../l
 
 const posts = (await getArticles()).sort(newestFirst);
 const topics = resolveTopics(posts);
-const latest = posts.slice(0, 6);
+// The newest guides, at most two per topic, so one busy topic can't fill the row.
+const shown = new Map<string, number>();
+const latest = posts
+	.filter((p) => {
+		const n = shown.get(topicOf(p)) ?? 0;
+		shown.set(topicOf(p), n + 1);
+		return n < 2;
+	})
+	.slice(0, 6);
 // Every guide grouped by topic, A to Z, so each one stays a click from home.
 const groups = topics.map((topic) => ({
 	topic,

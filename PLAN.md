@@ -1025,3 +1025,16 @@ session from here.
 - Checked: 4,453 internal links resolve, contents anchors match headings, all Amazon links tagged.
 - Open: the Zippo wick and refill posts share a hero image (shows twice in "Latest guides");
   the Zippo repair hero is a 4,640px JPG.
+
+### 2026-11-04 — Front-page images: no repeats, more variety
+**Branch `images-2026-11-04`.** Batu: too many similar images on the front page.
+- **No hero is shared any more.** New heroes (Hermes / grok-imagine, prompts and picks in
+  `lightertorch-images/PROMPTS-2026-11-03-duplicate-heroes.md`):
+  wick replacement → `2026/11/zippo-wick-simple-linen.webp` (bright linen),
+  flint replacement → `2026/11/zippo-flint-simple-camp.webp` (golden-hour campsite),
+  lighter shock → `2026/11/lighter-static-zap-fingertip.webp` (blue spark, night kitchen).
+- **Zippo repair hero** was an 8.2 MB 4640x6960 JPG loaded by the post and every card; now a
+  16:9 crop at 1280x720 WebP (69 KB), `2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it-1280x720.webp`.
+  The original file stays for any outside links.
+- **"Latest guides" takes at most 2 posts per topic**, so recent Zippo posts can't fill the row.
+- Draw Things CLI (Krea 2 Turbo) only produced noise locally; see the prompts file.

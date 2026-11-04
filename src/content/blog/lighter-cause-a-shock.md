@@ -3,7 +3,7 @@ title: "Why Does a Lighter Shock You? Is It Dangerous? (4 Causes)"
 description: "A lighter's piezo zap is 10,000+ volts but lasts microseconds, so it stings without harming you. The 4 causes, and the one that needs fixing: your stove."
 pubDate: '2021-05-21'
 updatedDate: '2026-10-11'
-heroImage: '/uploads/2026/08/gas-lighter-piezo-spark-closeup.webp'
+heroImage: '/uploads/2026/11/lighter-static-zap-fingertip.webp'
 categories: ['Safety Tips']
 tags: ['gas lighter', 'piezo igniter', 'electric shock', 'kitchen safety', 'gas stove']
 ---

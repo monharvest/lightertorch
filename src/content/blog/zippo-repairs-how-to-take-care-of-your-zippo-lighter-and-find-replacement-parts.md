@@ -3,7 +3,7 @@ title: 'Zippo Repair Guide: Fix It Yourself or Send It Back Free'
 description: 'Zippo repairs it free for life — but most faults are a two-minute fix at your kitchen table. Here is what to replace yourself and what to ship to Bradford.'
 pubDate: '2024-03-05'
 updatedDate: '2026-11-03'
-heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it.jpg'
+heroImage: '/uploads/2024/03/a-lighter-with-a-picture-of-a-bicycle-on-it-1280x720.webp'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo lighter', 'maintenance', 'replacement parts', 'flint', 'wick', 'lifetime guarantee']
 ---

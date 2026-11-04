@@ -2,7 +2,7 @@
 title: "Zippo Wick Replacement: How to Change the Wick Step by Step"
 description: "Zippo wick replacement step by step: pull the packing, thread a new wick down the chimney, weave it back through the packing in an S shape, trim it level."
 pubDate: '2026-10-29'
-heroImage: '/uploads/2026/10/zippo-refill-fluid-into-cotton.webp'
+heroImage: '/uploads/2026/11/zippo-wick-simple-linen.webp'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo', 'wick', 'lighter maintenance', 'replacement parts', 'lighter fluid']
 ---

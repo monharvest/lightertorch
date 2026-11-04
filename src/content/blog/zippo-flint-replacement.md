@@ -2,7 +2,7 @@
 title: "Zippo Flint Replacement: How to Change It in 2 Minutes"
 description: "Zippo flint replacement in 2 minutes: pull the insert, unscrew the flint spring, tap out the old stub, drop in a new flint, screw it back tight. Plus fixes."
 pubDate: '2026-10-26'
-heroImage: '/uploads/2026/08/zippo-insert-swap-workbench.webp'
+heroImage: '/uploads/2026/11/zippo-flint-simple-camp.webp'
 categories: ['How-to Guides', 'Brands']
 tags: ['Zippo', 'flint', 'flint wheel', 'lighter maintenance', 'replacement parts']
 ---
