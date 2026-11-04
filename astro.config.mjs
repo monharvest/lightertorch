@@ -1,5 +1,6 @@
 // @ts-check
 
+import { unified } from '@astrojs/markdown-remark';
 import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
@@ -118,7 +119,11 @@ function rehypeFaqSchema() {
 export default defineConfig({
 	site: 'https://lightertorch.com',
 	integrations: [mdx(), sitemap()],
+	// Astro 7 renders Markdown with Sätteri by default; the rehype plugins above
+	// need the remark/rehype pipeline, which .mdx files inherit too.
 	markdown: {
-		rehypePlugins: [rehypeAffiliateLinks, rehypeTableScroll, rehypeFaqSchema],
+		processor: unified({ rehypePlugins: [rehypeAffiliateLinks, rehypeTableScroll, rehypeFaqSchema] }),
 	},
+	// Astro 7's default ('jsx') drops spaces between inline elements.
+	compressHTML: true,
 });

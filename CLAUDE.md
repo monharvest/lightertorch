@@ -1,6 +1,6 @@
 # LighterTorch.com
 
-Affiliate content site about flashlights/torches and lighters. Astro 5 static site (converted from WordPress in 2026), deployed on **Cloudflare Pages — pushing to `master` deploys automatically**.
+Affiliate content site about flashlights/torches and lighters. Astro 7 static site (converted from WordPress in 2026), served by a **Cloudflare Worker with static assets** (`wrangler.jsonc`, moved off Cloudflare Pages 2026-11-04) — **pushing to `master` deploys automatically** through Workers Builds (`npm run build`, then `npx wrangler deploy`).
 
 **Read [PLAN.md](PLAN.md) first** — it tracks what's done and what's next (Phase 2: upgrade money pages, Phase 3: new content ideas).
 
@@ -11,7 +11,8 @@ Affiliate content site about flashlights/torches and lighters. Astro 5 static si
 - Content = markdown in `src/content/blog/` (one file per post, slug = filename). Legacy posts contain raw WordPress HTML blocks — that's fine, they render; new posts should be clean markdown.
 - Frontmatter: `title`, `description` (~155 chars, plain text — never HTML), `pubDate`, `heroImage` (path under `/uploads/`), `categories`, `tags`.
 - **Categories: use ONLY these 5** (they generate `/category/*` pages and the nav): `Buying Guides`, `Torch Lighter Reviews`, `Safety Tips`, `How-to Guides`, `Brands`. 1–2 per post.
-- Redirects live in `public/_redirects` (Cloudflare Pages format). **Always add both slash variants** (`/old` and `/old/`) — Pages matches exactly.
+- Redirects live in `public/_redirects` (same format on Workers as on Pages). **Always add both slash variants** (`/old` and `/old/`) — rules match exactly. `npm run build` also appends a 301 per built page (`/slug` and `/slug/index.html` → `/slug/`, `scripts/write-slash-redirects.mjs`), because a Worker's own slash redirect is a temporary 307.
+- Response headers live in `public/_headers`: the defaults Pages used to add, plus the 4-hour browser cache for CSS, fonts and images that the zone applied on Pages.
 - When deleting/merging a post, always 301 its URL.
 - Images: use existing files under `public/uploads/`. Never hotlink external/signed CDN URLs (a previous post used expiring manuscdn.com links — they were removed).
 - AI-generated images live in `~/Documents/Obsidian/Projects/websites/active/LighterTorch/lightertorch-images/` (not in this site repo).

@@ -1,6 +1,6 @@
 # LighterTorch.com — Improvement Plan
 
-Site: https://lightertorch.com · Repo: github.com/monharvest/lightertorch (push to `master` = auto-deploy via Cloudflare Pages)
+Site: https://lightertorch.com · Repo: github.com/monharvest/lightertorch (push to `master` = auto-deploy via Cloudflare Workers Builds; Pages until 2026-11-04)
 Amazon Associates tag: `lightertorch-20` (signed up 2026-08-01 — **application approved 2026-10-01** after the 3-qualifying-sale review, so the 2027-01-28 deadline is cleared; first sales: Aug 28 $1.04, Sep $0.33, plus a third in Sep)
 
 ## ✅ Done (Aug 1, 2026)

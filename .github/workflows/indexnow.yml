@@ -34,7 +34,7 @@ jobs:
             | sed -n 's#^src/content/blog/\(.*\)\.md$#'"$SITE"'/\1/#p' | sort -u > urls.txt
           cat urls.txt
 
-      - name: Wait for the Cloudflare Pages deploy
+      - name: Wait for the Cloudflare deploy
         run: |
           [ -s urls.txt ] || exit 0
           for i in $(seq 1 30); do
