@@ -1,0 +1,95 @@
+---
+// Card for one post: hero image, first category, title, description and
+// reading time. Used on the home page, category pages and under each post.
+import { postHref, readingMinutes, type Post } from '../lib/posts';
+
+interface Props {
+	post: Post;
+	/** h2 where the cards are the page's main list, h3 under a section heading. */
+	heading?: 'h2' | 'h3';
+}
+
+const { post, heading: Heading = 'h3' } = Astro.props;
+const category = post.data.categories?.[0];
+---
+
+<a class="card" href={postHref(post)}>
+	{post.data.heroImage && <img src={post.data.heroImage} alt="" width="640" height="360" loading="lazy" decoding="async" />}
+	<span class="body">
+		{category && <span class="kicker">{category}</span>}
+		<Heading class="title">{post.data.title}</Heading>
+		<span class="desc">{post.data.description}</span>
+		<span class="meta">{readingMinutes(post)} min read</span>
+	</span>
+</a>
+
+<style>
+	.card {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		overflow: hidden;
+		color: inherit;
+		text-decoration: none;
+		background: white;
+		border: 1px solid rgb(var(--gray-light));
+		border-radius: 12px;
+		transition:
+			box-shadow 0.2s,
+			transform 0.2s;
+	}
+	.card:hover {
+		box-shadow: var(--box-shadow);
+		transform: translateY(-2px);
+	}
+	.card:focus-visible {
+		outline: 2px solid var(--coral-text);
+		outline-offset: 2px;
+	}
+	img {
+		display: block;
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		margin: 0;
+		border-radius: 0;
+	}
+	.body {
+		flex: 1;
+		display: flex;
+		flex-direction: column;
+		gap: 0.35rem;
+		padding: 0.9rem 1rem 1rem;
+	}
+	.kicker {
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--coral-text);
+	}
+	.title {
+		margin: 0;
+		font-size: 1.05rem;
+		line-height: 1.3;
+		color: rgb(var(--black));
+	}
+	.card:hover .title {
+		color: var(--coral-text);
+	}
+	.desc {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2;
+		overflow: hidden;
+		font-size: 0.85rem;
+		line-height: 1.45;
+		color: rgb(var(--gray));
+	}
+	.meta {
+		margin-top: auto;
+		padding-top: 0.25rem;
+		font-size: 0.78rem;
+		color: rgb(var(--gray));
+	}
+</style>

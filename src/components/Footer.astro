@@ -1,32 +1,88 @@
 ---
+// Footer with a link column per topic (src/lib/topics.ts) and one for the
+// site's own pages, then the Amazon disclosure.
+import { getArticles, resolveTopics } from '../lib/posts';
+
+const topics = resolveTopics(await getArticles());
 const today = new Date();
 ---
 
 <footer>
+	<nav class="cols" aria-label="Footer">
+		{topics.map((t) => (
+			<div>
+				<p class="col-h">{t.label}</p>
+				<ul>
+					{[t.feat, ...t.cols.map((c) => c.links[0])].map((l) => <li><a href={l.href}>{l.label}</a></li>)}
+					<li><a class="all" href={t.foot.href}>{t.foot.text} →</a></li>
+				</ul>
+			</div>
+		))}
+		<div>
+			<p class="col-h">LighterTorch</p>
+			<ul>
+				<li><a href="/about/">About us</a></li>
+				<li><a href="/about/#how-we-research">How we research</a></li>
+				<li><a href="/category/brands/">Brand guides</a></li>
+				<li><a href="/affiliate-disclosure/">Affiliate disclosure</a></li>
+				<li><a href="/privacy-policy/">Privacy policy</a></li>
+			</ul>
+		</div>
+	</nav>
 	<p class="disclosure">
 		As an Amazon Associate, LighterTorch.com earns from qualifying purchases.
 	</p>
-	<p>
-		&copy; {today.getFullYear()} LighterTorch.com. All rights reserved.
-		&middot; <a href="/about/">About</a>
-		&middot; <a href="/affiliate-disclosure/">Affiliate Disclosure</a>
-		&middot; <a href="/privacy-policy/">Privacy Policy</a>
-	</p>
+	<p class="legal">&copy; {today.getFullYear()} LighterTorch.com. All rights reserved.</p>
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
+		padding: 3em 1em 6em 1em;
 		background: linear-gradient(var(--gray-gradient)) no-repeat;
+		border-top: 1px solid rgb(var(--gray-light));
 		color: rgb(var(--gray));
-		text-align: center;
 	}
-	footer p {
-		margin: 0.5em 0;
+	.cols {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr));
+		gap: 1.5rem 2rem;
+		max-width: 1040px;
+		margin: 0 auto 2.5em;
 	}
-	.disclosure {
+	.col-h {
+		margin: 0 0 0.6em;
+		font-size: 0.75rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: rgb(var(--black));
+	}
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+		font-size: 0.9rem;
+		line-height: 1.4;
+	}
+	li {
+		margin: 0 0 0.55em;
+	}
+	a {
+		color: rgb(var(--gray));
+		text-decoration: none;
+	}
+	a:hover {
+		color: var(--coral-text);
+		text-decoration: underline;
+	}
+	.all {
+		font-weight: 700;
+		color: var(--coral-text);
+	}
+	.disclosure,
+	.legal {
+		max-width: 1040px;
+		margin: 0.5em auto;
 		font-size: 0.85em;
-	}
-	footer a {
-		color: rgb(var(--gray));
+		text-align: center;
 	}
 </style>

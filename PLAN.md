@@ -1007,3 +1007,21 @@ one points at a missing post. The header stays white (the logo is dark text) and
 logo coral `#f0715a` as the accent, with `#b8432f` for coral text. Side-box points only
 repeat claims already on the site (About page, Zippo guides, power-outage guide).
 `HeaderLink.astro` removed (unused); `Icon.astro` holds the Lucide icons.
+
+### 2026-11-04 — Browsing redesign (keep readers on the site)
+**Branch `engagement-2026-11-04`.** Batu asked for a design that keeps visitors reading.
+No analytics were available for this pass, so watch GA4 engagement time and pages per
+session from here.
+- **Posts:** category chips and "N min read" above the title; "On this page" contents (sticky
+  sidebar with the current section highlighted at 1240px+, a closed fold-out box below that,
+  so the quick answer stays in the first screen); "Keep reading" with 3 related guides and
+  "More in {category}" under every article.
+- **Home:** three topic tiles, the 6 latest guides as cards, then every guide grouped by topic
+  (all 40 still one click from home). Page height ~10,900px → ~3,400px on desktop.
+- **Category pages:** the same `PostCard` grid. **Footer:** link columns per topic + site pages.
+- One topic list, `src/lib/topics.ts`, now feeds the menu, home tiles, footer and related
+  posts; `src/lib/posts.ts` has reading time, `topicOf()` and `relatedPosts()` (same topic,
+  shared slug words, categories, tags). The build fails on a slug that no longer exists.
+- Checked: 4,453 internal links resolve, contents anchors match headings, all Amazon links tagged.
+- Open: the Zippo wick and refill posts share a hero image (shows twice in "Latest guides");
+  the Zippo repair hero is a 4,640px JPG.

@@ -7,6 +7,11 @@
 :root {
 	--accent: #2337ff;
 	--accent-dark: #000d8a;
+	/* Coral from the logo for bars, pills and labels; the darker shade passes
+	   contrast as text on white. */
+	--coral: #f0715a;
+	--coral-text: #b8432f;
+	--coral-soft: #fdeeea;
 	--black: 15, 18, 25;
 	--gray: 96, 115, 159;
 	--gray-light: 229, 233, 240;
@@ -145,6 +150,28 @@ hr {
 	main {
 		padding: 1em;
 	}
+}
+
+/* Grid of PostCards (home, category pages, "Keep reading") */
+.card-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(min(100%, 260px), 1fr));
+	gap: 1.25rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.card-grid > li {
+	margin: 0;
+}
+/* Small uppercase label above a section heading */
+.eyebrow {
+	margin: 0 0 0.4rem;
+	font-size: 0.75rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--coral-text);
 }
 
 .sr-only {

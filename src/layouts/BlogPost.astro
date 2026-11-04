@@ -1,4 +1,5 @@
 ---
+import type { MarkdownHeading } from 'astro';
 import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
@@ -6,14 +7,23 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import PinOverlay from '../components/PinOverlay.astro';
+import PostCard from '../components/PostCard.astro';
 import ShareRow from '../components/ShareRow.astro';
 import { SITE_TITLE } from '../consts';
+import { categoryHref, type Post } from '../lib/posts';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & {
+	/** The post's h2 headings, for "On this page". */
+	headings?: MarkdownHeading[];
+	minutes?: number;
+	related?: Post[];
+};
 
-const { title, description, pubDate, updatedDate, heroImage, categories } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, categories, headings = [], minutes, related = [] } = Astro.props;
 // Utility pages (About, Privacy, Disclosure) have no categories - no share row there.
 const showShare = (categories?.length ?? 0) > 0;
+// Contents only pay off on longer guides.
+const toc = showShare && headings.length >= 3 ? headings : [];
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 const AUTHOR_NAME = 'LighterTorch Team';
 const articleLd = {
@@ -77,6 +87,29 @@ const articleLd = {
 				font-size: clamp(1.6em, 4.5vw, 2.2em);
 				line-height: 1.15;
 			}
+			.kickers {
+				display: flex;
+				flex-wrap: wrap;
+				justify-content: center;
+				gap: 0.4em;
+				margin: 0 0 0.9em;
+			}
+			.kickers a {
+				padding: 0.25em 0.75em;
+				font-size: 0.72rem;
+				font-weight: 700;
+				letter-spacing: 0.08em;
+				line-height: 1.4;
+				text-transform: uppercase;
+				text-decoration: none;
+				color: var(--coral-text);
+				background: var(--coral-soft);
+				border-radius: 999px;
+			}
+			.kickers a:hover {
+				color: rgb(var(--black));
+				background: var(--coral);
+			}
 			.date {
 				margin-bottom: 0.5em;
 				color: rgb(var(--gray));
@@ -86,6 +119,118 @@ const articleLd = {
 			}
 			.byline a {
 				color: inherit;
+			}
+
+			/* "On this page": a fold-out box above the guide, or a sticky sidebar
+			   beside it on wide screens. */
+			.toc a {
+				color: rgb(var(--gray-dark));
+				text-decoration: none;
+			}
+			.toc a:hover {
+				color: var(--coral-text);
+			}
+			.toc-inline {
+				margin: -1em 0 2em;
+				font-size: 0.95rem;
+				background: white;
+				border: 1px solid rgb(var(--gray-light));
+				border-radius: 10px;
+			}
+			.toc-inline summary {
+				padding: 0.7em 1em;
+				font-weight: 700;
+				color: rgb(var(--black));
+				cursor: pointer;
+			}
+			.toc-inline summary span {
+				font-weight: 400;
+				color: rgb(var(--gray));
+			}
+			.toc-inline ol {
+				margin: 0;
+				padding: 0 1em 0.8em 2.4em;
+				line-height: 1.4;
+			}
+			.toc-inline li {
+				margin: 0.4em 0;
+			}
+			.toc-side {
+				display: none;
+			}
+			@media (min-width: 1240px) {
+				.post-body {
+					display: grid;
+					grid-template-columns: minmax(0, 1fr) minmax(0, 760px) minmax(0, 1fr);
+					column-gap: 2rem;
+				}
+				.post-body .prose {
+					grid-column: 2;
+					width: auto;
+					max-width: none;
+					margin: 0;
+				}
+				.toc-inline {
+					display: none;
+				}
+				.toc-side {
+					display: block;
+					grid-column: 1;
+					grid-row: 1;
+					justify-self: end;
+					align-self: start;
+					position: sticky;
+					top: 1.5rem;
+					width: 100%;
+					max-width: 230px;
+					max-height: calc(100vh - 3rem);
+					overflow-y: auto;
+					margin-top: 2.5em;
+					font-size: 0.85rem;
+					line-height: 1.35;
+				}
+				.toc-side ol {
+					margin: 0;
+					padding: 0;
+					list-style: none;
+					border-left: 2px solid rgb(var(--gray-light));
+				}
+				.toc-side a {
+					display: block;
+					margin-left: -2px;
+					padding: 0.4em 0 0.4em 0.9em;
+					color: rgb(var(--gray));
+					border-left: 2px solid transparent;
+				}
+				.toc-side a[aria-current] {
+					font-weight: 700;
+					color: var(--coral-text);
+					border-left-color: var(--coral);
+				}
+			}
+
+			/* "Keep reading": three related guides under every article */
+			.keep-reading {
+				max-width: 1000px;
+				margin: 1.5em auto 0;
+				padding: 2em 1em 0;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			.keep-reading h2 {
+				margin: 0 0 1rem;
+				font-size: 1.5rem;
+			}
+			.more-in {
+				margin: 1.25rem 0 0;
+				font-size: 0.95rem;
+				font-weight: 700;
+			}
+			.more-in a {
+				color: var(--coral-text);
+				text-decoration: none;
+			}
+			.more-in a:hover {
+				text-decoration: underline;
 			}
 		</style>
 	</head>
@@ -97,32 +242,89 @@ const articleLd = {
 				<div class="hero-image">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt={title} loading="eager" fetchpriority="high" />}
 				</div>
-				<div class="prose">
-					<div class="title">
-						<div class="date">
+				<div class="post-body">
+					<div class="prose">
+						<div class="title">
 							{showShare && (
-								<span class="byline">
-									By <a href="/about/">{AUTHOR_NAME}</a> ·{' '}
-								</span>
+								<p class="kickers">
+									{categories?.map((c) => <a href={categoryHref(c)}>{c}</a>)}
+								</p>
 							)}
-							<FormattedDate date={pubDate} />
-							{
-								updatedDate && (
-									<div class="last-updated-on">
-										Last updated on <FormattedDate date={updatedDate} />
-									</div>
-								)
-							}
+							<div class="date">
+								{showShare && (
+									<span class="byline">
+										By <a href="/about/">{AUTHOR_NAME}</a> ·{' '}
+									</span>
+								)}
+								<FormattedDate date={pubDate} />
+								{showShare && minutes && <span> · {minutes} min read</span>}
+								{
+									updatedDate && (
+										<div class="last-updated-on">
+											Last updated on <FormattedDate date={updatedDate} />
+										</div>
+									)
+								}
+							</div>
+							<h1>{title}</h1>
+							<hr />
 						</div>
-						<h1>{title}</h1>
-						<hr />
+						{toc.length > 0 && (
+							<details class="toc toc-inline">
+								<summary>On this page <span>({toc.length} sections)</span></summary>
+								<ol>
+									{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+								</ol>
+							</details>
+						)}
+						<slot />
+						{showShare && <ShareRow title={title} url={canonicalURL} image={heroImage} />}
 					</div>
-					<slot />
-					{showShare && <ShareRow title={title} url={canonicalURL} image={heroImage} />}
+					{toc.length > 0 && (
+						<nav class="toc toc-side" aria-label="On this page">
+							<p class="eyebrow">On this page</p>
+							<ol>
+								{toc.map((h) => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+							</ol>
+						</nav>
+					)}
 				</div>
 			</article>
+			{related.length > 0 && (
+				<section class="keep-reading" aria-labelledby="keep-reading">
+					<h2 id="keep-reading">Keep reading</h2>
+					<ul class="card-grid">
+						{related.map((p) => <li><PostCard post={p} /></li>)}
+					</ul>
+					{categories?.[0] && (
+						<p class="more-in"><a href={categoryHref(categories[0])}>More in {categories[0]} →</a></p>
+					)}
+				</section>
+			)}
 			{showShare && <PinOverlay title={title} url={canonicalURL} />}
 		</main>
 		<Footer />
+		<script>
+			// Marks the section being read in the sidebar contents.
+			const links = new Map(
+				[...document.querySelectorAll<HTMLAnchorElement>('.toc-side a')].map((a) => [decodeURIComponent(a.hash.slice(1)), a]),
+			);
+			if (links.size) {
+				const observer = new IntersectionObserver(
+					(entries) => {
+						for (const entry of entries) {
+							if (!entry.isIntersecting) continue;
+							links.forEach((a) => a.removeAttribute('aria-current'));
+							links.get(entry.target.id)?.setAttribute('aria-current', 'true');
+						}
+					},
+					{ rootMargin: '0px 0px -70% 0px' },
+				);
+				links.forEach((_, id) => {
+					const heading = document.getElementById(id);
+					if (heading) observer.observe(heading);
+				});
+			}
+		</script>
 	</body>
 </html>

@@ -1,6 +1,7 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../layouts/BlogPost.astro';
+import { getArticles, readingMinutes, relatedPosts } from '../lib/posts';
 
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
@@ -12,9 +13,11 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
+// Utility pages (About, Privacy, Disclosure) have no categories and get no "Keep reading".
+const related = (post.data.categories?.length ?? 0) > 0 ? relatedPosts(post, await getArticles()) : [];
 ---
 
-<BlogPost {...post.data}>
+<BlogPost {...post.data} headings={headings.filter((h) => h.depth === 2)} minutes={readingMinutes(post)} related={related}>
 	<Content />
 </BlogPost>

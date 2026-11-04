@@ -1,14 +1,20 @@
 ---
-import { getCollection } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
-import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import Icon from '../components/Icon.astro';
+import PostCard from '../components/PostCard.astro';
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import { getArticles, newestFirst, postHref, resolveTopics, topicOf } from '../lib/posts';
 
-const posts = (await getCollection('blog'))
-	.filter((post) => (post.data.categories?.length ?? 0) > 0)
-	.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+const posts = (await getArticles()).sort(newestFirst);
+const topics = resolveTopics(posts);
+const latest = posts.slice(0, 6);
+// Every guide grouped by topic, A to Z, so each one stays a click from home.
+const groups = topics.map((topic) => ({
+	topic,
+	posts: posts.filter((p) => topicOf(p) === topic.id).sort((a, b) => a.data.title.localeCompare(b.data.title)),
+}));
 ---
 
 <!doctype html>
@@ -17,94 +23,138 @@ const posts = (await getCollection('blog'))
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 		<style>
 			main {
-				width: 960px;
+				width: 1040px;
 			}
-			.post-grid {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
+			section {
+				margin: 0 0 3.5rem;
 			}
-			.post-grid li {
-				width: calc(50% - 1rem);
-			}
-			.post-grid li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			.post-grid li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			.post-grid li:first-child img {
-				width: 100%;
-			}
-			.post-grid li:first-child .title {
-				font-size: 2.369rem;
-			}
-			.post-grid li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			.post-grid li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
-			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
-			}
-			.post-grid li a:hover h4,
-			.post-grid li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			.post-grid a:hover img {
-				box-shadow: var(--box-shadow);
+			section > h2 {
+				margin: 0 0 1rem;
+				font-size: 1.75rem;
 			}
 			.intro {
-			max-width: 42rem;
-			margin: 0 0 2rem;
-		}
-		.intro h1 {
-			margin: 0 0 0.6rem;
-			line-height: 1.2;
-		}
-		.intro p,
-		.intro ul {
-			color: rgb(var(--gray-dark));
-		}
-		.intro ul {
-			margin: 0.75rem 0 0;
-			padding-left: 1.2rem;
-			list-style: disc;
-		}
-		.intro li {
-			margin: 0.35rem 0;
-		}
-		.intro a {
-			text-decoration: none;
-		}
-		@media (max-width: 720px) {
-				.post-grid {
-					gap: 0.5em;
-				}
-				.post-grid li {
-					width: 100%;
-					text-align: center;
-				}
-				.post-grid li:first-child {
-					margin-bottom: 0;
-				}
-				.post-grid li:first-child .title {
-					font-size: 1.563em;
-				}
+				max-width: 42rem;
+				margin-bottom: 2rem;
+			}
+			.intro h1 {
+				margin: 0 0 0.6rem;
+				line-height: 1.2;
+			}
+			.intro p {
+				margin: 0;
+				color: rgb(var(--gray-dark));
+			}
+
+			/* Topic tiles */
+			.topics {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+				gap: 1.25rem;
+			}
+			.topic {
+				display: flex;
+				flex-direction: column;
+				padding: 1.25rem 1.25rem 1.1rem;
+				background: white;
+				border: 1px solid rgb(var(--gray-light));
+				border-top: 4px solid var(--coral);
+				border-radius: 12px;
+			}
+			.topic-ic {
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 2.6rem;
+				height: 2.6rem;
+				margin-bottom: 0.75rem;
+				color: var(--coral-text);
+				background: var(--coral-soft);
+				border-radius: 50%;
+			}
+			.topic h2 {
+				margin: 0 0 0.35rem;
+				font-size: 1.35rem;
+			}
+			.topic p {
+				margin: 0 0 0.75rem;
+				font-size: 0.9rem;
+				line-height: 1.5;
+				color: rgb(var(--gray));
+			}
+			.topic ul {
+				margin: 0 0 1rem;
+				padding: 0;
+				list-style: none;
+				font-size: 0.95rem;
+				line-height: 1.35;
+			}
+			.topic li {
+				margin: 0;
+				border-top: 1px solid rgb(var(--gray-light));
+			}
+			.topic li a {
+				display: block;
+				padding: 0.5rem 0;
+				font-weight: 700;
+				color: rgb(var(--black));
+				text-decoration: none;
+			}
+			.topic li a:hover,
+			.all li a:hover {
+				color: var(--coral-text);
+			}
+			.topic-all {
+				display: inline-flex;
+				align-items: center;
+				gap: 4px;
+				margin-top: auto;
+				font-size: 0.9rem;
+				font-weight: 700;
+				color: var(--coral-text);
+				text-decoration: none;
+			}
+			.topic-all:hover {
+				text-decoration: underline;
+			}
+
+			/* Every guide */
+			.all-cols {
+				display: grid;
+				grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+				gap: 1.5rem 2rem;
+			}
+			.all-cols > div {
+				scroll-margin-top: 1rem;
+			}
+			.all h3 {
+				display: flex;
+				justify-content: space-between;
+				align-items: baseline;
+				margin: 0 0 0.5rem;
+				padding-bottom: 0.4rem;
+				font-size: 1.1rem;
+				border-bottom: 2px solid var(--coral);
+			}
+			.all h3 span {
+				font-size: 0.9rem;
+				font-weight: 400;
+				color: rgb(var(--gray));
+			}
+			.all ul {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				font-size: 0.9rem;
+				line-height: 1.4;
+			}
+			.all li {
+				margin: 0;
+				padding: 0.45rem 0;
+				border-bottom: 1px solid rgb(var(--gray-light));
+			}
+			.all li a {
+				color: rgb(var(--gray-dark));
+				text-decoration: none;
 			}
 		</style>
 	</head>
@@ -117,31 +167,45 @@ const posts = (await getCollection('blog'))
 					Reviews and how-tos for buying a flashlight that lasts, fixing a Zippo, and
 					answering the lighter questions people actually search.
 				</p>
-				<ul>
-					<li><a href="/the-most-durable-flashlights-for-outdoor-use-a-comprehensive-guide/">Most durable flashlights</a></li>
-					<li><a href="/what-is-the-best-long-range-flashlight/">Powerful rechargeable and long-range torches</a></li>
-					<li><a href="/zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts/">Zippo repair and lifetime service</a></li>
-					<li><a href="/a-gas-lighter-last-how-long/">How long a BIC lighter lasts</a></li>
+			</section>
+
+			<section class="topics" aria-label="Browse by topic">
+				{groups.map(({ topic, posts }) => (
+					<div class="topic">
+						<span class="topic-ic"><Icon name={topic.icon} size={22} /></span>
+						<h2>{topic.label}</h2>
+						<p>{topic.blurb}</p>
+						<ul>
+							{[topic.feat, ...topic.cols.map((c) => c.links[0])].map((l) => (
+								<li><a href={l.href}>{l.label}</a></li>
+							))}
+						</ul>
+						<a class="topic-all" href={`#guides-${topic.id}`}>
+							All {posts.length} {topic.noun} guides <Icon name="arrow-right" size={16} />
+						</a>
+					</div>
+				))}
+			</section>
+
+			<section aria-labelledby="latest">
+				<h2 id="latest">Latest guides</h2>
+				<ul class="card-grid">
+					{latest.map((p) => <li><PostCard post={p} /></li>)}
 				</ul>
 			</section>
-			<section>
-				<ul class="post-grid">
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/${post.id}/`}>
-									{post.data.heroImage && (
-										<img width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+
+			<section class="all" aria-labelledby="all-guides">
+				<h2 id="all-guides">Every guide</h2>
+				<div class="all-cols">
+					{groups.map(({ topic, posts }) => (
+						<div id={`guides-${topic.id}`}>
+							<h3>{topic.label} <span>{posts.length}</span></h3>
+							<ul>
+								{posts.map((p) => <li><a href={postHref(p)}>{p.data.title}</a></li>)}
+							</ul>
+						</div>
+					))}
+				</div>
 			</section>
 		</main>
 		<Footer />

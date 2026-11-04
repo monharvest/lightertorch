@@ -2,176 +2,13 @@
 // Header with a mega menu in the style of meister-mit-ki.de: each top item
 // opens a panel with a featured guide, three columns of guides (label plus the
 // post's own description), a side box and a footer link to the category page.
-// Without JS every top item is a plain link to its category page.
-import { getCollection } from 'astro:content';
-import Icon, { type IconName } from './Icon.astro';
+// Without JS every top item is a plain link to its category page. The menu
+// entries live in src/lib/topics.ts.
+import Icon from './Icon.astro';
+import { getArticles, resolveTopics } from '../lib/posts';
 
-const posts = await getCollection('blog');
-const bySlug = new Map(posts.map((p) => [p.id, p]));
-// Fails the build if a menu entry points at a post that was renamed or deleted.
-const post = (slug: string, label: string) => {
-	const p = bySlug.get(slug);
-	if (!p) throw new Error(`Header menu links a missing post: ${slug}`);
-	return { href: `/${slug}/`, label, description: p.data.description };
-};
-const count = (category: string) => posts.filter((p) => p.data.categories?.includes(category)).length;
-
-type Link = ReturnType<typeof post>;
-type Menu = {
-	id: string;
-	label: string;
-	href: string;
-	icon: IconName;
-	feat: Link;
-	cols: { heading: string; links: Link[]; more?: { href: string; label: string } }[];
-	side: { pill: string; title: string; points: string[]; cta: { href: string; label: string } };
-	foot: { href: string; title: string; text: string };
-};
-
-const menus: Menu[] = [
-	{
-		id: 'flashlights',
-		label: 'Flashlights',
-		href: '/category/buying-guides/',
-		icon: 'flashlight',
-		feat: post('best-flashlights-on-amazon', 'The best flashlights on Amazon'),
-		cols: [
-			{
-				heading: 'By type',
-				links: [
-					post('best-edc-flashlights-under-50', 'EDC under $50'),
-					post('best-usb-c-rechargeable-flashlights', 'USB-C rechargeable'),
-					post('what-is-the-best-long-range-flashlight', 'Long range'),
-					post('best-keychain-flashlights', 'Keychain'),
-				],
-			},
-			{
-				heading: 'By use',
-				links: [
-					post('best-camping-flashlights', 'Camping'),
-					post('best-headlamps-for-camping-and-running', 'Headlamps'),
-					post('best-rechargeable-camping-lanterns', 'Rechargeable lanterns'),
-					post('what-flashlights-do-police-use', 'Police and duty'),
-				],
-			},
-			{
-				heading: 'Specs and brands',
-				links: [
-					post('how-many-lumens-should-flashlight-have-2', 'How many lumens?'),
-					post('lumens-vs-candela-vs-beam-distance', 'Lumens vs candela'),
-					post('what-is-the-best-torch-brand', 'Best flashlight brands'),
-					post('olight-vs-fenix-vs-streamlight', 'Olight vs Fenix vs Streamlight'),
-				],
-			},
-		],
-		side: {
-			pill: 'How we research',
-			title: 'Maker specs, not hype.',
-			points: [
-				'Specs come from the maker, linked in the guide',
-				'Manufacturer claims are labeled as claims',
-				'Inflated lumen ratings get called out',
-			],
-			cta: { href: '/about/#how-we-research', label: 'How we research' },
-		},
-		foot: { href: '/category/buying-guides/', title: 'Buying Guides', text: `All ${count('Buying Guides')} flashlight and lighter buying guides` },
-	},
-	{
-		id: 'lighters',
-		label: 'Lighters',
-		href: '/category/torch-lighter-reviews/',
-		icon: 'flame',
-		feat: post('zippo-vs-bic-vs-arc-lighter', 'Zippo vs BIC vs arc lighter'),
-		cols: [
-			{
-				heading: 'Buying guides',
-				links: [
-					post('top-zippo-best-sellers-on-amazon-lighters-collectibles-more', 'Best Zippo lighters'),
-					post('zippo-gift-guide', 'Zippo gift guide'),
-					post('best-arc-lighters-for-camping', 'Arc lighters'),
-					post('best-candle-lighters', 'Candle lighters'),
-				],
-			},
-			{
-				heading: 'Refill and repair',
-				links: [
-					post('how-to-refill-a-zippo-lighter', 'Refill a Zippo'),
-					post('filling-up-a-gas-lighter', 'Refill a butane lighter'),
-					post('fixing-a-lighter', "Lighter won't light"),
-					post('zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts', 'Zippo repair guide'),
-				],
-			},
-			{
-				heading: 'Zippo parts',
-				links: [
-					post('zippo-flint-replacement', 'Change a Zippo flint'),
-					post('zippo-wick-replacement', 'Change a Zippo wick'),
-					post('butane-vs-lighter-fluid-zippo-insert', 'Butane or fluid insert?'),
-				],
-			},
-		],
-		side: {
-			pill: 'Zippo basics',
-			title: 'Every Zippo arrives dry.',
-			points: [
-				'Zippo ships every lighter without fuel',
-				'Fill until the fluid reaches the top of the cotton',
-				'Never put butane in a fluid insert',
-			],
-			cta: { href: '/top-zippo-best-sellers-on-amazon-lighters-collectibles-more/#best-zippo-lighter-fluid-flints-and-wicks', label: 'Fluid, flints and wicks' },
-		},
-		foot: { href: '/category/torch-lighter-reviews/', title: 'Reviews', text: 'Torch lighter reviews and comparisons' },
-	},
-	{
-		id: 'safety',
-		label: 'Safety & How-To',
-		href: '/category/how-to-guides/',
-		icon: 'shield-check',
-		feat: post('best-flashlights-for-power-outages', 'Flashlights for power outages'),
-		cols: [
-			{
-				heading: 'At home',
-				links: [
-					post('manually-lighting-a-gas-stove', 'Light a gas stove by hand'),
-					post('gas-stove-that-doesnt-ignite', "Gas stove won't light"),
-					post('make-a-gas-lighter-at-home', 'Make a lighter at home'),
-				],
-			},
-			{
-				heading: 'Lighter safety',
-				links: [
-					post('can-a-zippo-explode', 'Can a Zippo explode?'),
-					post('can-you-bring-a-lighter-on-a-plane', 'Lighters on a plane'),
-					post('lighter-cause-a-shock', 'Why a lighter shocks you'),
-				],
-				more: { href: '/category/safety-tips/', label: `All ${count('Safety Tips')} safety tips` },
-			},
-			{
-				heading: 'How it works',
-				links: [
-					post('inside-of-a-gas-lighter', 'How a lighter works'),
-					post('voltage-in-a-gas-lighter', 'Volts in a gas lighter'),
-					post('a-gas-lighter-last-how-long', 'How long a BIC lasts'),
-				],
-			},
-		],
-		side: {
-			pill: 'Storm season',
-			title: 'Build the kit before the forecast turns.',
-			points: [
-				'A lantern per room, a headlamp per person',
-				'Never heat your home with a gas stove or oven',
-				'A battery-backed CO detector on every level',
-			],
-			cta: { href: '/best-flashlights-for-power-outages/#the-10-minute-storm-kit-checklist', label: 'The storm-kit checklist' },
-		},
-		foot: { href: '/category/how-to-guides/', title: 'How-To', text: `All ${count('How-to Guides')} how-to guides` },
-	},
-];
-
+const menus = resolveTopics(await getArticles());
 const path = Astro.url.pathname.replace(/\/?$/, '/');
-const isActive = (m: Menu) =>
-	[m.href, m.feat.href, m.foot.href, ...m.cols.flatMap((c) => [...c.links.map((l) => l.href), c.more?.href])].includes(path);
 const brandsHref = '/category/brands/';
 ---
 
@@ -187,8 +24,8 @@ const brandsHref = '/category/brands/';
 			<ul class="nav-list">
 				{menus.map((m) => (
 					<li class="mega-item">
-						<a class="mega-nojs" href={m.href} aria-current={isActive(m) ? 'page' : undefined}>{m.label}</a>
-						<button type="button" class="mega-btn" aria-expanded="false" aria-controls={`mega-${m.id}`} data-active={isActive(m) ? '' : undefined}>
+						<a class="mega-nojs" href={m.href} aria-current={m.hrefs.includes(path) ? 'page' : undefined}>{m.label}</a>
+						<button type="button" class="mega-btn" aria-expanded="false" aria-controls={`mega-${m.id}`} data-active={m.hrefs.includes(path) ? '' : undefined}>
 							{m.label} <Icon name="chevron-down" />
 						</button>
 						<div class="mega-panel" id={`mega-${m.id}`} hidden>
@@ -212,7 +49,7 @@ const brandsHref = '/category/brands/';
 													</li>
 												))}
 												{c.more && (
-													<li><a class="mega-more" href={c.more.href}>{c.more.label} <Icon name="arrow-right" size={16} /></a></li>
+													<li><a class="mega-more" href={c.more.href}>{c.more.text} <Icon name="arrow-right" size={16} /></a></li>
 												)}
 											</ul>
 										</div>
@@ -333,11 +170,6 @@ const brandsHref = '/category/brands/';
 </script>
 <style>
 	header {
-		/* Coral from the logo for bars and pills; the darker shade passes
-		   contrast as text on white. */
-		--coral: #f0715a;
-		--coral-text: #b8432f;
-		--coral-soft: #fdeeea;
 		--ink: rgb(var(--black));
 		--muted: rgb(var(--gray));
 		--line: rgb(var(--gray-light));
