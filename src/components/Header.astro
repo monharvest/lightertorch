@@ -1,43 +1,245 @@
 ---
-import { SITE_TITLE } from '../consts';
-import HeaderLink from './HeaderLink.astro';
+// Header with a mega menu in the style of meister-mit-ki.de: each top item
+// opens a panel with a featured guide, three columns of guides (label plus the
+// post's own description), a side box and a footer link to the category page.
+// Without JS every top item is a plain link to its category page.
+import { getCollection } from 'astro:content';
+import Icon, { type IconName } from './Icon.astro';
+
+const posts = await getCollection('blog');
+const bySlug = new Map(posts.map((p) => [p.id, p]));
+// Fails the build if a menu entry points at a post that was renamed or deleted.
+const post = (slug: string, label: string) => {
+	const p = bySlug.get(slug);
+	if (!p) throw new Error(`Header menu links a missing post: ${slug}`);
+	return { href: `/${slug}/`, label, description: p.data.description };
+};
+const count = (category: string) => posts.filter((p) => p.data.categories?.includes(category)).length;
+
+type Link = ReturnType<typeof post>;
+type Menu = {
+	id: string;
+	label: string;
+	href: string;
+	icon: IconName;
+	feat: Link;
+	cols: { heading: string; links: Link[]; more?: { href: string; label: string } }[];
+	side: { pill: string; title: string; points: string[]; cta: { href: string; label: string } };
+	foot: { href: string; title: string; text: string };
+};
+
+const menus: Menu[] = [
+	{
+		id: 'flashlights',
+		label: 'Flashlights',
+		href: '/category/buying-guides/',
+		icon: 'flashlight',
+		feat: post('best-flashlights-on-amazon', 'The best flashlights on Amazon'),
+		cols: [
+			{
+				heading: 'By type',
+				links: [
+					post('best-edc-flashlights-under-50', 'EDC under $50'),
+					post('best-usb-c-rechargeable-flashlights', 'USB-C rechargeable'),
+					post('what-is-the-best-long-range-flashlight', 'Long range'),
+					post('best-keychain-flashlights', 'Keychain'),
+				],
+			},
+			{
+				heading: 'By use',
+				links: [
+					post('best-camping-flashlights', 'Camping'),
+					post('best-headlamps-for-camping-and-running', 'Headlamps'),
+					post('best-rechargeable-camping-lanterns', 'Rechargeable lanterns'),
+					post('what-flashlights-do-police-use', 'Police and duty'),
+				],
+			},
+			{
+				heading: 'Specs and brands',
+				links: [
+					post('how-many-lumens-should-flashlight-have-2', 'How many lumens?'),
+					post('lumens-vs-candela-vs-beam-distance', 'Lumens vs candela'),
+					post('what-is-the-best-torch-brand', 'Best flashlight brands'),
+					post('olight-vs-fenix-vs-streamlight', 'Olight vs Fenix vs Streamlight'),
+				],
+			},
+		],
+		side: {
+			pill: 'How we research',
+			title: 'Maker specs, not hype.',
+			points: [
+				'Specs come from the maker, linked in the guide',
+				'Manufacturer claims are labeled as claims',
+				'Inflated lumen ratings get called out',
+			],
+			cta: { href: '/about/#how-we-research', label: 'How we research' },
+		},
+		foot: { href: '/category/buying-guides/', title: 'Buying Guides', text: `All ${count('Buying Guides')} flashlight and lighter buying guides` },
+	},
+	{
+		id: 'lighters',
+		label: 'Lighters',
+		href: '/category/torch-lighter-reviews/',
+		icon: 'flame',
+		feat: post('zippo-vs-bic-vs-arc-lighter', 'Zippo vs BIC vs arc lighter'),
+		cols: [
+			{
+				heading: 'Buying guides',
+				links: [
+					post('top-zippo-best-sellers-on-amazon-lighters-collectibles-more', 'Best Zippo lighters'),
+					post('zippo-gift-guide', 'Zippo gift guide'),
+					post('best-arc-lighters-for-camping', 'Arc lighters'),
+					post('best-candle-lighters', 'Candle lighters'),
+				],
+			},
+			{
+				heading: 'Refill and repair',
+				links: [
+					post('how-to-refill-a-zippo-lighter', 'Refill a Zippo'),
+					post('filling-up-a-gas-lighter', 'Refill a butane lighter'),
+					post('fixing-a-lighter', "Lighter won't light"),
+					post('zippo-repairs-how-to-take-care-of-your-zippo-lighter-and-find-replacement-parts', 'Zippo repair guide'),
+				],
+			},
+			{
+				heading: 'Zippo parts',
+				links: [
+					post('zippo-flint-replacement', 'Change a Zippo flint'),
+					post('zippo-wick-replacement', 'Change a Zippo wick'),
+					post('butane-vs-lighter-fluid-zippo-insert', 'Butane or fluid insert?'),
+				],
+			},
+		],
+		side: {
+			pill: 'Zippo basics',
+			title: 'Every Zippo arrives dry.',
+			points: [
+				'Zippo ships every lighter without fuel',
+				'Fill until the fluid reaches the top of the cotton',
+				'Never put butane in a fluid insert',
+			],
+			cta: { href: '/top-zippo-best-sellers-on-amazon-lighters-collectibles-more/#best-zippo-lighter-fluid-flints-and-wicks', label: 'Fluid, flints and wicks' },
+		},
+		foot: { href: '/category/torch-lighter-reviews/', title: 'Reviews', text: 'Torch lighter reviews and comparisons' },
+	},
+	{
+		id: 'safety',
+		label: 'Safety & How-To',
+		href: '/category/how-to-guides/',
+		icon: 'shield-check',
+		feat: post('best-flashlights-for-power-outages', 'Flashlights for power outages'),
+		cols: [
+			{
+				heading: 'At home',
+				links: [
+					post('manually-lighting-a-gas-stove', 'Light a gas stove by hand'),
+					post('gas-stove-that-doesnt-ignite', "Gas stove won't light"),
+					post('make-a-gas-lighter-at-home', 'Make a lighter at home'),
+				],
+			},
+			{
+				heading: 'Lighter safety',
+				links: [
+					post('can-a-zippo-explode', 'Can a Zippo explode?'),
+					post('can-you-bring-a-lighter-on-a-plane', 'Lighters on a plane'),
+					post('lighter-cause-a-shock', 'Why a lighter shocks you'),
+				],
+				more: { href: '/category/safety-tips/', label: `All ${count('Safety Tips')} safety tips` },
+			},
+			{
+				heading: 'How it works',
+				links: [
+					post('inside-of-a-gas-lighter', 'How a lighter works'),
+					post('voltage-in-a-gas-lighter', 'Volts in a gas lighter'),
+					post('a-gas-lighter-last-how-long', 'How long a BIC lasts'),
+				],
+			},
+		],
+		side: {
+			pill: 'Storm season',
+			title: 'Build the kit before the forecast turns.',
+			points: [
+				'A lantern per room, a headlamp per person',
+				'Never heat your home with a gas stove or oven',
+				'A battery-backed CO detector on every level',
+			],
+			cta: { href: '/best-flashlights-for-power-outages/#the-10-minute-storm-kit-checklist', label: 'The storm-kit checklist' },
+		},
+		foot: { href: '/category/how-to-guides/', title: 'How-To', text: `All ${count('How-to Guides')} how-to guides` },
+	},
+];
+
+const path = Astro.url.pathname.replace(/\/?$/, '/');
+const isActive = (m: Menu) =>
+	[m.href, m.feat.href, m.foot.href, ...m.cols.flatMap((c) => [...c.links.map((l) => l.href), c.more?.href])].includes(path);
+const brandsHref = '/category/brands/';
 ---
 
 <header id="site-header">
-	<nav>
-		<h2><a href="/"><img src="/logo.png" alt="Lighter & Torch" width="224" height="80" /></a></h2>
-		<button
-			id="nav-toggle"
-			class="nav-toggle"
-			type="button"
-			aria-label="Menu"
-			aria-expanded="false"
-			aria-controls="internal-links"
-		>
-			<svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-				<line x1="3" y1="6" x2="21" y2="6"></line>
-				<line x1="3" y1="12" x2="21" y2="12"></line>
-				<line x1="3" y1="18" x2="21" y2="18"></line>
-			</svg>
-			<svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
-				<line x1="5" y1="5" x2="19" y2="19"></line>
-				<line x1="19" y1="5" x2="5" y2="19"></line>
-			</svg>
+	<div class="bar">
+		<h2><a class="logo" href="/"><img src="/logo.png" alt="Lighter & Torch" width="224" height="80" /></a></h2>
+		<button id="nav-toggle" class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">
+			<Icon name="menu" size={20} class="icon-open" />
+			<Icon name="x" size={20} class="icon-close" />
+			Menu
 		</button>
-		<div class="internal-links" id="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/category/buying-guides/">Buying Guides</HeaderLink>
-			<HeaderLink href="/category/torch-lighter-reviews/">Reviews</HeaderLink>
-			<HeaderLink href="/category/safety-tips/">Safety</HeaderLink>
-			<HeaderLink href="/category/how-to-guides/">How-To</HeaderLink>
-			<HeaderLink href="/category/brands/">Brands</HeaderLink>
-		</div>
-	</nav>
+		<nav id="site-nav" class="site-nav" aria-label="Main menu">
+			<ul class="nav-list">
+				{menus.map((m) => (
+					<li class="mega-item">
+						<a class="mega-nojs" href={m.href} aria-current={isActive(m) ? 'page' : undefined}>{m.label}</a>
+						<button type="button" class="mega-btn" aria-expanded="false" aria-controls={`mega-${m.id}`} data-active={isActive(m) ? '' : undefined}>
+							{m.label} <Icon name="chevron-down" />
+						</button>
+						<div class="mega-panel" id={`mega-${m.id}`} hidden>
+							<div class="mega-body">
+								<p class="mega-h">Start here</p>
+								<a class="mega-feat" href={m.feat.href}>
+									<span class="mega-ic"><Icon name={m.icon} size={20} /></span>
+									<span>
+										<strong>{m.feat.label} <Icon name="arrow-right" size={16} /></strong>
+										<span class="mega-d">{m.feat.description}</span>
+									</span>
+								</a>
+								<div class="mega-cols">
+									{m.cols.map((c) => (
+										<div class="mega-col">
+											<p class="mega-h">{c.heading}</p>
+											<ul>
+												{c.links.map((l) => (
+													<li>
+														<a href={l.href}><strong>{l.label}</strong><span class="mega-d">{l.description}</span></a>
+													</li>
+												))}
+												{c.more && (
+													<li><a class="mega-more" href={c.more.href}>{c.more.label} <Icon name="arrow-right" size={16} /></a></li>
+												)}
+											</ul>
+										</div>
+									))}
+									<aside class="mega-side">
+										<span class="mega-pill">{m.side.pill}</span>
+										<p class="mega-side-t">{m.side.title}</p>
+										<ul class="mega-check">
+											{m.side.points.map((t) => <li><Icon name="circle-check" /><span>{t}</span></li>)}
+										</ul>
+										<a class="mega-cta" href={m.side.cta.href}>{m.side.cta.label} <Icon name="arrow-right" size={16} /></a>
+									</aside>
+								</div>
+							</div>
+							<a class="mega-foot" href={m.foot.href}><strong>{m.foot.title}</strong> {m.foot.text} <Icon name="arrow-right" size={16} /></a>
+						</div>
+					</li>
+				))}
+				<li><a class="nav-top" href={brandsHref} aria-current={path === brandsHref ? 'page' : undefined}>Brands</a></li>
+			</ul>
+		</nav>
+	</div>
 </header>
 <script is:inline>
 	// Runs during parse, right after the header, so the collapsed state is in
 	// place before first paint. Without JS the header keeps its plain wrapping
-	// layout and every link stays reachable.
+	// layout and every top item is a link to its category page.
 	(function () {
 		var header = document.getElementById('site-header');
 		var toggle = document.getElementById('nav-toggle');
@@ -54,8 +256,67 @@ import HeaderLink from './HeaderLink.astro';
 			setOpen(!header.classList.contains('open'));
 		});
 
+		// Mega menu, as on meister-mit-ki.de: click or tap toggles, hover opens
+		// on desktop pointers, Escape and a click outside close.
+		var items = Array.prototype.slice.call(header.querySelectorAll('.mega-item'));
+		var desk = window.matchMedia('(min-width: 900px) and (hover: hover)');
+		var timer;
+		var hoverAt = 0;
+
+		function setPanel(li, open) {
+			li.querySelector('.mega-btn').setAttribute('aria-expanded', open ? 'true' : 'false');
+			li.querySelector('.mega-panel').hidden = !open;
+			li.classList.toggle('is-open', open);
+		}
+
+		function closeAll(except) {
+			items.forEach(function (li) {
+				if (li !== except) setPanel(li, false);
+			});
+		}
+
+		items.forEach(function (li) {
+			var button = li.querySelector('.mega-btn');
+			button.addEventListener('click', function () {
+				// A click right after hover opened the panel should not close it again.
+				var open = button.getAttribute('aria-expanded') !== 'true' || (desk.matches && Date.now() - hoverAt < 600);
+				if (desk.matches) closeAll(li);
+				setPanel(li, open);
+			});
+			li.addEventListener('mouseenter', function () {
+				if (!desk.matches) return;
+				clearTimeout(timer);
+				if (!li.classList.contains('is-open')) hoverAt = Date.now();
+				closeAll(li);
+				setPanel(li, true);
+			});
+			li.addEventListener('mouseleave', function () {
+				if (!desk.matches) return;
+				timer = setTimeout(function () {
+					setPanel(li, false);
+				}, 180);
+			});
+			li.addEventListener('focusout', function (event) {
+				if (desk.matches && !li.contains(event.relatedTarget)) setPanel(li, false);
+			});
+		});
+
+		document.addEventListener('click', function (event) {
+			if (!desk.matches) return;
+			items.forEach(function (li) {
+				if (!li.contains(event.target)) setPanel(li, false);
+			});
+		});
+
 		document.addEventListener('keydown', function (event) {
-			if (event.key === 'Escape' && header.classList.contains('open')) {
+			if (event.key !== 'Escape') return;
+			var openItem = items.filter(function (li) {
+				return li.classList.contains('is-open');
+			})[0];
+			if (openItem) {
+				setPanel(openItem, false);
+				openItem.querySelector('.mega-btn').focus();
+			} else if (header.classList.contains('open')) {
 				setOpen(false);
 				toggle.focus();
 			}
@@ -64,7 +325,7 @@ import HeaderLink from './HeaderLink.astro';
 		// Reset state when the viewport grows past the mobile breakpoint, so the
 		// button never reports "expanded" while the desktop nav is showing.
 		window.addEventListener('resize', function () {
-			if (window.innerWidth > 720 && header.classList.contains('open')) {
+			if (window.innerWidth >= 900 && header.classList.contains('open')) {
 				setOpen(false);
 			}
 		});
@@ -72,89 +333,366 @@ import HeaderLink from './HeaderLink.astro';
 </script>
 <style>
 	header {
+		/* Coral from the logo for bars and pills; the darker shade passes
+		   contrast as text on white. */
+		--coral: #f0715a;
+		--coral-text: #b8432f;
+		--coral-soft: #fdeeea;
+		--ink: rgb(var(--black));
+		--muted: rgb(var(--gray));
+		--line: rgb(var(--gray-light));
+		position: relative;
+		z-index: 30;
 		margin: 0;
 		padding: 0 1em;
 		background: white;
+		border-bottom: 3px solid var(--coral);
 		box-shadow: 0 2px 8px rgba(var(--black), 5%);
+		line-height: 1.4;
+	}
+	.bar {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		flex-wrap: wrap;
+		column-gap: 1em;
 	}
 	h2 {
 		margin: 0;
 		font-size: 1em;
 	}
-
-	h2 a,
-	h2 a.active {
+	.logo {
+		display: block;
+		padding: 0.5em 0;
 		text-decoration: none;
 	}
-	nav {
+	.logo img {
+		display: block;
+	}
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+	li {
+		margin: 0;
+	}
+	.nav-list {
 		display: flex;
-		align-items: center;
-		justify-content: space-between;
 		flex-wrap: wrap;
+		align-items: center;
 	}
-	nav a {
-		padding: 1em 0.5em;
-		color: var(--black);
-		border-bottom: 4px solid transparent;
+	.mega-nojs,
+	.nav-top {
+		display: block;
+		padding: 1em 0.6em;
+		font-size: 1.05rem;
+		color: var(--ink);
 		text-decoration: none;
+		border-bottom: 3px solid transparent;
 	}
-	nav a.active {
-		text-decoration: none;
-		border-bottom-color: var(--accent);
+	.mega-nojs[aria-current='page'],
+	.nav-top[aria-current='page'] {
+		border-bottom-color: var(--coral);
 	}
+
+	/* Menu button (phones and tablets) */
 	.nav-toggle {
 		display: none;
 	}
-	.icon-close {
+	header.js .nav-toggle {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.4em;
+		min-height: 44px;
+		padding: 0 0.9em;
+		font: inherit;
+		font-size: 1rem;
+		font-weight: 700;
+		color: var(--ink);
+		background: none;
+		border: 2px solid var(--coral);
+		border-radius: 6px;
+		cursor: pointer;
+	}
+	header.js .nav-toggle:focus-visible,
+	.mega-btn:focus-visible {
+		outline: 2px solid var(--coral-text);
+		outline-offset: 2px;
+	}
+	.nav-toggle :global(.icon-close),
+	header.open .nav-toggle :global(.icon-open) {
 		display: none;
 	}
+	header.open .nav-toggle :global(.icon-close) {
+		display: block;
+	}
 
-	@media (max-width: 720px) {
-		header.js .nav-toggle {
-			display: inline-flex;
-			align-items: center;
-			justify-content: center;
-			width: 44px;
-			height: 44px;
-			padding: 0;
-			border: 0;
-			border-radius: 6px;
-			background: none;
-			color: rgb(var(--black));
-			cursor: pointer;
-		}
-		header.js .nav-toggle:focus-visible {
-			outline: 2px solid var(--accent);
-			outline-offset: 2px;
-		}
-		header.js.open .icon-open {
+	/* Top-level menu buttons */
+	.mega-btn {
+		display: none;
+	}
+	header.js .mega-nojs {
+		display: none;
+	}
+	header.js .mega-btn {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		gap: 0.25em;
+		width: 100%;
+		padding: 0.75em 0.25em;
+		font: inherit;
+		font-size: 1.05rem;
+		color: var(--ink);
+		text-align: left;
+		background: none;
+		border: 0;
+		border-bottom: 1px solid var(--line);
+		cursor: pointer;
+	}
+	.mega-btn :global(.icon) {
+		flex: none;
+		transition: transform 0.15s;
+	}
+	.mega-btn[aria-expanded='true'] :global(.icon) {
+		transform: rotate(180deg);
+	}
+	header.js .mega-btn[data-active],
+	header.js .mega-btn[aria-expanded='true'] {
+		color: var(--coral-text);
+	}
+
+	/* Panels */
+	.mega-panel {
+		margin: 0.5em 0 0.75em;
+		overflow: hidden;
+		font-size: 1rem;
+		color: var(--ink);
+		background: white;
+		border: 1px solid var(--line);
+		border-radius: 12px;
+	}
+	.mega-panel[hidden] {
+		display: none;
+	}
+	.mega-panel a {
+		color: var(--ink);
+		text-decoration: none;
+	}
+	.mega-body {
+		padding: 1em;
+	}
+	.mega-h {
+		margin: 0 0 0.5em;
+		font-size: 0.72rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--muted);
+	}
+	.mega-panel strong {
+		display: inline-flex;
+		align-items: center;
+		gap: 4px;
+		font-weight: 700;
+	}
+	.mega-d {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 2;
+		overflow: hidden;
+		font-size: 0.85rem;
+		line-height: 1.35;
+		color: var(--muted);
+	}
+	.mega-feat {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.75em;
+		margin-bottom: 0.75em;
+		padding: 0.5em;
+		border-radius: 8px;
+	}
+	.mega-feat > span:last-child {
+		min-width: 0;
+	}
+	.mega-feat .mega-d {
+		-webkit-line-clamp: 3;
+	}
+	.mega-ic {
+		flex: none;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 2.4rem;
+		height: 2.4rem;
+		color: var(--coral-text);
+		background: white;
+		border: 1px solid var(--line);
+		border-radius: 50%;
+	}
+	.mega-cols {
+		display: grid;
+		gap: 1em;
+		padding-top: 1em;
+		border-top: 1px solid var(--line);
+	}
+	.mega-col {
+		min-width: 0;
+	}
+	.mega-col li a {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 2px;
+		padding: 0.5em;
+		font-size: 0.95rem;
+		line-height: 1.3;
+		border-radius: 8px;
+	}
+	.mega-col li a:hover,
+	.mega-feat:hover {
+		background: rgba(var(--gray-light), 60%);
+	}
+	.mega-col li a.mega-more,
+	.mega-panel .mega-cta {
+		display: inline-flex;
+		flex-direction: row;
+		align-items: center;
+		gap: 4px;
+		font-weight: 700;
+		color: var(--coral-text);
+	}
+	.mega-col li .mega-more:hover,
+	.mega-panel .mega-cta:hover {
+		background: none;
+		text-decoration: underline;
+	}
+	.mega-side {
+		padding: 1em;
+		background: var(--coral-soft);
+		border-radius: 8px;
+	}
+	.mega-pill {
+		display: inline-block;
+		padding: 2px 10px;
+		font-size: 0.75rem;
+		font-weight: 700;
+		color: var(--ink);
+		background: var(--coral);
+		border-radius: 999px;
+	}
+	.mega-side-t {
+		margin: 0.6em 0;
+		font-size: 1.1rem;
+		font-weight: 700;
+		line-height: 1.25;
+		color: var(--ink);
+	}
+	.mega-check li {
+		display: flex;
+		align-items: flex-start;
+		gap: 0.5em;
+		margin-bottom: 0.5em;
+		font-size: 0.9rem;
+		line-height: 1.35;
+	}
+	.mega-check :global(.icon) {
+		flex: none;
+		margin-top: 1px;
+		color: #1a7f45;
+	}
+	.mega-panel .mega-foot {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		gap: 0.5em;
+		padding: 0.75em 1em;
+		font-size: 0.95rem;
+		background: rgba(var(--gray-light), 40%);
+		border-top: 1px solid var(--line);
+	}
+	.mega-foot strong {
+		color: var(--coral-text);
+	}
+	.mega-panel .mega-foot:hover {
+		background: var(--coral-soft);
+	}
+
+	/* Phones and tablets: the nav folds behind the Menu button */
+	@media (max-width: 899px) {
+		header.js .site-nav {
 			display: none;
-		}
-		header.js.open .icon-close {
-			display: block;
-		}
-		header.js .internal-links {
 			flex-basis: 100%;
+			padding-bottom: 0.75em;
+		}
+		header.js.open .site-nav {
+			display: block;
+		}
+		header.js .nav-list {
+			display: block;
+		}
+		header.js .nav-top {
+			padding: 0.75em 0.25em;
+			border-bottom: 0;
+		}
+		header.js .nav-top[aria-current='page'] {
+			color: var(--coral-text);
+		}
+	}
+	/* Small phones: shrink the logo so it and the Menu button share a row */
+	@media (max-width: 26rem) {
+		.logo img {
+			width: 170px;
+			height: auto;
+		}
+		header.js .nav-toggle {
+			padding: 0 0.7em;
+		}
+	}
+
+	/* Desktop: panels drop below the header, centered on the page */
+	@media (min-width: 900px) {
+		header.js .nav-toggle {
 			display: none;
 		}
-		header.js.open .internal-links {
-			display: flex;
-			flex-direction: column;
-			padding-bottom: 0.5em;
+		header.js .mega-btn {
+			width: auto;
+			padding: 1em 0.6em;
+			border-bottom: 3px solid transparent;
 		}
-		header.js.open .internal-links a {
-			display: block;
-			padding: 0.75em 0.25em;
-			border-bottom: 1px solid rgb(var(--gray-light));
+		header.js .mega-btn[data-active],
+		header.js .mega-btn[aria-expanded='true'] {
+			border-bottom-color: var(--coral);
 		}
-		header.js.open .internal-links a.active {
-			border-bottom-color: var(--accent);
+		header.js .mega-btn[aria-expanded='true'] {
+			color: var(--ink);
 		}
-		header.js.open .internal-links a:last-child {
-			border-bottom-color: transparent;
+		.mega-panel {
+			position: absolute;
+			top: calc(100% + 3px);
+			left: 50%;
+			z-index: 40;
+			width: min(1100px, calc(100vw - 2rem));
+			margin: 0;
+			transform: translateX(-50%);
+			box-shadow: 0 18px 40px rgba(var(--black), 18%);
 		}
-		header.js.open .internal-links a.active:last-child {
-			border-bottom-color: var(--accent);
+		.mega-body {
+			padding: 1.5em 2em;
+		}
+		.mega-cols {
+			grid-template-columns: repeat(3, minmax(0, 1fr)) minmax(15rem, 1fr);
+			gap: 0;
+		}
+		.mega-col {
+			margin-right: 1em;
+			padding-right: 1em;
+			border-right: 1px solid var(--line);
+		}
+		.mega-panel .mega-foot {
+			padding: 1em 2em;
 		}
 	}
 </style>

@@ -995,3 +995,15 @@ fluid is still out: 4 oz "Currently unavailable", 12 oz `B002CENQPS` third-party
 buy box. Anchors changed where they implied a standalone can: gift guide add-on row, the
 best-sellers fluid row and the refill guide's supplies list. If `B071LFFN5V` comes back in
 stock, consider switching the generic "lighter fluid" links back. Build passes, 50 pages.
+
+### 2026-11-04 — Header mega menu
+**Branch `menu-2026-11-04`.** Batu asked for a menu like meister-mit-ki.de. The header
+now has three dropdown panels (Flashlights, Lighters, Safety & How-To) plus a Brands link,
+modelled on Meister's `MegaNav.astro`: a "Start here" guide, three columns of guides (short
+label + the post's own description), a side box and a footer link to the category page.
+Hover or click on desktop, Escape or an outside click closes; phones get a "Menu" button
+with an accordion. Menu entries live in `src/components/Header.astro`; the build fails if
+one points at a missing post. The header stays white (the logo is dark text) and uses the
+logo coral `#f0715a` as the accent, with `#b8432f` for coral text. Side-box points only
+repeat claims already on the site (About page, Zippo guides, power-outage guide).
+`HeaderLink.astro` removed (unused); `Icon.astro` holds the Lucide icons.
