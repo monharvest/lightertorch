@@ -1038,3 +1038,15 @@ session from here.
   The original file stays for any outside links.
 - **"Latest guides" takes at most 2 posts per topic**, so recent Zippo posts can't fill the row.
 - Draw Things CLI (Krea 2 Turbo) only produced noise locally; see the prompts file.
+
+### 2026-11-05 — Thursday session: TSA lighter post for holiday travel
+**Branch `session-2026-11-05` (local, not pushed).** Dashboard (GSC 28d to Nov 2): 14 clicks,
+2,669 impressions, avg position 28.5. Top next action from Bing: `/can-you-bring-a-lighter-on-a-plane/`
+ranks 6.1 with 989 impressions but only 3 clicks, so this pass is title/meta plus a holiday angle.
+- Title now "Can You Bring a Lighter on a Plane? Zippo, BIC & Torch (TSA 2026)"; new
+  description leads with the yes; `updatedDate` 2026-11-05.
+- New section "Flying Home With a Lighter as a Gift": a never-filled Zippo is allowed in checked
+  bags (TSA lighter page, updated Jul 14, 2026); lighter fluid is banned from both bags (TSA
+  lighter-fluid page), so gift sets with a fluid can don't fly. Links to the gift guide (which
+  already links back). New FAQ: new Zippo in checked luggage.
+- Build passes, 50 pages.

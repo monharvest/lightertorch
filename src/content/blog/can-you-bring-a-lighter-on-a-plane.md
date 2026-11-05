@@ -1,8 +1,8 @@
 ---
-title: "Can You Bring a Lighter on a Plane? TSA & FAA Rules (2026)"
-description: "TSA rules for lighters and flashlights: one disposable or Zippo in carry-on is fine, torch lighters are banned, spare lithium batteries fly in the cabin."
+title: "Can You Bring a Lighter on a Plane? Zippo, BIC & Torch (TSA 2026)"
+description: "Yes: one BIC or Zippo in your pocket or carry-on. Torch lighters and lighter fluid are banned. Checked-bag rules, arc lighters, Zippo gifts and batteries."
 pubDate: '2026-08-01'
-updatedDate: '2026-09-27'
+updatedDate: '2026-11-05'
 heroImage: '/uploads/2026/08/lighter-flashlight-airport-security-tray.webp'
 categories: ['Safety Tips', 'How-to Guides']
 tags: ['TSA rules', 'travel', 'lighters on planes', 'flashlight batteries', 'airport security']
@@ -51,6 +51,12 @@ One practical tip: lock your flashlight or remove a battery before flying. A hig
 
 Big "tactical" flashlights with aggressive strike bezels occasionally get extra scrutiny at the checkpoint. They're not prohibited, but if a screener judges one to be a club-like weapon, it may need to go in checked baggage (with no spare batteries inside, per rule 2).
 
+## Flying Home With a Lighter as a Gift
+
+Holiday travel is when most people run into these rules, often with a gift in the bag. A **new, never-filled Zippo** is the easy case: [TSA allows Zippo and disposable lighters without fuel in checked bags](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lighters-disposable-and-zippo), and it can also ride in your carry-on as your one lighter. Keep it unfilled until it arrives, and leave it in its box so the screener can see it's unused.
+
+The catch is the extras. Lighter fluid is [banned from both carry-on and checked bags](https://www.tsa.gov/travel/security-screening/whatcanibring/items/lighter-fluid), so a gift set that includes a can of fluid can't fly with you, and neither can a butane refill. Pack only the lighter, and have the fluid shipped straight to the recipient or bought after you land. Our [Zippo gift guide](/zippo-gift-guide/) lists which add-ons travel well.
+
 ## International Flights
 
 The table above is TSA (US domestic and departures). Most countries follow similar ICAO-based rules — one lighter on person, no fuel, spare batteries in cabin — but some are stricter: several Asian airports confiscate **all** lighters from cabin baggage, and flights departing or connecting through mainland China ban lighters and matches entirely — on your person, in carry-on and in checked bags, under [CAAC rules as EVA Air summarizes them](https://www.evaair.com/en-us/fly-prepare/baggage/additional-baggage-information/special-rules-for-different-airports/). Check your airline and departure airport before flying internationally with any lighter.
@@ -64,6 +70,8 @@ The table above is TSA (US domestic and departures). Most countries follow simil
 **Do power banks count as spare batteries?** Yes — carry-on only, under 100Wh, terminals protected. That includes the power bank feature on some larger camping torches.
 
 **Can I take my headlamp?** Yes, same rules as flashlights: the device can fly anywhere, spare cells go in the cabin.
+
+**Can I pack a new Zippo in checked luggage?** Yes, as long as it has never been filled. TSA allows lighters without fuel in checked bags; once there's fluid in it, it needs a DOT-approved case to go in the hold.
 
 **What happens if TSA finds a banned item?** You'll be offered the usual options: return it to your car, hand it to a non-flying companion, mail it (at some airports), or surrender it. Torch lighters and fuel cans are surrendered at the checkpoint every day — cheaper to leave them home.
 
