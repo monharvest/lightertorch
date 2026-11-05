@@ -1050,3 +1050,9 @@ ranks 6.1 with 989 impressions but only 3 clicks, so this pass is title/meta plu
   lighter-fluid page), so gift sets with a fluid can don't fly. Links to the gift guide (which
   already links back). New FAQ: new Zippo in checked luggage.
 - Build passes, 50 pages.
+- Holiday pages stock check (Amazon US, box browser, 2026-11-05): all 13 /dp/ picks on the gift
+  guide and roundup buyable. Low stock: Zippo Red Border `B001E5FLWW` (5 left), Zippo Armor brass
+  `B0007RX59O` (9 left). PD36R ACE `B0FQLGPBRH` and EDC31 `B0DSCGY287` are sold by Lumen Tactical
+  (third party). Zippo 4 oz fluid `B071LFFN5V` is buyable again, but only from a third-party seller,
+  so the gift-set swap stays for now.
+- Ubersuggest signed out in the box browser; no keyword check this session (no new draft).
